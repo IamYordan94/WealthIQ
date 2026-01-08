@@ -1,0 +1,31 @@
+═══════════════════════════════════════════════════════════
+   INTIMACY ACADEMY - EXPO CONNECTION INFO
+═══════════════════════════════════════════════════════════
+
+✅ EXPO SERVER IS RUNNING!
+
+📱 CONNECT YOUR PHONE NOW:
+
+1. Open Expo Go app on your phone
+2. Tap "Enter URL manually"
+3. Type EXACTLY:
+
+   exp://192.168.0.3:8081
+
+4. Press "Connect"
+
+═══════════════════════════════════════════════════════════
+
+If that doesn't work, try these alternatives:
+
+   exp://192.168.0.3:8082
+   exp://192.168.0.3:8083
+
+═══════════════════════════════════════════════════════════
+
+TROUBLESHOOTING:
+- Make sure your phone is on the same WiFi as your computer
+- Make sure Expo Go is installed on your phone
+- The Expo server is running in the background
+
+═══════════════════════════════════════════════════════════
