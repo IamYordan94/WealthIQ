@@ -1,0 +1,27 @@
+[
+  {
+    "id": "basics",
+    "title": "Health & Wellness Basics",
+    "order": 1
+  },
+  {
+    "id": "nutrition-fundamentals",
+    "title": "Nutrition Fundamentals",
+    "order": 2
+  },
+  {
+    "id": "fitness-movement",
+    "title": "Fitness & Movement",
+    "order": 3
+  },
+  {
+    "id": "mental-wellbeing",
+    "title": "Mental Wellbeing",
+    "order": 4
+  },
+  {
+    "id": "advanced-optimization",
+    "title": "Advanced Health Optimization",
+    "order": 5
+  }
+]
