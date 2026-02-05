@@ -1,0 +1,22 @@
+[
+  {
+    "id": "career-foundations",
+    "title": "Career Foundations",
+    "order": 1
+  },
+  {
+    "id": "networking-relationships",
+    "title": "Networking & Relationships",
+    "order": 2
+  },
+  {
+    "id": "skills-development",
+    "title": "Skills Development",
+    "order": 3
+  },
+  {
+    "id": "advancement-strategies",
+    "title": "Advancement Strategies",
+    "order": 4
+  }
+]

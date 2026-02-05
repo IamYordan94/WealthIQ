@@ -1,0 +1,22 @@
+[
+  {
+    "id": "productivity-foundations",
+    "title": "Productivity Foundations",
+    "order": 1
+  },
+  {
+    "id": "time-management",
+    "title": "Time Management",
+    "order": 2
+  },
+  {
+    "id": "focus-deep-work",
+    "title": "Focus & Deep Work",
+    "order": 3
+  },
+  {
+    "id": "habits-systems",
+    "title": "Habits & Systems",
+    "order": 4
+  }
+]

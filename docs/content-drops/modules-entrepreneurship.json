@@ -1,0 +1,22 @@
+[
+  {
+    "id": "entrepreneurship-basics",
+    "title": "Entrepreneurship Basics",
+    "order": 1
+  },
+  {
+    "id": "idea-validation",
+    "title": "Idea & Validation",
+    "order": 2
+  },
+  {
+    "id": "launch-growth",
+    "title": "Launch & Growth",
+    "order": 3
+  },
+  {
+    "id": "scaling-business",
+    "title": "Scaling Your Business",
+    "order": 4
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "resilience-basics",
+    "title": "Resilience Basics",
+    "order": 1
+  },
+  {
+    "id": "stress-management",
+    "title": "Stress Management",
+    "order": 2
+  },
+  {
+    "id": "emotional-intelligence",
+    "title": "Emotional Intelligence",
+    "order": 3
+  },
+  {
+    "id": "advanced-resilience",
+    "title": "Advanced Resilience",
+    "order": 4
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "real-estate-basics",
+    "title": "Real Estate Basics",
+    "order": 1
+  },
+  {
+    "id": "property-evaluation",
+    "title": "Property Evaluation",
+    "order": 2
+  },
+  {
+    "id": "financing-management",
+    "title": "Financing & Management",
+    "order": 3
+  },
+  {
+    "id": "scaling-portfolio",
+    "title": "Scaling Your Portfolio",
+    "order": 4
+  }
+]

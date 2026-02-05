@@ -1,0 +1,22 @@
+[
+  {
+    "id": "investing-basics",
+    "title": "Investing Basics",
+    "order": 1
+  },
+  {
+    "id": "stocks-bonds",
+    "title": "Stocks & Bonds",
+    "order": 2
+  },
+  {
+    "id": "portfolio-strategy",
+    "title": "Portfolio Strategy",
+    "order": 3
+  },
+  {
+    "id": "advanced-investing",
+    "title": "Advanced Investing",
+    "order": 4
+  }
+]

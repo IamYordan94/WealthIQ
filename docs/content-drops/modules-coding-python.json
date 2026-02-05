@@ -1,0 +1,22 @@
+[
+  {
+    "id": "python-basics",
+    "title": "Python Basics",
+    "order": 1
+  },
+  {
+    "id": "control-structures",
+    "title": "Control Structures",
+    "order": 2
+  },
+  {
+    "id": "data-structures",
+    "title": "Data Structures",
+    "order": 3
+  },
+  {
+    "id": "projects-practice",
+    "title": "Projects & Practice",
+    "order": 4
+  }
+]

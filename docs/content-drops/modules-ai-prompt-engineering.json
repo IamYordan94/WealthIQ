@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ai-fundamentals",
+    "title": "AI Fundamentals",
+    "order": 1
+  },
+  {
+    "id": "prompt-basics",
+    "title": "Prompt Basics",
+    "order": 2
+  },
+  {
+    "id": "advanced-prompting",
+    "title": "Advanced Prompting",
+    "order": 3
+  },
+  {
+    "id": "ai-workflows",
+    "title": "AI Workflows",
+    "order": 4
+  }
+]

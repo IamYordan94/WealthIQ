@@ -1,0 +1,22 @@
+[
+  {
+    "id": "marketing-basics",
+    "title": "Marketing Basics",
+    "order": 1
+  },
+  {
+    "id": "content-seo",
+    "title": "Content & SEO",
+    "order": 2
+  },
+  {
+    "id": "social-media",
+    "title": "Social Media Marketing",
+    "order": 3
+  },
+  {
+    "id": "analytics-optimization",
+    "title": "Analytics & Optimization",
+    "order": 4
+  }
+]

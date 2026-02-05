@@ -1,0 +1,22 @@
+[
+  {
+    "id": "content-basics",
+    "title": "Content Basics",
+    "order": 1
+  },
+  {
+    "id": "writing-storytelling",
+    "title": "Writing & Storytelling",
+    "order": 2
+  },
+  {
+    "id": "video-audio",
+    "title": "Video & Audio Content",
+    "order": 3
+  },
+  {
+    "id": "distribution-growth",
+    "title": "Distribution & Growth",
+    "order": 4
+  }
+]
