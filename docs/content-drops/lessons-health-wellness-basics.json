@@ -1,0 +1,268 @@
+[
+  {
+    "id": "sleep-fundamentals",
+    "title": "Sleep Fundamentals",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Sleep is the foundation of health, affecting everything from cognitive function to immune system strength. Quality sleep allows your body to repair tissue, consolidate memories, and regulate hormones that control hunger, stress, and mood."
+        },
+        {
+          "type": "list",
+          "title": "Why sleep matters",
+          "items": [
+            "Enhances memory and learning capacity",
+            "Strengthens immune system function",
+            "Regulates appetite and metabolism",
+            "Reduces risk of chronic diseases",
+            "Improves emotional regulation and mental health"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Most adults need 7-9 hours of sleep per night for optimal health. Sleep quality matters as much as quantity—deep and REM sleep stages are essential for physical and mental restoration."
+        },
+        {
+          "type": "list",
+          "title": "Keys to better sleep",
+          "items": [
+            "Maintain a consistent sleep schedule, even on weekends",
+            "Create a dark, cool, and quiet sleeping environment",
+            "Limit screen exposure 1-2 hours before bed",
+            "Avoid caffeine after 2 PM",
+            "Exercise regularly, but not within 3 hours of bedtime"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How many hours of sleep do most adults need per night?",
+          "options": ["5-6 hours", "7-9 hours", "10-12 hours"],
+          "correctIndex": 1,
+          "explanation": "Most adults need 7-9 hours of sleep for optimal physical and mental health."
+        },
+        {
+          "question": "What is one key factor for improving sleep quality?",
+          "options": ["Exercising right before bed", "Drinking coffee in the evening", "Maintaining a consistent sleep schedule"],
+          "correctIndex": 2,
+          "explanation": "Keeping a consistent sleep schedule helps regulate your body's circadian rhythm, improving sleep quality."
+        }
+      ]
+    }
+  },
+  {
+    "id": "hydration-basics",
+    "title": "The Power of Hydration",
+    "duration": "6 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Water makes up about 60% of your body weight and plays a vital role in nearly every bodily function. Proper hydration supports digestion, nutrient absorption, temperature regulation, joint lubrication, and cognitive performance."
+        },
+        {
+          "type": "list",
+          "title": "Signs of dehydration",
+          "items": [
+            "Dark yellow urine",
+            "Fatigue and low energy",
+            "Headaches",
+            "Difficulty concentrating",
+            "Dry skin and lips"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "General guidelines suggest 8-10 cups (2-2.5 liters) of water daily, but individual needs vary based on activity level, climate, and body size. A simple rule: drink enough so your urine is pale yellow."
+        },
+        {
+          "type": "list",
+          "title": "Hydration strategies",
+          "items": [
+            "Start your day with a glass of water",
+            "Carry a reusable water bottle",
+            "Drink water before, during, and after exercise",
+            "Eat water-rich foods like fruits and vegetables",
+            "Set reminders if you forget to drink regularly"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What percentage of your body weight is water?",
+          "options": ["About 30%", "About 60%", "About 90%"],
+          "correctIndex": 1,
+          "explanation": "Water makes up approximately 60% of your body weight and is essential for all bodily functions."
+        },
+        {
+          "question": "What color should your urine be if you're well-hydrated?",
+          "options": ["Dark yellow", "Pale yellow", "Completely clear"],
+          "correctIndex": 1,
+          "explanation": "Pale yellow urine indicates good hydration, while dark yellow suggests you need more water."
+        }
+      ]
+    }
+  },
+  {
+    "id": "stress-management-intro",
+    "title": "Understanding Stress",
+    "duration": "7 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Stress is your body's natural response to challenges and demands. While short-term stress can be motivating, chronic stress negatively impacts both physical and mental health, contributing to conditions like heart disease, anxiety, and weakened immunity."
+        },
+        {
+          "type": "list",
+          "title": "Common stress symptoms",
+          "items": [
+            "Physical: headaches, muscle tension, fatigue",
+            "Emotional: irritability, anxiety, feeling overwhelmed",
+            "Behavioral: changes in appetite, sleep problems, social withdrawal",
+            "Cognitive: difficulty concentrating, racing thoughts, constant worry"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Managing stress effectively requires a multi-faceted approach. The key is developing a toolkit of strategies that work for you and practicing them consistently, not just when stress peaks."
+        },
+        {
+          "type": "list",
+          "title": "Effective stress management techniques",
+          "items": [
+            "Practice deep breathing exercises daily",
+            "Engage in regular physical activity",
+            "Set boundaries and learn to say no",
+            "Connect with supportive friends and family",
+            "Make time for hobbies and activities you enjoy",
+            "Consider meditation or mindfulness practices"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which of these is NOT a common symptom of chronic stress?",
+          "options": ["Headaches and muscle tension", "Improved concentration", "Changes in appetite"],
+          "correctIndex": 1,
+          "explanation": "Chronic stress typically impairs concentration rather than improving it. Difficulty focusing is a common cognitive symptom of stress."
+        },
+        {
+          "question": "What is the best approach to managing stress?",
+          "options": ["Wait until you feel overwhelmed to take action", "Develop a consistent toolkit of stress management strategies", "Ignore stress and hope it goes away"],
+          "correctIndex": 1,
+          "explanation": "Effective stress management requires consistent practice of multiple strategies, not waiting until stress becomes overwhelming."
+        }
+      ]
+    }
+  },
+  {
+    "id": "movement-basics",
+    "title": "Introduction to Movement",
+    "duration": "7 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Regular physical movement is one of the most powerful tools for improving overall health. Exercise strengthens your cardiovascular system, builds muscle and bone density, improves mood through endorphin release, and enhances longevity."
+        },
+        {
+          "type": "list",
+          "title": "Benefits of regular movement",
+          "items": [
+            "Reduces risk of heart disease, diabetes, and some cancers",
+            "Improves mental health and reduces symptoms of depression",
+            "Enhances cognitive function and memory",
+            "Increases energy levels throughout the day",
+            "Promotes better sleep quality",
+            "Supports healthy weight management"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The World Health Organization recommends at least 150 minutes of moderate-intensity aerobic activity per week, plus muscle-strengthening activities twice weekly. The good news: you can break this into smaller chunks throughout your day."
+        },
+        {
+          "type": "list",
+          "title": "Getting started with movement",
+          "items": [
+            "Start small: even 10-minute walks count",
+            "Choose activities you enjoy to build consistency",
+            "Mix cardio, strength training, and flexibility work",
+            "Schedule movement like any important appointment",
+            "Build gradually to avoid injury and burnout",
+            "Find an accountability partner or join a group"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How many minutes of moderate-intensity aerobic activity does WHO recommend per week?",
+          "options": ["60 minutes", "150 minutes", "300 minutes"],
+          "correctIndex": 1,
+          "explanation": "The WHO recommends at least 150 minutes (2.5 hours) of moderate-intensity aerobic activity weekly for adults."
+        },
+        {
+          "question": "What is a key strategy for building a sustainable movement practice?",
+          "options": ["Start with intense workouts immediately", "Choose activities you enjoy", "Exercise only when you feel motivated"],
+          "correctIndex": 1,
+          "explanation": "Choosing enjoyable activities increases adherence and makes movement sustainable long-term."
+        }
+      ]
+    }
+  },
+  {
+    "id": "nutrition-overview",
+    "title": "Nutrition Overview",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Nutrition is the cornerstone of health, providing the energy and nutrients your body needs to function optimally. What you eat affects your energy levels, disease risk, mood, cognitive performance, and longevity."
+        },
+        {
+          "type": "list",
+          "title": "Macronutrients explained",
+          "items": [
+            "Carbohydrates: primary energy source (whole grains, fruits, vegetables)",
+            "Proteins: building blocks for muscles, tissues, enzymes (lean meats, fish, legumes, nuts)",
+            "Fats: essential for hormone production and nutrient absorption (avocados, olive oil, fatty fish)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Micronutrients—vitamins and minerals—play crucial roles in immune function, bone health, and disease prevention. A varied, colorful diet rich in whole foods typically provides all the micronutrients you need."
+        },
+        {
+          "type": "list",
+          "title": "Principles of healthy eating",
+          "items": [
+            "Prioritize whole, minimally processed foods",
+            "Eat a variety of colorful fruits and vegetables",
+            "Include lean proteins with each meal",
+            "Choose whole grains over refined grains",
+            "Limit added sugars and highly processed foods",
+            "Practice mindful eating and pay attention to hunger cues"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which macronutrient is the primary energy source for your body?",
+          "options": ["Protein", "Carbohydrates", "Fats"],
+          "correctIndex": 1,
+          "explanation": "Carbohydrates are the body's primary and most efficient source of energy, especially for brain and muscle function."
+        },
+        {
+          "question": "What is a key principle of healthy eating?",
+          "options": ["Eliminate all fats from your diet", "Focus on whole, minimally processed foods", "Only eat one type of food group"],
+          "correctIndex": 1,
+          "explanation": "Prioritizing whole, minimally processed foods ensures you get essential nutrients while avoiding excess additives and empty calories."
+        }
+      ]
+    }
+  }
+]
