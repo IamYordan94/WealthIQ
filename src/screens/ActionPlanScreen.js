@@ -1,7 +1,7 @@
-import { View, Text, StyleSheet, TouchableOpacity, ScrollView, SafeAreaView } from 'react-native';
-import { useState, useEffect } from 'react';
+import { View, Text, StyleSheet, TouchableOpacity, ScrollView, SafeAreaView, Animated, Alert } from 'react-native';
+import { useState, useEffect, useRef } from 'react';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import { colors, spacing, borderRadius, typography, shadows } from '../theme';
+import { colors, spacing, borderRadius, typography, shadows, glass } from '../theme';
 
 const ACTION_BANK = {
     beginner: [
@@ -39,13 +39,20 @@ const ACTION_BANK = {
 
 export default function ActionPlanScreen({ navigation }) {
     const [actions, setActions] = useState([]);
+    const [completedActions, setCompletedActions] = useState([]);
     const [loading, setLoading] = useState(true);
+    const fadeAnim = useRef(new Animated.Value(0)).current;
 
     useEffect(() => {
-        generatePlan();
+        loadActions();
+        Animated.timing(fadeAnim, {
+            toValue: 1,
+            duration: 600,
+            useNativeDriver: true,
+        }).start();
     }, []);
 
-    const generatePlan = async () => {
+    const loadActions = async () => {
         try {
             const userDataStr = await AsyncStorage.getItem('userData');
             if (userDataStr) {
@@ -57,14 +64,14 @@ export default function ActionPlanScreen({ navigation }) {
                     selectedActions = [...ACTION_BANK[userData.experience]];
                 }
 
-                // Add based on situation (yourAnatomy)
-                if (userData.yourAnatomy && ACTION_BANK[userData.yourAnatomy]) {
-                    selectedActions = [...selectedActions, ...ACTION_BANK[userData.yourAnatomy]];
+                // Add based on situation
+                if (userData.situation && ACTION_BANK[userData.situation]) {
+                    selectedActions = [...selectedActions, ...ACTION_BANK[userData.situation]];
                 }
 
-                // Add based on goals (partnerAnatomy)
-                if (userData.partnerAnatomy) {
-                    userData.partnerAnatomy.forEach(goal => {
+                // Add based on goals
+                if (userData.goals) {
+                    userData.goals.forEach(goal => {
                         if (ACTION_BANK[goal]) {
                             selectedActions = [...selectedActions, ...ACTION_BANK[goal]];
                         }
@@ -77,8 +84,35 @@ export default function ActionPlanScreen({ navigation }) {
             }
         } catch (error) {
             console.error('Error generating action plan:', error);
+            Alert.alert(
+                'Error Loading Actions',
+                'We couldn\'t load your personalized action plan. Please try again.',
+                [{ text: 'OK' }]
+            );
         } finally {
             setLoading(false);
+        }
+    };
+
+    const markAsDone = async (action) => {
+        // Show celebration alert
+        Alert.alert('🎉 Great job!', 'Keep the momentum going!', [{ text: 'OK' }]);
+
+        // Move to completed
+        setCompletedActions([...completedActions, action]);
+        setActions(actions.filter(a => a.id !== action.id));
+
+        // Save to AsyncStorage
+        try {
+            const completed = [...completedActions, action];
+            await AsyncStorage.setItem('completedActions', JSON.stringify(completed));
+        } catch (error) {
+            console.error('Error saving completed action:', error);
+            Alert.alert(
+                'Save Error',
+                'We couldn\'t save your progress. Your completion was recorded for this session only.',
+                [{ text: 'OK' }]
+            );
         }
     };
 
@@ -91,39 +125,57 @@ export default function ActionPlanScreen({ navigation }) {
                 <Text style={styles.title}>Personalized Action Plan</Text>
             </View>
 
-            <ScrollView style={styles.scrollView} contentContainerStyle={styles.scrollContent}>
-                <View style={styles.heroSection}>
-                    <Text style={styles.heroEmoji}>🎯</Text>
-                    <Text style={styles.heroTitle}>Your Next Steps</Text>
-                    <Text style={styles.heroSubtitle}>Small actions today lead to big wealth tomorrow.</Text>
-                </View>
-
-                {actions.map((action, index) => (
-                    <View key={action.id} style={styles.actionCard}>
-                        <View style={styles.actionHeader}>
-                            <View style={styles.iconContainer}>
-                                <Text style={styles.actionIcon}>{action.icon}</Text>
-                            </View>
-                            <View style={styles.actionInfo}>
-                                <Text style={styles.actionTitle}>{action.title}</Text>
-                                <Text style={styles.actionDesc}>{action.desc}</Text>
-                            </View>
-                        </View>
-                        <TouchableOpacity
-                            style={styles.completeButton}
-                            onPress={() => {
-                                // For now just visual feedback
-                                alert('Great job! Keep the momentum going.');
-                            }}
-                        >
-                            <Text style={styles.completeButtonText}>I've done this</Text>
-                        </TouchableOpacity>
+            <ScrollView contentContainerStyle={styles.scrollContent}>
+                <Animated.View style={{ opacity: fadeAnim }}>
+                    <View style={styles.heroSection}>
+                        <Text style={styles.heroEmoji}>🎯</Text>
+                        <Text style={styles.heroTitle}>Your Next Steps</Text>
+                        <Text style={styles.heroSubtitle}>Small actions today lead to big wealth tomorrow.</Text>
                     </View>
-                ))}
 
-                <TouchableOpacity style={styles.refreshButton} onPress={generatePlan}>
-                    <Text style={styles.refreshButtonText}>Generate New Tasks</Text>
-                </TouchableOpacity>
+                    {actions.map((action, index) => (
+                        <View key={action.id} style={styles.actionCard}>
+                            <View style={styles.actionHeader}>
+                                <View style={styles.iconContainer}>
+                                    <Text style={styles.actionIcon}>{action.icon}</Text>
+                                </View>
+                                <View style={styles.actionInfo}>
+                                    <Text style={styles.actionTitle}>{action.title}</Text>
+                                    <Text style={styles.actionDesc}>{action.desc}</Text>
+                                </View>
+                            </View>
+                            <TouchableOpacity
+                                style={styles.completeButton}
+                                onPress={() => markAsDone(action)}
+                            >
+                                <Text style={styles.completeButtonText}>I've done this</Text>
+                            </TouchableOpacity>
+                        </View>
+                    ))}
+
+                    {completedActions.length > 0 && (
+                        <>
+                            <Text style={styles.sectionTitle}>✅ Completed Steps</Text>
+                            {completedActions.map((action) => (
+                                <View key={action.id} style={[styles.actionCard, styles.completedCard]}>
+                                    <View style={styles.actionHeader}>
+                                        <View style={styles.iconContainer}>
+                                            <Text style={styles.actionIcon}>{action.icon}</Text>
+                                        </View>
+                                        <View style={styles.actionInfo}>
+                                            <Text style={[styles.actionTitle, styles.completedText]}>{action.title}</Text>
+                                            <Text style={[styles.actionDesc, styles.completedText]}>{action.desc}</Text>
+                                        </View>
+                                    </View>
+                                </View>
+                            ))}
+                        </>
+                    )}
+
+                    <TouchableOpacity style={styles.refreshButton} onPress={loadActions}>
+                        <Text style={styles.refreshButtonText}>Generate New Tasks</Text>
+                    </TouchableOpacity>
+                </Animated.View>
             </ScrollView>
         </SafeAreaView>
     );
@@ -183,11 +235,10 @@ const styles = StyleSheet.create({
         textAlign: 'center',
     },
     actionCard: {
-        backgroundColor: colors.bgCard,
+        ...glass.card,
         borderRadius: borderRadius.xl,
         padding: spacing.lg,
         marginBottom: spacing.md,
-        ...shadows.md,
     },
     actionHeader: {
         flexDirection: 'row',
@@ -218,7 +269,7 @@ const styles = StyleSheet.create({
         color: colors.textSecondary,
     },
     completeButton: {
-        backgroundColor: colors.primary + '22',
+        backgroundColor: colors.bgCardHover,
         borderWidth: 1,
         borderColor: colors.primary,
         borderRadius: borderRadius.md,
@@ -239,5 +290,18 @@ const styles = StyleSheet.create({
         ...typography.bodySmall,
         color: colors.textMuted,
         textDecorationLine: 'underline',
+    },
+    completedCard: {
+        opacity: 0.6,
+    },
+    completedText: {
+        textDecorationLine: 'line-through',
+        opacity: 0.7,
+    },
+    sectionTitle: {
+        ...typography.h3,
+        color: colors.textPrimary,
+        marginTop: spacing.xl,
+        marginBottom: spacing.md,
     }
 });

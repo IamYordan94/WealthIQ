@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
     },
     text: {
         fontSize: 32,
-        fontWeight: '700',
+        fontWeight: 'bold',
         color: '#10b981',
         marginBottom: 10,
     },

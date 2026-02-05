@@ -1,0 +1,23 @@
+    refreshButtonText: {
+        ...typography.bodySmall,
+        color: colors.textMuted,
+        textDecorationLine: 'underline',
+    },
+    sectionTitle: {
+        fontSize: 18,
+        fontWeight: 'bold',
+        color: colors.textPrimary,
+        marginTop: spacing.xl,
+        marginBottom: spacing.md,
+        marginHorizontal: spacing.lg,
+    },
+    completedCard: {
+        opacity: 0.6,
+        borderColor: colors.primary,
+        borderWidth: 1,
+    },
+    completedText: {
+        textDecorationLine: 'line-through',
+        opacity: 0.7,
+    },
+});

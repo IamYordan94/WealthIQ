@@ -1,11 +1,91 @@
-import { View, Text, StyleSheet, TouchableOpacity, ScrollView, SafeAreaView } from 'react-native';
-import { colors, spacing, borderRadius, typography, shadows } from '../theme';
+import { View, Text, StyleSheet, TouchableOpacity, ScrollView, SafeAreaView, ActivityIndicator, Alert } from 'react-native';
+import { useState, useEffect } from 'react';
+import { colors, spacing, borderRadius, typography, shadows, glass } from '../theme';
+import BillingService from '../services/BillingService';
 
 export default function PremiumScreen({ navigation }) {
-    const handleSubscribe = () => {
-        // TODO: Integrate RevenueCat
-        alert('Subscription coming soon! RevenueCat integration needed.');
+    const [loading, setLoading] = useState(false);
+    const [product, setProduct] = useState(null);
+
+    useEffect(() => {
+        initializeBilling();
+        return () => {
+            BillingService.cleanup();
+        };
+    }, []);
+
+    const initializeBilling = async () => {
+        setLoading(true);
+        const initialized = await BillingService.initialize();
+
+        if (initialized) {
+            const productDetails = await BillingService.getProduct();
+            setProduct(productDetails);
+        }
+
+        setLoading(false);
     };
+
+    const handlePurchase = async () => {
+        setLoading(true);
+
+        const result = await BillingService.purchaseFullUnlock();
+
+        if (result.success) {
+            Alert.alert(
+                '🎉 Success!',
+                'You now have lifetime access to all WealthIQ content!',
+                [
+                    {
+                        text: 'Start Learning',
+                        onPress: () => {
+                            // Force refresh Home screen to show unlocked content
+                            navigation.replace('Home');
+                        }
+                    }
+                ]
+            );
+        } else if (result.cancelled) {
+            // User cancelled, do nothing
+        } else {
+            Alert.alert(
+                'Purchase Failed',
+                result.error || 'Something went wrong. Please try again.',
+                [{ text: 'OK' }]
+            );
+        }
+
+        setLoading(false);
+    };
+
+    const handleRestorePurchases = async () => {
+        setLoading(true);
+
+        const result = await BillingService.restorePurchases();
+
+        if (result.success) {
+            Alert.alert(
+                '✅ Restored!',
+                'Your purchase has been restored. You now have access to all premium content!',
+                [
+                    {
+                        text: 'Continue',
+                        onPress: () => navigation.replace('Home')
+                    }
+                ]
+            );
+        } else {
+            Alert.alert(
+                'No Purchases Found',
+                'We couldn\'t find any previous purchases to restore. If you believe this is an error, please contact support.',
+                [{ text: 'OK' }]
+            );
+        }
+
+        setLoading(false);
+    };
+
+    const price = product?.localizedPrice || '€4.99';
 
     return (
         <SafeAreaView style={styles.container}>
@@ -16,43 +96,78 @@ export default function PremiumScreen({ navigation }) {
 
                 <View style={styles.header}>
                     <Text style={styles.crownIcon}>👑</Text>
-                    <Text style={styles.title}>Go Premium</Text>
-                    <Text style={styles.subtitle}>Unlock your full potential</Text>
+                    <Text style={styles.title}>Unlock Full Course</Text>
+                    <Text style={styles.subtitle}>One-time payment • Lifetime access</Text>
                 </View>
 
                 <View style={styles.features}>
                     <View style={styles.feature}>
                         <Text style={styles.featureIcon}>✓</Text>
-                        <Text style={styles.featureText}>All wealth lessons unlocked</Text>
+                        <Text style={styles.featureText}>All 8 wealth-building modules</Text>
                     </View>
                     <View style={styles.feature}>
                         <Text style={styles.featureIcon}>✓</Text>
-                        <Text style={styles.featureText}>Advanced investing strategies</Text>
+                        <Text style={styles.featureText}>Interactive quizzes & exercises</Text>
                     </View>
                     <View style={styles.feature}>
                         <Text style={styles.featureIcon}>✓</Text>
-                        <Text style={styles.featureText}>Track your financial progress</Text>
+                        <Text style={styles.featureText}>Personalized action plans</Text>
                     </View>
                     <View style={styles.feature}>
                         <Text style={styles.featureIcon}>✓</Text>
-                        <Text style={styles.featureText}>New content every month</Text>
+                        <Text style={styles.featureText}>Monthly financial reports</Text>
+                    </View>
+                    <View style={styles.feature}>
+                        <Text style={styles.featureIcon}>✓</Text>
+                        <Text style={styles.featureText}>Full badge collection</Text>
+                    </View>
+                    <View style={styles.feature}>
+                        <Text style={styles.featureIcon}>✓</Text>
+                        <Text style={styles.featureText}>No ads, no subscriptions</Text>
                     </View>
                 </View>
 
                 <View style={styles.pricingCard}>
-                    <View style={styles.pricingHeader}>
-                        <Text style={styles.pricingLabel}>Monthly</Text>
-                    </View>
-                    <Text style={styles.price}>€3.99</Text>
-                    <Text style={styles.priceSubtext}>per month</Text>
+                    <Text style={styles.price}>{price}</Text>
+                    <Text style={styles.priceSubtext}>one-time payment</Text>
+                    <Text style={styles.lifetimeText}>✨ Lifetime Access ✨</Text>
                 </View>
 
-                <TouchableOpacity style={styles.subscribeButton} onPress={handleSubscribe}>
-                    <Text style={styles.subscribeButtonText}>⚡ Subscribe Now</Text>
+                <TouchableOpacity
+                    style={[styles.purchaseButton, loading && styles.purchaseButtonDisabled]}
+                    onPress={handlePurchase}
+                    disabled={loading}
+                >
+                    {loading ? (
+                        <ActivityIndicator color={colors.bgDark} />
+                    ) : (
+                        <Text style={styles.purchaseButtonText}>⚡ Unlock Now</Text>
+                    )}
                 </TouchableOpacity>
 
+                <TouchableOpacity
+                    style={styles.restoreButton}
+                    onPress={handleRestorePurchases}
+                    disabled={loading}
+                >
+                    <Text style={styles.restoreButtonText}>Restore Purchases</Text>
+                </TouchableOpacity>
+
+                <View style={styles.whyUpgradeSection}>
+                    <Text style={styles.whyUpgradeTitle}>💡 Why Upgrade?</Text>
+                    <Text style={styles.whyUpgradeText}>
+                        Most financial courses cost €500-2000. WealthIQ gives you the same knowledge for a one-time payment of {price}. That's less than a single dinner out, but it could change your financial future forever.
+                    </Text>
+                    <Text style={styles.whyUpgradeText}>
+                        ✨ Learn at your own pace{'\n'}
+                        ✨ No recurring subscriptions{'\n'}
+                        ✨ Lifetime updates included{'\n'}
+                        ✨ 100% money-back guarantee
+                    </Text>
+                </View>
+
                 <Text style={styles.disclaimer}>
-                    Cancel anytime. Auto-renews monthly. Terms of Service apply.
+                    Secure payment via Google Play • No recurring charges
                 </Text>
             </ScrollView>
         </SafeAreaView>
@@ -73,7 +188,7 @@ const styles = StyleSheet.create({
         width: 40,
         height: 40,
         backgroundColor: colors.bgCard,
-        borderRadius: borderRadius.full,
+        borderRadius: 20,
         justifyContent: 'center',
         alignItems: 'center',
         marginBottom: spacing.lg,
@@ -107,7 +222,7 @@ const styles = StyleSheet.create({
     feature: {
         flexDirection: 'row',
         alignItems: 'center',
-        backgroundColor: colors.bgCard,
+        ...glass.card,
         borderRadius: borderRadius.md,
         padding: spacing.md,
         marginBottom: spacing.sm,
@@ -122,7 +237,7 @@ const styles = StyleSheet.create({
         color: colors.textPrimary,
     },
     pricingCard: {
-        backgroundColor: colors.bgCard,
+        ...glass.cardLight,
         borderRadius: borderRadius.lg,
         borderWidth: 2,
         borderColor: colors.premium,
@@ -130,19 +245,6 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         marginBottom: spacing.lg,
         alignSelf: 'stretch',
-        ...shadows.glow,
-    },
-    pricingHeader: {
-        backgroundColor: colors.premium,
-        borderRadius: borderRadius.sm,
-        paddingHorizontal: spacing.md,
-        paddingVertical: spacing.xs,
-        marginBottom: spacing.md,
-    },
-    pricingLabel: {
-        ...typography.bodySmall,
-        fontWeight: '700',
-        color: colors.bgDark,
     },
     price: {
         ...typography.h1,
@@ -153,25 +255,61 @@ const styles = StyleSheet.create({
     priceSubtext: {
         ...typography.body,
         color: colors.textMuted,
+        marginBottom: spacing.sm,
     },
-    subscribeButton: {
+    lifetimeText: {
+        ...typography.bodySmall,
+        fontWeight: 'bold',
+        color: colors.success,
+    },
+    purchaseButton: {
         backgroundColor: colors.premium,
         borderRadius: borderRadius.md,
         padding: spacing.md,
         alignItems: 'center',
         alignSelf: 'stretch',
-        marginBottom: spacing.lg,
+        marginBottom: spacing.md,
         ...shadows.md,
     },
-    subscribeButtonText: {
+    purchaseButtonDisabled: {
+        opacity: 0.6,
+    },
+    purchaseButtonText: {
         ...typography.body,
         fontSize: 18,
-        fontWeight: '700',
+        fontWeight: 'bold',
         color: colors.bgDark,
+    },
+    restoreButton: {
+        padding: spacing.sm,
+        marginBottom: spacing.lg,
+    },
+    restoreButtonText: {
+        ...typography.bodySmall,
+        color: colors.primary,
+        textDecorationLine: 'underline',
     },
     disclaimer: {
         ...typography.caption,
         color: colors.textMuted,
         textAlign: 'center',
     },
+    whyUpgradeSection: {
+        ...glass.card,
+        borderRadius: borderRadius.lg,
+        padding: spacing.lg,
+        marginBottom: spacing.lg,
+        alignSelf: 'stretch',
+    },
+    whyUpgradeTitle: {
+        ...typography.h3,
+        color: colors.textPrimary,
+        marginBottom: spacing.md,
+    },
+    whyUpgradeText: {
+        ...typography.body,
+        color: colors.textSecondary,
+        lineHeight: 24,
+        marginBottom: spacing.md,
+    }
 });

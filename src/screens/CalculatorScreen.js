@@ -1,11 +1,38 @@
-import { View, Text, StyleSheet, TouchableOpacity, ScrollView, TextInput, SafeAreaView } from 'react-native';
-import { useState, useEffect } from 'react';
-import { colors, spacing, borderRadius, typography, shadows } from '../theme';
+import { View, Text, StyleSheet, TouchableOpacity, ScrollView, TextInput, SafeAreaView, Animated } from 'react-native';
+import { useState, useEffect, useRef } from 'react';
+import { colors, spacing, borderRadius, typography, shadows, glass } from '../theme';
+
+// InputField component moved outside to prevent keyboard closing on each keystroke
+const InputField = ({ label, value, onChangeText, suffix }) => (
+    <View style={styles.inputGroup}>
+        <Text style={styles.label}>{label}</Text>
+        <View style={styles.inputWrapper}>
+            <TextInput
+                style={styles.input}
+                value={value}
+                onChangeText={onChangeText}
+                keyboardType="numeric"
+                placeholderTextColor={colors.textMuted}
+            />
+            <Text style={styles.suffix}>{suffix}</Text>
+        </View>
+    </View>
+);
 
 export default function CalculatorScreen({ navigation }) {
     const [principal, setPrincipal] = useState('1000');
     const [monthlyContribution, setMonthlyContribution] = useState('100');
     const [years, setYears] = useState('10');
+
+    const fadeAnim = useRef(new Animated.Value(0)).current;
+
+    useEffect(() => {
+        Animated.timing(fadeAnim, {
+            toValue: 1,
+            duration: 600,
+            useNativeDriver: true,
+        }).start();
+    }, []);
     const [interestRate, setInterestRate] = useState('7');
     const [result, setResult] = useState(0);
     const [totalContributions, setTotalContributions] = useState(0);
@@ -16,16 +43,27 @@ export default function CalculatorScreen({ navigation }) {
     }, [principal, monthlyContribution, years, interestRate]);
 
     const calculateCompoundInterest = () => {
+        // Validate inputs
+        if (!principal || !monthlyContribution || !years || !interestRate) {
+            Alert.alert('Missing Information', 'Please fill in all fields to calculate.');
+            return;
+        }
+
         const P = parseFloat(principal) || 0;
         const PMT = parseFloat(monthlyContribution) || 0;
         const t = parseFloat(years) || 0;
-        const r = (parseFloat(interestRate) || 0) / 100 / 12;
+        const annualRate = parseFloat(interestRate) || 0;
+        const r = annualRate / 100 / 12; // Monthly interest rate
         const n = 12; // monthly compounding
 
-        if (t <= 0) {
-            setResult(P);
-            setTotalContributions(P);
-            setTotalInterest(0);
+        // Validate numeric values
+        if (isNaN(P) || isNaN(PMT) || isNaN(t) || isNaN(annualRate) || P < 0 || PMT < 0 || annualRate < 0 || t <= 0) {
+            Alert.alert('Invalid Input', 'Please enter valid non-negative numbers for investments/rate and a positive number for years.');
+            return;
+        }
+
+        if (t > 100) {
+            Alert.alert('Invalid Years', 'Please enter a realistic time period (max 100 years).');
             return;
         }
 
@@ -42,21 +80,7 @@ export default function CalculatorScreen({ navigation }) {
         setTotalInterest((finalValue - totalSent).toFixed(2));
     };
 
-    const InputField = ({ label, value, onChangeText, suffix }) => (
-        <View style={styles.inputGroup}>
-            <Text style={styles.label}>{label}</Text>
-            <View style={styles.inputWrapper}>
-                <TextInput
-                    style={styles.input}
-                    value={value}
-                    onChangeText={onChangeText}
-                    keyboardType="numeric"
-                    placeholderTextColor={colors.textMuted}
-                />
-                <Text style={styles.suffix}>{suffix}</Text>
-            </View>
-        </View>
-    );
+
 
     return (
         <SafeAreaView style={styles.container}>
@@ -68,54 +92,56 @@ export default function CalculatorScreen({ navigation }) {
             </View>
 
             <ScrollView style={styles.scrollView} contentContainerStyle={styles.scrollContent}>
-                <View style={styles.resultCard}>
-                    <Text style={styles.resultLabel}>Future Value</Text>
-                    <Text style={styles.resultValue}>€{parseFloat(result).toLocaleString()}</Text>
+                <Animated.View style={{ opacity: fadeAnim }}>
+                    <View style={styles.resultCard}>
+                        <Text style={styles.resultLabel}>Future Value</Text>
+                        <Text style={styles.resultValue}>€{parseFloat(result).toLocaleString()}</Text>
 
-                    <View style={styles.breakdown}>
-                        <View style={styles.breakdownItem}>
-                            <View style={[styles.dot, { backgroundColor: colors.primary }]} />
-                            <Text style={styles.breakdownText}>Contributions: €{parseFloat(totalContributions).toLocaleString()}</Text>
-                        </View>
-                        <View style={styles.breakdownItem}>
-                            <View style={[styles.dot, { backgroundColor: colors.success || '#10b981' }]} />
-                            <Text style={styles.breakdownText}>Interest: €{parseFloat(totalInterest).toLocaleString()}</Text>
+                        <View style={styles.breakdown}>
+                            <View style={styles.breakdownItem}>
+                                <View style={[styles.dot, { backgroundColor: colors.primary }]} />
+                                <Text style={styles.breakdownText}>Contributions: €{parseFloat(totalContributions).toLocaleString()}</Text>
+                            </View>
+                            <View style={styles.breakdownItem}>
+                                <View style={[styles.dot, { backgroundColor: colors.success }]} />
+                                <Text style={styles.breakdownText}>Interest: €{parseFloat(totalInterest).toLocaleString()}</Text>
+                            </View>
                         </View>
                     </View>
-                </View>
 
-                <View style={styles.inputsSection}>
-                    <InputField
-                        label="Initial Investment"
-                        value={principal}
-                        onChangeText={setPrincipal}
-                        suffix="€"
-                    />
-                    <InputField
-                        label="Monthly Contribution"
-                        value={monthlyContribution}
-                        onChangeText={setMonthlyContribution}
-                        suffix="€"
-                    />
-                    <InputField
-                        label="Interest Rate (Annual)"
-                        value={interestRate}
-                        onChangeText={setInterestRate}
-                        suffix="%"
-                    />
-                    <InputField
-                        label="Time Period"
-                        value={years}
-                        onChangeText={setYears}
-                        suffix="Years"
-                    />
-                </View>
+                    <View style={styles.inputsSection}>
+                        <InputField
+                            label="Initial Investment"
+                            value={principal}
+                            onChangeText={setPrincipal}
+                            suffix="€"
+                        />
+                        <InputField
+                            label="Monthly Contribution"
+                            value={monthlyContribution}
+                            onChangeText={setMonthlyContribution}
+                            suffix="€"
+                        />
+                        <InputField
+                            label="Interest Rate (Annual)"
+                            value={interestRate}
+                            onChangeText={setInterestRate}
+                            suffix="%"
+                        />
+                        <InputField
+                            label="Time Period"
+                            value={years}
+                            onChangeText={setYears}
+                            suffix="Years"
+                        />
+                    </View>
 
-                <View style={styles.infoBox}>
-                    <Text style={styles.infoText}>
-                        💡 Compound interest is interest calculated on the initial principal, which also includes all of the accumulated interest from previous periods.
-                    </Text>
-                </View>
+                    <View style={styles.infoBox}>
+                        <Text style={styles.infoText}>
+                            💡 Compound interest is interest calculated on the initial principal, which also includes all of the accumulated interest from previous periods.
+                        </Text>
+                    </View>
+                </Animated.View>
             </ScrollView>
         </SafeAreaView>
     );
@@ -156,14 +182,11 @@ const styles = StyleSheet.create({
         padding: spacing.lg,
     },
     resultCard: {
-        backgroundColor: colors.bgCard,
+        ...glass.cardLight,
         borderRadius: borderRadius.xl,
         padding: spacing.xl,
         alignItems: 'center',
         marginBottom: spacing.xl,
-        ...shadows.md,
-        borderWidth: 1,
-        borderColor: colors.primary + '33',
     },
     resultLabel: {
         ...typography.caption,
@@ -178,7 +201,7 @@ const styles = StyleSheet.create({
     },
     breakdown: {
         marginTop: spacing.md,
-        width: '100%',
+        alignSelf: 'stretch',
     },
     breakdownItem: {
         flexDirection: 'row',
@@ -196,7 +219,7 @@ const styles = StyleSheet.create({
         color: colors.textSecondary,
     },
     inputsSection: {
-        backgroundColor: colors.bgCard,
+        ...glass.card,
         borderRadius: borderRadius.lg,
         padding: spacing.lg,
         marginBottom: spacing.lg,
@@ -231,7 +254,7 @@ const styles = StyleSheet.create({
     },
     infoBox: {
         padding: spacing.md,
-        backgroundColor: colors.primary + '11',
+        backgroundColor: colors.bgCardHover,
         borderRadius: borderRadius.md,
         borderLeftWidth: 4,
         borderLeftColor: colors.primary,

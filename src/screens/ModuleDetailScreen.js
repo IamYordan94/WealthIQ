@@ -169,13 +169,13 @@ const styles = StyleSheet.create({
     },
     badgeContainer: {
         flexDirection: 'row',
-        gap: spacing.sm,
     },
     premiumBadge: {
         backgroundColor: colors.premium,
         paddingHorizontal: spacing.md,
         paddingVertical: 4,
         borderRadius: borderRadius.full,
+        marginRight: spacing.sm,
     },
     premiumBadgeText: {
         ...typography.caption,
@@ -228,7 +228,7 @@ const styles = StyleSheet.create({
     },
     lessonTitle: {
         ...typography.body,
-        fontWeight: '600',
+        fontWeight: 'bold',
         color: colors.textPrimary,
     },
     lessonDuration: {
@@ -242,7 +242,7 @@ const styles = StyleSheet.create({
         width: 24,
         height: 24,
         borderRadius: 12,
-        backgroundColor: colors.success || '#10b981',
+        backgroundColor: colors.success,
         justifyContent: 'center',
         alignItems: 'center',
     },

@@ -7,8 +7,8 @@ export default function OnboardingScreen({ navigation }) {
     const [step, setStep] = useState(1);
     const [userData, setUserData] = useState({
         experience: null,
-        yourAnatomy: null,
-        partnerAnatomy: [],
+        situation: null,
+        goals: [],
     });
 
     const handleExperienceSelect = (level) => {
@@ -16,23 +16,23 @@ export default function OnboardingScreen({ navigation }) {
         setStep(2);
     };
 
-    const handleYourAnatomySelect = (anatomy) => {
-        setUserData({ ...userData, yourAnatomy: anatomy });
+    const handleSituationSelect = (situation) => {
+        setUserData({ ...userData, situation: situation });
         setStep(3);
     };
 
-    const togglePartnerAnatomy = (anatomy) => {
-        const current = userData.partnerAnatomy;
-        if (current.includes(anatomy)) {
-            setUserData({ ...userData, partnerAnatomy: current.filter(a => a !== anatomy) });
+    const toggleGoal = (goal) => {
+        const current = userData.goals;
+        if (current.includes(goal)) {
+            setUserData({ ...userData, goals: current.filter(a => a !== goal) });
         } else {
-            setUserData({ ...userData, partnerAnatomy: [...current, anatomy] });
+            setUserData({ ...userData, goals: [...current, goal] });
         }
     };
 
     const handleComplete = async () => {
-        if (userData.partnerAnatomy.length === 0) {
-            alert('Please select at least one option');
+        if (userData.goals.length === 0) {
+            alert('Please select at least one goal');
             return;
         }
 
@@ -92,13 +92,16 @@ export default function OnboardingScreen({ navigation }) {
             {/* Step 2: Current Situation */}
             {step === 2 && (
                 <View style={styles.stepContainer}>
+                    <TouchableOpacity onPress={() => setStep(1)} style={styles.backButton}>
+                        <Text style={styles.backIcon}>←</Text>
+                    </TouchableOpacity>
                     <Text style={styles.stepTitle}>What's your current situation?</Text>
                     <Text style={styles.stepSubtitle}>Helps us provide relevant advice</Text>
 
                     <View style={styles.optionsGrid}>
                         <TouchableOpacity
                             style={styles.optionCard}
-                            onPress={() => handleYourAnatomySelect('student')}
+                            onPress={() => handleSituationSelect('student')}
                         >
                             <Text style={styles.optionIcon}>🎓</Text>
                             <Text style={styles.optionTitle}>Student</Text>
@@ -106,7 +109,7 @@ export default function OnboardingScreen({ navigation }) {
 
                         <TouchableOpacity
                             style={styles.optionCard}
-                            onPress={() => handleYourAnatomySelect('employed')}
+                            onPress={() => handleSituationSelect('employed')}
                         >
                             <Text style={styles.optionIcon}>💼</Text>
                             <Text style={styles.optionTitle}>Employed</Text>
@@ -114,7 +117,7 @@ export default function OnboardingScreen({ navigation }) {
 
                         <TouchableOpacity
                             style={styles.optionCard}
-                            onPress={() => handleYourAnatomySelect('business')}
+                            onPress={() => handleSituationSelect('business')}
                         >
                             <Text style={styles.optionIcon}>🚀</Text>
                             <Text style={styles.optionTitle}>Business Owner</Text>
@@ -126,6 +129,9 @@ export default function OnboardingScreen({ navigation }) {
             {/* Step 3: Financial Goals */}
             {step === 3 && (
                 <View style={styles.stepContainer}>
+                    <TouchableOpacity onPress={() => setStep(2)} style={styles.backButton}>
+                        <Text style={styles.backIcon}>←</Text>
+                    </TouchableOpacity>
                     <Text style={styles.stepTitle}>What are your financial goals?</Text>
                     <Text style={styles.stepSubtitle}>Select all that apply</Text>
 
@@ -133,13 +139,13 @@ export default function OnboardingScreen({ navigation }) {
                         <TouchableOpacity
                             style={[
                                 styles.optionCard,
-                                userData.partnerAnatomy.includes('save') && styles.optionCardSelected
+                                userData.goals.includes('save') && styles.optionCardSelected
                             ]}
-                            onPress={() => togglePartnerAnatomy('save')}
+                            onPress={() => toggleGoal('save')}
                         >
                             <Text style={styles.optionIcon}>💰</Text>
                             <Text style={styles.optionTitle}>Save Money</Text>
-                            {userData.partnerAnatomy.includes('save') && (
+                            {userData.goals.includes('save') && (
                                 <View style={styles.checkbox}>
                                     <Text style={styles.checkmark}>✓</Text>
                                 </View>
@@ -149,13 +155,13 @@ export default function OnboardingScreen({ navigation }) {
                         <TouchableOpacity
                             style={[
                                 styles.optionCard,
-                                userData.partnerAnatomy.includes('invest') && styles.optionCardSelected
+                                userData.goals.includes('invest') && styles.optionCardSelected
                             ]}
-                            onPress={() => togglePartnerAnatomy('invest')}
+                            onPress={() => toggleGoal('invest')}
                         >
                             <Text style={styles.optionIcon}>📈</Text>
                             <Text style={styles.optionTitle}>Start Investing</Text>
-                            {userData.partnerAnatomy.includes('invest') && (
+                            {userData.goals.includes('invest') && (
                                 <View style={styles.checkbox}>
                                     <Text style={styles.checkmark}>✓</Text>
                                 </View>
@@ -165,13 +171,13 @@ export default function OnboardingScreen({ navigation }) {
                         <TouchableOpacity
                             style={[
                                 styles.optionCard,
-                                userData.partnerAnatomy.includes('debt') && styles.optionCardSelected
+                                userData.goals.includes('debt') && styles.optionCardSelected
                             ]}
-                            onPress={() => togglePartnerAnatomy('debt')}
+                            onPress={() => toggleGoal('debt')}
                         >
                             <Text style={styles.optionIcon}>💳</Text>
                             <Text style={styles.optionTitle}>Pay Off Debt</Text>
-                            {userData.partnerAnatomy.includes('debt') && (
+                            {userData.goals.includes('debt') && (
                                 <View style={styles.checkbox}>
                                     <Text style={styles.checkmark}>✓</Text>
                                 </View>
@@ -181,13 +187,13 @@ export default function OnboardingScreen({ navigation }) {
                         <TouchableOpacity
                             style={[
                                 styles.optionCard,
-                                userData.partnerAnatomy.includes('wealth') && styles.optionCardSelected
+                                userData.goals.includes('wealth') && styles.optionCardSelected
                             ]}
-                            onPress={() => togglePartnerAnatomy('wealth')}
+                            onPress={() => toggleGoal('wealth')}
                         >
                             <Text style={styles.optionIcon}>💎</Text>
                             <Text style={styles.optionTitle}>Build Wealth</Text>
-                            {userData.partnerAnatomy.includes('wealth') && (
+                            {userData.goals.includes('wealth') && (
                                 <View style={styles.checkbox}>
                                     <Text style={styles.checkmark}>✓</Text>
                                 </View>
@@ -256,7 +262,7 @@ const styles = StyleSheet.create({
         backgroundColor: colors.bgCard,
         borderRadius: borderRadius.lg,
         borderWidth: 2,
-        borderColor: 'transparent',
+        borderColor: colors.bgCard,
         padding: spacing.lg,
         alignItems: 'center',
         position: 'relative',
@@ -264,7 +270,7 @@ const styles = StyleSheet.create({
     },
     optionCardSelected: {
         borderColor: colors.primary,
-        backgroundColor: '#2a1a24',
+        backgroundColor: colors.bgCardHover,
     },
     optionIcon: {
         fontSize: 48,
@@ -306,7 +312,7 @@ const styles = StyleSheet.create({
     },
     continueButtonText: {
         ...typography.body,
-        fontWeight: '700',
+        fontWeight: 'bold',
         color: colors.textPrimary,
     },
     progressDots: {
@@ -318,10 +324,21 @@ const styles = StyleSheet.create({
         marginHorizontal: 2,
         width: 12,
         height: 12,
-        borderRadius: borderRadius.full,
+        borderRadius: 10,
         backgroundColor: colors.bgCard,
     },
     dotActive: {
         backgroundColor: colors.primary,
+    },
+    backButton: {
+        position: 'absolute',
+        top: 0,
+        left: 0,
+        padding: spacing.md,
+        zIndex: 10,
+    },
+    backIcon: {
+        fontSize: 28,
+        color: colors.primary,
     },
 });

@@ -1,0 +1,16 @@
+export const SCREENS = {
+  Loading: 'Loading',
+  Onboarding: 'Onboarding',
+  Home: 'Home',
+  CourseList: 'CourseList',
+  ModuleDetail: 'ModuleDetail',
+  Lesson: 'Lesson',
+  Premium: 'Premium',
+  Calculator: 'Calculator',
+  Tools: 'Tools',
+  Info: 'Info',
+  InfoDetail: 'InfoDetail',
+  Settings: 'Settings',
+  PrivacyPolicy: 'PrivacyPolicy',
+  Terms: 'Terms',
+};

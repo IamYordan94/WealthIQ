@@ -5,31 +5,31 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "newArchEnabled": true,
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": false,
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
+      "backgroundColor": "#0a0a0f"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#0a0a0f"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.yordanskiii.WealthIQ"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+      "package": "com.yordanskiii.WealthIQ",
+      "versionCode": 1,
+      "permissions": []
     },
     "extra": {
       "eas": {
         "projectId": "de00f772-e518-408a-bcbb-f1b343cfabf0"
       }
-    }
+    },
+    "plugins": [
+      "expo-asset",
+      "expo-font"
+    ]
   }
 }
