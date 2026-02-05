@@ -1,0 +1,152 @@
+[
+  {
+    "id": "compound-interest",
+    "term": "Compound Interest",
+    "definition": "Interest calculated on both the initial principal and accumulated interest from previous periods. Often called 'interest on interest,' it's the mechanism that makes long-term investing powerful for wealth building."
+  },
+  {
+    "id": "diversification",
+    "term": "Diversification",
+    "definition": "An investment strategy that spreads money across various assets, sectors, or geographic regions to reduce risk. The principle is that different investments rarely move in the same direction simultaneously."
+  },
+  {
+    "id": "net-worth",
+    "term": "Net Worth",
+    "definition": "The total value of all your assets (cash, investments, property) minus all liabilities (debts, loans). It's the most comprehensive measure of your overall financial health."
+  },
+  {
+    "id": "passive-income",
+    "term": "Passive Income",
+    "definition": "Money earned with minimal active effort, typically from investments, rental properties, royalties, or automated businesses. It continues generating revenue without requiring constant time or labor."
+  },
+  {
+    "id": "emergency-fund",
+    "term": "Emergency Fund",
+    "definition": "A savings account set aside for unexpected expenses like medical bills, car repairs, or job loss. Financial experts recommend 3-6 months of living expenses."
+  },
+  {
+    "id": "index-fund",
+    "term": "Index Fund",
+    "definition": "A type of mutual fund or ETF designed to track the performance of a specific market index like the S&P 500. It offers instant diversification with low fees."
+  },
+  {
+    "id": "asset-allocation",
+    "term": "Asset Allocation",
+    "definition": "The process of dividing investments among different asset categories such as stocks, bonds, and cash. It's based on your goals, risk tolerance, and investment timeline."
+  },
+  {
+    "id": "roi",
+    "term": "ROI (Return on Investment)",
+    "definition": "A performance measure used to evaluate the efficiency of an investment, calculated as (gain from investment minus cost of investment) divided by cost of investment."
+  },
+  {
+    "id": "inflation",
+    "term": "Inflation",
+    "definition": "The rate at which the general level of prices for goods and services rises, eroding purchasing power. Your investments need to outpace inflation to grow your real wealth."
+  },
+  {
+    "id": "liquidity",
+    "term": "Liquidity",
+    "definition": "How quickly and easily an asset can be converted to cash without significantly affecting its value. Cash is perfectly liquid, while real estate has low liquidity."
+  },
+  {
+    "id": "credit-score",
+    "term": "Credit Score",
+    "definition": "A numerical representation (typically 300-850) of your creditworthiness based on payment history, credit utilization, length of credit history, and other factors. Higher scores unlock better interest rates."
+  },
+  {
+    "id": "debt-to-income-ratio",
+    "term": "Debt-to-Income Ratio",
+    "definition": "The percentage of your gross monthly income that goes toward paying debts. Lenders use this to assess your ability to manage monthly payments and repay borrowed money."
+  },
+  {
+    "id": "dollar-cost-averaging",
+    "term": "Dollar-Cost Averaging",
+    "definition": "An investment strategy of buying a fixed dollar amount of an asset at regular intervals regardless of price. This reduces the impact of volatility by averaging purchase costs over time."
+  },
+  {
+    "id": "capital-gains",
+    "term": "Capital Gains",
+    "definition": "The profit from selling an investment for more than you paid. Short-term gains (held less than one year) are taxed as ordinary income, while long-term gains receive preferential tax treatment."
+  },
+  {
+    "id": "expense-ratio",
+    "term": "Expense Ratio",
+    "definition": "The annual fee expressed as a percentage of assets that mutual funds or ETFs charge for management and operating costs. Lower expense ratios mean more of your money stays invested."
+  },
+  {
+    "id": "bull-market",
+    "term": "Bull Market",
+    "definition": "A market condition where prices are rising or expected to rise, typically characterized by investor optimism and confidence. Usually defined as a 20% increase from recent lows."
+  },
+  {
+    "id": "bear-market",
+    "term": "Bear Market",
+    "definition": "A market condition where prices fall 20% or more from recent highs, often accompanied by widespread pessimism. These periods test investor discipline but create buying opportunities."
+  },
+  {
+    "id": "portfolio",
+    "term": "Portfolio",
+    "definition": "The complete collection of financial investments held by an individual or institution, including stocks, bonds, real estate, cash, and alternative assets."
+  },
+  {
+    "id": "tax-advantaged-account",
+    "term": "Tax-Advantaged Account",
+    "definition": "Investment accounts like 401(k)s, IRAs, or HSAs that offer tax benefits such as tax-deferred growth, tax-free withdrawals, or tax deductions on contributions."
+  },
+  {
+    "id": "risk-tolerance",
+    "term": "Risk Tolerance",
+    "definition": "Your ability and willingness to lose some or all of your original investment in exchange for greater potential returns. It varies based on age, income, goals, and personality."
+  },
+  {
+    "id": "rebalancing",
+    "term": "Rebalancing",
+    "definition": "The process of realigning the weightings of your portfolio assets by periodically buying or selling to maintain your desired asset allocation and risk level."
+  },
+  {
+    "id": "dividend",
+    "term": "Dividend",
+    "definition": "A portion of a company's earnings distributed to shareholders, typically paid quarterly. Dividend-paying stocks provide regular income in addition to potential price appreciation."
+  },
+  {
+    "id": "macronutrients",
+    "term": "Macronutrients",
+    "definition": "The three main nutrients required in large amounts for energy and body function: carbohydrates, proteins, and fats. Balancing these optimally supports health and fitness goals."
+  },
+  {
+    "id": "vo2-max",
+    "term": "VO2 Max",
+    "definition": "The maximum rate of oxygen consumption measured during intense exercise. It's considered the gold standard for cardiovascular fitness and improves with consistent aerobic training."
+  },
+  {
+    "id": "compound-effect",
+    "term": "Compound Effect",
+    "definition": "The principle that small, consistent actions accumulate over time to produce significant results. Applied to habits, skills, relationships, and investments for exponential growth."
+  },
+  {
+    "id": "cognitive-load",
+    "term": "Cognitive Load",
+    "definition": "The total amount of mental effort being used in working memory. Managing cognitive load through organization and prioritization improves decision-making and productivity."
+  },
+  {
+    "id": "mvp",
+    "term": "MVP (Minimum Viable Product)",
+    "definition": "A development approach where a product is created with just enough features to satisfy early customers and provide feedback for future development. Core concept in lean startup methodology."
+  },
+  {
+    "id": "growth-mindset",
+    "term": "Growth Mindset",
+    "definition": "The belief that abilities and intelligence can be developed through dedication and hard work. This view creates a love of learning and resilience essential for accomplishment."
+  },
+  {
+    "id": "burnout",
+    "term": "Burnout",
+    "definition": "A state of emotional, physical, and mental exhaustion caused by excessive and prolonged stress. It occurs when you feel overwhelmed and unable to meet constant demands."
+  },
+  {
+    "id": "circadian-rhythm",
+    "term": "Circadian Rhythm",
+    "definition": "Your body's internal 24-hour clock that regulates sleep-wake cycles, hormone release, and other bodily functions. Aligning activities with this rhythm optimizes health and performance."
+  }
+]
