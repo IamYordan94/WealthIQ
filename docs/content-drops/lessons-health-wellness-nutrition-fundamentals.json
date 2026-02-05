@@ -1,0 +1,168 @@
+[
+  {
+    "id": "macronutrients-deep-dive",
+    "title": "Macronutrients Deep Dive",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Understanding macronutrients—carbohydrates, proteins, and fats—is essential for optimizing your diet. Each plays distinct roles in energy production, tissue building, and overall health. The key is balance and choosing high-quality sources."
+        },
+        {
+          "type": "list",
+          "title": "Carbohydrates: fuel for performance",
+          "items": [
+            "Complex carbs (whole grains, legumes, vegetables) provide sustained energy",
+            "Simple carbs (fruits, milk) offer quick energy with beneficial nutrients",
+            "Refined carbs (white bread, sugary snacks) cause blood sugar spikes",
+            "Aim for 45-65% of daily calories from quality carbohydrate sources"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Proteins: building blocks of life",
+          "items": [
+            "Essential for muscle growth, repair, and immune function",
+            "Complete proteins contain all 9 essential amino acids",
+            "Animal sources: meat, fish, eggs, dairy",
+            "Plant sources: legumes, quinoa, soy, nuts, seeds",
+            "Aim for 0.8-1.2g per kg of body weight daily"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Fats: essential for health",
+          "items": [
+            "Unsaturated fats (olive oil, avocados, nuts, fish) support heart health",
+            "Saturated fats (butter, red meat) should be consumed in moderation",
+            "Trans fats (fried foods, processed snacks) should be avoided",
+            "Fats should comprise 20-35% of daily calories"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What percentage of daily calories should come from carbohydrates?",
+          "options": ["10-20%", "45-65%", "80-90%"],
+          "correctIndex": 1,
+          "explanation": "Health experts recommend that 45-65% of daily calories come from carbohydrates, primarily from whole food sources."
+        },
+        {
+          "question": "Which type of fat should be avoided?",
+          "options": ["Unsaturated fats", "Trans fats", "Omega-3 fatty acids"],
+          "correctIndex": 1,
+          "explanation": "Trans fats, found in many fried and processed foods, increase heart disease risk and should be avoided."
+        }
+      ]
+    }
+  },
+  {
+    "id": "meal-planning-basics",
+    "title": "Meal Planning Basics",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Effective meal planning saves time, reduces food waste, supports healthy eating goals, and decreases reliance on processed convenience foods. It's a skill that becomes easier with practice and proper systems."
+        },
+        {
+          "type": "list",
+          "title": "Benefits of meal planning",
+          "items": [
+            "Ensures balanced nutrition throughout the week",
+            "Reduces impulse eating and takeout expenses",
+            "Saves time during busy weekdays",
+            "Reduces food waste and grocery costs",
+            "Supports specific health or fitness goals"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Meal planning steps",
+          "items": [
+            "Set aside 30 minutes weekly for planning",
+            "Review your schedule to identify busy days",
+            "Choose 3-5 recipes for the week",
+            "Create a detailed shopping list organized by store section",
+            "Prep ingredients in batches when possible",
+            "Use containers to portion and store meals"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Pro tips",
+          "items": [
+            "Start simple with familiar recipes",
+            "Use a template to streamline planning",
+            "Build a rotation of go-to meals",
+            "Prep versatile ingredients (grilled chicken, roasted vegetables)",
+            "Leave one day for leftovers or flexibility"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is a key benefit of meal planning?",
+          "options": ["Increases reliance on takeout", "Ensures balanced nutrition", "Requires more time daily"],
+          "correctIndex": 1,
+          "explanation": "Meal planning helps ensure balanced nutrition throughout the week while saving time and money."
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-nutrition-labels",
+    "title": "Reading Nutrition Labels",
+    "duration": "7 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Nutrition labels provide critical information about the foods you eat. Learning to read them effectively empowers you to make informed choices that align with your health goals."
+        },
+        {
+          "type": "list",
+          "title": "Key label components",
+          "items": [
+            "Serving size: the amount all other numbers are based on",
+            "Calories: total energy provided per serving",
+            "Macronutrients: grams of fat, carbohydrates, and protein",
+            "% Daily Value: how much a nutrient contributes to a daily diet",
+            "Ingredient list: ingredients listed by weight, highest first"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "What to watch for",
+          "items": [
+            "Added sugars: aim for less than 25-36g daily",
+            "Sodium: keep under 2,300mg daily",
+            "Trans fats: should be 0g",
+            "Fiber: aim for at least 3g per serving in grain products",
+            "Ingredient lists: fewer ingredients usually means less processing"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Pay special attention to serving sizes—many packages contain multiple servings, so you need to multiply the label values if you consume the entire package."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What should be your daily limit for added sugars?",
+          "options": ["10-15g", "25-36g", "50-60g"],
+          "correctIndex": 1,
+          "explanation": "Health organizations recommend limiting added sugars to 25-36g per day for optimal health."
+        },
+        {
+          "question": "On a nutrition label, what does % Daily Value represent?",
+          "options": ["The percentage of the product that is organic", "How much a nutrient contributes to a daily diet", "The product's expiration date"],
+          "correctIndex": 1,
+          "explanation": "% Daily Value shows how much of a specific nutrient one serving of the food contributes to a 2,000 calorie daily diet."
+        }
+      ]
+    }
+  }
+]

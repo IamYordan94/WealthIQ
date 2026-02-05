@@ -1,0 +1,166 @@
+[
+  {
+    "id": "mindfulness-meditation-intro",
+    "title": "Introduction to Mindfulness",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Mindfulness is the practice of paying attention to the present moment without judgment. Regular mindfulness practice reduces stress, improves focus, enhances emotional regulation, and increases overall life satisfaction."
+        },
+        {
+          "type": "list",
+          "title": "Benefits of mindfulness",
+          "items": [
+            "Reduces anxiety and depressive symptoms",
+            "Improves attention and concentration",
+            "Enhances emotional regulation",
+            "Lowers blood pressure and cortisol levels",
+            "Strengthens immune system function",
+            "Improves sleep quality"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Basic mindfulness techniques",
+          "items": [
+            "Breath awareness: focus on your natural breathing pattern",
+            "Body scan: systematically notice sensations throughout your body",
+            "Mindful observation: focus attention on a single object or sound",
+            "Walking meditation: bring awareness to each step",
+            "Mindful eating: fully experience taste, texture, and smell of food"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Start with just 5 minutes daily. Find a quiet space, sit comfortably, close your eyes, and focus on your breath. When your mind wanders (it will), gently bring attention back to your breath without self-criticism."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is mindfulness?",
+          "options": ["Thinking about the future", "Paying attention to the present moment without judgment", "Avoiding all negative thoughts"],
+          "correctIndex": 1,
+          "explanation": "Mindfulness is the practice of intentionally paying attention to the present moment with an attitude of openness and non-judgment."
+        },
+        {
+          "question": "How long should beginners practice mindfulness daily?",
+          "options": ["At least 1 hour", "5 minutes", "All day long"],
+          "correctIndex": 1,
+          "explanation": "Beginners should start with just 5 minutes daily to build consistency before gradually increasing duration."
+        }
+      ]
+    }
+  },
+  {
+    "id": "emotional-awareness",
+    "title": "Developing Emotional Awareness",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Emotional awareness—the ability to recognize and understand your emotions—is foundational to mental wellbeing. It enables better decision-making, healthier relationships, and more effective stress management."
+        },
+        {
+          "type": "list",
+          "title": "Why emotional awareness matters",
+          "items": [
+            "Helps identify triggers before emotions escalate",
+            "Improves communication in relationships",
+            "Reduces impulsive reactions",
+            "Enables more effective problem-solving",
+            "Supports mental health and resilience"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Building emotional awareness",
+          "items": [
+            "Check in with yourself regularly: 'What am I feeling right now?'",
+            "Name your emotions specifically (frustrated vs. angry vs. disappointed)",
+            "Notice physical sensations associated with emotions",
+            "Keep an emotion journal",
+            "Pause before reacting to strong emotions",
+            "Practice self-compassion when experiencing difficult emotions"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Remember: all emotions are valid information about your internal state. The goal isn't to eliminate negative emotions but to understand and respond to them skillfully."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is emotional awareness?",
+          "options": ["Avoiding negative emotions", "Recognizing and understanding your emotions", "Only feeling positive emotions"],
+          "correctIndex": 1,
+          "explanation": "Emotional awareness is the ability to recognize, identify, and understand your emotional experiences."
+        },
+        {
+          "question": "What is a practical way to build emotional awareness?",
+          "options": ["Ignore your feelings", "Keep an emotion journal", "React immediately to every emotion"],
+          "correctIndex": 1,
+          "explanation": "Keeping an emotion journal helps you track patterns, identify triggers, and develop a richer emotional vocabulary."
+        }
+      ]
+    }
+  },
+  {
+    "id": "social-connections",
+    "title": "The Power of Social Connection",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Strong social connections are as important to health as exercise and nutrition. Quality relationships reduce stress, boost immunity, increase longevity, and provide crucial support during challenging times."
+        },
+        {
+          "type": "list",
+          "title": "Benefits of social connection",
+          "items": [
+            "Reduces risk of depression and anxiety",
+            "Lowers blood pressure and inflammation",
+            "Strengthens immune system",
+            "Increases sense of belonging and purpose",
+            "Provides emotional and practical support",
+            "Extends lifespan and improves quality of life"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Building meaningful connections",
+          "items": [
+            "Prioritize quality over quantity of relationships",
+            "Schedule regular time with friends and family",
+            "Be present during interactions (put phones away)",
+            "Show genuine interest in others' lives",
+            "Join groups aligned with your interests",
+            "Volunteer in your community",
+            "Reach out when someone comes to mind"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "If you're feeling isolated, start small: send a text, make a phone call, or attend a community event. Building connections takes time and effort, but the health benefits are profound."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How do social connections impact health?",
+          "options": ["They have no effect on physical health", "They're as important as exercise and nutrition", "They only matter for extroverts"],
+          "correctIndex": 1,
+          "explanation": "Research shows that strong social connections are as crucial to health as physical activity and nutrition, affecting both mental and physical wellbeing."
+        },
+        {
+          "question": "What matters more for wellbeing?",
+          "options": ["Having hundreds of acquaintances", "Quality of relationships", "Being social every day"],
+          "correctIndex": 1,
+          "explanation": "Quality of relationships matters far more than quantity—a few deep, meaningful connections provide greater benefits than many superficial ones."
+        }
+      ]
+    }
+  }
+]

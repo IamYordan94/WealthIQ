@@ -1,0 +1,165 @@
+[
+  {
+    "id": "sleep-optimization",
+    "title": "Advanced Sleep Optimization",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Beyond basic sleep hygiene, advanced optimization techniques can significantly improve sleep quality, recovery, and daytime performance. Understanding your chronotype and optimizing your environment creates conditions for deeper, more restorative sleep."
+        },
+        {
+          "type": "list",
+          "title": "Understanding sleep architecture",
+          "items": [
+            "Sleep cycles last approximately 90 minutes",
+            "Each cycle includes light sleep, deep sleep, and REM sleep",
+            "Deep sleep is crucial for physical recovery and immune function",
+            "REM sleep supports memory consolidation and emotional processing",
+            "Aim for 4-6 complete sleep cycles nightly"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Advanced optimization strategies",
+          "items": [
+            "Temperature: keep bedroom between 60-67°F (15-19°C)",
+            "Light exposure: get bright light within 30 minutes of waking",
+            "Timing: align sleep schedule with your chronotype",
+            "Supplements: consider magnesium, glycine (consult healthcare provider)",
+            "Technology: use sleep tracking to identify patterns",
+            "Relaxation: practice progressive muscle relaxation or breathing exercises"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Your chronotype—whether you're naturally an early bird or night owl—is largely genetic. Work with your chronotype rather than against it when possible, scheduling important tasks during your peak alertness windows."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How long is a typical sleep cycle?",
+          "options": ["30 minutes", "90 minutes", "3 hours"],
+          "correctIndex": 1,
+          "explanation": "A complete sleep cycle lasts approximately 90 minutes and includes light sleep, deep sleep, and REM sleep stages."
+        },
+        {
+          "question": "What is the ideal bedroom temperature for sleep?",
+          "options": ["60-67°F (15-19°C)", "75-80°F (24-27°C)", "50-55°F (10-13°C)"],
+          "correctIndex": 0,
+          "explanation": "Research shows that a cooler bedroom temperature of 60-67°F (15-19°C) promotes better sleep quality."
+        }
+      ]
+    }
+  },
+  {
+    "id": "recovery-strategies",
+    "title": "Recovery and Regeneration",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Recovery is when your body adapts to training stress and builds fitness. Without adequate recovery, you risk overtraining, injury, and burnout. Strategic recovery maximizes training benefits and supports long-term health."
+        },
+        {
+          "type": "list",
+          "title": "Types of recovery",
+          "items": [
+            "Passive recovery: complete rest days",
+            "Active recovery: light movement (walking, gentle yoga, swimming)",
+            "Sleep: the most critical recovery tool",
+            "Nutrition: adequate protein, carbohydrates, and hydration",
+            "Stress management: reducing psychological stress aids physical recovery"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Advanced recovery techniques",
+          "items": [
+            "Contrast therapy: alternating hot and cold exposure",
+            "Compression garments: may reduce muscle soreness",
+            "Massage and self-myofascial release (foam rolling)",
+            "Strategic deload weeks: reduce training volume every 4-6 weeks",
+            "Heart rate variability tracking: monitor recovery status",
+            "Proper periodization: plan hard and easy training days"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Listen to your body's signals: persistent fatigue, decreased performance, elevated resting heart rate, mood changes, and increased susceptibility to illness all indicate insufficient recovery."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is active recovery?",
+          "options": ["Complete rest with no movement", "Light movement like walking or gentle yoga", "High-intensity interval training"],
+          "correctIndex": 1,
+          "explanation": "Active recovery involves light movement that promotes blood flow and recovery without adding significant training stress."
+        },
+        {
+          "question": "How often should you include deload weeks?",
+          "options": ["Never", "Every 4-6 weeks", "Every day"],
+          "correctIndex": 1,
+          "explanation": "Strategic deload weeks every 4-6 weeks reduce training volume, allowing for recovery and preventing overtraining."
+        }
+      ]
+    }
+  },
+  {
+    "id": "longevity-habits",
+    "title": "Longevity and Healthspan",
+    "duration": "11 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Longevity research focuses not just on lifespan (how long you live) but healthspan (how many years you live in good health). Evidence-based lifestyle factors significantly influence both, and many are within your control."
+        },
+        {
+          "type": "list",
+          "title": "Pillars of longevity",
+          "items": [
+            "Exercise: especially strength training and VO2 max work",
+            "Nutrition: emphasizing whole foods, plant diversity, and moderate caloric intake",
+            "Sleep: 7-9 hours of quality sleep nightly",
+            "Stress management: chronic stress accelerates aging",
+            "Social connections: strong relationships extend lifespan",
+            "Purpose and engagement: maintaining cognitive challenges"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Emerging longevity strategies",
+          "items": [
+            "Time-restricted eating: consolidating meals within 8-12 hour windows",
+            "Zone 2 cardio: low-intensity steady-state training for mitochondrial health",
+            "Grip strength: correlates strongly with longevity",
+            "VO2 max optimization: cardiovascular fitness marker",
+            "Preventive health screening: early detection of issues",
+            "Continuous learning: maintaining neuroplasticity"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Blue Zones—regions with exceptional longevity—share common lifestyle patterns: natural movement throughout the day, strong social bonds, plant-based diets, moderate alcohol consumption, and strong sense of purpose. Incorporating these principles supports both lifespan and healthspan."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the difference between lifespan and healthspan?",
+          "options": ["There is no difference", "Lifespan is how long you live; healthspan is years lived in good health", "Healthspan only matters after age 60"],
+          "correctIndex": 1,
+          "explanation": "Lifespan refers to total years lived, while healthspan measures the years spent in good health, free from chronic disease and disability."
+        },
+        {
+          "question": "What do Blue Zones have in common?",
+          "options": ["High-tech healthcare systems", "Natural movement and strong social bonds", "Extreme exercise routines"],
+          "correctIndex": 1,
+          "explanation": "Blue Zones share lifestyle patterns including natural daily movement, strong community connections, plant-rich diets, and sense of purpose."
+        }
+      ]
+    }
+  }
+]

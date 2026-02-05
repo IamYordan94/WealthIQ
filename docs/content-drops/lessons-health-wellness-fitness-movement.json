@@ -1,0 +1,172 @@
+[
+  {
+    "id": "strength-training-basics",
+    "title": "Strength Training Basics",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Strength training builds muscle mass, increases bone density, boosts metabolism, and improves functional fitness for daily activities. It's essential for people of all ages and fitness levels."
+        },
+        {
+          "type": "list",
+          "title": "Benefits of strength training",
+          "items": [
+            "Increases muscle mass and metabolic rate",
+            "Strengthens bones and reduces osteoporosis risk",
+            "Improves balance and reduces fall risk",
+            "Enhances athletic performance",
+            "Supports healthy aging and independence",
+            "Boosts confidence and mental health"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Getting started",
+          "items": [
+            "Aim for 2-3 sessions per week",
+            "Target all major muscle groups",
+            "Start with bodyweight exercises or light weights",
+            "Focus on proper form before adding weight",
+            "Allow 48 hours rest between training the same muscle group",
+            "Gradually increase weight or resistance over time"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Essential exercises for beginners",
+          "items": [
+            "Squats: lower body and core",
+            "Push-ups: chest, shoulders, triceps",
+            "Rows: back and biceps",
+            "Planks: core stability",
+            "Lunges: legs and balance",
+            "Overhead press: shoulders and arms"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How many strength training sessions should beginners aim for per week?",
+          "options": ["Every day", "2-3 sessions", "Once a month"],
+          "correctIndex": 1,
+          "explanation": "Beginners should aim for 2-3 strength training sessions per week to allow adequate recovery and build consistent habits."
+        },
+        {
+          "question": "What should you prioritize when starting strength training?",
+          "options": ["Lifting the heaviest weights possible", "Proper form and technique", "Training every day without rest"],
+          "correctIndex": 1,
+          "explanation": "Proper form and technique prevent injury and ensure you're effectively targeting the right muscles."
+        }
+      ]
+    }
+  },
+  {
+    "id": "cardiovascular-fitness",
+    "title": "Cardiovascular Fitness",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Cardiovascular exercise strengthens your heart and lungs, improves circulation, and enhances endurance. Regular cardio reduces the risk of heart disease, stroke, diabetes, and certain cancers."
+        },
+        {
+          "type": "list",
+          "title": "Types of cardio exercise",
+          "items": [
+            "Steady-state cardio: maintaining consistent pace (jogging, cycling, swimming)",
+            "High-intensity interval training (HIIT): alternating intense bursts with recovery",
+            "Low-impact cardio: gentler on joints (walking, elliptical, water aerobics)",
+            "Sports and recreational activities: tennis, basketball, dancing"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Building cardiovascular fitness",
+          "items": [
+            "Start with 20-30 minute sessions, 3-5 times per week",
+            "Mix different types of cardio to prevent boredom",
+            "Use the talk test: you should be able to speak but not sing",
+            "Gradually increase duration or intensity, not both at once",
+            "Include rest days for recovery",
+            "Track progress with heart rate or perceived exertion"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "For maximum health benefits, aim for 150 minutes of moderate-intensity or 75 minutes of vigorous-intensity cardio weekly, as recommended by health organizations."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the recommended weekly amount of moderate-intensity cardio?",
+          "options": ["30 minutes", "150 minutes", "300 minutes"],
+          "correctIndex": 1,
+          "explanation": "Health organizations recommend 150 minutes of moderate-intensity cardio per week for optimal cardiovascular health."
+        },
+        {
+          "question": "What is HIIT?",
+          "options": ["High-intensity interval training", "Healthy indoor intense training", "Hybrid internal interval technique"],
+          "correctIndex": 0,
+          "explanation": "HIIT stands for High-Intensity Interval Training, which alternates short bursts of intense exercise with recovery periods."
+        }
+      ]
+    }
+  },
+  {
+    "id": "flexibility-mobility",
+    "title": "Flexibility and Mobility",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Flexibility and mobility are often overlooked but crucial components of fitness. Flexibility refers to a muscle's ability to lengthen, while mobility is your joints' ability to move through their full range of motion."
+        },
+        {
+          "type": "list",
+          "title": "Benefits of flexibility and mobility",
+          "items": [
+            "Reduces injury risk during exercise and daily activities",
+            "Improves posture and reduces chronic pain",
+            "Enhances athletic performance",
+            "Promotes better circulation",
+            "Supports healthy aging and independence",
+            "Reduces muscle tension and stress"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Effective flexibility practices",
+          "items": [
+            "Dynamic stretching: before workouts (leg swings, arm circles)",
+            "Static stretching: after workouts (hold 20-30 seconds per stretch)",
+            "Yoga: combines flexibility, strength, and mindfulness",
+            "Foam rolling: releases muscle tension and improves mobility",
+            "Mobility drills: improve joint range of motion"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Dedicate 10-15 minutes daily to flexibility and mobility work. Consistency is more important than duration—regular practice yields better results than occasional long sessions."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the difference between flexibility and mobility?",
+          "options": ["They are the same thing", "Flexibility is muscle lengthening; mobility is joint range of motion", "Flexibility is for athletes only"],
+          "correctIndex": 1,
+          "explanation": "Flexibility refers to a muscle's ability to lengthen, while mobility is about joints moving through their full range of motion."
+        },
+        {
+          "question": "When should you perform static stretching?",
+          "options": ["Before workouts", "After workouts", "Never"],
+          "correctIndex": 1,
+          "explanation": "Static stretching is most effective after workouts when muscles are warm, helping improve flexibility and reduce soreness."
+        }
+      ]
+    }
+  }
+]
