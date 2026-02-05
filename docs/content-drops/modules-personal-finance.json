@@ -1,0 +1,22 @@
+[
+  {
+    "id": "foundations",
+    "title": "Financial Foundations",
+    "order": 1
+  },
+  {
+    "id": "budgeting-saving",
+    "title": "Budgeting & Saving",
+    "order": 2
+  },
+  {
+    "id": "debt-credit",
+    "title": "Debt & Credit Management",
+    "order": 3
+  },
+  {
+    "id": "building-wealth",
+    "title": "Building Wealth",
+    "order": 4
+  }
+]
