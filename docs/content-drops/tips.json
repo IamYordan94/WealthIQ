@@ -1,0 +1,182 @@
+[
+  {
+    "id": "tip-1",
+    "categoryId": "tips",
+    "title": "Start your day with water",
+    "content": "Drink a glass of water within 30 minutes of waking up to rehydrate your body and kickstart your metabolism. Add lemon for extra benefits and improved digestion."
+  },
+  {
+    "id": "tip-2",
+    "categoryId": "tips",
+    "title": "Use the 50/30/20 budget rule",
+    "content": "Allocate 50% of your income to needs, 30% to wants, and 20% to savings and debt repayment. This simple framework helps maintain financial balance without complex tracking."
+  },
+  {
+    "id": "tip-3",
+    "categoryId": "tips",
+    "title": "Take movement breaks every hour",
+    "content": "Set a timer to stand up and move for 2-3 minutes every hour. This reduces sedentary behavior, improves circulation, and enhances focus and productivity."
+  },
+  {
+    "id": "tip-4",
+    "categoryId": "tips",
+    "title": "Automate your savings",
+    "content": "Set up automatic transfers to your savings account right after payday. Paying yourself first ensures consistent saving without relying on willpower or leftover money."
+  },
+  {
+    "id": "tip-5",
+    "categoryId": "tips",
+    "title": "Practice the two-minute rule",
+    "content": "If a task takes less than two minutes, do it immediately instead of adding it to your to-do list. This prevents small tasks from accumulating and overwhelming you."
+  },
+  {
+    "id": "tip-6",
+    "categoryId": "tips",
+    "title": "Prepare tomorrow's outfit tonight",
+    "content": "Choose your clothes the evening before to eliminate decision fatigue in the morning. This simple habit saves time and mental energy for more important decisions."
+  },
+  {
+    "id": "tip-7",
+    "categoryId": "tips",
+    "title": "Review your subscriptions quarterly",
+    "content": "Check all recurring charges every three months and cancel services you no longer use. Many people waste hundreds of dollars annually on forgotten subscriptions."
+  },
+  {
+    "id": "tip-8",
+    "categoryId": "tips",
+    "title": "Use the Pomodoro Technique",
+    "content": "Work in focused 25-minute blocks followed by 5-minute breaks. This time management method improves concentration and prevents burnout during intensive tasks."
+  },
+  {
+    "id": "tip-9",
+    "categoryId": "tips",
+    "title": "Meal prep on Sundays",
+    "content": "Dedicate 2-3 hours on Sunday to prepare healthy meals for the week. This saves time, reduces food waste, and helps you avoid expensive takeout orders."
+  },
+  {
+    "id": "tip-10",
+    "categoryId": "tips",
+    "title": "Keep a gratitude journal",
+    "content": "Write down three things you're grateful for each evening. This practice shifts your mindset toward positivity and has been shown to improve mental well-being."
+  },
+  {
+    "id": "tip-11",
+    "categoryId": "tips",
+    "title": "Apply the 24-hour rule for purchases",
+    "content": "Wait 24 hours before buying non-essential items over $50. This cooling-off period helps you avoid impulse purchases and saves money on things you don't truly need."
+  },
+  {
+    "id": "tip-12",
+    "categoryId": "tips",
+    "title": "Optimize your sleep environment",
+    "content": "Keep your bedroom cool (65-68°F), dark, and quiet. Invest in blackout curtains, comfortable bedding, and consider white noise if needed for quality sleep."
+  },
+  {
+    "id": "tip-13",
+    "categoryId": "tips",
+    "title": "Batch similar tasks together",
+    "content": "Group similar activities like emails, phone calls, or errands and complete them in one session. This reduces context-switching and dramatically improves efficiency."
+  },
+  {
+    "id": "tip-14",
+    "categoryId": "tips",
+    "title": "Negotiate bills annually",
+    "content": "Call service providers once a year to negotiate better rates on insurance, internet, phone plans, and utilities. A 10-minute call can save you hundreds of dollars."
+  },
+  {
+    "id": "tip-15",
+    "categoryId": "tips",
+    "title": "Create a morning routine",
+    "content": "Establish a consistent 30-minute morning routine that energizes you. Include activities like exercise, meditation, reading, or journaling to start your day intentionally."
+  },
+  {
+    "id": "tip-16",
+    "categoryId": "tips",
+    "title": "Use the envelope budgeting method",
+    "content": "Allocate cash into physical or digital envelopes for different spending categories. When an envelope is empty, you stop spending in that category until next month."
+  },
+  {
+    "id": "tip-17",
+    "categoryId": "tips",
+    "title": "Set SMART goals",
+    "content": "Make goals Specific, Measurable, Achievable, Relevant, and Time-bound. This framework transforms vague aspirations into actionable plans with clear success criteria."
+  },
+  {
+    "id": "tip-18",
+    "categoryId": "tips",
+    "title": "Practice deep breathing when stressed",
+    "content": "Use the 4-7-8 technique: inhale for 4 seconds, hold for 7, exhale for 8. This activates your parasympathetic nervous system and quickly reduces stress."
+  },
+  {
+    "id": "tip-19",
+    "categoryId": "tips",
+    "title": "Track your net worth monthly",
+    "content": "Calculate your assets minus liabilities once a month. This big-picture view helps you see financial progress beyond just checking account balances."
+  },
+  {
+    "id": "tip-20",
+    "categoryId": "tips",
+    "title": "Learn one new skill quarterly",
+    "content": "Dedicate each quarter to developing a specific skill through online courses, books, or practice. Continuous learning keeps you competitive and mentally engaged."
+  },
+  {
+    "id": "tip-21",
+    "categoryId": "tips",
+    "title": "Limit social media to specific times",
+    "content": "Schedule 2-3 specific times per day to check social media rather than scrolling constantly. This recovers hours of productive time and improves mental focus."
+  },
+  {
+    "id": "tip-22",
+    "categoryId": "tips",
+    "title": "Build an emergency fund first",
+    "content": "Save 3-6 months of expenses before aggressive investing. This financial cushion protects you from going into debt during unexpected job loss or emergencies."
+  },
+  {
+    "id": "tip-23",
+    "categoryId": "tips",
+    "title": "Read for 30 minutes daily",
+    "content": "Dedicate half an hour each day to reading books in your field or areas of interest. This habit compounds into 12-15 books per year of valuable knowledge."
+  },
+  {
+    "id": "tip-24",
+    "categoryId": "tips",
+    "title": "Use a standing desk periodically",
+    "content": "Alternate between sitting and standing throughout the day to reduce back pain and improve posture. Start with 15-minute standing intervals and gradually increase."
+  },
+  {
+    "id": "tip-25",
+    "categoryId": "tips",
+    "title": "Invest in index funds for beginners",
+    "content": "Start with low-cost, diversified index funds that track the market. They require minimal management and historically outperform most actively managed funds."
+  },
+  {
+    "id": "tip-26",
+    "categoryId": "tips",
+    "title": "Schedule weekly planning sessions",
+    "content": "Reserve Sunday evening or Monday morning for weekly planning. Review goals, schedule priorities, and identify potential obstacles before the week begins."
+  },
+  {
+    "id": "tip-27",
+    "categoryId": "tips",
+    "title": "Pack healthy snacks",
+    "content": "Prepare nutritious snacks like nuts, fruits, or protein bars to avoid vending machine temptation. This saves money and supports your health goals."
+  },
+  {
+    "id": "tip-28",
+    "categoryId": "tips",
+    "title": "Use cashback credit cards wisely",
+    "content": "Pay for regular expenses with cashback cards and pay off the full balance monthly. This earns you 1-5% back without accumulating interest charges."
+  },
+  {
+    "id": "tip-29",
+    "categoryId": "tips",
+    "title": "Practice active listening",
+    "content": "Focus completely on understanding others before responding. Put away devices, make eye contact, and ask clarifying questions to build stronger relationships."
+  },
+  {
+    "id": "tip-30",
+    "categoryId": "tips",
+    "title": "Stretch for 10 minutes daily",
+    "content": "Incorporate a simple stretching routine each morning or evening to improve flexibility, reduce injury risk, and relieve muscle tension from daily activities."
+  }
+]
