@@ -1,0 +1,77 @@
+[
+  {
+    "id": "faq-1",
+    "question": "How much should I save before I start investing?",
+    "answer": "Build an emergency fund covering 3-6 months of expenses before investing aggressively. This protects you from being forced to sell investments at a loss during emergencies. Once your emergency fund is secure, you can confidently invest surplus income. Many experts recommend having at least $1,000 in emergency savings immediately, then working toward the full 3-6 month cushion while beginning modest investments."
+  },
+  {
+    "id": "faq-2",
+    "question": "What's the difference between the courses in WealthIQ?",
+    "answer": "WealthIQ offers 12 courses covering different life domains: Health & Wellness (free), Personal Finance, Smart Investing, Career Acceleration, Real Estate, AI & Prompt Engineering, Digital Marketing, Productivity & Focus, Entrepreneurship, Mental Resilience, Coding (Python), and Content Creation. Each course progresses from beginner to advanced through structured modules. The Health & Wellness course is completely free, while premium courses require a subscription."
+  },
+  {
+    "id": "faq-3",
+    "question": "How long does it take to complete a course?",
+    "answer": "Most courses contain 3-5 modules with 3-5 lessons each, totaling 15-25 lessons per course. With lessons ranging from 5-15 minutes, you can complete a full course in 3-6 hours of total study time. However, we recommend spreading learning over 2-4 weeks to allow time for practice and implementation. You can learn at your own pace and revisit lessons anytime."
+  },
+  {
+    "id": "faq-4",
+    "question": "Do I need any prerequisites to start learning?",
+    "answer": "No prerequisites are required. All courses start with beginner-friendly basics modules that assume no prior knowledge. Each course is designed as a complete learning path from fundamentals to advanced topics. If you're completely new to a subject, simply start with the first module and progress sequentially through the lessons."
+  },
+  {
+    "id": "faq-5",
+    "question": "How often is the content updated?",
+    "answer": "We regularly update courses to reflect current best practices, new research, and industry changes. Critical updates happen immediately, while comprehensive reviews occur quarterly. Premium subscribers receive notifications about significant content updates. The app structure allows us to add new lessons and modules seamlessly without disrupting your learning progress."
+  },
+  {
+    "id": "faq-6",
+    "question": "Can I access courses offline?",
+    "answer": "Currently, WealthIQ requires an internet connection to access lessons and track progress. We're developing an offline mode that will allow you to download courses for viewing without connectivity. Premium subscribers will receive this feature first when it launches. For now, we recommend bookmarking key lessons for quick reference when you have internet access."
+  },
+  {
+    "id": "faq-7",
+    "question": "What makes WealthIQ different from other learning apps?",
+    "answer": "WealthIQ focuses specifically on practical life skills that directly improve your wealth and well-being. Unlike general education platforms, we curate actionable knowledge across finance, health, career, and entrepreneurship in bite-sized lessons. Each course includes quizzes, tips, and a glossary, creating a comprehensive learning ecosystem. Our content is evidence-based, regularly updated, and designed for immediate application."
+  },
+  {
+    "id": "faq-8",
+    "question": "Is there a free trial for premium courses?",
+    "answer": "The entire Health & Wellness Mastery course is permanently free and gives you a complete experience of our teaching approach and app features. This allows you to evaluate WealthIQ before committing to premium courses. For premium access, we periodically offer promotional trials—check the app for current offers. All premium features include progress tracking, quiz results, and unlimited access to all 11 paid courses."
+  },
+  {
+    "id": "faq-9",
+    "question": "How do I track my learning progress?",
+    "answer": "WealthIQ automatically tracks which lessons you've completed and your quiz performance for each course. Your progress is saved to your account and syncs across devices. You can view completion percentages for individual modules and entire courses in your profile. We also show your streak of consecutive learning days to help build consistent habits."
+  },
+  {
+    "id": "faq-10",
+    "question": "What if I don't understand a lesson?",
+    "answer": "You can revisit any lesson as many times as needed—there's no limit. Each lesson includes practical examples and is broken into digestible sections. The glossary defines key terms used throughout courses. Additionally, many concepts are reinforced across multiple lessons from different angles. If you're stuck, we recommend reviewing the previous lesson in the module, checking the glossary, and then returning to the challenging content."
+  },
+  {
+    "id": "faq-11",
+    "question": "Are the quizzes mandatory?",
+    "answer": "Quizzes are optional but highly recommended. They reinforce learning through active recall, which significantly improves retention. Each quiz question includes an explanation after you answer, providing additional context. Your quiz scores are tracked privately and help you identify areas where you might want to review. Many learners find that attempting quizzes before and after studying a lesson deepens understanding."
+  },
+  {
+    "id": "faq-12",
+    "question": "Can I suggest topics for new courses or lessons?",
+    "answer": "Absolutely! We actively seek user feedback to improve and expand WealthIQ. You can submit course or lesson suggestions through the app's feedback feature or by contacting support. We review all suggestions and prioritize those that align with our mission of practical wealth and wellness education. Many current features and lessons were inspired by user requests."
+  },
+  {
+    "id": "faq-13",
+    "question": "Do you offer certificates upon course completion?",
+    "answer": "We're currently developing a certification system for completed courses. Premium subscribers will be able to download verifiable certificates showing course completion and quiz performance. While these won't replace professional credentials, they demonstrate your commitment to continuous learning and skill development. This feature is scheduled to launch in the coming months."
+  },
+  {
+    "id": "faq-14",
+    "question": "How is my personal data protected?",
+    "answer": "We take privacy seriously and use industry-standard encryption to protect your data. We collect only essential information for account creation, progress tracking, and app functionality. Your learning data is never sold to third parties. You can delete your account and all associated data at any time through the app settings. We're fully compliant with data protection regulations."
+  },
+  {
+    "id": "faq-15",
+    "question": "What devices can I use to access WealthIQ?",
+    "answer": "WealthIQ is built as a web application accessible through any modern browser on smartphones, tablets, and computers. This means you can learn on your device of choice without downloading separate apps. Your progress syncs automatically across all devices when you're logged into your account. For the best mobile experience, we recommend using Chrome, Safari, or Firefox."
+  }
+]
