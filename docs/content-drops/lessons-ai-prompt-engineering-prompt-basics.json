@@ -1,1 +1,484 @@
-[CONTINUING IN NEXT MESSAGE]
+[
+  {
+    "id": "prompt-fundamentals",
+    "title": "Prompt Engineering Fundamentals",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Prompt engineering is the skill of communicating effectively with AI to get desired outputs. The quality of AI output is directly proportional to prompt quality. A vague prompt ('help me with marketing') gets vague output. A specific, well-structured prompt gets excellent output. Learning to write effective prompts is the highest-leverage skill for AI productivity."
+        },
+        {
+          "type": "list",
+          "title": "Anatomy of a Good Prompt",
+          "items": [
+            "Role: Tell AI what perspective to take ('You are an expert marketer')",
+            "Task: Clearly state what you want done ('Create 5 email subject lines')",
+            "Context: Provide relevant background ('for B2B SaaS product launch')",
+            "Format: Specify output structure ('as numbered list')",
+            "Constraints: Define limitations ('under 50 characters each')",
+            "Tone: Indicate desired style ('professional but friendly')"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Example transformation. Weak: 'Write about marketing.' Strong: 'You are a marketing consultant. Write a 500-word guide on email marketing for small businesses. Include 5 actionable tips. Use conversational tone with examples. Format as: intro paragraph, 5 numbered tips with explanations, conclusion.' Notice the difference in clarity and specificity."
+        },
+        {
+          "type": "list",
+          "title": "Key Prompting Principles",
+          "items": [
+            "Be specific: 'Write engaging social media post' → 'Write 280-character Twitter post about X, include hook, problem, solution, CTA'",
+            "Provide examples: Show AI what you want ('like this: [example]')",
+            "Set constraints: Length, tone, format, what to avoid",
+            "Iterate: First output is starting point, refine with follow-ups",
+            "Use delimiters: Separate sections with ###, ---, or ``` for clarity",
+            "Step-by-step: For complex tasks, break into sequential steps"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Common Prompt Patterns",
+          "items": [
+            "Task + Context: 'Summarize [document] for [audience] focusing on [aspects]'",
+            "Role-playing: 'Act as [expert]. Analyze [situation] and recommend [solution]'",
+            "Format specification: 'Create [content] as [format: table/list/script]'",
+            "Iteration: 'Make previous response [more/less] [attribute]'",
+            "Comparison: 'Compare [A] and [B] on [criteria], show in table'",
+            "Examples-based: 'Here are examples: [examples]. Create similar for [topic]'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Prompt templates save time. Create templates for repeated tasks with [variables] to fill in. Example: 'Write [length] [content type] about [topic] for [audience] in [tone] style, including [elements].' Save your best prompts in a swipe file for reuse and refinement."
+        },
+        {
+          "type": "list",
+          "title": "Prompt Mistakes",
+          "items": [
+            "Too vague: 'Help me' without specifics",
+            "No context: Assuming AI knows your situation",
+            "No format: Not specifying structure of output",
+            "One-shot: Not iterating when output isn't quite right",
+            "Too complex: Asking for too many things in one prompt",
+            "No constraints: Leaving too much open to interpretation",
+            "Expecting mindreading: Not spelling out what you want"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What are the key components of a good prompt?",
+          "options": [
+            "Just the task",
+            "Role, task, context, format, constraints, and tone",
+            "Only the question",
+            "As few words as possible"
+          ],
+          "correctIndex": 1,
+          "explanation": "Good prompts include role, clear task, context, desired format, constraints, and tone. This specificity generates quality outputs."
+        },
+        {
+          "question": "What should you do if first AI output isn't perfect?",
+          "options": [
+            "Give up",
+            "Try a completely different approach",
+            "Iterate and refine with follow-up prompts",
+            "Accept it as is"
+          ],
+          "correctIndex": 2,
+          "explanation": "Always iterate. First output is a starting point. Refine with follow-up prompts: 'Make this shorter/longer/more X'."
+        }
+      ]
+    }
+  },
+  {
+    "id": "context-and-clarity",
+    "title": "Context & Clarity in Prompts",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Context is everything. AI doesn't know your industry, audience, goals, or constraints unless you tell it. The more relevant context you provide, the better the output. Think of AI as a brilliant but uninformed assistant: extremely capable but knows nothing about your specific situation. Your job is providing context efficiently."
+        },
+        {
+          "type": "list",
+          "title": "Types of Context to Provide",
+          "items": [
+            "Audience: Who will consume this? (executives, customers, beginners, experts)",
+            "Purpose: What's the goal? (inform, persuade, entertain, educate)",
+            "Tone: How should it sound? (formal, casual, technical, friendly)",
+            "Background: What does AI need to know? (industry, product, situation)",
+            "Constraints: What are the limits? (length, budget, timeline, resources)",
+            "Examples: Show what you want or similar good examples"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Example with context: 'Write product description for wireless earbuds. Target audience: fitness enthusiasts age 25-40. Emphasize: sweat-proof, long battery life, secure fit. Tone: energetic and motivating. Length: 100 words. Avoid: technical jargon.' This context shapes output precisely."
+        },
+        {
+          "type": "list",
+          "title": "Clarity Techniques",
+          "items": [
+            "One task per prompt: Don't ask for 10 things at once",
+            "Numbered steps: For multi-step requests, number the steps",
+            "Delimiters: Use ### or ``` to separate sections clearly",
+            "Explicit negatives: State what you DON'T want ('Don't include X')",
+            "Specific metrics: 'About 500 words' not 'medium length'",
+            "Examples: Show examples of desired output style"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Before/After Examples",
+          "items": [
+            "Before: 'Write email about meeting' → After: 'Write professional email confirming Tuesday 2pm sales meeting, mention agenda items: Q4 goals, new product launch, team expansion. Tone: enthusiastic but professional. Length: ~150 words.'",
+            "Before: 'Help with code' → After: 'Debug this Python function [paste code]. It should sort list but returns error. Explain the bug and provide corrected version with comments.'",
+            "Before: 'Create social post' → After: 'Write LinkedIn post announcing our new AI tool for marketers. Hook: surprising stat about time spent on copywriting. Include: problem, solution (our tool), benefit, CTA. 150-200 words. Professional yet conversational tone.'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The context-quality curve: More context generally means better output, but there's diminishing returns. The first 2-3 context elements provide 80% of improvement. Don't write essays—focus on most relevant context. With practice, you'll identify which context matters most for different tasks."
+        },
+        {
+          "type": "list",
+          "title": "Maintaining Context in Conversations",
+          "items": [
+            "Reference previous: 'Based on the outline you created...'",
+            "Build incrementally: Start broad, narrow with follow-ups",
+            "Refresh when needed: Restate key context if conversation is long",
+            "New chat for new topic: Don't mix unrelated topics in one chat",
+            "Summarize progress: 'So far we've discussed X, now let's...'",
+            "Context persistence: AI remembers the conversation, leverage this"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Why is context important in prompts?",
+          "options": [
+            "It's not important",
+            "AI knows nothing about your situation unless you provide context",
+            "Only for beginners",
+            "Just makes prompts longer"
+          ],
+          "correctIndex": 1,
+          "explanation": "AI has no knowledge of your specific situation, audience, goals, or constraints. Providing context enables relevant, useful outputs."
+        },
+        {
+          "question": "What should you do for multi-step requests?",
+          "options": [
+            "Write them as one long sentence",
+            "Number the steps clearly",
+            "Keep it vague",
+            "Skip steps"
+          ],
+          "correctIndex": 1,
+          "explanation": "Number steps clearly for multi-step requests. This ensures AI addresses each component and makes output easier to verify."
+        }
+      ]
+    }
+  },
+  {
+    "id": "prompt-frameworks",
+    "title": "Proven Prompt Frameworks",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Prompt frameworks are structured approaches for consistently getting quality outputs. Instead of reinventing prompts each time, use proven frameworks as starting points. These frameworks have been tested across thousands of use cases. Learn 3-5 frameworks that cover your common needs, then adapt them to specific situations."
+        },
+        {
+          "type": "list",
+          "title": "RACE Framework",
+          "items": [
+            "Role: Define AI's perspective ('You are a senior financial analyst')",
+            "Action: Specify exact task ('Analyze this company's financial statements')",
+            "Context: Provide background ('For potential investment decision, focus on profitability and growth')",
+            "Example: Show desired output format or style ('Similar to: [example]')",
+            "Usage: Best for expert-level work requiring specific perspective"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "CRAFT Framework",
+          "items": [
+            "Context: Situation and background",
+            "Role: Who is the AI",
+            "Action: What to do",
+            "Format: Output structure",
+            "Target: Who is the audience",
+            "Example: 'Context: Launching new SaaS product. Role: Marketing strategist. Action: Create launch email sequence. Format: 3 emails, subject lines and body. Target: B2B decision-makers.'"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Chain of Thought (CoT)",
+          "items": [
+            "Concept: Ask AI to think step-by-step",
+            "Trigger phrase: 'Let's think step-by-step' or 'Show your reasoning'",
+            "Usage: Complex problems, math, logic, analysis",
+            "Example: 'Calculate ROI for this investment. Show your calculations step-by-step.'",
+            "Benefit: More accurate results, ability to verify reasoning",
+            "When to use: Any task requiring logical steps or calculations"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Tree of Thoughts framework for complex decisions: 'Generate 3 different approaches to [problem]. For each approach: 1) Explain the strategy, 2) List pros and cons, 3) Predict likely outcome. Then recommend best approach with reasoning.' This forces systematic analysis of alternatives."
+        },
+        {
+          "type": "list",
+          "title": "Few-Shot Prompting",
+          "items": [
+            "Concept: Provide 2-3 examples of desired output",
+            "Structure: 'Here are examples: [Example 1], [Example 2], [Example 3]. Now create similar for [your case].'",
+            "Usage: When output style is important and hard to describe",
+            "Example: Show 3 examples of social media posts in your brand voice, ask for more",
+            "Benefit: AI learns pattern from examples",
+            "Quality: Examples matter more than instructions sometimes"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Persona Prompting",
+          "items": [
+            "Concept: AI assumes specific persona with expertise",
+            "Format: 'You are [detailed persona]. Your background: [relevant experience]. Your task: [action].'",
+            "Example: 'You are a Harvard Business School professor who has taught strategy for 20 years. You're known for practical, actionable advice. Analyze this business model and provide 5 strategic recommendations.'",
+            "Benefit: Taps into training data associated with that persona",
+            "Usage: Expert analysis, creative work, specialized domains"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Framework Selection Guide",
+          "items": [
+            "RACE/CRAFT: General purpose, most situations",
+            "Chain of Thought: Math, logic, analysis, problem-solving",
+            "Few-Shot: Style matching, pattern replication",
+            "Persona: Expert analysis, specialized knowledge",
+            "Tree of Thoughts: Complex decisions, multiple approaches",
+            "Mix and match: Combine frameworks as needed"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the Chain of Thought technique?",
+          "options": [
+            "Writing long prompts",
+            "Asking AI to show step-by-step reasoning",
+            "Chaining multiple prompts",
+            "Thinking before prompting"
+          ],
+          "correctIndex": 1,
+          "explanation": "Chain of Thought asks AI to show step-by-step reasoning ('Let's think step-by-step'), improving accuracy on complex problems."
+        },
+        {
+          "question": "When should you use few-shot prompting?",
+          "options": [
+            "For simple tasks",
+            "When output style is important and you have good examples",
+            "Only for beginners",
+            "Never"
+          ],
+          "correctIndex": 1,
+          "explanation": "Few-shot prompting (providing 2-3 examples) works best when output style matters and is easier to show than describe."
+        }
+      ]
+    }
+  },
+  {
+    "id": "iteration-refinement",
+    "title": "Iteration & Refinement",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Perfect outputs rarely come from first prompts. Iteration—refining through follow-up prompts—is where excellence happens. Think of AI conversation as sculpting: first prompt creates rough shape, follow-ups refine details. Master iterators get 10x better results than people who accept first output. Learn to quickly identify what's wrong and how to fix it."
+        },
+        {
+          "type": "list",
+          "title": "Iteration Strategies",
+          "items": [
+            "Incremental refinement: 'Make this more [specific, concise, detailed, technical]'",
+            "Partial regeneration: 'Rewrite the introduction to be more engaging'",
+            "Alternative approaches: 'Generate 3 different versions focusing on different angles'",
+            "Add/remove elements: 'Add section about X' or 'Remove the part about Y'",
+            "Tone adjustment: 'Make this more formal/casual/technical/accessible'",
+            "Format changes: 'Convert to bullet points / numbered list / table'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Iteration example: Initial prompt generates 80% good article but introduction is weak and conclusion is missing. Follow-ups: 1) 'Rewrite introduction with stronger hook', 2) 'Add conclusion summarizing key points and call-to-action', 3) 'Make section 2 more concise'. Three quick follow-ups transform good to excellent."
+        },
+        {
+          "type": "list",
+          "title": "Common Iteration Prompts",
+          "items": [
+            "Length: 'Make this shorter/longer', 'Expand section X', 'Cut by 30%'",
+            "Tone: 'More professional/casual/technical', 'Less jargon', 'More engaging'",
+            "Clarity: 'Simplify this', 'Explain like I'm 12', 'Add examples'",
+            "Structure: 'Reorganize for better flow', 'Move X before Y'",
+            "Quality: 'Make stronger', 'More specific', 'More persuasive'",
+            "Alternatives: 'Give me 5 different versions', 'Try different approach'"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Diagnostic Questions",
+          "items": [
+            "When output is off: 'What exactly is wrong?' (tone, length, focus, structure)",
+            "Identify gap: 'What would make this excellent vs. just good?'",
+            "Missing elements: 'Does this have everything I need?'",
+            "Audience fit: 'Would my target audience find this valuable?'",
+            "Clarity: 'Is this clear without prior context?'",
+            "Actionability: 'Can someone actually use this?'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The conversation approach: Treat AI like colleague you're collaborating with. First output is draft. You review, provide feedback, iterate together. This mindset shift—from 'AI vending machine' to 'AI collaborator'—unlocks far better results. Don't settle for first output when two follow-ups get you to excellent."
+        },
+        {
+          "type": "list",
+          "title": "Efficient Iteration",
+          "items": [
+            "Batch feedback: Give multiple pieces of feedback in one prompt",
+            "Be specific: 'Make shorter' → 'Reduce to 300 words, cutting redundancy'",
+            "Reference prior: 'In your previous response, change X to Y'",
+            "Save good versions: Copy good outputs before requesting changes",
+            "Know when to stop: Perfect is enemy of done, 90% is often enough",
+            "Start fresh if needed: Sometimes easier to start over than fix bad draft"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What should you do with AI's first output?",
+          "options": [
+            "Always accept it as final",
+            "Review and refine with follow-up prompts",
+            "Start completely over every time",
+            "Never use first outputs"
+          ],
+          "correctIndex": 1,
+          "explanation": "First outputs are drafts. Review and refine with follow-up prompts to achieve excellence. Iteration is where quality happens."
+        },
+        {
+          "question": "How should you think about working with AI?",
+          "options": [
+            "As a vending machine that should be perfect first try",
+            "As a collaboration where you iterate together",
+            "As something that never needs refinement",
+            "As completely unreliable"
+          ],
+          "correctIndex": 1,
+          "explanation": "Think of AI as a collaborator. First output is a draft you iterate on together through conversation. This mindset unlocks better results."
+        }
+      ]
+    }
+  },
+  {
+    "id": "prompt-library",
+    "title": "Building Your Prompt Library",
+    "duration": "7 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Building a personal prompt library accelerates your workflow. Every time you create an effective prompt, save it. Over time, you'll have templates for common tasks, proven frameworks for your specific needs, and examples to learn from. This compounds: the more you save, the more efficient you become. Your prompt library becomes your AI superpower."
+        },
+        {
+          "type": "list",
+          "title": "What to Save",
+          "items": [
+            "Prompts that worked well: Especially those requiring iteration to perfect",
+            "Frameworks you use repeatedly: Your go-to templates",
+            "Domain-specific prompts: Industry or role-specific best prompts",
+            "Complex multi-step prompts: Those that took time to develop",
+            "Examples of excellent outputs: To reference for quality",
+            "Mistakes and fixes: What didn't work and why"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Organization system: Create categories (Writing, Analysis, Code, Learning, etc.), name prompts descriptively ('LinkedIn_post_template', 'Code_debugging_framework'), add notes about when to use each. Simple text file works, but dedicated tools (Notion, Obsidian, prompt management apps) offer better organization."
+        },
+        {
+          "type": "list",
+          "title": "Template Structure",
+          "items": [
+            "Use variables: Replace specific details with [BRACKETS] for easy customization",
+            "Example: 'Write [LENGTH] [CONTENT_TYPE] about [TOPIC] for [AUDIENCE] in [TONE] tone, including [ELEMENTS].'",
+            "Document variations: Save different versions for different needs",
+            "Add usage notes: When to use, what to customize, example outputs",
+            "Version prompts: Track improvements over time",
+            "Share with team: Organizational prompt libraries ensure consistency"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Quick-Access Setup",
+          "items": [
+            "Text expander: Keyboard shortcuts paste common prompts",
+            "Browser bookmarks: Organize by category for quick access",
+            "Notion/Obsidian: Searchable prompt database",
+            "Custom GPTs: Create specialized ChatGPT versions for repeated workflows",
+            "Spreadsheet: Simple categorized library with descriptions",
+            "Mobile access: Access prompts from phone for on-the-go use"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Continuous improvement: Review your library monthly. Which prompts do you use most? Which need updating? What new use cases have emerged? This iterative improvement of your prompt library compounds. After a year, you'll have battle-tested templates that generate excellent outputs in seconds."
+        },
+        {
+          "type": "list",
+          "title": "Starter Prompt Categories",
+          "items": [
+            "Writing: Emails, articles, social posts, editing, summarizing",
+            "Analysis: Data analysis, research, comparison, evaluation",
+            "Creative: Brainstorming, ideation, naming, storytelling",
+            "Learning: Explanations, study guides, practice problems, tutoring",
+            "Professional: Meeting prep, presentations, reports, documentation",
+            "Technical: Coding, debugging, documentation, technical writing",
+            "Personal: Planning, decision-making, goal-setting, reflection"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What should you save in your prompt library?",
+          "options": [
+            "Every prompt you ever write",
+            "Only perfect prompts",
+            "Prompts that worked well and complex ones you developed",
+            "Nothing, memorize everything"
+          ],
+          "correctIndex": 2,
+          "explanation": "Save prompts that worked well, complex ones you developed, domain-specific templates, and frameworks you use repeatedly."
+        },
+        {
+          "question": "How should you structure prompt templates?",
+          "options": [
+            "Write them very specifically for one use",
+            "Use [VARIABLE] brackets for easy customization",
+            "Keep them vague",
+            "Don't use templates"
+          ],
+          "correctIndex": 1,
+          "explanation": "Use [VARIABLE] brackets in templates for easy customization. This makes prompts reusable across similar situations."
+        }
+      ]
+    }
+  }
+]
