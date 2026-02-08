@@ -1,0 +1,488 @@
+[
+  {
+    "id": "investing-basics",
+    "title": "Introduction to Investing",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Investing is how you make your money work for you instead of you always working for money. While saving preserves wealth, investing grows it. The difference is profound: $500 monthly saved for 30 years at 0% = $180,000. The same amount invested at 8% average return = $679,000. Investing isn't gambling when done wisely—it's the proven path to long-term wealth."
+        },
+        {
+          "type": "list",
+          "title": "Why Invest?",
+          "items": [
+            "Beat inflation: Cash loses purchasing power at 2-3% annually; investments aim to exceed this",
+            "Compound growth: Earnings generate their own earnings exponentially over time",
+            "Passive income: Eventually investments can generate income without active work",
+            "Retirement funding: Social Security alone won't provide comfortable retirement",
+            "Financial independence: Investment income can replace employment income"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Investment Vehicles",
+          "items": [
+            "Stocks: Ownership shares in companies, historically 10% average annual return",
+            "Bonds: Loans to governments/companies, lower return (3-5%) but more stable",
+            "Mutual funds: Professionally managed baskets of stocks/bonds",
+            "Index funds: Low-cost funds tracking market indexes, recommended for most investors",
+            "ETFs: Exchange-traded funds, similar to index funds but trade like stocks",
+            "Real estate: Property ownership for appreciation and rental income"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "For beginners, low-cost index funds offer the best combination of diversification, returns, and simplicity. They own hundreds or thousands of companies, removing individual company risk. Historical data shows index funds beat 80-90% of actively managed funds over 15+ year periods, despite their simplicity."
+        },
+        {
+          "type": "list",
+          "title": "Before You Invest",
+          "items": [
+            "Emergency fund: Have 3-6 months expenses saved first",
+            "High-interest debt: Pay off anything above 7-8% APR before investing",
+            "Stable income: Ensure consistent cash flow to avoid selling investments in emergencies",
+            "Time horizon: Don't invest money needed within 5 years",
+            "Basic knowledge: Understand what you're buying, never invest in confusion"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Investing involves risk—values fluctuate daily and you can lose money, especially short-term. However, diversified stock market investments have never lost money over any 20-year period in history. Time is your greatest advantage: the longer your investment horizon, the more market volatility becomes opportunity rather than threat."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the main difference between saving and investing?",
+          "options": [
+            "Saving is for emergencies, investing is for luxuries",
+            "Saving preserves money, investing grows it through returns",
+            "Saving is safe, investing always loses money",
+            "There is no difference"
+          ],
+          "correctIndex": 1,
+          "explanation": "Saving preserves money safely but with minimal growth, while investing accepts some risk in exchange for higher potential returns that grow wealth over time."
+        },
+        {
+          "question": "What should you have before investing?",
+          "options": [
+            "$100,000 in savings",
+            "A paid-off house",
+            "Emergency fund and high-interest debt paid off",
+            "Permission from a financial advisor"
+          ],
+          "correctIndex": 2,
+          "explanation": "Before investing, establish an emergency fund and eliminate high-interest debt to avoid being forced to sell investments at bad times."
+        },
+        {
+          "question": "What are index funds?",
+          "options": [
+            "Funds that guarantee returns",
+            "Low-cost funds that track market indexes by owning hundreds of companies",
+            "Funds only available to wealthy investors",
+            "High-risk investments in individual stocks"
+          ],
+          "correctIndex": 1,
+          "explanation": "Index funds are low-cost investment funds that track market indexes, providing instant diversification across hundreds or thousands of companies."
+        }
+      ]
+    }
+  },
+  {
+    "id": "retirement-accounts",
+    "title": "Retirement Account Basics",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Retirement accounts are tax-advantaged investment vehicles designed to incentivize long-term saving. The government offers significant tax breaks—either upfront deductions or tax-free growth—in exchange for limiting access until retirement age. These tax advantages are powerful wealth-building tools that can add hundreds of thousands to your retirement savings."
+        },
+        {
+          "type": "list",
+          "title": "401(k) - Employer-Sponsored Plans",
+          "items": [
+            "Contributions reduce taxable income now (traditional) or grow tax-free (Roth)",
+            "2026 contribution limit: $23,500 ($31,000 if age 50+)",
+            "Employer match: Free money, typically 3-6% of salary if you contribute",
+            "Always contribute enough to get full match—it's a 50-100% instant return",
+            "Investment options limited to plan's menu, usually include target-date and index funds"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "IRA - Individual Retirement Accounts",
+          "items": [
+            "Open independently through brokerages, not tied to employer",
+            "2026 contribution limit: $7,000 ($8,000 if age 50+)",
+            "Traditional IRA: Tax deduction now, pay taxes on withdrawals in retirement",
+            "Roth IRA: No deduction now, all withdrawals tax-free in retirement",
+            "Roth preferred if you expect higher income in retirement or want tax flexibility"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The magic of tax-advantaged accounts compounds over decades. A $6,000 annual contribution at 8% for 30 years = $680,000 in a taxable account after taxes, but $735,000 in a tax-free Roth IRA. That $55,000 difference came solely from tax advantages. Earlier you start, greater the impact."
+        },
+        {
+          "type": "list",
+          "title": "Retirement Contribution Priority",
+          "items": [
+            "1. 401(k) up to employer match (free money, can't pass up)",
+            "2. Max Roth IRA if eligible ($7,000/year)",
+            "3. Max 401(k) ($23,500/year)",
+            "4. HSA if you have high-deductible health plan (triple tax advantage)",
+            "5. Taxable brokerage account for additional investing"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Early Withdrawal Penalties",
+          "items": [
+            "Generally 10% penalty plus taxes if withdrawn before age 59.5",
+            "Roth IRA contributions can be withdrawn anytime penalty-free (not earnings)",
+            "Some exceptions: First home ($10k), qualified education, disability, certain medical",
+            "Loans from 401(k) possible but risky—must repay if leaving job",
+            "Bottom line: Treat retirement money as untouchable until retirement"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Start with whatever you can afford, even if just 1% of income. Many people never invest because they can't max out accounts immediately—this is a mistake. Investing $100 monthly is infinitely better than investing $0 monthly while waiting for the perfect amount. Increase contributions with every raise."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the most important retirement savings rule?",
+          "options": [
+            "Max out all accounts immediately",
+            "Only invest in stocks",
+            "Contribute enough to get full employer match",
+            "Never use Roth accounts"
+          ],
+          "correctIndex": 2,
+          "explanation": "Getting the full employer match is the top priority—it's free money providing an instant 50-100% return that you can't get anywhere else."
+        },
+        {
+          "question": "What's the main difference between traditional and Roth accounts?",
+          "options": [
+            "Traditional is for young people, Roth for old people",
+            "Traditional gives tax break now, Roth gives tax-free withdrawals later",
+            "Roth has higher contribution limits",
+            "Traditional can be withdrawn anytime"
+          ],
+          "correctIndex": 1,
+          "explanation": "Traditional accounts provide upfront tax deductions but tax withdrawals later; Roth accounts use after-tax money now but provide tax-free withdrawals in retirement."
+        },
+        {
+          "question": "What is the 2026 IRA contribution limit?",
+          "options": [
+            "$3,000",
+            "$7,000",
+            "$23,500",
+            "No limit"
+          ],
+          "correctIndex": 1,
+          "explanation": "The 2026 IRA contribution limit is $7,000 per year ($8,000 if age 50 or older with catch-up contributions)."
+        }
+      ]
+    }
+  },
+  {
+    "id": "asset-allocation",
+    "title": "Asset Allocation Strategy",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Asset allocation—how you divide investments among stocks, bonds, and cash—is more important than individual investment selection. Studies show allocation explains 90%+ of portfolio return variation. The right allocation balances growth potential with risk tolerance and time horizon. It's not timing the market; it's time in the market with the right mix."
+        },
+        {
+          "type": "list",
+          "title": "Stocks vs. Bonds",
+          "items": [
+            "Stocks (equities): Higher long-term returns (10% average), higher volatility, ownership in companies",
+            "Bonds (fixed income): Lower returns (3-5% average), lower volatility, loans to entities",
+            "Stocks outperform long-term but can drop 30-50% in bad years",
+            "Bonds provide stability and income, cushioning stock market crashes",
+            "Diversification between both reduces portfolio volatility"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Age-Based Allocation Rules of Thumb",
+          "items": [
+            "Traditional rule: Bonds = your age (30 years old = 30% bonds, 70% stocks)",
+            "Aggressive rule: 110 minus age in stocks (30 years old = 80% stocks, 20% bonds)",
+            "Modern view: People live longer, can handle more stocks even in 50s-60s",
+            "At 25: Consider 90-100% stocks",
+            "At 40: Consider 80-85% stocks",
+            "At 60: Consider 60-70% stocks",
+            "At 75: Consider 40-50% stocks"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "These are guidelines, not absolute rules. Risk tolerance matters as much as age. If you can't sleep at night during market drops, you need more bonds regardless of age. Conversely, if you have pension income or multiple income streams, you might maintain higher stock allocation longer. Know yourself."
+        },
+        {
+          "type": "list",
+          "title": "Simple Portfolio Examples",
+          "items": [
+            "Three-fund portfolio: Total US stock index, Total international stock index, Total bond index",
+            "Two-fund portfolio: Target-date fund, supplemented with extra stock or bond fund if desired",
+            "One-fund solution: Target-date fund (automatically adjusts allocation as you age)",
+            "All achieve diversification and simplicity, avoiding individual stock picking"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Rebalancing",
+          "items": [
+            "Over time, winning assets grow and throw allocation off target",
+            "Rebalance annually or when allocation drifts 5%+ from target",
+            "Sell overweighted assets, buy underweighted—forces 'buy low, sell high'",
+            "New contributions can rebalance by directing to underweighted assets",
+            "In retirement accounts, rebalancing has no tax consequences"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Target-date funds handle allocation and rebalancing automatically. They start aggressive (mostly stocks) and gradually become conservative (more bonds) as the target retirement date approaches. For hands-off investors, a single target-date fund is a complete, sensible portfolio."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What determines most of your portfolio's returns?",
+          "options": [
+            "Individual stock selection",
+            "Market timing",
+            "Asset allocation (stocks vs. bonds mix)",
+            "The specific brokerage used"
+          ],
+          "correctIndex": 2,
+          "explanation": "Studies show asset allocation explains over 90% of portfolio return variation—far more important than individual security selection."
+        },
+        {
+          "question": "For a 30-year-old investor, what's a reasonable stock allocation?",
+          "options": [
+            "0-20%",
+            "30-50%",
+            "60-70%",
+            "80-90%"
+          ],
+          "correctIndex": 3,
+          "explanation": "Young investors with decades until retirement can typically handle 80-90% stocks, taking advantage of long time horizons to weather volatility."
+        },
+        {
+          "question": "What is rebalancing?",
+          "options": [
+            "Checking your account balance regularly",
+            "Selling winning assets and buying losing ones to maintain target allocation",
+            "Moving all money to cash during market drops",
+            "Changing your target allocation every month"
+          ],
+          "correctIndex": 1,
+          "explanation": "Rebalancing means adjusting your portfolio back to target allocation by selling overweighted assets and buying underweighted ones."
+        }
+      ]
+    }
+  },
+  {
+    "id": "dollar-cost-averaging",
+    "title": "Dollar-Cost Averaging",
+    "duration": "7 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Dollar-cost averaging (DCA) is investing fixed amounts at regular intervals regardless of market conditions. Instead of trying to time the market—which research shows even professionals fail at consistently—you invest $500 every month whether markets are up, down, or sideways. This strategy removes emotion and timing risk from investing."
+        },
+        {
+          "type": "list",
+          "title": "How Dollar-Cost Averaging Works",
+          "items": [
+            "Set a fixed investment amount (e.g., $500 monthly)",
+            "Invest on the same schedule (monthly, biweekly with paycheck)",
+            "Buy regardless of price—high markets, low markets, everything between",
+            "When prices are low, your $500 buys more shares",
+            "When prices are high, your $500 buys fewer shares",
+            "Average cost per share ends up lower than if you tried to time purchases"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Example: You invest $300 monthly for 6 months. Month 1: Stock price $50, you buy 6 shares. Month 2: Price drops to $30, you buy 10 shares. Month 3: Price $40, you buy 7.5 shares. By month 6, you've accumulated shares at an average cost lower than trying to guess 'the perfect time' to invest."
+        },
+        {
+          "type": "list",
+          "title": "Benefits of Dollar-Cost Averaging",
+          "items": [
+            "Removes emotional decision-making from investing",
+            "Makes market drops beneficial—they're 'shares on sale'",
+            "Prevents paralysis from trying to time the perfect entry",
+            "Works automatically with paycheck deductions",
+            "Builds consistent investment habit over years",
+            "Reduces regret—you're never all-in at the peak"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "DCA vs. Lump Sum Investing",
+          "items": [
+            "Lump sum: Investing all available money immediately",
+            "Statistically, lump sum beats DCA about 60-70% of time (markets trend up)",
+            "However, DCA reduces regret if market drops right after investing",
+            "Best approach: DCA with regular income, lump sum with windfalls if comfortable",
+            "Don't hold cash waiting to DCA—if money is available and you're comfortable, invest it"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The greatest value of DCA is psychological. Markets will crash during your investing lifetime—guaranteed. If you're dollar-cost averaging, crashes become opportunities to buy more shares cheaper rather than disasters that make you sell in panic. This mindset shift is the difference between success and failure in long-term investing."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is dollar-cost averaging?",
+          "options": [
+            "Investing all your money at once",
+            "Investing fixed amounts at regular intervals regardless of market conditions",
+            "Only investing when markets are down",
+            "Averaging your returns across different investments"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dollar-cost averaging means investing fixed amounts on a regular schedule (e.g., $500 monthly) regardless of whether markets are up or down."
+        },
+        {
+          "question": "What happens when you dollar-cost average during a market drop?",
+          "options": [
+            "You lose money and should stop investing",
+            "You buy more shares at lower prices",
+            "Your previous investments become worthless",
+            "You should wait until markets recover"
+          ],
+          "correctIndex": 1,
+          "explanation": "During market drops, your fixed investment amount buys more shares at lower prices, reducing your average cost per share."
+        },
+        {
+          "question": "What's the main psychological benefit of dollar-cost averaging?",
+          "options": [
+            "It guarantees you'll never lose money",
+            "It removes emotional decision-making and makes market drops beneficial",
+            "It allows perfect market timing",
+            "It prevents all investment risk"
+          ],
+          "correctIndex": 1,
+          "explanation": "DCA removes emotion by automating investments and reframes market drops as opportunities to buy shares on sale rather than disasters."
+        }
+      ]
+    }
+  },
+  {
+    "id": "building-wealth-habits",
+    "title": "Wealth-Building Habits",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Wealth is built through consistent habits repeated over years and decades, not through lottery wins or get-rich-quick schemes. The difference between wealthy and struggling people is rarely one big decision—it's hundreds of small decisions compounded. These habits seem boring because they work slowly, but boring works when given enough time."
+        },
+        {
+          "type": "list",
+          "title": "Core Wealth-Building Habits",
+          "items": [
+            "Pay yourself first: Save/invest before spending (automate 15-20% of income)",
+            "Live below your means: Spend less than you earn, regardless of income level",
+            "Avoid lifestyle inflation: Don't increase spending proportionally with raises",
+            "Invest consistently: Dollar-cost average into diversified investments monthly",
+            "Increase income: Continuously develop skills, negotiate raises, build side income"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The millionaire next door isn't driving a Ferrari—they're driving a 7-year-old Toyota. Research consistently shows most wealthy people achieve it through high savings rates and consistent investing, not high incomes. A teacher earning $60,000 who saves 20% will outpace a lawyer earning $150,000 who saves 5%. It's not what you make; it's what you keep and invest."
+        },
+        {
+          "type": "list",
+          "title": "Avoiding Wealth Destroyers",
+          "items": [
+            "Lifestyle inflation: Upgrading car/home/lifestyle with every raise",
+            "Consumer debt: Credit card balances, car loans for wants, financing depreciating assets",
+            "No emergency fund: Being forced to sell investments or take debt during emergencies",
+            "Investment fees: High expense ratios and advisor fees compound against you",
+            "Comparison spending: Buying based on what others have rather than personal values"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "The Wealth-Building Timeline",
+          "items": [
+            "Years 1-5: Feels slow, building foundation (emergency fund, eliminating bad debt, starting investments)",
+            "Years 5-10: Compound growth becomes visible, net worth accelerates",
+            "Years 10-20: Compound interest works magic, investments may exceed contributions",
+            "Years 20-30: Wealth builds exponentially, financial independence becomes reality",
+            "Years 30+: Compound growth dominant, work becomes optional"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The first $100,000 is the hardest milestone because you're fighting against small numbers. After that, compound growth accelerates. Your second $100,000 comes faster than the first, the third faster than the second. By the time you hit $500,000, you're making more from investment returns than from saving. Stay consistent."
+        },
+        {
+          "type": "list",
+          "title": "Protecting Your Wealth",
+          "items": [
+            "Adequate insurance: Health, disability, term life (if dependents), liability coverage",
+            "Estate planning: Will, beneficiaries updated, power of attorney documents",
+            "Tax efficiency: Maximize tax-advantaged accounts, tax-loss harvesting, understand brackets",
+            "Diversification: Never put all eggs in one basket—spread across assets and accounts",
+            "Continuous learning: Read books, take courses, understand your finances completely"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Wealth building is simple but not easy. The formula—earn more, spend less, invest the difference consistently over decades—fits on a napkin. The challenge is maintaining discipline when friends upgrade lifestyles, when markets crash, when life happens. Those who stay the course for 20-30 years wake up wealthy. Start today, not tomorrow."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the most important wealth-building habit?",
+          "options": [
+            "Earning a six-figure income",
+            "Timing the stock market perfectly",
+            "Paying yourself first by saving/investing before spending",
+            "Buying luxury items to look wealthy"
+          ],
+          "correctIndex": 2,
+          "explanation": "Paying yourself first by automatically saving and investing 15-20% before spending ensures consistent wealth building regardless of income level."
+        },
+        {
+          "question": "What is lifestyle inflation?",
+          "options": [
+            "When prices increase due to inflation",
+            "Increasing spending proportionally with income increases",
+            "Living in an expensive city",
+            "Investing in inflation-protected securities"
+          ],
+          "correctIndex": 1,
+          "explanation": "Lifestyle inflation is the tendency to increase spending whenever income increases, preventing higher earnings from building wealth."
+        },
+        {
+          "question": "According to research, how do most millionaires build wealth?",
+          "options": [
+            "Inheriting money from family",
+            "Starting successful businesses that sell for millions",
+            "High savings rates and consistent investing over decades",
+            "Winning lawsuits or lottery"
+          ],
+          "correctIndex": 2,
+          "explanation": "Studies show most millionaires achieve wealth through consistent high savings rates (15-20%+) and long-term investing, not through windfalls or extreme income."
+        }
+      ]
+    }
+  }
+]
