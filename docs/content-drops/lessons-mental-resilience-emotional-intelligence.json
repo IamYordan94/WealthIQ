@@ -1,0 +1,522 @@
+[
+  {
+    "id": "understanding-emotions",
+    "title": "Understanding Emotions",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Emotions aren't weaknesses to suppress—they're data to understand. Every emotion serves purpose: fear protects, anger defends boundaries, sadness signals loss, joy celebrates connection. The problem isn't having emotions. It's not understanding them or managing them effectively. Emotional intelligence (EQ) predicts success better than IQ. It's learnable."
+        },
+        {
+          "type": "list",
+          "title": "Primary Emotions & Their Function",
+          "items": [
+            "Fear: Signals danger, motivates protection",
+            "Anger: Responds to injustice, motivates boundary setting",
+            "Sadness: Processes loss, motivates seeking support",
+            "Joy: Celebrates positive experiences, strengthens bonds",
+            "Disgust: Protects from harm, enforces values",
+            "Surprise: Alerts to unexpected, focuses attention",
+            "All emotions valid: No 'good' or 'bad' emotions, just information"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The emotion iceberg: What you feel on surface often isn't the core emotion. Anger might hide hurt. Anxiety might hide fear of failure. Irritability might hide exhaustion. Understanding deeper layers requires self-awareness and honest reflection. Surface emotion is tip of iceberg."
+        },
+        {
+          "type": "list",
+          "title": "Emotional Granularity",
+          "items": [
+            "Low granularity: 'I feel bad' (vague, unhelpful)",
+            "High granularity: 'I feel disappointed and slightly anxious about tomorrow' (specific, actionable)",
+            "Research: People with higher emotional granularity have better regulation",
+            "Practice: Expand emotion vocabulary beyond happy/sad/angry",
+            "Tool: Emotion wheel - identifies nuanced feelings",
+            "Benefit: Better understanding enables better management",
+            "Example: Anxious, nervous, worried, apprehensive, uneasy—each slightly different"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "The Four Components of EQ",
+          "items": [
+            "1. Self-awareness: Recognizing your own emotions",
+            "2. Self-management: Regulating your emotional responses",
+            "3. Social awareness: Recognizing others' emotions",
+            "4. Relationship management: Using awareness to navigate interactions",
+            "Foundation: Self-awareness comes first; can't manage what you don't recognize"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Emotions are temporary: This too shall pass. Emotions are waves—they rise, peak, and fall. Average emotion lasts 90 seconds unless you feed it with thoughts. The suffering comes not from emotion itself but from resisting it, judging it, or ruminating on it. Allow emotion, don't amplify it."
+        },
+        {
+          "type": "list",
+          "title": "Developing Emotional Awareness",
+          "items": [
+            "Body scan: Notice physical sensations (tight chest, tense shoulders)",
+            "Name it: Label emotion specifically",
+            "Accept it: Don't judge emotion as good or bad",
+            "Explore it: What triggered this? What need is unmet?",
+            "Journal: Write about emotions regularly",
+            "Check-ins: Multiple times daily ask 'How am I feeling?'",
+            "Meditation: Builds awareness of inner experience"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What are emotions?",
+          "options": [
+            "Weaknesses to suppress",
+            "Data and information serving specific functions",
+            "Random feelings",
+            "Only for weak people"
+          ],
+          "correctIndex": 1,
+          "explanation": "Emotions are data serving functions: fear protects, anger defends boundaries, sadness processes loss. They're information, not weaknesses."
+        },
+        {
+          "question": "What predicts success better than IQ?",
+          "options": [
+            "Luck",
+            "Emotional intelligence (EQ)",
+            "Connections",
+            "Looks"
+          ],
+          "correctIndex": 1,
+          "explanation": "Emotional intelligence (EQ) predicts success better than IQ. Good news: EQ is learnable through practice and awareness."
+        }
+      ]
+    }
+  },
+  {
+    "id": "emotional-regulation",
+    "title": "Emotional Regulation",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Emotional regulation isn't suppression—it's management. It's experiencing emotion without being controlled by it. Feeling angry and choosing not to yell. Feeling anxious and acting anyway. Feeling sad and not withdrawing. Emotions are passengers, not drivers. You acknowledge them without letting them steer."
+        },
+        {
+          "type": "list",
+          "title": "Regulation vs. Suppression",
+          "items": [
+            "Suppression: 'I won't feel this' (doesn't work, makes worse)",
+            "Regulation: 'I feel this, and I choose how to respond' (healthy, effective)",
+            "Suppression: Emotion finds another way out (passive aggression, physical symptoms)",
+            "Regulation: Emotion is felt, processed, and passes",
+            "Research: Suppression linked to worse outcomes; regulation to better",
+            "Goal: Feel emotions without being overwhelmed by them"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The window of tolerance: Range of emotional intensity you can handle while staying regulated. Too much activation (anxiety, anger) = hyperarousal. Too little (depression, numbness) = hypoarousal. Goal is staying in window. Trauma, stress, poor self-care narrow window. Practices below widen it."
+        },
+        {
+          "type": "list",
+          "title": "Regulation Techniques",
+          "items": [
+            "STOP: Stop, Take a breath, Observe, Proceed mindfully",
+            "5-second rule: Count to 5 before responding",
+            "Name it to tame it: Labeling emotion reduces its intensity",
+            "Reappraisal: Reframe situation's meaning",
+            "Distraction: Temporary shift to reduce immediate intensity",
+            "Opposite action: Act opposite to emotion's urge (approach vs. avoid)",
+            "Self-soothing: Safe, comforting activities"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "The RAIN Technique",
+          "items": [
+            "R - Recognize: Notice what you're feeling",
+            "A - Allow: Let emotion be present without resistance",
+            "I - Investigate: Explore with curiosity, not judgment",
+            "N - Nurture: Offer yourself compassion",
+            "Use: When overwhelmed by difficult emotion",
+            "Effect: Transforms relationship with emotion from adversarial to accepting",
+            "Duration: 5-10 minutes, powerful shift"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Radical acceptance: Some situations can't be changed. Continuing to fight reality creates suffering. Acceptance isn't approval or giving up—it's acknowledging what is so you can respond effectively. 'I don't like this AND this is reality.' Fighting reality is suffering. Accepting reality is freedom to respond."
+        },
+        {
+          "type": "list",
+          "title": "Managing Specific Emotions",
+          "items": [
+            "Anxiety: Grounding techniques, challenge catastrophic thoughts, action",
+            "Anger: Physical release, time-out, assertive communication",
+            "Sadness: Allow it, self-compassion, connection, movement",
+            "Shame: Share it (loses power), self-compassion, perspective",
+            "Fear: Reality check, gradual exposure, support",
+            "Overwhelm: Break down, delegate, prioritize, say no",
+            "Each emotion: Specific strategies most effective"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Building Regulation Capacity",
+          "items": [
+            "Practice in calm: Don't wait for crisis to build skills",
+            "Increase tolerance: Gradually expose to manageable discomfort",
+            "Self-care foundation: Sleep, nutrition, exercise create capacity",
+            "Support system: People who co-regulate with you",
+            "Therapy: Professional help building skills",
+            "Mindfulness: Regular practice strengthens regulation",
+            "Patience: Skill develops over time with consistent practice"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's emotional regulation vs. suppression?",
+          "options": [
+            "Same thing",
+            "Regulation: managing emotion healthily; Suppression: denying emotion (makes worse)",
+            "Suppression is better",
+            "Neither works"
+          ],
+          "correctIndex": 1,
+          "explanation": "Regulation = managing emotion while acknowledging it (healthy). Suppression = denying emotion exists (unhealthy, backfires). Feel it, don't suppress it."
+        },
+        {
+          "question": "What is radical acceptance?",
+          "options": [
+            "Giving up",
+            "Acknowledging reality so you can respond effectively (not approval, just reality)",
+            "Approving everything",
+            "Being passive"
+          ],
+          "correctIndex": 1,
+          "explanation": "Radical acceptance: Acknowledging what is so you can respond effectively. Not approval or giving up—ending fight with reality to respond skillfully."
+        }
+      ]
+    }
+  },
+  {
+    "id": "empathy-social-awareness",
+    "title": "Empathy & Social Awareness",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Empathy is understanding and feeling what another person experiences. It's foundation of connection, relationships, and social resilience. People with high empathy have better relationships, stronger support systems, and greater resilience. Empathy isn't fixed trait—it's skill you can develop through awareness and practice."
+        },
+        {
+          "type": "list",
+          "title": "Types of Empathy",
+          "items": [
+            "Cognitive: Understanding another's perspective intellectually",
+            "Emotional: Actually feeling what another person feels",
+            "Compassionate: Moved to help based on understanding",
+            "Balance: Need cognitive and emotional; too much emotional = overwhelm",
+            "Development: All three can be strengthened",
+            "Application: Different situations call for different types"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Empathy vs. sympathy: Sympathy is feeling sorry for someone from distance. Empathy is understanding and connecting with their experience. Sympathy: 'That's too bad.' Empathy: 'I understand how hard that must be.' Sympathy creates separation. Empathy creates connection."
+        },
+        {
+          "type": "list",
+          "title": "Developing Empathy",
+          "items": [
+            "Active listening: Full attention, no formulating response while they talk",
+            "Curiosity: Genuine interest in understanding their experience",
+            "Perspective-taking: 'How would I feel in their situation?'",
+            "Suspend judgment: Put aside your opinions and assessments",
+            "Notice non-verbal: Body language, tone, facial expressions",
+            "Validate: Acknowledge their feelings as legitimate",
+            "Reflect: Repeat back to confirm understanding"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Social Awareness Skills",
+          "items": [
+            "Reading the room: Sensing group dynamics and energy",
+            "Emotional contagion: Awareness that emotions spread",
+            "Cultural sensitivity: Understanding different backgrounds and norms",
+            "Power dynamics: Recognizing hierarchy and influence",
+            "Conflict awareness: Detecting tension before eruption",
+            "Needs recognition: Understanding what people need vs. want",
+            "Application: Better navigation of social situations"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Empathy fatigue: Feeling others' emotions constantly is exhausting, especially for highly sensitive people. Solution: Boundaries. You can be empathetic without taking on everyone's emotions. Understand them, don't absorb them. Self-care protects empathy capacity."
+        },
+        {
+          "type": "list",
+          "title": "Empathetic Communication",
+          "items": [
+            "Validation: 'That makes sense you'd feel that way'",
+            "Reflection: 'What I'm hearing is...'",
+            "Open questions: 'Tell me more about that'",
+            "Avoid: Minimizing ('It's not that bad'), fixing ('Here's what you should do'), comparing ('That happened to me too')",
+            "Presence: Sometimes just being there is enough",
+            "Permission: Ask if they want advice or just want to be heard"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's empathy vs. sympathy?",
+          "options": [
+            "Same thing",
+            "Empathy: understanding and connecting; Sympathy: feeling sorry from distance",
+            "Sympathy is better",
+            "Empathy is weakness"
+          ],
+          "correctIndex": 1,
+          "explanation": "Empathy = understanding and connecting with experience. Sympathy = feeling sorry from distance. Sympathy separates; empathy connects."
+        },
+        {
+          "question": "Can empathy be developed?",
+          "options": [
+            "No, you're born with it",
+            "Yes, through practice like active listening and perspective-taking",
+            "Only in children",
+            "It's genetic only"
+          ],
+          "correctIndex": 1,
+          "explanation": "Empathy is learnable skill developed through: active listening, curiosity, perspective-taking, and practice. It's not fixed trait."
+        }
+      ]
+    }
+  },
+  {
+    "id": "difficult-conversations",
+    "title": "Navigating Difficult Conversations",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Avoiding difficult conversations doesn't make them go away—it makes them worse. Unaddressed issues fester. Resentment builds. Relationships deteriorate. Emotional resilience includes having hard conversations skillfully. This is learnable. Most people never learn it. Those who do have dramatically better relationships and outcomes."
+        },
+        {
+          "type": "list",
+          "title": "Why We Avoid Difficult Conversations",
+          "items": [
+            "Fear of conflict: Worry conversation will escalate",
+            "Fear of hurting: Don't want to cause pain",
+            "Fear of consequences: Worry about relationship damage",
+            "Discomfort: Emotionally uncomfortable",
+            "Skill deficit: Don't know how to have them well",
+            "Reality: Avoidance causes more harm than skillful conversation",
+            "Truth: Problems don't resolve through silence"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The conversation structure: Three conversations happen simultaneously. Content (what happened), emotions (how we feel), identity (what this means about us). Most people focus only on content. Skilled communicators address all three layers. Ignoring emotions and identity makes conversation fail."
+        },
+        {
+          "type": "list",
+          "title": "Preparation Steps",
+          "items": [
+            "Clarify intent: What do I want to achieve?",
+            "Check assumptions: What story am I telling myself? What's really true?",
+            "Consider their perspective: Why might they have acted this way?",
+            "Emotional regulation: Get centered before conversation",
+            "Choose timing: Right time and place (private, unhurried)",
+            "Opening: How will I begin? (non-accusatory)",
+            "Desired outcome: What resolution am I hoping for?"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "The Conversation Framework",
+          "items": [
+            "1. Open with curiosity: 'I want to understand your perspective on...'",
+            "2. Share impact: 'When X happened, the impact on me was Y'",
+            "3. Avoid blame: 'I' statements, not 'you' accusations",
+            "4. Listen actively: Genuinely hear their side",
+            "5. Acknowledge emotions: Theirs and yours",
+            "6. Find common ground: Shared interests and goals",
+            "7. Problem-solve together: 'How can we move forward?'",
+            "8. Agree on actions: Specific commitments"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 'I' statement formula: 'When you [specific behavior], I feel [emotion] because [impact].' Example: 'When you interrupt me in meetings, I feel disrespected because my ideas aren't heard.' This describes impact without attacking character. Contrast with: 'You're so rude!' which triggers defensiveness."
+        },
+        {
+          "type": "list",
+          "title": "Managing Emotional Escalation",
+          "items": [
+            "Notice activation: Recognize when conversation is escalating",
+            "Pause: 'I need a moment to gather my thoughts'",
+            "Breathe: Activate calming response",
+            "Reground: Return to shared goal",
+            "Acknowledge: 'This is getting heated for both of us'",
+            "Time-out: If needed, 'Let's take 20 minutes and come back'",
+            "Return: Resume with calmer energy"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "After the Conversation",
+          "items": [
+            "Follow through: Do what you committed to",
+            "Check in: Circle back on agreements",
+            "Repair if needed: Address any harm from conversation itself",
+            "Appreciate: Acknowledge courage in having conversation",
+            "Learn: What worked? What would you do differently?",
+            "Move forward: Don't ruminate endlessly",
+            "Practice: Each difficult conversation builds skill"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What happens when we avoid difficult conversations?",
+          "options": [
+            "Problems resolve themselves",
+            "Issues fester, resentment builds, relationships deteriorate",
+            "Everyone forgets about it",
+            "Nothing happens"
+          ],
+          "correctIndex": 1,
+          "explanation": "Avoiding difficult conversations makes them worse. Unaddressed issues fester, resentment builds, relationships deteriorate. Problems don't resolve through silence."
+        },
+        {
+          "question": "What's the 'I' statement formula?",
+          "options": [
+            "I hate when you...",
+            "When you [behavior], I feel [emotion] because [impact]",
+            "You always...",
+            "You never..."
+          ],
+          "correctIndex": 1,
+          "explanation": "'I' statements: When you [behavior], I feel [emotion] because [impact]. Describes impact without attacking character, reducing defensiveness."
+        }
+      ]
+    }
+  },
+  {
+    "id": "emotional-intelligence-practice",
+    "title": "Building EQ Through Practice",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Emotional intelligence isn't theory—it's practice. Reading about EQ doesn't build it. Daily practice builds it. Like physical fitness, emotional fitness requires consistent training. Small daily practices compound into significant capability. The people with highest EQ aren't naturally gifted—they're consistently practicing."
+        },
+        {
+          "type": "list",
+          "title": "Daily EQ Practices",
+          "items": [
+            "Morning check-in: 'How am I feeling? What do I need today?'",
+            "Emotion labeling: Throughout day, name emotions specifically",
+            "Pause before responding: 5-second rule in all interactions",
+            "Active listening: One conversation daily with full presence",
+            "Gratitude: Note 3 things you appreciate",
+            "Evening reflection: 'What emotions did I experience? How did I handle them?'",
+            "Consistency: 10 minutes daily beats occasional hour"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The mirror exercise: Emotions are contagious. Energy you bring affects others. Practice: Before important interaction, check your emotional state. Anxious? Others will feel it. Frustrated? It'll seep through. Calm and present? They'll receive that. You set emotional tone."
+        },
+        {
+          "type": "list",
+          "title": "Strengthening Self-Awareness",
+          "items": [
+            "Journaling: 10 minutes daily writing about experiences and feelings",
+            "Meditation: 10-20 minutes observing thoughts and emotions",
+            "Therapy: Professional space for deep self-exploration",
+            "Feedback: Ask trusted people how you come across",
+            "Patterns: Notice recurring emotional triggers",
+            "Body awareness: How do emotions manifest physically?",
+            "Values clarification: What matters most to you and why?"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Relationship Skills Practice",
+          "items": [
+            "Curiosity: Ask deeper questions beyond surface conversation",
+            "Validation: Practice saying 'That makes sense' even when you disagree",
+            "Boundaries: Say no to one thing weekly that violates boundaries",
+            "Appreciation: Express specific appreciation daily",
+            "Repair: When you mess up, acknowledge and apologize sincerely",
+            "Vulnerability: Share something real weekly with trusted person",
+            "Conflict: Address small issues before they become big"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The growth mindset in EQ: You will mess up. You'll handle emotions poorly sometimes. You'll have difficult conversations that go wrong. This is normal and expected. What matters is: noticing what happened, learning from it, doing better next time. Self-compassion enables growth. Self-criticism prevents it."
+        },
+        {
+          "type": "list",
+          "title": "Measuring Your Progress",
+          "items": [
+            "Faster recovery: Bounce back from upset more quickly",
+            "Better relationships: Deeper connections, less conflict",
+            "Emotional awareness: Notice emotions as they arise",
+            "Response flexibility: More options than reactive patterns",
+            "Empathy: Understanding others more easily",
+            "Confidence: Handling difficult situations more skillfully",
+            "Timeline: Noticeable improvement in 3-6 months of consistent practice"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Resources for Continued Growth",
+          "items": [
+            "Books: 'Emotional Intelligence' by Daniel Goleman, 'Nonviolent Communication' by Marshall Rosenberg",
+            "Therapy: CBT, DBT especially helpful for emotion regulation",
+            "Apps: Mood tracking (Daylio, Moodpath)",
+            "Courses: EQ training programs and workshops",
+            "Coaching: EQ coaches for personalized development",
+            "Community: Groups focused on emotional growth",
+            "Practice partners: Friends also developing EQ"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How is EQ built?",
+          "options": [
+            "Reading books about it",
+            "Consistent daily practice over time",
+            "You're born with it",
+            "One intensive workshop"
+          ],
+          "correctIndex": 1,
+          "explanation": "EQ is built through consistent daily practice. Like physical fitness, emotional fitness requires regular training. Small daily practices compound significantly."
+        },
+        {
+          "question": "What enables growth in EQ?",
+          "options": [
+            "Being perfect",
+            "Self-compassion when you mess up, learning, doing better next time",
+            "Never making mistakes",
+            "Self-criticism"
+          ],
+          "correctIndex": 1,
+          "explanation": "Self-compassion enables growth. You'll handle emotions poorly sometimes—notice it, learn from it, do better. Self-criticism prevents growth."
+        }
+      ]
+    }
+  }
+]

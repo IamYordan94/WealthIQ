@@ -1,0 +1,560 @@
+[
+  {
+    "id": "adversity-growth",
+    "title": "Growth Through Adversity",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "The most capable people have faced significant adversity. This isn't coincidence—it's causation. Adversity, when navigated skillfully, builds capacity. Post-traumatic growth is real: people emerge from difficulty with greater strength, deeper appreciation, stronger relationships, and clearer purpose. Challenge isn't something to just survive—it's opportunity to become more."
+        },
+        {
+          "type": "list",
+          "title": "Post-Traumatic Growth Domains",
+          "items": [
+            "Personal strength: 'I'm stronger than I thought'",
+            "Relationships: Deeper, more authentic connections",
+            "Appreciation for life: Greater gratitude and presence",
+            "New possibilities: Doors opened by adversity",
+            "Spiritual growth: Deeper meaning and purpose",
+            "Research: 70-90% of trauma survivors report growth",
+            "Key: Growth doesn't eliminate pain; it coexists with it"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Antifragility concept (Nassim Taleb): Some systems are fragile (break under stress), some resilient (withstand stress), some antifragile (grow stronger from stress). You can become antifragile: benefit from challenges, setbacks, and volatility. How? Intelligent exposure to manageable stressors."
+        },
+        {
+          "type": "list",
+          "title": "The Adversity Advantage",
+          "items": [
+            "Perspective: Having survived hard things, small things don't rattle you",
+            "Confidence: Track record of overcoming builds self-efficacy",
+            "Empathy: Personal struggle increases compassion for others",
+            "Gratitude: Hardship highlights what you have",
+            "Purpose: Often clarified through difficulty",
+            "Skills: Crisis builds capabilities available forever",
+            "Wisdom: Can't be taught, only earned through experience"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Mining Meaning from Adversity",
+          "items": [
+            "Not immediate: Don't rush to 'find the lesson' while in pain",
+            "After stabilizing: Then reflect on experience",
+            "Questions: What did this teach me? How am I different? What matters now?",
+            "Narrative: Integrate experience into your story (not whole story, part of it)",
+            "Service: Use experience to help others facing similar",
+            "Values: Often clarifies what truly matters",
+            "Caution: Don't force silver lining if not genuine"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The hero's journey pattern: Most meaningful life stories include struggle. Hero faces challenge, experiences transformation, returns with gifts to share. Your adversity is your hero's journey. The challenge is your call to adventure. Your growth is transformation. Your wisdom helps others."
+        },
+        {
+          "type": "list",
+          "title": "Intentional Challenge",
+          "items": [
+            "Don't wait: Seek challenges before life forces them",
+            "Controlled exposure: Choose manageable challenges",
+            "Physical: Hard workouts, races, demanding activities",
+            "Mental: Learning difficult skills, complex problems",
+            "Emotional: Vulnerable conversations, facing fears",
+            "Social: Public speaking, leadership roles",
+            "Benefit: Build capacity in safe(r) environment before crisis"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is post-traumatic growth?",
+          "options": [
+            "Myth",
+            "Real phenomenon where people emerge from adversity with greater strength and wisdom",
+            "Only for special people",
+            "Means the trauma wasn't real"
+          ],
+          "correctIndex": 1,
+          "explanation": "Post-traumatic growth is real: 70-90% of trauma survivors report growth in strength, relationships, appreciation, possibilities, or spiritual meaning."
+        },
+        {
+          "question": "What's antifragility?",
+          "options": [
+            "Never experiencing stress",
+            "Growing stronger from stress and challenges (beyond just resilience)",
+            "Being unbreakable",
+            "Avoiding all difficulty"
+          ],
+          "correctIndex": 1,
+          "explanation": "Antifragility: Not just withstanding stress (resilience) but actually growing stronger from it. Benefit from challenges through intelligent exposure."
+        }
+      ]
+    }
+  },
+  {
+    "id": "meaning-purpose",
+    "title": "Meaning & Purpose",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Viktor Frankl survived Nazi concentration camps and discovered: Those who had strong sense of meaning survived better than those who didn't. Meaning is more important than happiness for resilience. Purpose provides reason to persist through difficulty. Without purpose, why endure hardship? With purpose, you can endure almost anything."
+        },
+        {
+          "type": "list",
+          "title": "Why Meaning Matters",
+          "items": [
+            "Direction: Provides compass when lost",
+            "Motivation: Fuel for persistence through difficulty",
+            "Resilience: Reason to keep going when it's hard",
+            "Wellbeing: Meaning predicts life satisfaction better than happiness",
+            "Legacy: What you're building beyond yourself",
+            "Integration: Makes suffering meaningful vs. meaningless",
+            "Research: People with strong purpose live longer, healthier lives"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Meaning vs. happiness: Happiness is feeling good in moment. Meaning is sense that life matters and has significance. You can be unhappy but have deep meaning. You can be happy but lack meaning. Both matter, but meaning sustains you through unhappiness. Pursue both, prioritize meaning."
+        },
+        {
+          "type": "list",
+          "title": "Sources of Meaning",
+          "items": [
+            "Relationships: Deep connections with others",
+            "Contribution: Making positive impact",
+            "Growth: Becoming more capable and aware",
+            "Creativity: Creating something that didn't exist",
+            "Transcendence: Connection to something larger",
+            "Values: Living according to what matters most",
+            "Legacy: What you're building for future",
+            "Suffering: Meaning found in how you respond to inevitable pain"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Finding Your Purpose",
+          "items": [
+            "What breaks your heart? Points to what you care about",
+            "What are you good at? Natural strengths and talents",
+            "What does world need? Problems calling for solutions",
+            "What would you do for free? Intrinsic motivation",
+            "Intersection: Purpose often at crossroads of these questions",
+            "Evolution: Purpose evolves as you grow",
+            "Action: Purpose discovered through doing, not just thinking"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The ikigai concept (Japanese): Reason for being. Intersection of: what you love, what you're good at, what world needs, what you can be paid for. Not everyone needs profession aligned with all four, but considering them illuminates purpose."
+        },
+        {
+          "type": "list",
+          "title": "Living with Purpose",
+          "items": [
+            "Clarity: Write purpose statement (doesn't need to be perfect)",
+            "Alignment: Evaluate decisions against purpose",
+            "Daily connection: How does today connect to larger meaning?",
+            "Contribution: Regular action toward purpose",
+            "Reflection: Regular review of alignment",
+            "Flexibility: Allow purpose to evolve",
+            "Patience: Living purposefully is marathon, not sprint"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "When Purpose Isn't Clear",
+          "items": [
+            "Normal: Not everyone has crystal-clear purpose",
+            "Experiment: Try different things, see what resonates",
+            "Contribute anyway: Help others while you figure it out",
+            "Meaning available: Even without grand purpose, find meaning in relationships and growth",
+            "Therapy: Can help explore deeper questions",
+            "Patience: Purpose often emerges through living, not arrives fully formed",
+            "Process: The search itself can be meaningful"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What did Viktor Frankl discover?",
+          "options": [
+            "Happiness is everything",
+            "Meaning matters more than happiness for resilience and survival",
+            "Nothing matters",
+            "Only physical strength matters"
+          ],
+          "correctIndex": 1,
+          "explanation": "Frankl discovered in concentration camps: Those with strong sense of meaning survived better. Purpose provides reason to persist through difficulty."
+        },
+        {
+          "question": "What's ikigai?",
+          "options": [
+            "Japanese food",
+            "Reason for being - intersection of what you love, are good at, world needs, and can be paid for",
+            "Meditation practice",
+            "Martial art"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ikigai: Japanese concept for reason for being. Intersection of what you love, what you're good at, what world needs, what you can be paid for."
+        }
+      ]
+    }
+  },
+  {
+    "id": "mindset-reframing",
+    "title": "Mindset Mastery & Reframing",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Same situation, different interpretations, completely different outcomes. Two people face setback: one sees failure confirming inadequacy, other sees learning opportunity. Same event, different mindset, different results. Your mindset—how you interpret experiences—determines your resilience more than experiences themselves. Master your mindset, master your resilience."
+        },
+        {
+          "type": "list",
+          "title": "Core Mindset Shifts",
+          "items": [
+            "Fixed → Growth: 'I can't' → 'I can't yet'",
+            "Victim → Creator: 'This happened to me' → 'How do I respond?'",
+            "Scarcity → Abundance: 'Not enough' → 'More than enough'",
+            "Threat → Challenge: 'This will break me' → 'This will build me'",
+            "Permanent → Temporary: 'Always/never' → 'This time, right now'",
+            "Global → Specific: 'Everything is wrong' → 'This specific thing is difficult'",
+            "Each shift: Changes emotional response and outcomes"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The reframing process: Catch automatic negative thought. Question it ('Is this true? Is this helpful?'). Generate alternative perspective. Choose most useful interpretation. This isn't positive thinking delusion—it's recognizing multiple valid interpretations and choosing empowering one."
+        },
+        {
+          "type": "list",
+          "title": "Powerful Reframes",
+          "items": [
+            "Failure → Feedback: 'What can I learn?'",
+            "Problem → Opportunity: 'What's possible here?'",
+            "Obstacle → Training: 'This is building my capacity'",
+            "Rejection → Redirection: 'This isn't my path'",
+            "Criticism → Data: 'Useful information about perception'",
+            "Uncertainty → Possibility: 'Anything could happen'",
+            "Loss → Appreciation: 'Grateful for what I had'"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "The Stoic Mindset",
+          "items": [
+            "Dichotomy of control: Focus only on what you can control",
+            "Perspective: 'Will this matter in 5 years?'",
+            "Amor fati: Love your fate, even difficult parts",
+            "Memento mori: Remembering mortality clarifies priorities",
+            "Virtue: Focus on how you respond, not what happens",
+            "Premeditation: Anticipate challenges, reduce surprise",
+            "Application: Ancient wisdom, modern relevance"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The obstacle is the way: Marcus Aurelius said 'The impediment to action advances action.' Obstacle isn't blocking your path—it IS your path. What stands in the way becomes the way. Challenge isn't preventing growth—it's the mechanism of growth."
+        },
+        {
+          "type": "list",
+          "title": "Optimism vs. Positive Thinking",
+          "items": [
+            "Positive thinking: 'Nothing bad will happen' (denial)",
+            "Optimism: 'Bad things may happen, and I'll handle them' (realistic)",
+            "Positive thinking: Ignores reality",
+            "Optimism: Acknowledges reality, maintains hope",
+            "Research: Realistic optimism predicts resilience",
+            "Toxic positivity: Forced cheerfulness invalidating real struggle",
+            "Healthy optimism: Acknowledging difficulty while maintaining belief in ability to cope"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Daily Mindset Practice",
+          "items": [
+            "Morning: Set intention for day's mindset",
+            "Catch: Notice unhelpful automatic thoughts",
+            "Challenge: Question validity and usefulness",
+            "Reframe: Generate alternative interpretation",
+            "Evening: Review day's reframes, what worked",
+            "Journal: Write about situations and different possible interpretations",
+            "Consistency: Neural pathways strengthen with practice"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What determines resilience more than experiences?",
+          "options": [
+            "Luck",
+            "Your mindset - how you interpret experiences",
+            "Money",
+            "Genes"
+          ],
+          "correctIndex": 1,
+          "explanation": "Mindset determines resilience more than experiences. Same situation, different interpretations, completely different outcomes. Master mindset, master resilience."
+        },
+        {
+          "question": "What's the difference between positive thinking and optimism?",
+          "options": [
+            "Same thing",
+            "Positive thinking denies reality; optimism acknowledges reality while maintaining hope",
+            "Positive thinking is better",
+            "Neither works"
+          ],
+          "correctIndex": 1,
+          "explanation": "Positive thinking: 'Nothing bad will happen' (denial). Optimism: 'Bad things may happen, and I'll handle them' (realistic hope). Optimism predicts resilience."
+        }
+      ]
+    }
+  },
+  {
+    "id": "resilience-habits",
+    "title": "Building Resilience Habits",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Resilience isn't built in crisis—it's built before crisis. Daily habits create capacity to handle difficulty when it arrives. Most people wait for crisis to think about resilience. Smart people build it proactively. Small daily practices compound into significant capacity. Your daily routine either builds resilience or creates vulnerability."
+        },
+        {
+          "type": "list",
+          "title": "Non-Negotiable Daily Habits",
+          "items": [
+            "Sleep: 7-9 hours, consistent schedule",
+            "Movement: 20-30 minutes physical activity",
+            "Nutrition: Whole foods, stable blood sugar",
+            "Hydration: Adequate water throughout day",
+            "Connection: Quality interaction with someone",
+            "Reflection: 5-10 minutes journaling or meditation",
+            "These aren't optional: They're foundation"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The resilience stack: Think of resilience practices as stackable buffers. Each habit adds protection. Sleep + exercise + good nutrition + strong relationships + stress management = significant resilience buffer. Remove one, total resilience decreases. Stack them, capacity multiplies."
+        },
+        {
+          "type": "list",
+          "title": "Weekly Resilience Practices",
+          "items": [
+            "Deep work: 2-3 focused work sessions",
+            "Quality time: Meaningful time with loved ones",
+            "Recreation: Activities purely for enjoyment",
+            "Challenge: One thing outside comfort zone",
+            "Learning: Time developing new skill or knowledge",
+            "Nature: Time outdoors in natural setting",
+            "Review: Reflect on week, plan next"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Monthly Resilience Rituals",
+          "items": [
+            "Assessment: How's my wellbeing? What needs attention?",
+            "Connection: Reach out to people you don't see regularly",
+            "Adventure: New experience or place",
+            "Review progress: Movement toward goals and growth",
+            "Financial check: Money stress managed proactively",
+            "Health screening: Stay ahead of health issues",
+            "Learning: Deeper dive into development area"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The morning routine advantage: How you start day sets tone. Successful, resilient people protect morning routine. Instead of reactively checking phone and email, proactively choose focus. Morning routine might include: hydration, movement, meditation, journaling, healthy breakfast, planning. Start day intentionally."
+        },
+        {
+          "type": "list",
+          "title": "Building New Habits",
+          "items": [
+            "Start small: Tiny habits stack better than ambitious ones",
+            "Stack: Add new habit to existing one",
+            "Environment: Design environment to support habits",
+            "Tracking: Simple tracking increases consistency",
+            "Accountability: Share commitment with someone",
+            "Patience: 66 days average to automate habit",
+            "Self-compassion: Miss a day, get back on without guilt"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "The Resilience Audit",
+          "items": [
+            "Sleep quality: Am I getting enough?",
+            "Physical health: Exercise, nutrition, medical care?",
+            "Emotional regulation: Managing emotions effectively?",
+            "Relationships: Strong support system?",
+            "Purpose: Clear sense of meaning?",
+            "Stress management: Healthy coping strategies?",
+            "Growth: Learning and developing?",
+            "Regular audit: Monthly check-in on all areas"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "When is resilience built?",
+          "options": [
+            "During crisis",
+            "Before crisis through daily habits and practices",
+            "After crisis",
+            "It's innate"
+          ],
+          "correctIndex": 1,
+          "explanation": "Resilience is built before crisis through daily habits. Small daily practices compound into significant capacity when difficulty arrives."
+        },
+        {
+          "question": "What's the resilience stack?",
+          "options": [
+            "One perfect habit",
+            "Multiple practices that compound - each adds protection, together multiply capacity",
+            "Just sleep",
+            "Exercise only"
+          ],
+          "correctIndex": 1,
+          "explanation": "Resilience stack: Multiple practices (sleep, exercise, nutrition, relationships, stress management) compound. Each adds protection; together multiply capacity."
+        }
+      ]
+    }
+  },
+  {
+    "id": "longterm-resilience",
+    "title": "Long-term Resilience & Wellbeing",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Resilience isn't sprint—it's lifelong practice. Life includes ongoing challenges, not one-time events. Long-term resilience requires: sustainable practices, regular renewal, evolving strategies, community support, and philosophical foundation. This is marathon requiring pacing, not all-out sprint burning you out."
+        },
+        {
+          "type": "list",
+          "title": "The Wellbeing Dimensions",
+          "items": [
+            "Physical: Body health, energy, vitality",
+            "Mental: Cognitive function, learning, mental clarity",
+            "Emotional: Emotional regulation and awareness",
+            "Social: Relationships and connection quality",
+            "Spiritual: Meaning, purpose, transcendence",
+            "Financial: Security and freedom from money stress",
+            "Occupational: Fulfillment in work",
+            "Environmental: Supportive physical surroundings",
+            "Balance: Neglecting any dimension undermines total resilience"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The cycle of stress and recovery: High performers alternate stress and recovery. They work hard, then rest hard. Recovery isn't laziness—it's strategic. Without recovery, stress accumulates, performance decreases, burnout approaches. Recovery replenishes capacity for next stress cycle."
+        },
+        {
+          "type": "list",
+          "title": "Recovery Strategies",
+          "items": [
+            "Micro: 5-minute breaks every hour",
+            "Daily: Evening wind-down routine",
+            "Weekly: One full day off minimum",
+            "Monthly: Weekend getaway or staycation",
+            "Quarterly: Longer vacation or retreat",
+            "Annually: Extended time off for deep renewal",
+            "Active recovery: Gentle movement, nature, creativity",
+            "Passive recovery: Rest, sleep, relaxation"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Preventing Burnout",
+          "items": [
+            "Recognize signs: Exhaustion, cynicism, ineffectiveness",
+            "Address early: Don't wait for crisis",
+            "Boundaries: Protect time and energy",
+            "Meaning: Stay connected to purpose",
+            "Support: Don't isolate when struggling",
+            "Professional help: Therapy or coaching",
+            "Sometimes: Change needed (job, relationship, situation)",
+            "Recovery: Burnout recovery takes months, not days"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Life seasons perspective: Life includes seasons. Growth seasons (building, striving). Harvest seasons (reaping results). Fallow seasons (rest, integration). Can't be in growth season indefinitely. Honor season you're in. Fighting current season creates suffering."
+        },
+        {
+          "type": "list",
+          "title": "Community & Connection",
+          "items": [
+            "Regular contact: Weekly connection with close people",
+            "Deep friendships: Few strong bonds vs. many weak",
+            "Vulnerability: Share real struggles, not just highlights",
+            "Give and receive: Both supporting and being supported",
+            "Community: Group aligned with values",
+            "Professional network: Colleagues and mentors",
+            "Reality: Isolation undermines resilience; connection strengthens it"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Lifelong Learning & Growth",
+          "items": [
+            "Curiosity: Maintain beginner's mind",
+            "Skills: Continuously developing capabilities",
+            "Wisdom: Learning from experiences",
+            "Adaptation: Updating strategies as life changes",
+            "Mentorship: Both having mentors and mentoring others",
+            "Reading: Books, courses, podcasts",
+            "Reflection: Regular integration of lessons",
+            "Growth mindset: Always more to learn and become"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Your Resilience Philosophy",
+          "items": [
+            "What do you believe about life's challenges?",
+            "What role does difficulty play in growth?",
+            "What meaning do you find in struggle?",
+            "What are you building through your experiences?",
+            "How do you want to respond to adversity?",
+            "What legacy do you want your resilience to create?",
+            "Develop: Personal philosophy guides decisions and sustains motivation",
+            "Document: Write it down, review regularly"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the relationship between stress and recovery?",
+          "options": [
+            "Only stress matters",
+            "High performers alternate stress and recovery - both are necessary",
+            "Only recovery matters",
+            "Never stress"
+          ],
+          "correctIndex": 1,
+          "explanation": "High performers alternate stress and recovery. Work hard, rest hard. Without recovery, stress accumulates and burnout approaches. Recovery is strategic, not lazy."
+        },
+        {
+          "question": "How long does resilience building take?",
+          "options": [
+            "One week",
+            "Lifelong practice - marathon, not sprint",
+            "One month",
+            "Until first challenge"
+          ],
+          "correctIndex": 1,
+          "explanation": "Resilience is lifelong practice, not sprint. Life includes ongoing challenges. Requires sustainable practices, regular renewal, evolving strategies, and community."
+        }
+      ]
+    }
+  }
+]
