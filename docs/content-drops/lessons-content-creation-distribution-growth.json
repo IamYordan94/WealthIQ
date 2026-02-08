@@ -1,1 +1,618 @@
-["Continuing in next commit due to length..."]
+[
+  {
+    "id": "platform-strategy",
+    "title": "Platform Strategy & Selection",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Don't be everywhere at once. Master one platform, grow audience, then expand. Each platform has different audience, content style, algorithm. Pick where your audience lives and what matches your strengths. YouTube for long-form video, TikTok for short viral content, LinkedIn for B2B, Twitter for real-time commentary. Start with one."
+        },
+        {
+          "type": "list",
+          "title": "Major Platforms Compared",
+          "items": [
+            "YouTube: Long-form video, searchable, evergreen, monetization strong",
+            "TikTok: Short viral video, young audience, fast growth possible",
+            "Instagram: Visual, Reels + Stories, lifestyle brands",
+            "LinkedIn: B2B, professionals, career content, high-value audience",
+            "Twitter/X: Real-time, text-based, news and commentary",
+            "Substack: Email newsletters, paid subscriptions, owned audience",
+            "Medium: Written long-form, built-in audience",
+            "Podcast: Audio, loyal audience, multitasking friendly"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The platform decision matrix: (1) Where is your target audience? (2) What format do you enjoy creating? (3) What matches your strengths? (4) What can you sustain long-term? Example: If you love writing but hate video, don't force yourself onto YouTube. Start with newsletter or Twitter."
+        },
+        {
+          "type": "list",
+          "title": "Platform-Specific Best Practices",
+          "items": [
+            "YouTube: SEO-optimized titles, 8-15 min videos, thumbnails crucial",
+            "TikTok: Hook in 1 second, trending sounds, 15-60 seconds",
+            "Instagram: High-quality visuals, Reels for reach, Stories for engagement",
+            "LinkedIn: Professional insights, personal stories, text posts perform well",
+            "Twitter: Thread format, reply to trending, 280 characters forces brevity",
+            "Newsletter: Consistent schedule, valuable content, strong subject lines",
+            "Learn native: Each platform has its own language"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Owned vs Rented Platforms",
+          "items": [
+            "Rented: Social media (you don't control, algorithm changes, could lose access)",
+            "Owned: Email list, website, podcast RSS (you control)",
+            "Strategy: Build on rented, convert to owned",
+            "Email list: Most valuable asset, direct access",
+            "Drive to email: Every piece should push toward list",
+            "Diversify: Don't rely on single platform",
+            "Insurance: Platform changes can kill business overnight",
+            "Long-term: Build owned audience you control"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The funnel: Social media attracts attention → Drive to email list → Build relationship → Monetize through products/services. Social is top of funnel, email is where money happens. Most creators fail because they only build rented audience."
+        },
+        {
+          "type": "list",
+          "title": "Multi-Platform Strategy",
+          "items": [
+            "Phase 1: Master one platform (6-12 months)",
+            "Phase 2: Repurpose to second platform",
+            "Phase 3: Add third when sustainable",
+            "Core content: Create once, adapt everywhere",
+            "Platform-specific: Optimize for each platform's format",
+            "Team help: Can't do everything solo at scale",
+            "Automation: Use scheduling tools",
+            "Quality over quantity: Better to crush one than be mediocre on five"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Platform Selection Mistakes",
+          "items": [
+            "Chasing trends: Platform hot today, dead tomorrow",
+            "Where everyone goes: Might not be where your audience is",
+            "Forcing wrong format: Hating video but forcing YouTube",
+            "Too many at once: Spreading thin, mediocre everywhere",
+            "No owned audience: Building only on rented platforms",
+            "Wrong demographic: Your audience isn't on that platform",
+            "Algorithm dependence: Don't diversify, vulnerable",
+            "Ignoring strengths: Pick what you're good at"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the difference between owned and rented platforms?",
+          "options": [
+            "No difference",
+            "Owned (email, website) you control; Rented (social media) controlled by companies",
+            "Owned costs money",
+            "Rented is better"
+          ],
+          "correctIndex": 1,
+          "explanation": "Owned (email list, website): you control. Rented (social media): company controls, algorithm changes, could lose access. Build on rented, convert to owned."
+        },
+        {
+          "question": "How many platforms should beginners start with?",
+          "options": [
+            "All of them",
+            "One - master it first, then expand",
+            "At least five",
+            "None"
+          ],
+          "correctIndex": 1,
+          "explanation": "Start with ONE platform. Master it, build audience, then expand. Better to dominate one than be mediocre on many. Depth beats width."
+        }
+      ]
+    }
+  },
+  {
+    "id": "algorithm-seo",
+    "title": "Understanding Algorithms & SEO",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Algorithms decide who sees your content. Understand them, work with them, grow faster. They're not mysterious—they want same thing you do: keep people engaged. Create engaging content, algorithm rewards you. This lesson breaks down how major algorithms work and how to optimize for discovery."
+        },
+        {
+          "type": "list",
+          "title": "What Algorithms Want",
+          "items": [
+            "Engagement: Likes, comments, shares, saves",
+            "Watch time: How long people stay (video)",
+            "Click-through rate: Do people click your content?",
+            "Completion rate: Do they finish it?",
+            "Saves: Strongest signal on Instagram",
+            "Shares: Shows value, extends reach",
+            "Return viewers: Do people come back?",
+            "Platform time: Does your content keep them on platform?"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Algorithm principle: Platforms make money from ads. More time users spend, more ads shown, more revenue. Your content keeps them engaged = platform rewards you with reach. Simple exchange: deliver engagement, get distribution."
+        },
+        {
+          "type": "list",
+          "title": "YouTube Algorithm",
+          "items": [
+            "CTR + Watch time = Success: Click thumbnail, then stay",
+            "First 30 seconds crucial: Hook them immediately",
+            "Session time: Keep them on YouTube after your video",
+            "SEO matters: Search brings long-term views",
+            "Suggested videos: Major traffic source",
+            "Consistency: Upload schedule matters",
+            "Audience retention: Graph shows where people drop",
+            "Engagement: Comments, likes boost signal"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "TikTok/Instagram Reels Algorithm",
+          "items": [
+            "Completion rate: Most important metric",
+            "Rewatch: Do people watch multiple times?",
+            "Shares: Strong signal of value",
+            "First 3 seconds: Hook or die",
+            "Testing phase: Small audience first, then expands",
+            "Sounds/trends: Using trending audio helps",
+            "Captions: Keep them watching without sound",
+            "Loop: End leads back to start (rewatchability)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "YouTube SEO: Keywords in title, description, tags. Create content people actually search for. Use VidIQ or TubeBuddy to find keywords. Long-tail keywords (specific phrases) easier to rank. Example: 'beginner guitar chords' not just 'guitar'."
+        },
+        {
+          "type": "list",
+          "title": "SEO Fundamentals",
+          "items": [
+            "Keyword research: What do people search?",
+            "Title optimization: Include main keyword naturally",
+            "Description: First 150 characters matter most",
+            "Tags: Relevant keywords (YouTube)",
+            "Hashtags: 3-5 relevant (Instagram, TikTok)",
+            "Transcript: YouTube indexes it (good for SEO)",
+            "Backlinks: Other sites linking to you",
+            "Long-tail: Specific phrases, less competition"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Beating the Algorithm",
+          "items": [
+            "Hook immediately: First 3 seconds decide everything",
+            "Pattern interrupt: Break expectations",
+            "Ask for engagement: 'Comment your answer'",
+            "Create loops: End teases next part",
+            "Batch watch: Series keeps them watching",
+            "Collaborate: Tap into other audiences",
+            "Post consistently: Algorithm rewards regular creators",
+            "Study analytics: Double down on what works"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Algorithm Myths",
+          "items": [
+            "'Shadow banned': Usually just poor content",
+            "'Posting time matters most': Engagement matters more",
+            "'Algorithm hates me': It's neutral, wants engagement",
+            "'Need to post 10x daily': Quality > quantity",
+            "'Algorithm changed': Constantly evolving, adapt",
+            "'Gaming system works': Short-term tricks fail long-term",
+            "'Need millions to succeed': Wrong, engaged niche wins",
+            "Reality: Make engaging content, algorithm rewards you"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What do algorithms prioritize most?",
+          "options": [
+            "Random content",
+            "Content that keeps users engaged and on platform longer",
+            "Content from big accounts only",
+            "Newest posts"
+          ],
+          "correctIndex": 1,
+          "explanation": "Algorithms want engagement. More time users spend, more ads shown, more revenue. Your content keeps them engaged = platform rewards you with reach. Simple exchange."
+        },
+        {
+          "question": "What's most important for TikTok/Reels?",
+          "options": [
+            "Video length",
+            "Completion rate - do people watch to the end?",
+            "Follower count",
+            "Posting time"
+          ],
+          "correctIndex": 1,
+          "explanation": "Completion rate is king. Do people watch to the end? Rewatch multiple times? This signals value. Hook in first 3 seconds, keep them watching, create loops."
+        }
+      ]
+    }
+  },
+  {
+    "id": "audience-building",
+    "title": "Building & Engaging Your Audience",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Followers are vanity metric. Engaged community is real metric. 1,000 engaged fans beat 100,000 ghosts. Build relationships, not just numbers. Engagement compounds: active community attracts more people, creates content ideas, becomes evangelists. This lesson shows how to build real community around your content."
+        },
+        {
+          "type": "list",
+          "title": "Community vs Audience",
+          "items": [
+            "Audience: Watches passively",
+            "Community: Participates actively",
+            "Engagement: Comments, DMs, shares",
+            "Connection: Know you personally (or feel like they do)",
+            "Loyalty: Stick around through ups and downs",
+            "Advocacy: Tell others about you",
+            "Monetization: Community buys, audience scrolls",
+            "Goal: Transform audience into community"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 1% rule: On any platform, 1% create, 9% engage, 90% lurk. Your job: activate lurkers, turn them into engagers. Ask questions, create polls, respond to comments. Make participation easy and rewarding. Community feeling brings people back."
+        },
+        {
+          "type": "list",
+          "title": "Engagement Strategies",
+          "items": [
+            "Respond to comments: Every comment when small, many when big",
+            "Ask questions: End content with specific question",
+            "Polls & surveys: Easy participation",
+            "User-generated content: Feature audience content",
+            "Behind-the-scenes: Show real you",
+            "Vulnerable: Share struggles, not just wins",
+            "Inside jokes: Community-specific references",
+            "Recognize members: Shout out active participants"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "The First 1,000 Followers",
+          "items": [
+            "Hardest part: Building from zero",
+            "Engage actively: Comment on others' content in your niche",
+            "Add value: Helpful comments, not spam",
+            "Collaborate: Partner with similar-sized creators",
+            "Cross-promote: Share across platforms",
+            "Consistent posting: Show up regularly",
+            "Niche down: Specific audience easier to attract",
+            "Patience: Takes 6-12 months typically"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The response rule: Reply to every comment in first hour. Signals engagement to algorithm, builds relationship with commenter, encourages more comments. First hour interaction is highest-leverage activity you can do."
+        },
+        {
+          "type": "list",
+          "title": "Building Email List",
+          "items": [
+            "Lead magnet: Free valuable resource for email",
+            "Clear CTA: Tell them exactly how to join",
+            "Benefits: Why should they give you email?",
+            "Landing page: Dedicated page for sign-up",
+            "Consistency: Email regularly (weekly minimum)",
+            "Value first: Don't just sell, deliver value",
+            "Segmentation: Different emails for different interests",
+            "Growth: Mention in every piece of content"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Creating Superfans",
+          "items": [
+            "Personal touch: Remember names, details",
+            "Exclusive access: Special content for engaged fans",
+            "Early access: Let them see/test things first",
+            "Recognition: Feature them, give shoutouts",
+            "Listen: Ask for feedback, actually use it",
+            "Events: Lives, Q&As, meetups",
+            "Community space: Discord, Facebook group, membership",
+            "Superfans = evangelists: They spread your message"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Engagement Mistakes",
+          "items": [
+            "Ignore comments: Kills engagement",
+            "Generic responses: 'Thanks!' to everyone",
+            "Only promote: All sales, no value",
+            "Ghost periods: Disappear randomly",
+            "Don't ask questions: One-way broadcast",
+            "No personality: Robotic, corporate",
+            "Fake: Trying to be someone you're not",
+            "Scale too early: Lost personal touch that built you"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's more valuable?",
+          "options": [
+            "100,000 ghost followers",
+            "1,000 highly engaged fans who interact and buy",
+            "Follower count only",
+            "Doesn't matter"
+          ],
+          "correctIndex": 1,
+          "explanation": "1,000 engaged fans beat 100,000 ghosts. Engaged community interacts, shares, buys. Ghost followers do nothing. Focus on engagement quality, not vanity metrics."
+        },
+        {
+          "question": "When should you respond to comments?",
+          "options": [
+            "Never",
+            "First hour after posting - signals engagement to algorithm",
+            "Eventually",
+            "Only to some people"
+          ],
+          "correctIndex": 1,
+          "explanation": "Respond in first hour. Signals engagement to algorithm, builds relationship, encourages more comments. Highest-leverage activity you can do after posting."
+        }
+      ]
+    }
+  },
+  {
+    "id": "collaboration-networking",
+    "title": "Collaboration & Networking",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "You don't have to build alone. Collaboration accelerates growth dramatically. Partner with creators in your niche, access their audience, they access yours. Win-win. Networking opens opportunities you can't see alone: sponsorships, partnerships, knowledge, support. This lesson shows how to collaborate strategically."
+        },
+        {
+          "type": "list",
+          "title": "Why Collaborate",
+          "items": [
+            "Audience access: Tap into established audiences",
+            "Credibility: Association with respected creators",
+            "Learning: Pick up tips from others",
+            "Content variety: Fresh perspectives",
+            "Motivation: Community prevents burnout",
+            "Opportunities: Referrals, partnerships, deals",
+            "Faster growth: Exponential vs linear",
+            "Support: Others understand the journey"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Collaboration types: Guest appearances (you on their platform or vice versa), joint content (create together), cross-promotion (shout each other out), roundups (multiple creators contribute), challenges (participate in trends). Start simple: comment on others' content genuinely."
+        },
+        {
+          "type": "list",
+          "title": "Finding Collaboration Partners",
+          "items": [
+            "Similar size: Close follower count (mutually beneficial)",
+            "Same niche: Overlapping but not identical audience",
+            "Complementary: Different expertise, shared audience",
+            "Engaged audience: Quality over quantity",
+            "Values alignment: Similar approach and ethics",
+            "Active: Currently posting consistently",
+            "Approachable: Respond to DMs, friendly",
+            "Where to find: Comments on popular posts, niche hashtags, communities"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "The Outreach Process",
+          "items": [
+            "Engage first: Comment, share their content (weeks before asking)",
+            "Add value: Compliment something specific",
+            "Personal message: Not copy-paste template",
+            "Specific idea: Concrete collaboration proposal",
+            "Win-win: Explain benefit for them",
+            "Low barrier: Make it easy to say yes",
+            "Follow up: If no response, try once more",
+            "Respect no: Move on gracefully"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Example outreach: 'Hey [Name], I've been following your content on [topic] - especially loved your recent post about [specific thing]. I create content on [complementary topic] for similar audience. Would you be interested in [specific collaboration]? I think our audiences would get value from [specific benefit]. No pressure if timing doesn't work!' Personal, specific, valuable."
+        },
+        {
+          "type": "list",
+          "title": "Networking Strategies",
+          "items": [
+            "Online communities: Join Discord, Slack, Facebook groups",
+            "Twitter/X engagement: Reply thoughtfully to bigger creators",
+            "Events: Conferences, meetups, workshops",
+            "Masterminds: Small groups of peers meeting regularly",
+            "Podcasts: Be guest, invite guests",
+            "Comment consistently: Show up regularly",
+            "Give first: Help without expecting return",
+            "Long game: Build real relationships, not transactional"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Collaboration Mistakes",
+          "items": [
+            "Only asking: Take, never give",
+            "Size mismatch: Asking huge creator when you're tiny",
+            "Generic outreach: Copy-paste spam",
+            "No research: Haven't seen their content",
+            "Only benefit you: Don't explain their benefit",
+            "Complex ask: Requiring too much work",
+            "Pushy: Won't take no for answer",
+            "Transactional: Only talk when you want something"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Who should you collaborate with?",
+          "options": [
+            "Only huge creators",
+            "Similar-sized creators in same/complementary niche",
+            "Random people",
+            "No one"
+          ],
+          "correctIndex": 1,
+          "explanation": "Collaborate with similar-sized creators. More mutually beneficial. Same or complementary niche (overlapping audience). Both gain from partnership."
+        },
+        {
+          "question": "What should you do before asking to collaborate?",
+          "options": [
+            "Nothing, just ask",
+            "Engage with their content first for weeks - build relationship",
+            "Send generic message",
+            "Demand collaboration"
+          ],
+          "correctIndex": 1,
+          "explanation": "Engage first for weeks. Comment, share their content, add value. Build relationship before asking. Makes collaboration pitch 10x more likely to work."
+        }
+      ]
+    }
+  },
+  {
+    "id": "monetization-strategy",
+    "title": "Content Monetization Strategy",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Content creation can be lucrative career. Multiple income streams possible: ads, sponsors, products, services, memberships, affiliates. Don't wait until you're 'big enough.' Start monetizing early, even small. Money validates you're providing value. This lesson covers main monetization strategies and when to implement each."
+        },
+        {
+          "type": "list",
+          "title": "Monetization Timeline",
+          "items": [
+            "Day 1: Affiliate links (recommend products you use)",
+            "1K followers: Services (coaching, consulting, freelancing)",
+            "5K followers: Digital products (ebooks, templates, courses)",
+            "10K followers: Sponsorships (brands pay for mentions)",
+            "50K followers: Ad revenue (YouTube Partner, etc)",
+            "100K+ followers: Physical products, events, agencies",
+            "Reality: All timelines vary, these are guidelines",
+            "Don't wait: Start monetizing earlier than you think"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The monetization mistake: waiting too long. You don't need millions of followers. 1,000 true fans spending $100/year = $100K income. Small engaged audience can be profitable. Start offering something early, learn what audience wants, iterate."
+        },
+        {
+          "type": "list",
+          "title": "Revenue Streams",
+          "items": [
+            "Ad revenue: YouTube Partner, TikTok Creator Fund (passive)",
+            "Sponsorships: Brands pay for mentions (active)",
+            "Affiliate marketing: Commission on product recommendations",
+            "Digital products: Courses, ebooks, templates, presets",
+            "Services: Coaching, consulting, freelancing, speaking",
+            "Memberships: Patreon, YouTube membership, exclusive content",
+            "Physical products: Merch, books, physical goods",
+            "Events: Workshops, conferences, meetups"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Sponsorship Strategy",
+          "items": [
+            "When: 10K+ engaged followers",
+            "Relevant brands: Products your audience actually needs",
+            "Media kit: Stats, demographics, engagement rates",
+            "Pitch: Show value you provide to brand",
+            "Pricing: $100 per 10K followers baseline (varies)",
+            "Contract: Get everything in writing",
+            "Disclosure: Always disclose sponsored content (FTC requirement)",
+            "Quality: Only promote what you'd recommend anyway"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Affiliate marketing: Recommend products you use, earn commission. Amazon Associates, ShareASale, individual programs. Disclose affiliate relationship. Only promote what you actually use and believe in. Trust is currency, don't sell it cheaply."
+        },
+        {
+          "type": "list",
+          "title": "Digital Product Creation",
+          "items": [
+            "Solve problem: What does audience struggle with?",
+            "Start small: Ebook or template before full course",
+            "Validate first: Pre-sell before building",
+            "Price: Charge real money, not $7 (devalues work)",
+            "Platform: Gumroad, Teachable, Stan Store, direct",
+            "Promotion: Content marketing to warm audience",
+            "Testimonials: Collect and display social proof",
+            "Improve: Iterate based on feedback"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Service-Based Income",
+          "items": [
+            "Leverage expertise: Charge for knowledge you have",
+            "Coaching: 1-on-1 or group calls",
+            "Consulting: Strategy and advice",
+            "Freelancing: Done-for-you services",
+            "Speaking: Paid presentations, workshops",
+            "Premium: Charge premium, attract serious clients",
+            "Package: Create clear offerings and pricing",
+            "Trade time wisely: Scale with group or digital eventually"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Monetization Mistakes",
+          "items": [
+            "Waiting too long: 'Not ready yet' syndrome",
+            "Selling out: Promoting crap for money",
+            "No transparency: Not disclosing paid partnerships",
+            "Price too low: Devalues your work",
+            "One income stream: Vulnerable to changes",
+            "All selling: No value content, just promotion",
+            "No testing: Building before validating demand",
+            "Guilt: Charging for value you provide"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "When should you start monetizing?",
+          "options": [
+            "After 1 million followers",
+            "Earlier than you think - start with affiliate links day 1",
+            "Never",
+            "After 10 years"
+          ],
+          "correctIndex": 1,
+          "explanation": "Start earlier than you think. Day 1: affiliate links. 1K followers: services. Don't wait for millions. 1,000 true fans = viable income. Test monetization early."
+        },
+        {
+          "question": "What's the '1,000 true fans' principle?",
+          "options": [
+            "Need 1 million followers",
+            "1,000 fans spending $100/year = $100K income - small engaged audience is profitable",
+            "Need 1,000 products",
+            "Wait for 1,000 years"
+          ],
+          "correctIndex": 1,
+          "explanation": "1,000 true fans spending $100/year = $100K income. You don't need millions. Small engaged audience buying your products/services = profitable business."
+        }
+      ]
+    }
+  }
+]
