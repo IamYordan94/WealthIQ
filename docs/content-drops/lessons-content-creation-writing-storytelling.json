@@ -1,0 +1,570 @@
+[
+  {
+    "id": "writing-fundamentals",
+    "title": "Writing Fundamentals",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Good writing is clear thinking. Whether you create videos, podcasts, or social posts—all start with words. Writing is foundation skill for all content. The difference between good and great content is often writing quality. This lesson teaches principles that make your content clearer, more engaging, and more persuasive."
+        },
+        {
+          "type": "list",
+          "title": "Core Writing Principles",
+          "items": [
+            "Clarity: Write to be understood, not to impress",
+            "Brevity: Shorter is usually better (but not always)",
+            "Simplicity: Use simple words for complex ideas",
+            "Specificity: Concrete details beat vague generalities",
+            "Active voice: 'I did X' not 'X was done by me'",
+            "One idea per sentence: Don't overload",
+            "Show, don't tell: Examples over explanations",
+            "Edit ruthlessly: First draft is never final"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The #1 writing rule: Say it simply. Fancy words don't make you look smart—clear communication does. Write for 8th grade reading level. Not because audience is dumb, but because everyone prefers easy-to-read content. Save their mental energy for your ideas, not decoding your sentences."
+        },
+        {
+          "type": "list",
+          "title": "Sentence Structure",
+          "items": [
+            "Vary length: Mix short and long sentences",
+            "Short for impact: Powerful statements deserve own sentence",
+            "Long for explanation: Complex ideas need more words",
+            "One-sentence paragraphs: Grab attention",
+            "Rhythm matters: Read aloud to check flow",
+            "Active voice preferred: More direct and engaging",
+            "Cut filler words: Very, really, just, actually"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Paragraph Construction",
+          "items": [
+            "One idea per paragraph: Stay focused",
+            "Topic sentence: State main point upfront",
+            "Supporting details: Elaborate with examples",
+            "Short paragraphs: 2-4 sentences for online content",
+            "White space: Makes content scannable",
+            "Transitions: Connect paragraphs smoothly",
+            "Vary length: All same-length paragraphs bore readers"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Hemingway Editor (free online tool) highlights complex sentences, passive voice, adverbs. Run your writing through it. Aim for Grade 8-10 readability. Your goal: make complex ideas accessible, not sound sophisticated."
+        },
+        {
+          "type": "list",
+          "title": "The Editing Process",
+          "items": [
+            "Write drunk, edit sober: First draft is for ideas",
+            "Wait: Let piece sit before editing (hours or days)",
+            "Read aloud: Catch awkward phrasing",
+            "Cut 20%: Almost everything improves by trimming",
+            "Remove: Redundancy, filler, obviousness",
+            "Strengthen: Replace weak words with strong ones",
+            "Check flow: Each sentence leads naturally to next",
+            "Final read: Catch remaining typos and errors"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Common Mistakes",
+          "items": [
+            "Purple prose: Overly flowery language",
+            "Jargon overload: Industry terms audience doesn't know",
+            "Passive voice: 'Mistakes were made' vs 'I made mistakes'",
+            "Weak verbs: 'Is,' 'was,' 'has' (use action verbs)",
+            "Adverb abuse: 'Very,' 'really,' 'extremely'",
+            "No examples: Abstract concepts without concrete illustrations",
+            "No editing: Publishing first draft",
+            "Too perfect: Sounds robotic, not human"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What reading level should you aim for?",
+          "options": [
+            "College level to sound smart",
+            "Grade 8-10 for clarity and accessibility",
+            "As complex as possible",
+            "Kindergarten"
+          ],
+          "correctIndex": 1,
+          "explanation": "Aim for Grade 8-10 reading level. Not because audience is unsmart, but because everyone prefers easy-to-read content. Clear communication is impressive, fancy words aren't."
+        },
+        {
+          "question": "What should you do before editing?",
+          "options": [
+            "Edit immediately",
+            "Let piece sit (hours/days), return with fresh eyes",
+            "Never edit",
+            "Ask someone else first"
+          ],
+          "correctIndex": 1,
+          "explanation": "Let writing sit before editing. Fresh eyes catch issues you miss immediately after writing. Distance creates objectivity. Then edit ruthlessly."
+        }
+      ]
+    }
+  },
+  {
+    "id": "hooks-headlines",
+    "title": "Hooks & Headlines That Convert",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Your headline determines if anyone reads your content. Great content with weak headline = invisible. Average content with strong headline = viral. First job: make people stop scrolling. Second job: make them click. This lesson teaches formulas that work across all platforms and formats."
+        },
+        {
+          "type": "list",
+          "title": "What Makes a Great Hook",
+          "items": [
+            "Pattern interrupt: Breaks scroll/expectation",
+            "Curiosity gap: Creates unanswered question",
+            "Specificity: Numbers, details, concrete claims",
+            "Relevance: Speaks directly to audience pain/desire",
+            "Promise: Clear benefit for consuming content",
+            "Urgency: Time-sensitive or FOMO element",
+            "Simplicity: Easy to understand at glance",
+            "Emotional trigger: Connects to feeling"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 4 U's formula for headlines: Useful (provides benefit), Urgent (act now), Unique (stands out), Ultra-specific (concrete details). Example: 'Save money' vs 'Save $5,847 in 6 months with these 3 apps' (specific, useful, unique, implies urgency)."
+        },
+        {
+          "type": "list",
+          "title": "Proven Headline Formulas",
+          "items": [
+            "Number + Adjective + Keyword + Promise: '7 Simple Ways to...'",
+            "How to [Desirable Outcome] Without [Common Obstacle]",
+            "Why [Surprising Fact] and What It Means for You",
+            "[Number] Lessons I Learned from [Experience]",
+            "The [Adjective] Guide to [Desired Result]",
+            "What [Successful Person/Company] Knows About [Topic]",
+            "[Do Something] Like [Expert/Pro] Without [Barrier]",
+            "The Only [Number] [Things] You Need to [Outcome]"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Social Media Hooks",
+          "items": [
+            "Opening line is crucial: First 1-2 sentences decide scroll or read",
+            "Personal story: 'I lost $10K making this mistake...'",
+            "Controversial: 'Hot take: [Popular belief] is wrong'",
+            "Question: 'Are you making this expensive mistake?'",
+            "Shocking stat: '92% of people don't know this...'",
+            "'You' language: Speak directly to reader",
+            "Relatable: 'If you've ever felt...'",
+            "Pattern break: Start opposite of expected"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "A/B test your headlines. Create 5-10 options, pick best 2-3. Test with small audience or use headline analyzer tools. Small change in headline can double engagement. This is highest-leverage optimization you can make."
+        },
+        {
+          "type": "list",
+          "title": "Curiosity Gap Technique",
+          "items": [
+            "Create tension: Start question, don't immediately answer",
+            "Incomplete: 'The secret to X is...' (then make them click)",
+            "Unexpected: Go against common assumption",
+            "Tease result: 'Here's how I [amazing result]' (explain inside)",
+            "Mystery: 'This one thing changed everything...'",
+            "Don't clickbait: Deliver on promise inside content",
+            "Balance: Intriguing but not misleading"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "What to Avoid",
+          "items": [
+            "Vague: 'Things you should know' (what things?)",
+            "Generic: 'Tips for success' (everyone says this)",
+            "Clickbait: Overpromise, underdeliver",
+            "Too clever: Confusing wordplay nobody gets",
+            "Too long: Can't read at glance",
+            "No benefit: Doesn't tell why reader should care",
+            "All caps: Looks spammy",
+            "Overused: 'You won't believe...' (yes, we will)"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What are the 4 U's of great headlines?",
+          "options": [
+            "Useful, Urgent, Unique, Ultra-specific",
+            "Useful, Urgent, Unique, Ultra-specific - concrete benefit with specificity",
+            "Universal, Unclear, Unusual, Ultimate",
+            "Useful, Urgent, Unknown, Unlimited"
+          ],
+          "correctIndex": 1,
+          "explanation": "4 U's: Useful (benefit), Urgent (act now), Unique (stands out), Ultra-specific (concrete details). Example: '7 Proven Ways to...' vs 'Some Ways to...'"
+        },
+        {
+          "question": "What's the curiosity gap technique?",
+          "options": [
+            "Lying in headlines",
+            "Creating intriguing tension that makes people want to know more",
+            "Being vague on purpose",
+            "Leaving content incomplete"
+          ],
+          "correctIndex": 1,
+          "explanation": "Curiosity gap: Create tension between what reader knows and wants to know. Intrigue without misleading. Must deliver on promise. Balance is key."
+        }
+      ]
+    }
+  },
+  {
+    "id": "storytelling-structure",
+    "title": "Storytelling Structure",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Facts tell, stories sell. People remember stories 22x better than facts alone. Stories create emotional connection, build trust, make content memorable. Every great piece of content has story structure underneath—even if subtle. Master this, your content resonates deeper and converts better."
+        },
+        {
+          "type": "list",
+          "title": "Why Stories Work",
+          "items": [
+            "Emotional: Engage feelings, not just logic",
+            "Memorable: Brain retains stories better than facts",
+            "Relatable: 'That could be me'",
+            "Persuasive: Lower resistance to your message",
+            "Entertaining: Keep attention longer",
+            "Authentic: Shows your human side",
+            "Universal: Work across all platforms and formats"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The Hero's Journey (simplified): Ordinary world → Problem appears → Struggle to solve → Discovery/transformation → New normal with lesson. Your audience is hero, you're guide. Show them their transformation is possible because you've been there."
+        },
+        {
+          "type": "list",
+          "title": "Classic Story Structures",
+          "items": [
+            "Before-After-Bridge: Problem → Solution → How to get there",
+            "Problem-Agitate-Solve: Issue → Make it worse → Present solution",
+            "Hero's Journey: Ordinary → Challenge → Transformation",
+            "Star-Story-Solution: Hook → Story → Lesson/Offer",
+            "AIDA: Attention → Interest → Desire → Action",
+            "3-Act Structure: Setup → Confrontation → Resolution",
+            "All work: Pick one, practice until natural"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Story Elements",
+          "items": [
+            "Character: Who is this about? (you, client, student)",
+            "Conflict: What's the problem or obstacle?",
+            "Stakes: Why does it matter? What's at risk?",
+            "Turning point: Moment of change or realization",
+            "Resolution: How it ended or lesson learned",
+            "Emotion: How characters felt throughout",
+            "Sensory details: Make it vivid and real",
+            "Lesson: What should audience take away?"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Personal stories build trust faster than credentials. Vulnerability is strength in content creation. Share failures, struggles, embarrassing moments. Your audience connects with human, not highlight reel. The mess is part of the message."
+        },
+        {
+          "type": "list",
+          "title": "Types of Stories to Tell",
+          "items": [
+            "Origin story: How you got started",
+            "Transformation: Before/after journey",
+            "Failure story: What went wrong and lesson",
+            "Client/customer story: Their success",
+            "Behind-the-scenes: Your process, struggles",
+            "Case study: Detailed analysis with story arc",
+            "Metaphor: Use analogy to explain concept",
+            "Day-in-life: What it's really like"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Storytelling Mistakes",
+          "items": [
+            "No point: Story without clear lesson",
+            "Too long: Rambling without structure",
+            "No conflict: Boring without stakes",
+            "Fake vulnerability: Only sharing wins",
+            "No details: Vague and unmemorable",
+            "Wrong audience: Story they can't relate to",
+            "No transition: Lesson doesn't connect to story",
+            "Overuse: Every piece doesn't need elaborate story"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Why are stories more effective than facts?",
+          "options": [
+            "They're not",
+            "Stories are 22x more memorable, create emotional connection",
+            "Facts don't matter",
+            "Stories are easier to write"
+          ],
+          "correctIndex": 1,
+          "explanation": "Stories are 22x more memorable than facts alone. They create emotional connection, build trust, make content relatable. Facts tell, stories sell. Combine both."
+        },
+        {
+          "question": "What's the Before-After-Bridge structure?",
+          "options": [
+            "Random story format",
+            "Problem → Solution → How to get there (simple, effective structure)",
+            "Complex academic structure",
+            "Only for long content"
+          ],
+          "correctIndex": 1,
+          "explanation": "Before-After-Bridge: Show problem (before), show solution (after), explain how to get there (bridge). Simple, versatile, works for any content type."
+        }
+      ]
+    }
+  },
+  {
+    "id": "call-to-action",
+    "title": "Effective Calls-to-Action",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Call-to-action (CTA) tells people what to do next. Without CTA, you leave engagement and conversions on table. Even valuable content needs clear next step. Whether building list, getting comments, or making sale—strong CTA guides audience toward action. This multiplies your content's effectiveness."
+        },
+        {
+          "type": "list",
+          "title": "Types of CTAs",
+          "items": [
+            "Engagement: Like, comment, share, save",
+            "Subscribe: Email list, newsletter, channel",
+            "Follow: Social media, podcast, other platforms",
+            "Click: Website, blog post, resource",
+            "Watch: Next video, related content",
+            "Buy: Product, service, course",
+            "Book: Call, consultation, demo",
+            "Download: Free resource, template, guide"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The CTA hierarchy: Different content goals need different CTAs. Awareness stage: Follow/subscribe. Consideration: Download resource or watch more. Decision: Buy or book. Match CTA to audience readiness. Don't ask for sale too early."
+        },
+        {
+          "type": "list",
+          "title": "CTA Best Practices",
+          "items": [
+            "Be specific: 'Subscribe for weekly tips' vs just 'subscribe'",
+            "One primary: Multiple CTAs confuse and decrease conversion",
+            "Create urgency: Time-limited or scarcity element",
+            "Show benefit: Why should they take action?",
+            "Make it easy: Remove friction, one-click if possible",
+            "Strategic placement: End of content, but can repeat",
+            "Use action words: Start with verb (Get, Download, Join)",
+            "Test variations: Small changes improve conversion significantly"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "CTA Formulas",
+          "items": [
+            "Action + Benefit: 'Subscribe for weekly productivity tips'",
+            "If/Then: 'If you found this helpful, share it'",
+            "Question + Action: 'Want more? Follow for daily content'",
+            "Direct ask: 'Drop a comment with your biggest takeaway'",
+            "Soft CTA: 'Check out my other video on this topic'",
+            "Free offer: 'Download my free template'",
+            "Exclusivity: 'Join 10,000+ people getting this newsletter'",
+            "Social proof: 'See why 5,000 students enrolled'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The P.S. technique: Add P.S. at end with CTA. People skip to end, catch P.S., often act. Psychology: P.S. feels personal, less salesy. Example: 'P.S. If you found this helpful, grab my free resource at [link]'. Simple but effective."
+        },
+        {
+          "type": "list",
+          "title": "Platform-Specific CTAs",
+          "items": [
+            "YouTube: 'Like, comment, subscribe' + bell icon",
+            "Instagram: 'Save this for later' (boosts reach)",
+            "LinkedIn: 'Repost if this resonates' (expands network)",
+            "TikTok: 'Follow for part 2' (creates series)",
+            "Blog: Email opt-in, related posts",
+            "Email: Reply, click link, take survey",
+            "Podcast: Rate, review, share episode",
+            "Match to platform: What's natural for that space"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "CTA Mistakes",
+          "items": [
+            "No CTA: Leaving action to chance",
+            "Too many: Paralyzes with choices",
+            "Vague: 'Check my stuff' (check what exactly?)",
+            "Buried: Hidden where nobody sees",
+            "No value: Doesn't explain why they should act",
+            "Too salesy: Pushes too hard too soon",
+            "Complex: Multiple steps discourage action",
+            "Inconsistent: Different CTA every post confuses"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How many primary CTAs should each piece have?",
+          "options": [
+            "As many as possible",
+            "One primary CTA - multiple CTAs confuse and reduce conversion",
+            "At least five",
+            "None"
+          ],
+          "correctIndex": 1,
+          "explanation": "One primary CTA per piece. Multiple CTAs create decision paralysis and lower conversion. Be clear about main action you want. Can mention secondary softly but emphasize one."
+        },
+        {
+          "question": "What makes a CTA effective?",
+          "options": [
+            "Being vague",
+            "Specific action + clear benefit + easy to do",
+            "Hidden at bottom",
+            "Multiple options"
+          ],
+          "correctIndex": 1,
+          "explanation": "Effective CTA: Specific action ('Subscribe'), clear benefit ('for weekly tips'), easy to do (one click). Use action words, create urgency, show value."
+        }
+      ]
+    }
+  },
+  {
+    "id": "editing-revision",
+    "title": "Editing & Revision Process",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "First drafts are garbage. That's normal. Magic happens in editing. Most creators skip this, publish rough drafts, wonder why content doesn't perform. Professional creators edit ruthlessly. This separates good from great. Editing is where you transform ideas into polished content that resonates and converts."
+        },
+        {
+          "type": "list",
+          "title": "The Three-Pass Method",
+          "items": [
+            "Pass 1 - Structure: Does overall flow make sense? Reorder sections, cut/add parts",
+            "Pass 2 - Clarity: Is everything clear? Simplify complex sentences, add examples",
+            "Pass 3 - Polish: Fix grammar, typos, formatting. Final touches",
+            "Separate passes: Don't try to fix everything at once",
+            "Wait between: Fresh eyes catch more issues",
+            "Each pass faster: Structure takes longest",
+            "Know when done: Perfect is enemy of published"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Read aloud. Seriously. You'll catch awkward phrasing, missing words, confusing sentences you miss reading silently. If you stumble reading it, reader will stumble too. Fix it. This one technique dramatically improves writing quality."
+        },
+        {
+          "type": "list",
+          "title": "What to Cut",
+          "items": [
+            "Redundancy: Saying same thing twice",
+            "Filler words: Just, really, very, actually, basically",
+            "Throat-clearing: Long intro before getting to point",
+            "Obvious statements: 'As you know...' 'It's important to...'",
+            "Weak modifiers: 'Sort of,' 'kind of,' 'pretty much'",
+            "Clichés: Overused phrases everyone's heard",
+            "Off-topic: Interesting but doesn't serve main point",
+            "Rule: Cut 20%: Almost everything improves shorter"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "What to Strengthen",
+          "items": [
+            "Weak verbs: Replace 'is/was/has' with action verbs",
+            "Passive voice: Change to active ('I did' not 'was done')",
+            "Vague words: Replace with specific, concrete terms",
+            "Examples: Add where concepts are abstract",
+            "Transitions: Smooth connections between ideas",
+            "Opening: Hook could be stronger",
+            "Closing: CTA could be clearer",
+            "Impact: Find the punchy one-liners"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The overnight test: Write today, edit tomorrow. Distance creates objectivity. You see content as reader would, not as creator. Catch issues you miss immediately. Rush means mistakes. Schedule gap between writing and editing."
+        },
+        {
+          "type": "list",
+          "title": "Editing Tools",
+          "items": [
+            "Grammarly: Catches errors, suggests improvements (free version works)",
+            "Hemingway Editor: Highlights complex sentences, passive voice",
+            "Read aloud: Microsoft Word, Google Docs have this",
+            "Print it: See errors missed on screen",
+            "Change format: Different view reveals issues",
+            "Fresh environment: Edit somewhere different",
+            "Checklist: Standard items to verify each time"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Video/Audio Editing",
+          "items": [
+            "Cut dead air: Remove long pauses, silence",
+            "Remove ums/ahs: Clean up filler sounds",
+            "Tighten: Cut unnecessary repetition",
+            "B-roll: Add visual interest over talking",
+            "Captions: Essential for accessibility and watch-without-sound",
+            "Music: Background at appropriate times",
+            "Pacing: Keep moving, don't drag",
+            "First 3 seconds: Make them count (people decide fast)"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Why wait between writing and editing?",
+          "options": [
+            "Procrastination",
+            "Fresh eyes catch more issues - distance creates objectivity",
+            "Not necessary",
+            "To forget what you wrote"
+          ],
+          "correctIndex": 1,
+          "explanation": "Waiting creates distance. You see content as reader would, not as creator. Catch issues you miss immediately. Even few hours helps. Better: overnight or next day."
+        },
+        {
+          "question": "What's the #1 editing technique?",
+          "options": [
+            "Fix typos first",
+            "Read aloud - catches awkward phrasing you miss reading silently",
+            "Just publish first draft",
+            "Use lots of tools"
+          ],
+          "correctIndex": 1,
+          "explanation": "Read aloud. You'll catch awkward phrasing, missing words, confusing sentences. If you stumble reading it, reader will too. Simple but incredibly effective technique."
+        }
+      ]
+    }
+  }
+]

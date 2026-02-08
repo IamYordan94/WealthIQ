@@ -1,0 +1,560 @@
+[
+  {
+    "id": "what-is-content-creation",
+    "title": "What is Content Creation?",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Content creation is building an audience by providing value. Text, video, audio, images—any format that delivers information, entertainment, or inspiration. Not just for influencers. Every business, freelancer, and professional needs content skills. Content builds trust, establishes expertise, generates leads, and creates opportunities. This is how you get noticed in 2026."
+        },
+        {
+          "type": "list",
+          "title": "Why Content Creation Matters",
+          "items": [
+            "Visibility: Stand out in crowded markets",
+            "Authority: Establish expertise in your field",
+            "Trust: Build relationships before asking for anything",
+            "Opportunities: Jobs, clients, partnerships find you",
+            "Income: Monetize through ads, sponsors, products, services",
+            "Freedom: Work from anywhere, set your schedule",
+            "Leverage: One piece reaches thousands or millions",
+            "Future-proof: Essential skill for modern careers"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The creator economy is massive: over $100 billion market, millions earning income. Platforms make it easier than ever: YouTube, TikTok, Instagram, LinkedIn, Substack, podcasts. You don't need fancy equipment or big budgets. You need consistency, value, and authenticity. Start where you are with what you have."
+        },
+        {
+          "type": "list",
+          "title": "Content Formats",
+          "items": [
+            "Written: Blogs, newsletters, articles, social posts, ebooks",
+            "Video: YouTube, TikTok, Instagram Reels, shorts",
+            "Audio: Podcasts, audio articles, voice notes",
+            "Visual: Infographics, photos, graphics, memes",
+            "Live: Streams, webinars, Q&As, workshops",
+            "Interactive: Quizzes, polls, calculators, tools",
+            "Hybrid: Combining multiple formats for reach"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "The Creator Mindset",
+          "items": [
+            "Value first: Help before selling",
+            "Consistency: Show up regularly, build habits",
+            "Authenticity: Be yourself, not a copy",
+            "Long-term: Building audience takes time",
+            "Experiment: Test formats, topics, platforms",
+            "Learn in public: Share your journey",
+            "Engage: Respond, build community",
+            "Monetization comes after: Focus on value first"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Common mistake: trying to be everywhere at once. Pick ONE platform, ONE format to start. Master it, build audience, then expand. Depth beats width. Better to have 1,000 engaged followers than 10,000 ghosts. Quality content, consistent schedule, genuine engagement—these are your foundations."
+        },
+        {
+          "type": "list",
+          "title": "Getting Started",
+          "items": [
+            "Pick niche: What you know + what people need",
+            "Choose platform: Where your audience hangs out",
+            "Define format: Text, video, or audio",
+            "Create schedule: Weekly minimum (daily better)",
+            "First 10 pieces: Just publish, don't overthink",
+            "Gather feedback: Learn what resonates",
+            "Refine and repeat: Improve based on data",
+            "Build systems: Make creation sustainable"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What should you focus on first as a content creator?",
+          "options": [
+            "Making money immediately",
+            "Providing value and building trust",
+            "Getting viral",
+            "Fancy equipment"
+          ],
+          "correctIndex": 1,
+          "explanation": "Focus on providing value first. Build trust and help your audience. Monetization comes after you've established authority and audience. Value-first approach wins long-term."
+        },
+        {
+          "question": "How many platforms should beginners start with?",
+          "options": [
+            "All of them",
+            "One platform, master it, then expand",
+            "At least five",
+            "None, wait until perfect"
+          ],
+          "correctIndex": 1,
+          "explanation": "Start with ONE platform and format. Master it, build audience, then expand. Depth beats width. Better to dominate one platform than be mediocre on five."
+        }
+      ]
+    }
+  },
+  {
+    "id": "finding-your-niche",
+    "title": "Finding Your Niche",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Niche is intersection of what you know, what you enjoy, and what people need. Too broad, you're invisible. Too narrow, no audience. The sweet spot: specific enough to stand out, broad enough for sustainable audience. Your niche evolves as you grow. Start somewhere, refine based on what works."
+        },
+        {
+          "type": "list",
+          "title": "The Niche Formula",
+          "items": [
+            "Knowledge: What do you know better than most?",
+            "Passion: What could you talk about for hours?",
+            "Demand: What problems do people actively search for?",
+            "Competition: Can you add unique perspective?",
+            "Monetization: Can people afford to pay for solutions?",
+            "Longevity: Will this still matter in 5 years?",
+            "Overlap: Find where these intersect"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Examples of good niches: 'Productivity for developers' (not just 'productivity'). 'Plant-based meals for athletes' (not just 'vegan recipes'). 'Personal finance for freelancers' (not just 'money tips'). Specificity attracts right audience and repels wrong one. Both are good."
+        },
+        {
+          "type": "list",
+          "title": "Researching Your Niche",
+          "items": [
+            "Search trends: Google Trends, keyword tools",
+            "Competitor analysis: Who's already successful?",
+            "Gaps: What questions aren't being answered?",
+            "Communities: Where does your audience gather?",
+            "Pain points: What frustrates them most?",
+            "Buying behavior: What do they pay for?",
+            "Content gaps: What's missing in existing content?"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Testing Your Niche",
+          "items": [
+            "Create 10 pieces: See what resonates",
+            "Engagement: What gets comments, shares, saves?",
+            "Questions: What do people ask about?",
+            "Growth: Is audience growing consistently?",
+            "Sustainability: Can you maintain this pace?",
+            "Opportunities: Are monetization paths appearing?",
+            "Adjust: Pivot based on feedback and data"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Don't wait for perfect niche. Pick best guess, start creating, adjust based on reality. Your niche finds you as much as you find it. What people respond to might surprise you. Stay flexible, follow the energy, double down on what works."
+        },
+        {
+          "type": "list",
+          "title": "Niche Positioning Strategies",
+          "items": [
+            "Beginner-focused: Help people just starting",
+            "Advanced: Deep expertise for pros",
+            "Specific demographic: Target by age, location, role",
+            "Problem-focused: Solve one specific problem deeply",
+            "Method/framework: Your unique approach",
+            "Personality-driven: You are the differentiator",
+            "Intersection: Combine two interests (yoga + business)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Red Flags to Avoid",
+          "items": [
+            "No demand: Nobody searches for this",
+            "Too competitive: Dominated by huge players",
+            "Fleeting trend: Will die in 6 months",
+            "You hate it: Burnout guaranteed",
+            "No monetization: Can't pay bills with passion alone",
+            "Legal/ethical issues: Risky or problematic content",
+            "Too dependent: On single platform or algorithm"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What makes a good niche?",
+          "options": [
+            "As broad as possible",
+            "Intersection of your knowledge, passion, and audience demand",
+            "Whatever's trending today",
+            "Copy successful creators"
+          ],
+          "correctIndex": 1,
+          "explanation": "Good niche = your knowledge + your passion + audience demand. Specific enough to stand out, broad enough for sustainable audience. Must be able to create consistently and monetize eventually."
+        },
+        {
+          "question": "When should you adjust your niche?",
+          "options": [
+            "Never, stay rigid",
+            "After testing and based on audience feedback and data",
+            "Every week",
+            "Only when it fails completely"
+          ],
+          "correctIndex": 1,
+          "explanation": "Test with real content, watch what resonates, adjust based on data. Your niche evolves. Follow the energy, double down on what works. Be flexible but not chaotic."
+        }
+      ]
+    }
+  },
+  {
+    "id": "content-strategy",
+    "title": "Building a Content Strategy",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Content strategy is your roadmap: what you create, when you publish, how you promote, why it matters to audience. Without strategy, you're throwing spaghetti at wall. With strategy, every piece has purpose. Strategy prevents burnout, maintains consistency, drives results. This separates professionals from hobbyists."
+        },
+        {
+          "type": "list",
+          "title": "Strategy Components",
+          "items": [
+            "Goals: What are you trying to achieve?",
+            "Audience: Who are you serving specifically?",
+            "Value proposition: Why should they follow you?",
+            "Content pillars: 3-5 main topics you cover",
+            "Publishing schedule: How often, what days/times",
+            "Formats: Text, video, audio, or mix",
+            "Distribution: Where and how you share",
+            "Metrics: How you measure success"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Content pillars example for fitness creator: (1) Workout routines, (2) Nutrition tips, (3) Mindset/motivation, (4) Recovery/wellness. Every piece fits under one pillar. This creates cohesive brand, helps planning, ensures variety. Your audience knows what to expect."
+        },
+        {
+          "type": "list",
+          "title": "Content Calendar Planning",
+          "items": [
+            "Monthly themes: Broader topics for each month",
+            "Weekly schedule: Specific pieces and publish times",
+            "Content types: Mix educational, entertaining, inspirational",
+            "Batch creation: Create multiple pieces in one session",
+            "Buffer content: Have extras ready for emergencies",
+            "Seasonal planning: Holiday, events, trends",
+            "Repurposing: One piece becomes many formats"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "The Content Mix",
+          "items": [
+            "Educational (40%): Teach something specific",
+            "Inspirational (30%): Motivate and encourage",
+            "Entertaining (20%): Keep things fun and light",
+            "Promotional (10%): Sell products/services",
+            "Balance: Too much selling repels audience",
+            "Variety: Different types keep audience engaged",
+            "Test ratios: Find what works for your niche"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "90/10 rule: 90% value, 10% promotion. Build trust first, sell second. Your audience will accept occasional promotion if you consistently deliver value. Oversell and they leave. Content is long game. Patience compounds into massive returns."
+        },
+        {
+          "type": "list",
+          "title": "Repurposing Strategy",
+          "items": [
+            "Core content: Long-form blog post or video",
+            "Social snippets: Break into bite-sized pieces",
+            "Different platforms: YouTube → TikTok → Instagram",
+            "Format changes: Blog → video → podcast → infographic",
+            "Quote graphics: Pull key takeaways",
+            "Email newsletter: Deeper dive or summary",
+            "One to many: Create once, distribute everywhere"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Measuring Success",
+          "items": [
+            "Reach: How many people see your content",
+            "Engagement: Likes, comments, shares, saves",
+            "Followers: Growing consistently over time",
+            "Traffic: Website visits from content",
+            "Email list: Subscribers from content",
+            "Conversions: Sales, sign-ups, bookings",
+            "Feedback: Quality of comments and DMs",
+            "Track trends: What's improving or declining"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the 90/10 rule in content?",
+          "options": [
+            "90% promotion, 10% value",
+            "90% value, 10% promotion - build trust before selling",
+            "90% viral, 10% normal",
+            "90% video, 10% text"
+          ],
+          "correctIndex": 1,
+          "explanation": "90% valuable content, 10% promotional. Build trust by consistently delivering value. Audience accepts occasional promotion if you've earned their trust. Overselling repels people."
+        },
+        {
+          "question": "What are content pillars?",
+          "options": [
+            "Random topics",
+            "3-5 main themes your content consistently covers",
+            "Only one topic ever",
+            "Viral content only"
+          ],
+          "correctIndex": 1,
+          "explanation": "Content pillars are 3-5 main themes you consistently cover. Creates cohesive brand, helps planning, ensures variety. Every piece fits under a pillar. Audience knows what to expect."
+        }
+      ]
+    }
+  },
+  {
+    "id": "content-creation-tools",
+    "title": "Essential Tools & Equipment",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "You don't need expensive gear to start. Phone, free software, and internet connection are enough. As you grow, upgrade strategically. Tools should enhance quality without complicating workflow. Best gear is what you actually use consistently. Start simple, add as needed."
+        },
+        {
+          "type": "list",
+          "title": "Writing Tools",
+          "items": [
+            "Google Docs: Free, collaborative, auto-save",
+            "Notion: Organize ideas, content calendar, notes",
+            "Grammarly: Catch errors, improve clarity (free version works)",
+            "Hemingway Editor: Simplify writing, improve readability",
+            "Canva: Create graphics, thumbnails, social posts",
+            "WordPress: Blog hosting (or Medium/Substack to start)",
+            "ChatGPT: Brainstorm ideas, outline, research (use as tool, not replacement)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Video Equipment",
+          "items": [
+            "Smartphone: Modern phones shoot 4K, totally sufficient",
+            "Ring light: $20-50, massive quality improvement",
+            "Microphone: Lav mic ($20) or USB mic ($50-100)",
+            "Tripod: Stabilize shots, $15-30",
+            "Background: Clean wall or simple backdrop",
+            "Later upgrades: DSLR camera, better lighting, editing software",
+            "Don't wait: Start with phone today"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Video Editing Software",
+          "items": [
+            "CapCut: Free, powerful, mobile and desktop",
+            "DaVinci Resolve: Free version is professional-grade",
+            "iMovie: Free for Mac users, simple and effective",
+            "Adobe Premiere Pro: Industry standard ($20/month)",
+            "Final Cut Pro: One-time purchase for Mac ($300)",
+            "Start simple: CapCut or iMovie for beginners",
+            "Learn basics: Cuts, transitions, text, music"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Audio quality matters more than video quality. People will watch ugly video with good audio, but won't tolerate bad audio. Invest in decent microphone before expensive camera. $50 USB mic beats laptop mic dramatically."
+        },
+        {
+          "type": "list",
+          "title": "Podcast Equipment",
+          "items": [
+            "Microphone: USB mic starting at $50 (Blue Snowball, Samson Q2U)",
+            "Headphones: Monitor audio quality while recording",
+            "Recording software: Audacity (free), GarageBand (Mac), Adobe Audition",
+            "Hosting: Anchor (free), Buzzsprout, Libsyn",
+            "Editing: Descript (transcription + editing), Audacity",
+            "Pop filter: Reduces plosives ($10-20)",
+            "Room treatment: Blankets work, acoustic panels if serious"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Productivity & Organization",
+          "items": [
+            "Content calendar: Notion, Trello, Airtable, Google Sheets",
+            "Scheduling tools: Buffer, Hootsuite, Later (auto-post)",
+            "Analytics: Platform native analytics first",
+            "Note-taking: Notion, Evernote, Apple Notes",
+            "Cloud storage: Google Drive, Dropbox for backups",
+            "Time blocking: Dedicated creation time",
+            "Batch creation: Record/write multiple pieces in one session"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Strategic Upgrades",
+          "items": [
+            "Start: Phone, free software, consistent publishing",
+            "Milestone 1 (1K followers): Lighting, microphone",
+            "Milestone 2 (10K followers): Better camera, editing software",
+            "Milestone 3 (50K+ followers): Professional gear, team help",
+            "Revenue-based: Invest profits back into equipment",
+            "Don't over-invest: Gear doesn't guarantee success",
+            "Consistency matters more: Perfect gear but no posts = zero results"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What should beginners prioritize?",
+          "options": [
+            "Expensive camera immediately",
+            "Consistent publishing with basic gear (phone + free software)",
+            "Perfect setup before starting",
+            "All professional equipment"
+          ],
+          "correctIndex": 1,
+          "explanation": "Start with what you have: phone and free software. Consistency matters more than gear. Upgrade strategically as you grow. Perfect gear with zero posts = zero results."
+        },
+        {
+          "question": "What's more important: audio or video quality?",
+          "options": [
+            "Video quality",
+            "Audio quality - people tolerate poor video but not bad audio",
+            "Both equally",
+            "Neither matters"
+          ],
+          "correctIndex": 1,
+          "explanation": "Audio quality matters more. People watch ugly video with good audio, but won't tolerate bad audio. Invest in decent mic ($50) before expensive camera."
+        }
+      ]
+    }
+  },
+  {
+    "id": "ideation-brainstorming",
+    "title": "Content Ideation & Brainstorming",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Never run out of ideas again. Ideas are everywhere when you know where to look. The problem isn't lack of ideas—it's not capturing them systematically. Build idea generation system, maintain swipe file, mine your audience's questions. This lesson gives you frameworks for infinite content ideas."
+        },
+        {
+          "type": "list",
+          "title": "Idea Sources",
+          "items": [
+            "Audience questions: DMs, comments, emails (goldmine)",
+            "Your own struggles: What did you learn the hard way?",
+            "Competitor gaps: What aren't others covering?",
+            "Search queries: What are people searching?",
+            "Trends: What's happening in your niche now?",
+            "Personal experiences: Stories from your journey",
+            "News and current events: React and provide perspective",
+            "Failed attempts: Lessons from mistakes"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The Swipe File: Collection of great content for inspiration. Not copying—studying what works. Save headlines, hooks, formats, structures. When stuck, browse swipe file, adapt patterns to your niche. Build this in Notion, Evernote, or simple Google Doc."
+        },
+        {
+          "type": "list",
+          "title": "Idea Generation Frameworks",
+          "items": [
+            "How-to: Teach specific skill or process",
+            "Listicle: '7 Ways to...' or 'Top 10...'",
+            "Mistake prevention: 'Avoid These 5...'",
+            "Case study: Analyze success or failure",
+            "Comparison: 'X vs Y' or 'Best tool for...'",
+            "Behind-the-scenes: Show your process",
+            "Hot take: Controversial opinion (backed by reasoning)",
+            "Story: Personal experience with lesson",
+            "Interview: Talk with expert",
+            "Curated: Roundup of best resources"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "The Question Method",
+          "items": [
+            "What: 'What is X?' (definitions, explanations)",
+            "Why: 'Why does X matter?' (importance, context)",
+            "How: 'How to do X?' (tutorials, processes)",
+            "When: 'When should you X?' (timing, conditions)",
+            "Who: 'Who needs X?' (audience identification)",
+            "Which: 'Which X is best?' (comparisons, recommendations)",
+            "Where: 'Where to find/do X?' (resources, locations)",
+            "Apply to your niche: Generates hundreds of ideas"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Batch ideation: Don't brainstorm daily. Set aside time weekly or monthly to generate 20-50 ideas at once. You'll be more creative in focused session than scattered daily. Keep running list, add ideas as they strike. Always have backlog ready."
+        },
+        {
+          "type": "list",
+          "title": "Research Tools",
+          "items": [
+            "Google autocomplete: See what people search",
+            "AnswerThePublic: Visualizes search questions",
+            "Reddit: What's being discussed in your niche?",
+            "Quora: What questions do people ask?",
+            "YouTube search: What videos are people watching?",
+            "Twitter search: What's trending in your space?",
+            "Amazon reviews: What problems do people mention?",
+            "Comments sections: Gold mine of questions and objections"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Content Multiplication",
+          "items": [
+            "Update old content: Refresh with new info",
+            "Opposite angle: 'Why you SHOULDN'T...'",
+            "Deeper dive: Turn one point into full piece",
+            "Different format: Blog → video → podcast → carousel",
+            "Different skill level: Beginner vs advanced version",
+            "Different application: Same concept, new context",
+            "Series: Break big topic into multi-part series",
+            "Seasonal: Update for time of year or current events"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the best source for content ideas?",
+          "options": [
+            "Just wing it daily",
+            "Your audience's questions and struggles",
+            "Copy competitors",
+            "Random thoughts"
+          ],
+          "correctIndex": 1,
+          "explanation": "Your audience's questions are gold. They tell you exactly what they need. Mine DMs, comments, emails. Create content answering their specific questions. Guaranteed relevance."
+        },
+        {
+          "question": "When should you brainstorm content ideas?",
+          "options": [
+            "Every single day",
+            "In batch sessions (weekly/monthly), maintain running list",
+            "Never plan ahead",
+            "Only when desperate"
+          ],
+          "correctIndex": 1,
+          "explanation": "Batch ideation: Generate 20-50 ideas in focused session. More creative than daily scrambling. Maintain running list, always have backlog. Never start day without knowing what to create."
+        }
+      ]
+    }
+  }
+]
