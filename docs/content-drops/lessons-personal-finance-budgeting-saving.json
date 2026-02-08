@@ -1,0 +1,409 @@
+[
+  {
+    "id": "budgeting-methods",
+    "title": "Budgeting Methods That Work",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "A budget is simply a plan for your money. It tells your dollars where to go instead of wondering where they went. The best budgeting method is the one you'll actually stick with. Different approaches work for different personalities and situations—the key is finding your fit."
+        },
+        {
+          "type": "list",
+          "title": "50/30/20 Budget Rule",
+          "items": [
+            "50% of income to needs (housing, food, utilities, transportation, insurance)",
+            "30% to wants (dining out, entertainment, hobbies, non-essentials)",
+            "20% to savings and debt repayment (emergency fund, investments, extra debt payments)",
+            "Best for: Beginners who want a simple framework without detailed tracking"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Zero-Based Budget",
+          "items": [
+            "Every dollar is assigned a job before the month begins",
+            "Income minus expenses and savings equals zero",
+            "Provides maximum control and awareness of spending",
+            "Best for: Detail-oriented people who want complete spending control"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Envelope System",
+          "items": [
+            "Cash is divided into physical or digital 'envelopes' for each category",
+            "When an envelope is empty, spending stops in that category",
+            "Creates natural spending limits and tactile awareness",
+            "Best for: People who overspend on variable expenses like groceries or entertainment"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Pay Yourself First",
+          "items": [
+            "Automatically transfer savings/investments on payday",
+            "Live on what remains after saving",
+            "Prioritizes wealth building over consumption",
+            "Best for: People who struggle to save 'leftover' money"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Try a method for 2-3 months before switching. Track your spending for one month without judgment to understand your patterns, then implement a budget. Most people combine elements of different methods—for example, using 50/30/20 with automated savings transfers."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "In the 50/30/20 rule, what does the 20% represent?",
+          "options": [
+            "Entertainment spending",
+            "Housing costs",
+            "Savings and debt repayment",
+            "Utilities and insurance"
+          ],
+          "correctIndex": 2,
+          "explanation": "The 20% in the 50/30/20 rule is allocated to savings, investments, and debt repayment beyond minimum payments."
+        },
+        {
+          "question": "What is the main principle of a zero-based budget?",
+          "options": [
+            "Spending nothing on entertainment",
+            "Every dollar is assigned a purpose before the month starts",
+            "Keeping zero dollars in your checking account",
+            "Having zero debt"
+          ],
+          "correctIndex": 1,
+          "explanation": "Zero-based budgeting means giving every dollar a job (expenses, savings, debt) so that income minus all allocations equals zero."
+        }
+      ]
+    }
+  },
+  {
+    "id": "tracking-spending",
+    "title": "Tracking Your Spending",
+    "duration": "7 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "You can't manage what you don't measure. Tracking spending reveals patterns you're likely unaware of—the daily coffee that costs $1,800 annually, the unused subscriptions draining $50 monthly, or the impulse purchases adding up to hundreds. Most people underestimate their spending by 20-30% without tracking."
+        },
+        {
+          "type": "list",
+          "title": "Manual Tracking Methods",
+          "items": [
+            "Pen and paper: Write every expense in a notebook daily",
+            "Spreadsheet: Create categories and log transactions weekly",
+            "Receipt collection: Keep all receipts and categorize monthly",
+            "Pros: High awareness, no privacy concerns, no cost",
+            "Cons: Time-consuming, easy to forget transactions"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Automated Tracking Tools",
+          "items": [
+            "Budgeting apps: Mint, YNAB, EveryDollar, PocketGuard",
+            "Bank app features: Many banks offer built-in spending categorization",
+            "Credit card tools: Track and categorize all card purchases automatically",
+            "Pros: Effortless, comprehensive, provides insights and trends",
+            "Cons: Subscription costs, requires linking accounts, privacy considerations"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Start with a 30-day tracking challenge without changing behavior—just observe. This baseline reveals your true spending patterns. Then identify your top 3 problem areas (categories where you overspend) and focus improvements there. Even tracking manually for one month annually provides valuable insights."
+        },
+        {
+          "type": "list",
+          "title": "What to Track",
+          "items": [
+            "All expenses: Fixed bills, variable spending, cash purchases",
+            "Income sources: Salary, side income, bonuses, gifts",
+            "Savings transfers: Track as intentional 'expenses' to yourself",
+            "Debt payments: Both minimum and extra principal payments"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Why is tracking spending important?",
+          "options": [
+            "To punish yourself for every purchase",
+            "To reveal spending patterns and identify problem areas",
+            "To eliminate all discretionary spending",
+            "To impress others with your discipline"
+          ],
+          "correctIndex": 1,
+          "explanation": "Tracking spending creates awareness of patterns and helps identify areas for improvement. It's about information, not punishment."
+        },
+        {
+          "question": "What is a benefit of automated tracking tools?",
+          "options": [
+            "They automatically reduce your spending",
+            "They eliminate the need for budgeting",
+            "They effortlessly categorize and track all transactions",
+            "They're always free with no privacy concerns"
+          ],
+          "correctIndex": 2,
+          "explanation": "Automated tools provide effortless, comprehensive tracking by connecting to your accounts, though they don't reduce spending or eliminate budgeting needs."
+        }
+      ]
+    }
+  },
+  {
+    "id": "emergency-fund-building",
+    "title": "Building Your Emergency Fund",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "An emergency fund is your financial safety net—money set aside exclusively for unexpected expenses like job loss, medical bills, car repairs, or home emergencies. Without this buffer, unexpected costs force you into debt, derailing financial progress. It's the foundation that makes all other financial goals possible."
+        },
+        {
+          "type": "list",
+          "title": "Emergency Fund Milestones",
+          "items": [
+            "Starter: $1,000 (covers most minor emergencies, achievable quickly)",
+            "Intermediate: 1 month of expenses (provides breathing room for job search)",
+            "Standard: 3-6 months of expenses (recommended for most people)",
+            "Extended: 9-12 months of expenses (for self-employed, single income households, unstable industries)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Build your emergency fund in stages. First, aggressively save $1,000 while making minimum debt payments. Once reached, split surplus between emergency fund and debt payoff. After reaching 3-6 months, shift focus to debt elimination and investing. The fund should be easily accessible but separate from daily spending accounts."
+        },
+        {
+          "type": "list",
+          "title": "Where to Keep Your Emergency Fund",
+          "items": [
+            "High-yield savings account: Best option, earns interest while remaining liquid",
+            "Money market account: Similar to savings, slightly higher rates, may have minimum balance",
+            "Avoid: Checking accounts (too accessible, low interest), investments (volatility risk), CDs (early withdrawal penalties)",
+            "Keep at a different bank from daily checking to reduce temptation"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Strategies to Build Faster",
+          "items": [
+            "Automate savings: Transfer $X every payday before you see it",
+            "Save windfalls: Tax refunds, bonuses, gifts, side gig income",
+            "Temporarily reduce discretionary spending: Cut one luxury until goal reached",
+            "Sell unused items: Turn clutter into emergency fund cash",
+            "Side income: Dedicate all extra earnings to the fund"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "A true emergency is unexpected, necessary, and urgent. New phones, vacations, and sales are not emergencies. If you use emergency fund money, replenish it immediately before resuming other financial goals. This fund buys peace of mind and financial stability."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the recommended emergency fund target for most people?",
+          "options": [
+            "$1,000 total",
+            "1 month of expenses",
+            "3-6 months of expenses",
+            "$100,000 minimum"
+          ],
+          "correctIndex": 2,
+          "explanation": "Most financial experts recommend 3-6 months of expenses as a complete emergency fund, though you should start with smaller milestones like $1,000."
+        },
+        {
+          "question": "Where should you keep your emergency fund?",
+          "options": [
+            "In your regular checking account",
+            "In the stock market for higher returns",
+            "In a high-yield savings account",
+            "In a 5-year CD for maximum interest"
+          ],
+          "correctIndex": 2,
+          "explanation": "High-yield savings accounts offer the best combination of accessibility, safety, and interest earnings for emergency funds."
+        },
+        {
+          "question": "Which is NOT a true emergency?",
+          "options": [
+            "Unexpected car repair after accident",
+            "Emergency room visit",
+            "Black Friday sale on desired TV",
+            "Job loss requiring funds during unemployment"
+          ],
+          "correctIndex": 2,
+          "explanation": "Sales and wants, even discounted ones, are not emergencies. True emergencies are unexpected, necessary, and urgent situations."
+        }
+      ]
+    }
+  },
+  {
+    "id": "automation-systems",
+    "title": "Automating Your Finances",
+    "duration": "7 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Automation removes willpower from financial success. By setting up systems that move money automatically, you eliminate decision fatigue, late fees, and the temptation to skip savings. It's the difference between hoping you'll save each month and guaranteeing it happens. Most wealthy people automate ruthlessly—it's not about discipline, it's about systems."
+        },
+        {
+          "type": "list",
+          "title": "What to Automate",
+          "items": [
+            "Savings transfers: Move money to savings/investment accounts on payday",
+            "Bill payments: Set all fixed expenses (rent, utilities, insurance) to autopay",
+            "Debt payments: Automate minimums, schedule extra payments if possible",
+            "Retirement contributions: 401(k) from paycheck, IRA auto-transfers monthly",
+            "Investment purchases: Dollar-cost averaging with automatic investments"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Set up your automation based on pay schedule. If paid biweekly, split monthly amounts in half. If paid monthly, automate everything for 2-3 days after payday. Always automate savings first (pay yourself first), then fixed bills, then debt beyond minimums. Whatever remains is guilt-free spending money."
+        },
+        {
+          "type": "list",
+          "title": "Creating Your Automation Schedule",
+          "items": [
+            "Day 1 (Payday): Emergency fund transfer, investment contributions",
+            "Day 3: Rent/mortgage payment (if not already auto-paid)",
+            "Day 5: Other fixed bills (utilities, insurance, subscriptions)",
+            "Day 7: Extra debt payment if applicable",
+            "Remainder of month: Spend what's left without guilt"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Automation Safeguards",
+          "items": [
+            "Keep a buffer in checking (1-2 weeks expenses) to prevent overdrafts",
+            "Review automated transactions monthly to catch errors",
+            "Set up low balance alerts on all accounts",
+            "Update automation when income or expenses change",
+            "Don't automate variable expenses that fluctuate significantly"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Start by automating one thing this week—perhaps your savings transfer. Once that's smooth, add another. Within 2-3 months, you'll have a complete system requiring minimal mental energy. Check in monthly to ensure everything's working, but otherwise, let the system run on autopilot."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the main benefit of financial automation?",
+          "options": [
+            "It increases your income",
+            "It eliminates the need for budgeting",
+            "It removes willpower from financial success",
+            "It prevents all spending"
+          ],
+          "correctIndex": 2,
+          "explanation": "Automation creates systems that guarantee financial actions happen without requiring daily willpower or decision-making."
+        },
+        {
+          "question": "What should you automate first according to 'pay yourself first' principle?",
+          "options": [
+            "Bill payments",
+            "Savings and investment transfers",
+            "Discretionary spending",
+            "Debt minimum payments"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Pay yourself first' means prioritizing savings and investments by automating those transfers first, before other expenses."
+        }
+      ]
+    }
+  },
+  {
+    "id": "cutting-expenses",
+    "title": "Smart Ways to Cut Expenses",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Cutting expenses isn't about deprivation—it's about eliminating waste and spending intentionally on what truly matters. The goal is to reduce expenses that don't enhance your life while maintaining or increasing spending on genuine priorities. A dollar saved is a dollar that can be invested to generate returns forever."
+        },
+        {
+          "type": "list",
+          "title": "High-Impact Fixed Expense Reductions",
+          "items": [
+            "Housing: Negotiate rent, get roommates, refinance mortgage, move to lower-cost area",
+            "Transportation: Buy used not new, bike/public transit, carpool, negotiate insurance",
+            "Insurance: Shop competitors annually, bundle policies, increase deductibles",
+            "Phone/Internet: Call to negotiate, switch to budget providers, eliminate cable",
+            "Subscriptions: Audit quarterly, cancel unused services, share family plans"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Variable Expense Optimization",
+          "items": [
+            "Groceries: Meal plan, shop sales, use store brands, buy in bulk, reduce food waste",
+            "Dining out: Set weekly limit, use lunch specials, cook special meals at home",
+            "Entertainment: Use library, free community events, one streaming service, matinee movies",
+            "Shopping: 24-hour rule, cash-only, unsubscribe from marketing emails, avoid stores"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Focus on big wins first. Negotiating rent down $100/month saves $1,200 annually—that's worth hours of effort. Skipping one $5 coffee daily saves $1,825 annually. Attack large recurring expenses before obsessing over small purchases. A 10% reduction in housing, transportation, and food often exceeds 50% cuts in entertainment."
+        },
+        {
+          "type": "list",
+          "title": "Expenses Worth Keeping",
+          "items": [
+            "Health: Quality food, gym membership you use, medical care, mental health support",
+            "Education: Books, courses, conferences that increase earning potential",
+            "Relationships: Experiences with loved ones, meaningful gifts, quality time",
+            "Efficiency: Tools that save significant time, reliable transportation for work",
+            "Joy: Hobbies and interests that genuinely enhance life quality"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 'latte factor' is real but shouldn't dominate your focus. Yes, small daily expenses compound, but frugality fatigue from denying every small pleasure leads to burnout and binge spending. Instead, automate savings first, cut the biggest expenses, then enjoy what remains guilt-free. Life is meant to be lived, not just survived."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Why should you focus on fixed expenses first when cutting costs?",
+          "options": [
+            "They're easier to cut than variable expenses",
+            "Small reductions create large annual savings",
+            "Variable expenses can't be reduced",
+            "Fixed expenses are always unnecessary"
+          ],
+          "correctIndex": 1,
+          "explanation": "Fixed expenses repeat monthly, so even small reductions compound into significant annual savings with one-time effort."
+        },
+        {
+          "question": "Which expense is typically worth keeping rather than cutting?",
+          "options": [
+            "Unused gym membership you never visit",
+            "Five streaming services you rarely watch",
+            "Books and courses that increase your earning potential",
+            "Daily expensive takeout from convenience"
+          ],
+          "correctIndex": 2,
+          "explanation": "Investments in education and skills that increase earning potential often provide returns far exceeding their cost."
+        },
+        {
+          "question": "What is 'frugality fatigue'?",
+          "options": [
+            "Being tired from working extra jobs",
+            "Burnout from denying every small pleasure, leading to binge spending",
+            "The effort required to clip coupons",
+            "Exhaustion from shopping sales"
+          ],
+          "correctIndex": 1,
+          "explanation": "Frugality fatigue occurs when extreme penny-pinching leads to burnout and eventual overspending as a reaction."
+        }
+      ]
+    }
+  }
+]
