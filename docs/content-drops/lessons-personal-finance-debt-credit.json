@@ -1,0 +1,442 @@
+[
+  {
+    "id": "understanding-debt",
+    "title": "Understanding Good vs Bad Debt",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Not all debt is created equal. While the goal is to live debt-free eventually, some debt can be a tool for building wealth while other debt destroys it. The difference lies in what you're borrowing for, the interest rate, and whether the asset appreciates or depreciates over time."
+        },
+        {
+          "type": "list",
+          "title": "Good Debt Characteristics",
+          "items": [
+            "Low interest rate (typically under 6%)",
+            "Finances appreciating assets or income-producing investments",
+            "Increases net worth or earning potential over time",
+            "Examples: Mortgage on primary home, student loans for valuable degrees, small business loans with solid plans"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Bad Debt Characteristics",
+          "items": [
+            "High interest rate (10%+ is problematic, 20%+ is predatory)",
+            "Finances depreciating assets or consumables",
+            "Decreases net worth and creates ongoing obligations",
+            "Examples: Credit card debt, payday loans, auto loans on new cars, consumer debt for wants"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Even 'good debt' should be used strategically. A mortgage makes sense when housing costs less to own than rent, rates are reasonable, and you plan to stay long-term. Student loans work when the degree significantly increases earning potential. The test: will this debt help you earn more, save more, or build appreciating assets?"
+        },
+        {
+          "type": "list",
+          "title": "Debt Warning Signs",
+          "items": [
+            "Making only minimum payments each month",
+            "Using new credit to pay existing debt",
+            "Debt payments exceed 36% of gross income",
+            "Losing sleep or experiencing stress about money",
+            "Hiding purchases or debt from family"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The ultimate goal is using no debt at all. Even mortgages, while often reasonable, represent risk and interest payments. Work toward a debt-free life where you own everything outright and owe nothing to anyone. This provides maximum freedom, flexibility, and peace of mind."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What makes debt 'good' debt?",
+          "options": [
+            "It has low monthly payments",
+            "It finances appreciating assets or increases earning potential",
+            "It's from a bank rather than a credit card",
+            "The interest rate is tax-deductible"
+          ],
+          "correctIndex": 1,
+          "explanation": "Good debt finances assets that appreciate or investments that increase your earning power, ideally at low interest rates."
+        },
+        {
+          "question": "Which is an example of bad debt?",
+          "options": [
+            "Mortgage on a primary residence",
+            "Student loan for medical school",
+            "Credit card debt from vacation purchases",
+            "Business loan to purchase income-generating equipment"
+          ],
+          "correctIndex": 2,
+          "explanation": "Credit card debt for consumables like vacations is bad debt—high interest financing depreciating experiences with no return."
+        }
+      ]
+    }
+  },
+  {
+    "id": "debt-payoff-strategies",
+    "title": "Debt Payoff Strategies",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Multiple proven methods exist for eliminating debt. The best strategy depends on your personality, debt situation, and what motivates you. The most important factor isn't which method you choose—it's starting immediately and staying consistent. Every dollar toward debt principal is a guaranteed return equal to that debt's interest rate."
+        },
+        {
+          "type": "list",
+          "title": "Debt Snowball Method",
+          "items": [
+            "List debts smallest to largest regardless of interest rate",
+            "Make minimum payments on all debts except smallest",
+            "Attack smallest debt with all extra money until eliminated",
+            "Roll that payment into next smallest debt, creating a 'snowball'",
+            "Best for: People who need quick wins for motivation"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Debt Avalanche Method",
+          "items": [
+            "List debts by interest rate, highest to lowest",
+            "Make minimum payments on all debts except highest-rate",
+            "Attack highest-rate debt with all extra money",
+            "Move to next highest rate once first is paid off",
+            "Best for: People motivated by math and maximum interest savings"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The avalanche saves more money in interest mathematically, but the snowball provides psychological wins faster. Research shows snowball method has higher completion rates because small victories maintain motivation. If you have high-interest debt (over 15%), however, the avalanche's savings become significant enough to prioritize."
+        },
+        {
+          "type": "list",
+          "title": "Accelerating Debt Payoff",
+          "items": [
+            "Refinance high-interest debt to lower rates when possible",
+            "Use windfalls (bonuses, tax refunds, gifts) for lump-sum payments",
+            "Temporarily reduce discretionary spending to increase payments",
+            "Start a side hustle and dedicate all income to debt",
+            "Sell unused possessions and apply proceeds to principal"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Balance Transfer Considerations",
+          "items": [
+            "0% intro APR cards can provide breathing room on high-interest debt",
+            "Calculate transfer fees (usually 3-5%) against interest savings",
+            "Only worth it if you can pay off balance before promotional period ends",
+            "Requires discipline—don't accumulate new debt on old cards"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Create a debt payoff plan today. List all debts with balances, rates, and minimum payments. Choose snowball or avalanche. Calculate how much extra you can pay monthly. Set a target debt-free date and track progress. Visualizing the finish line maintains motivation through the months or years ahead."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the debt snowball method?",
+          "options": [
+            "Paying debts with highest interest first",
+            "Paying debts from smallest balance to largest",
+            "Making only minimum payments",
+            "Consolidating all debts into one loan"
+          ],
+          "correctIndex": 1,
+          "explanation": "The debt snowball method prioritizes paying off the smallest debt first for psychological wins, then rolling that payment into the next smallest."
+        },
+        {
+          "question": "Which method saves the most money in interest?",
+          "options": [
+            "Debt snowball",
+            "Debt avalanche",
+            "Making minimum payments only",
+            "Both methods save exactly the same"
+          ],
+          "correctIndex": 1,
+          "explanation": "The debt avalanche (attacking highest interest rate first) saves the most money mathematically, though snowball often has higher completion rates."
+        },
+        {
+          "question": "What should you do with unexpected windfalls during debt payoff?",
+          "options": [
+            "Increase your lifestyle spending",
+            "Save it all for later",
+            "Make lump-sum debt payments",
+            "Invest it in the stock market"
+          ],
+          "correctIndex": 2,
+          "explanation": "Applying windfalls directly to debt principal accelerates payoff and provides a guaranteed return equal to the interest rate you're avoiding."
+        }
+      ]
+    }
+  },
+  {
+    "id": "credit-score-fundamentals",
+    "title": "Credit Score Fundamentals",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Your credit score is a three-digit number (300-850) that represents your creditworthiness. Lenders use it to decide whether to approve loans and what interest rate to charge. The difference between excellent credit (750+) and poor credit (below 600) can mean hundreds of thousands of dollars in extra interest over a lifetime. Credit scores aren't a measure of financial success—they measure how reliably you borrow and repay money."
+        },
+        {
+          "type": "list",
+          "title": "Credit Score Factors (FICO Model)",
+          "items": [
+            "Payment history (35%): On-time vs. late payments, collections, bankruptcies",
+            "Credit utilization (30%): Amount owed vs. credit limits (keep under 30%)",
+            "Length of credit history (15%): Average age of accounts (longer is better)",
+            "Credit mix (10%): Variety of credit types (cards, auto loans, mortgage)",
+            "New credit (10%): Recent applications and hard inquiries"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Credit utilization is the ratio of your credit card balances to limits. Using $3,000 of a $10,000 limit is 30% utilization. High utilization signals risk even if you pay in full monthly. For optimal scores, keep utilization under 10% and never exceed 30%. Pay cards mid-cycle or multiple times monthly to maintain low reported balances."
+        },
+        {
+          "type": "list",
+          "title": "Credit Score Ranges",
+          "items": [
+            "Exceptional (800-850): Best rates, instant approvals, premium rewards cards",
+            "Very Good (740-799): Excellent rates, easy approvals",
+            "Good (670-739): Above-average rates, most approvals",
+            "Fair (580-669): Higher rates, some denials, requires larger down payments",
+            "Poor (300-579): Very high rates, frequent denials, requires secured credit or co-signers"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Checking Your Credit",
+          "items": [
+            "Free credit reports: AnnualCreditReport.com (all 3 bureaus once yearly)",
+            "Free credit scores: Many credit cards, Credit Karma, banks provide free monitoring",
+            "Check reports for errors: Dispute inaccuracies can boost scores quickly",
+            "Checking your own credit never hurts your score (soft inquiry)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "While important for borrowing, don't obsess over your score. The goal is building wealth, not maximizing a number. Once you reach 'good' or better (670+), focus on building assets and income rather than score optimization. Ironically, the wealthy often care least about credit scores because they don't need to borrow money."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the most important factor affecting credit scores?",
+          "options": [
+            "Credit utilization ratio",
+            "Payment history",
+            "Length of credit history",
+            "Income level"
+          ],
+          "correctIndex": 1,
+          "explanation": "Payment history accounts for 35% of your FICO score—consistently paying on time is the single most important factor."
+        },
+        {
+          "question": "What credit utilization ratio is recommended for optimal scores?",
+          "options": [
+            "Under 10%",
+            "30-50%",
+            "50-75%",
+            "It doesn't matter as long as you pay in full"
+          ],
+          "correctIndex": 0,
+          "explanation": "Keeping utilization under 10% is optimal for scores, though staying under 30% is the commonly recommended threshold."
+        },
+        {
+          "question": "Does checking your own credit hurt your score?",
+          "options": [
+            "Yes, every check lowers your score",
+            "Only if you check more than once per year",
+            "No, checking your own credit is a soft inquiry",
+            "Yes, but only for 30 days"
+          ],
+          "correctIndex": 2,
+          "explanation": "Checking your own credit is a soft inquiry that doesn't affect your score. Only hard inquiries from lenders impact scores."
+        }
+      ]
+    }
+  },
+  {
+    "id": "building-credit",
+    "title": "Building Credit Wisely",
+    "duration": "7 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Building credit is necessary in our current financial system, but it should be done strategically without falling into debt. The goal is establishing a strong credit history while avoiding the traps that make credit card companies billions—carrying balances and paying interest. You can build excellent credit while never paying a cent in interest."
+        },
+        {
+          "type": "list",
+          "title": "For Credit Beginners (No Credit History)",
+          "items": [
+            "Secured credit card: Deposit $200-500, use it for small purchases, pay in full monthly",
+            "Authorized user: Ask family member with good credit to add you to their card",
+            "Credit-builder loan: Small loan held in savings account, builds payment history",
+            "Student credit card: If in college, easier approval but watch for high rates"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Smart Credit Card Usage",
+          "items": [
+            "Pay statement balance in full every month—never carry a balance",
+            "Use cards for budgeted expenses you'd make anyway (groceries, gas)",
+            "Set up autopay for full statement balance to never miss payments",
+            "Keep utilization under 30%, ideally under 10%",
+            "Don't close old cards unless they have annual fees you can't justify"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The myth: You must carry a balance to build credit. The truth: Paying in full builds credit just as effectively while avoiding interest. Your card reports to bureaus monthly regardless of whether you carry a balance. Use credit strategically, but live like you're using debit—only spend money you already have."
+        },
+        {
+          "type": "list",
+          "title": "Credit Building Timeline",
+          "items": [
+            "Month 0: Open first credit account (secured card or authorized user)",
+            "Months 1-6: Use lightly and pay in full, score begins appearing around 6 months",
+            "Months 6-12: Score typically reaches 'fair' range with perfect payment history",
+            "Year 1-2: Can qualify for unsecured cards, score climbs to 'good' range",
+            "Year 3+: With continued responsible use, reach 'very good' to 'excellent' range"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Credit building requires patience—there are no shortcuts. Beware of 'credit repair' scams promising quick fixes. Legitimate negative items (late payments, collections) remain on reports for 7 years, bankruptcies for 10. The best strategy is time plus perfect payment history going forward."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Do you need to carry a credit card balance to build credit?",
+          "options": [
+            "Yes, you must pay interest to build credit",
+            "No, paying in full each month builds credit equally well",
+            "Only in the first year",
+            "Yes, but only a small balance"
+          ],
+          "correctIndex": 1,
+          "explanation": "This is a common myth. Paying your statement balance in full each month builds credit perfectly while avoiding interest charges."
+        },
+        {
+          "question": "What is a secured credit card?",
+          "options": [
+            "A card that requires excellent credit",
+            "A card with very high security features",
+            "A card requiring a cash deposit that serves as your credit limit",
+            "A card that's guaranteed to be approved"
+          ],
+          "correctIndex": 2,
+          "explanation": "Secured cards require a cash deposit (typically $200-500) that becomes your credit limit, making them accessible for those with no or poor credit."
+        }
+      ]
+    }
+  },
+  {
+    "id": "avoiding-debt-traps",
+    "title": "Avoiding Debt Traps",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Debt traps are financial products designed to seem helpful but actually keep borrowers in long-term debt cycles. Predatory lenders target people in desperate situations with 'easy' money that comes at astronomical costs. Understanding these traps is essential for protecting your financial future and avoiding decisions that take years to undo."
+        },
+        {
+          "type": "list",
+          "title": "Payday Loans: The Worst Trap",
+          "items": [
+            "Short-term loans ($100-1,000) due on next payday",
+            "Effective APRs often 300-500%, sometimes exceeding 1,000%",
+            "Borrowers typically take 9+ loans per year, unable to escape cycle",
+            "A $300 loan can cost $200+ in fees within weeks",
+            "Alternative: Ask employer for advance, negotiate with creditor, sell items, seek assistance programs"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Other Predatory Products",
+          "items": [
+            "Title loans: Risk losing your car, 300%+ APR typical",
+            "Rent-to-own: Pay 2-3x retail price for furniture/electronics",
+            "Credit card cash advances: 25%+ APR plus immediate fees",
+            "Store credit cards: Often 25-30% APR, tempt with one-time discounts",
+            "Buy now, pay later: Seems convenient but encourages overspending"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The common thread in debt traps is that they're marketed as solutions to immediate problems but create larger long-term problems. The 'easy approval' and 'no credit check' promises come with devastating interest rates that make repayment nearly impossible. If something seems too easy given your financial situation, it's probably predatory."
+        },
+        {
+          "type": "list",
+          "title": "Minimum Payment Trap",
+          "items": [
+            "Credit cards design minimum payments to maximize interest paid",
+            "$5,000 balance at 18% APR: Minimum payments = 15+ years, $6,000+ interest",
+            "Same balance paid at $200/month = 2.5 years, $1,200 interest",
+            "Always pay more than the minimum, preferably full statement balance"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Red Flags of Predatory Lending",
+          "items": [
+            "APR over 36% (predatory), over 100% (unconscionable)",
+            "Aggressive sales tactics and pressure to sign immediately",
+            "Unclear or hidden fees and terms",
+            "No credit check or approval guaranteed regardless of situation",
+            "Encouraging you to lie on applications",
+            "Requiring access to your bank account or car title"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "If you're in a financial emergency, exhaust all legitimate options first: negotiate payment plans with creditors, seek help from family, work overtime or side jobs, sell possessions, or contact local assistance programs. These may feel difficult, but they're infinitely better than predatory debt that can take years to escape."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the typical APR range for payday loans?",
+          "options": [
+            "10-20%",
+            "25-50%",
+            "75-150%",
+            "300-500%+"
+          ],
+          "correctIndex": 3,
+          "explanation": "Payday loans typically carry APRs of 300-500% or more, making them extremely predatory and difficult to repay."
+        },
+        {
+          "question": "What is the 'minimum payment trap'?",
+          "options": [
+            "Being required to make minimum payments",
+            "Making only minimum payments extends debt for years and maximizes interest paid",
+            "Credit cards that have no minimum payment",
+            "A legal requirement to pay minimums"
+          ],
+          "correctIndex": 1,
+          "explanation": "Making only minimum payments keeps you in debt for years or decades and results in paying far more in interest than necessary."
+        },
+        {
+          "question": "What APR is generally considered predatory?",
+          "options": [
+            "Over 10%",
+            "Over 20%",
+            "Over 36%",
+            "Over 50%"
+          ],
+          "correctIndex": 2,
+          "explanation": "Many experts and consumer advocates consider interest rates above 36% APR to be predatory, exploiting borrowers rather than providing fair credit."
+        }
+      ]
+    }
+  }
+]
