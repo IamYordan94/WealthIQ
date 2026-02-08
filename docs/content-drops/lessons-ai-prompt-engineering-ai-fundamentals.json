@@ -1,0 +1,522 @@
+[
+  {
+    "id": "understanding-ai",
+    "title": "Understanding AI & LLMs",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Artificial Intelligence, specifically Large Language Models (LLMs) like ChatGPT, Claude, and Gemini, represents the most significant productivity tool since the internet. These AI systems understand and generate human-like text, enabling automation of writing, analysis, coding, research, and creative tasks. Understanding how AI works helps you use it effectively and recognize its limitations."
+        },
+        {
+          "type": "list",
+          "title": "What Are LLMs?",
+          "items": [
+            "Training: Trained on trillions of words from internet, books, code, conversations",
+            "How they work: Predict next word based on patterns learned from training data",
+            "Not search engines: Don't look up facts, generate responses from learned patterns",
+            "Capabilities: Writing, analysis, coding, math, creative work, tutoring, brainstorming",
+            "Limitations: No real-time data (knowledge cutoff), can hallucinate facts, no true reasoning",
+            "Improvement: Getting better rapidly, what's impossible today may work tomorrow"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Think of LLMs as extremely well-read assistants with photographic memory of training data but no ability to verify current facts or access internet (unless specifically given that capability). They excel at tasks requiring language understanding, pattern recognition, and generation but can confidently state incorrect information. Verification is essential."
+        },
+        {
+          "type": "list",
+          "title": "Major AI Models (2026)",
+          "items": [
+            "ChatGPT (OpenAI): GPT-4 and GPT-4o, excellent general capability, code interpreter, DALL-E integration",
+            "Claude (Anthropic): Claude 3.5 Sonnet, best for analysis and writing, 200k context window",
+            "Gemini (Google): Strong with Google ecosystem integration, good multimodal capabilities",
+            "Copilot (Microsoft): Integrated in Office, Windows, great for workplace productivity",
+            "Open source: Llama 3, Mistral offer free alternatives with trade-offs"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "AI Capabilities",
+          "items": [
+            "Writing: Emails, articles, reports, creative content, editing, summarization",
+            "Analysis: Data analysis, research synthesis, document review, pattern identification",
+            "Coding: Write code, debug, explain code, convert between languages",
+            "Learning: Tutoring, explaining concepts, creating study materials",
+            "Creative: Brainstorming, ideation, content generation, storytelling",
+            "Productivity: Task planning, email management, meeting summaries, research"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The AI divide is real: people who learn to use AI effectively will have 10-100x productivity advantage over those who don't. This isn't optional technology anymore—it's becoming as fundamental as computer literacy. Early adopters who master AI will have significant career and business advantages."
+        },
+        {
+          "type": "list",
+          "title": "AI Limitations",
+          "items": [
+            "Knowledge cutoff: Training data stops at specific date, no awareness of recent events",
+            "Hallucinations: Can confidently state false information that sounds plausible",
+            "No verification: Doesn't check facts or know when it's wrong",
+            "Context limits: Can't process infinite information, has token/word limits",
+            "No true reasoning: Pattern matching, not actual logical reasoning",
+            "Bias: Reflects biases present in training data",
+            "Privacy: Information shared could be used in training or stored"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How do LLMs generate responses?",
+          "options": [
+            "By searching the internet for information",
+            "By predicting next words based on patterns from training data",
+            "By accessing a database of facts",
+            "By true logical reasoning"
+          ],
+          "correctIndex": 1,
+          "explanation": "LLMs predict next words based on patterns learned from massive training data, not by searching or reasoning. Understanding this helps you use them effectively."
+        },
+        {
+          "question": "What is a key limitation of AI?",
+          "options": [
+            "Can't write at all",
+            "Can hallucinate false information confidently",
+            "Only works in English",
+            "Can't process any text"
+          ],
+          "correctIndex": 1,
+          "explanation": "AI can confidently generate false information (hallucination) because it predicts patterns, not verifies facts. Always verify important information."
+        }
+      ]
+    }
+  },
+  {
+    "id": "ai-tools-ecosystem",
+    "title": "AI Tools Ecosystem",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "The AI ecosystem extends far beyond ChatGPT. Hundreds of specialized AI tools exist for specific tasks: image generation, video editing, voice synthesis, code assistance, research, design, and more. Understanding what tools exist and which to use for what tasks multiplies your productivity. The landscape evolves rapidly—what's best today may change in months."
+        },
+        {
+          "type": "list",
+          "title": "Text/Writing AI",
+          "items": [
+            "ChatGPT: General purpose, excellent for most writing tasks",
+            "Claude: Best for long-form analysis, research, writing with nuance",
+            "Jasper: Marketing copy, social media, ads specialized",
+            "Copy.ai: Marketing and sales copy focus",
+            "Grammarly: Writing enhancement, grammar, tone adjustment",
+            "Notion AI: Integrated writing and productivity in Notion"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Image Generation",
+          "items": [
+            "Midjourney: Highest quality artistic images, $10-60/month",
+            "DALL-E 3: Integrated in ChatGPT Plus, good for quick generations",
+            "Stable Diffusion: Open source, free, runs locally, requires technical setup",
+            "Leonardo.ai: Great for consistent characters, game assets",
+            "Adobe Firefly: Integrated in Adobe suite, commercially safe",
+            "Ideogram: Excellent for text in images"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Code & Development",
+          "items": [
+            "GitHub Copilot: Code completion in your editor, $10/month",
+            "Cursor: AI-native code editor, best for AI-assisted coding",
+            "Replit AI: Browser-based coding with AI assistance",
+            "ChatGPT: Debugging, code explanation, learning",
+            "Claude: Complex coding tasks, refactoring, architecture",
+            "v0 (Vercel): Generates UI components from descriptions"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Productivity & Research",
+          "items": [
+            "Perplexity: AI search engine, cites sources, research tool",
+            "Elicit: Research paper analysis, literature reviews",
+            "Otter.ai: Meeting transcription and summaries",
+            "Notion AI: Notes, docs, project management integration",
+            "Mem: AI-powered note-taking and knowledge management",
+            "SciSpace: Scientific paper analysis and explanation"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Tool selection strategy: Start with general tools (ChatGPT, Claude), identify bottlenecks in your workflow, then adopt specialized tools for those specific tasks. Don't subscribe to 20 tools—master 3-5 that cover your needs. Most tasks can be accomplished with ChatGPT Plus ($20/month) and one specialized tool."
+        },
+        {
+          "type": "list",
+          "title": "Video & Audio AI",
+          "items": [
+            "Runway: AI video generation and editing",
+            "Descript: Video/audio editing with AI transcription",
+            "ElevenLabs: Voice synthesis, cloning, text-to-speech",
+            "Synthesia: AI avatar videos for presentations",
+            "Gling: Automatic video editing for content creators",
+            "OpusClip: Shorts generation from long videos"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Choosing Tools",
+          "items": [
+            "Start free: Most tools have free tiers, test before paying",
+            "Specific use case: What exact problem are you solving?",
+            "Integration: Does it work with tools you already use?",
+            "Learning curve: Simpler tools give faster ROI",
+            "Cost: Many offer same capability, don't overpay",
+            "Ecosystem: Tools within same ecosystem often work better together",
+            "Stay updated: New tools and capabilities emerge constantly"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the best strategy for adopting AI tools?",
+          "options": [
+            "Subscribe to every tool available",
+            "Start with general tools, add specialized ones for specific bottlenecks",
+            "Never pay for AI tools",
+            "Only use ChatGPT"
+          ],
+          "correctIndex": 1,
+          "explanation": "Start with general tools like ChatGPT/Claude, identify workflow bottlenecks, then adopt specialized tools for specific needs. Master few tools deeply."
+        },
+        {
+          "question": "Which image generation tool is open source and free?",
+          "options": [
+            "Midjourney",
+            "DALL-E 3",
+            "Stable Diffusion",
+            "Adobe Firefly"
+          ],
+          "correctIndex": 2,
+          "explanation": "Stable Diffusion is open source and can run locally for free, though it requires more technical setup than paid alternatives."
+        }
+      ]
+    }
+  },
+  {
+    "id": "ai-use-cases",
+    "title": "Practical AI Use Cases",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Understanding what AI can do theoretically differs from knowing how to apply it to real work. This lesson covers specific, actionable use cases across professions. The pattern: AI handles routine, time-consuming tasks (research, drafting, analysis) while you focus on judgment, creativity, and strategy. This combination creates superhuman productivity."
+        },
+        {
+          "type": "list",
+          "title": "Writing & Content",
+          "items": [
+            "Email drafting: 'Write professional email declining meeting, warm tone, brief'",
+            "Content outlining: 'Create outline for article about X, include these points'",
+            "Editing: 'Make this more concise/professional/casual' with original text",
+            "Summarization: 'Summarize this 10-page report in 5 bullet points'",
+            "Translation: 'Translate to Spanish, maintain professional tone'",
+            "Repurposing: 'Turn this blog post into 5 LinkedIn posts'"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Research & Analysis",
+          "items": [
+            "Topic research: 'Explain X concept, include history, current state, future trends'",
+            "Competitive analysis: 'Compare companies A, B, C on features, pricing, target market'",
+            "Data analysis: Upload data, 'Find patterns, trends, and anomalies'",
+            "Document review: 'Extract key terms, obligations, and risks from this contract'",
+            "Market research: 'What are top trends in X industry for 2026?'",
+            "Literature review: 'Summarize key findings from these research papers'"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Coding & Technical",
+          "items": [
+            "Code generation: 'Write Python script that does X'",
+            "Debugging: 'This code has error [paste code], help me fix it'",
+            "Code explanation: 'Explain what this function does line by line'",
+            "Conversion: 'Convert this JavaScript to Python'",
+            "Optimization: 'Make this code more efficient'",
+            "Learning: 'Teach me X programming concept with examples'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 80/20 pattern: AI generates 80% of work in 20% of time; you spend 80% of time perfecting the final 20% with your expertise and judgment. This beats starting from scratch. Don't expect perfect output—expect excellent first drafts that you refine."
+        },
+        {
+          "type": "list",
+          "title": "Business & Productivity",
+          "items": [
+            "Meeting prep: 'Create agenda for meeting about X with these attendees'",
+            "Project planning: 'Break down project X into milestones and tasks'",
+            "Decision support: 'Pros and cons of options A vs B for situation X'",
+            "Presentation creation: 'Outline presentation about X, 10 slides, executive audience'",
+            "Process documentation: 'Document step-by-step process for task X'",
+            "Idea generation: 'Brainstorm 20 names for product that does X'"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Learning & Education",
+          "items": [
+            "Concept explanation: 'Explain X like I'm 10 years old'",
+            "Study guides: 'Create study guide from this textbook chapter'",
+            "Practice problems: 'Generate 10 practice problems for X topic'",
+            "Learning paths: 'Create 30-day learning plan for skill X'",
+            "Quiz creation: 'Generate multiple choice quiz on topic X'",
+            "Tutoring: 'I don't understand X, help me learn with examples'"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Use Case Mistakes",
+          "items": [
+            "Expecting perfection: AI generates drafts, not final products",
+            "No verification: Trusting outputs without checking accuracy",
+            "Too vague: 'Help me with work' vs specific requests",
+            "One-and-done: Not iterating when first output isn't quite right",
+            "Wrong tool: Using AI for real-time data or verification",
+            "No context: Not providing background information needed"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the 80/20 pattern with AI?",
+          "options": [
+            "AI does 80% of work in 20% of time, you perfect the remaining 20%",
+            "AI is 80% accurate",
+            "Use AI 80% of the time",
+            "AI works 80% as well as humans"
+          ],
+          "correctIndex": 0,
+          "explanation": "AI generates 80% of work quickly; you spend time perfecting final 20% with expertise. This pattern beats starting from scratch."
+        },
+        {
+          "question": "What should you always do with AI outputs?",
+          "options": [
+            "Use them exactly as generated",
+            "Verify accuracy and refine with your expertise",
+            "Discard them",
+            "Share them immediately"
+          ],
+          "correctIndex": 1,
+          "explanation": "Always verify AI outputs for accuracy and refine with your judgment and expertise. AI generates drafts, not guaranteed perfect final products."
+        }
+      ]
+    }
+  },
+  {
+    "id": "ai-workflow-integration",
+    "title": "Integrating AI Into Your Workflow",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Knowing AI capabilities differs from integrating AI into daily work. Most people try AI once or twice, then forget about it. Sustained productivity gains require building AI into your routine workflow. Start small with high-frequency, low-stakes tasks, build habit, then expand to complex work. The goal: AI becomes automatic part of your process, not something you occasionally remember."
+        },
+        {
+          "type": "list",
+          "title": "Workflow Integration Strategy",
+          "items": [
+            "Identify bottlenecks: What tasks take most time or energy?",
+            "Start small: One task, one use case, master before expanding",
+            "Make it easy: Keyboard shortcuts, bookmarks, saved prompts for quick access",
+            "Build habit: Use AI for same task daily until automatic",
+            "Measure impact: Track time saved, quality improvement",
+            "Expand gradually: Add new use cases as previous ones become habitual"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Example workflow integration: Email management. Before AI: 90 minutes daily writing emails. With AI: Draft every email with AI (5-10 seconds), edit to your voice (30-60 seconds). Result: 30-45 minutes daily, 60% time saved. This one integration saves 5-7 hours weekly, 260+ hours annually."
+        },
+        {
+          "type": "list",
+          "title": "High-Impact Integration Points",
+          "items": [
+            "Morning routine: AI summarizes overnight emails, news, calendar",
+            "Email: AI drafts all emails, you edit",
+            "Research: AI does initial research, you verify and deepen",
+            "Writing: AI creates outlines and first drafts, you refine",
+            "Meetings: AI takes notes and creates summaries",
+            "Learning: AI explains new concepts, creates study materials",
+            "Evening review: AI summarizes day's work, identifies priorities for tomorrow"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Creating AI Shortcuts",
+          "items": [
+            "Saved prompts: Library of your best prompts for common tasks",
+            "Browser shortcuts: Quick access to AI tools you use most",
+            "Text expanders: Keyboard shortcuts to paste common prompts",
+            "Templates: Prompt templates with [brackets] for variables",
+            "Custom GPTs: Create specialized ChatGPT versions for repeated tasks",
+            "API integrations: Connect AI to tools you already use"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The compound effect: Each workflow integration saves 15-30 minutes daily. Five integrations = 75-150 minutes daily saved = 6.5-13 hours weekly = 340-670 hours yearly. This is equivalent to gaining 2-4 months of productive time annually. The productivity gap between AI users and non-users will become enormous."
+        },
+        {
+          "type": "list",
+          "title": "Building the Habit",
+          "items": [
+            "Trigger: Link AI use to existing habit (\"When I get email, I...\")",
+            "Make it easy: Reduce friction to using AI",
+            "Track usage: Count times you use AI daily, gamify it",
+            "Share wins: Tell colleagues when AI saves time or improves work",
+            "30-day challenge: Commit to using AI for specific task daily for month",
+            "Accountability: Partner with colleague learning AI, check in weekly"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the best way to integrate AI into your workflow?",
+          "options": [
+            "Try to use it for everything at once",
+            "Start with one high-frequency task, build habit, then expand",
+            "Wait until you have free time to learn",
+            "Only use it occasionally"
+          ],
+          "correctIndex": 1,
+          "explanation": "Start small with one high-frequency task, build it into habit, measure impact, then gradually expand. This creates sustainable integration."
+        },
+        {
+          "question": "How much time can workflow integrations save?",
+          "options": [
+            "A few minutes weekly",
+            "About 1 hour monthly",
+            "5-10 hours weekly with multiple integrations",
+            "Time savings are negligible"
+          ],
+          "correctIndex": 2,
+          "explanation": "Multiple AI workflow integrations can save 5-10+ hours weekly, equivalent to gaining 2-4 months of productive time yearly."
+        }
+      ]
+    }
+  },
+  {
+    "id": "ai-ethics-safety",
+    "title": "AI Ethics & Safety",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "AI power comes with responsibilities. Understanding ethical use, privacy implications, and safety practices prevents problems. Poor AI practices can leak sensitive data, violate regulations, create legal liability, or damage professional reputation. Responsible AI use means maximizing benefits while minimizing risks through informed practices and clear boundaries."
+        },
+        {
+          "type": "list",
+          "title": "Privacy & Data Security",
+          "items": [
+            "Never share: SSN, passwords, financial account numbers, health records",
+            "Be careful: Client confidential data, proprietary information, personal details",
+            "Data retention: Inputs may be stored and used for training (unless opted out)",
+            "Company policies: Many companies ban or restrict AI use, know your policy",
+            "Anonymize: Remove identifying information before inputting sensitive data",
+            "Enterprise options: Paid enterprise plans often don't use data for training"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Real example: Developer inputs proprietary code into free ChatGPT, code later appears in suggestions to other users. Legal issues ensue. Always treat free AI tools as public—anything you wouldn't post publicly, don't share with AI. Use enterprise versions for sensitive work."
+        },
+        {
+          "type": "list",
+          "title": "Academic & Professional Integrity",
+          "items": [
+            "Plagiarism: Using AI output without disclosure may violate policies",
+            "Attribution: Some contexts require disclosing AI use",
+            "Learning: Using AI to avoid learning defeats educational purpose",
+            "Professional standards: Some professions have AI use guidelines",
+            "Verification: You're responsible for accuracy even if AI generated it",
+            "Transparency: When in doubt, disclose AI assistance"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Bias & Fairness",
+          "items": [
+            "Training bias: AI reflects biases in training data",
+            "Stereotypes: May generate stereotypical or problematic content",
+            "Representation: May not represent all perspectives equally",
+            "Human review: Especially critical for decisions affecting people",
+            "Awareness: Recognize AI limitations in fairness and representation",
+            "Mitigation: Review outputs for bias, adjust prompts, add human judgment"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Legal and copyright considerations: AI training data includes copyrighted material. While using AI for personal/business work is generally accepted, copyright of AI outputs is murky. For commercial use, understand that purely AI-generated content may not be copyrightable. Add human creativity and judgment to outputs."
+        },
+        {
+          "type": "list",
+          "title": "Responsible Use Practices",
+          "items": [
+            "Verify facts: Never trust AI factual claims without verification",
+            "Human oversight: Review AI outputs before using, especially for important work",
+            "Appropriate tasks: Use AI for drafting and analysis, not final decisions",
+            "Disclose when appropriate: Be transparent about AI use when asked",
+            "Respect policies: Follow workplace, school, platform policies",
+            "Continue learning: Stay informed as AI capabilities and policies evolve",
+            "Add value: Don't just copy-paste AI output, add your expertise"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Red Flags",
+          "items": [
+            "Sharing confidential information with AI",
+            "Submitting AI output without review or attribution",
+            "Using AI for decisions affecting people without human review",
+            "Trusting AI medical, legal, financial advice without professional consultation",
+            "Violating policies because \"everyone does it\"",
+            "Creating deepfakes or misleading content"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What should you never share with AI?",
+          "options": [
+            "General questions",
+            "Passwords, SSN, confidential client data",
+            "Writing requests",
+            "Code examples"
+          ],
+          "correctIndex": 1,
+          "explanation": "Never share passwords, SSN, financial accounts, health records, or confidential client data with AI. Treat free AI tools as public."
+        },
+        {
+          "question": "What must you always do with AI outputs?",
+          "options": [
+            "Use exactly as generated",
+            "Verify facts and review before using",
+            "Assume they're 100% accurate",
+            "Share them immediately"
+          ],
+          "correctIndex": 1,
+          "explanation": "Always verify facts and review AI outputs before using them. You're responsible for accuracy even if AI generated the content."
+        }
+      ]
+    }
+  }
+]
