@@ -1,0 +1,491 @@
+[
+  {
+    "id": "why-real-estate",
+    "title": "Why Invest in Real Estate?",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Real estate has created more millionaires than any other investment vehicle. It provides multiple income streams (rental income, appreciation, tax benefits), uses leverage effectively, acts as an inflation hedge, and offers tangible asset ownership. Unlike stocks that can disappear, real estate is physical property with intrinsic value. Understanding real estate investing opens a powerful wealth-building path."
+        },
+        {
+          "type": "list",
+          "title": "Ways Real Estate Builds Wealth",
+          "items": [
+            "Cash flow: Monthly rental income after expenses creates passive income stream",
+            "Appreciation: Property value increases over time, historically 3-5% annually",
+            "Loan paydown: Tenants pay your mortgage, building equity automatically",
+            "Tax benefits: Depreciation, expense deductions, 1031 exchanges reduce tax burden",
+            "Leverage: Use banks' money to control assets worth 5x your investment",
+            "Inflation hedge: Rents and property values typically rise with inflation"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The math is powerful: $100k down payment on $500k property (20% down, 80% financed). If property appreciates 4% annually, you gain $20k on $100k investment = 20% return. Plus rental income and mortgage paydown. This leverage effect is why real estate investors can build wealth faster than pure stock investors with same capital."
+        },
+        {
+          "type": "list",
+          "title": "Types of Real Estate Investment",
+          "items": [
+            "Primary residence: Home you live in, builds equity, tax benefits, not true investment",
+            "Single-family rentals: Easiest entry, manageable, but limited scaling",
+            "Multi-family (2-4 units): More income, economies of scale, live-in one unit possible",
+            "Small apartments (5+ units): Commercial financing, professional operation required",
+            "House hacking: Live in property while renting out portions, reduces personal housing costs",
+            "REITs: Stock-like real estate exposure, liquid, no management, lower returns"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Real Estate vs Stocks",
+          "items": [
+            "Leverage: Real estate allows 5:1 leverage; stocks require 100% cash or margin (risky)",
+            "Tax benefits: Real estate has superior tax treatment (depreciation, deductions)",
+            "Control: Direct control over property improvements, management, value-add",
+            "Illiquidity: Real estate takes months to sell; stocks sell instantly",
+            "Management: Real estate requires active management or paying managers; stocks are passive",
+            "Returns: Both can deliver 8-12% long-term, real estate often higher due to leverage"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Real estate isn't for everyone. It requires capital (typically $20k-50k minimum), tolerance for management headaches, comfort with debt, and long-term commitment. If you can't handle 3am tenant calls about burst pipes or months of vacancy, stick to REITs or index funds. But for those willing to be hands-on, real estate offers unmatched wealth-building potential."
+        },
+        {
+          "type": "list",
+          "title": "Common Real Estate Myths",
+          "items": [
+            "Myth: You need to be rich to start (Reality: House hacking requires minimal capital)",
+            "Myth: It's passive income (Reality: Active early, can become passive with systems/managers)",
+            "Myth: Real estate always appreciates (Reality: Values can decline, cash flow is key)",
+            "Myth: You need perfect credit (Reality: 620+ credit opens most doors)",
+            "Myth: It's easy money (Reality: Success requires knowledge, effort, and resilience)"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What are the main ways real estate builds wealth?",
+          "options": [
+            "Only through property appreciation",
+            "Cash flow, appreciation, loan paydown, tax benefits, and leverage",
+            "Only through rental income",
+            "Luck and timing"
+          ],
+          "correctIndex": 1,
+          "explanation": "Real estate builds wealth through multiple streams: rental cash flow, appreciation, mortgage paydown, tax advantages, and the power of leverage."
+        },
+        {
+          "question": "How does leverage amplify real estate returns?",
+          "options": [
+            "It doesn't affect returns",
+            "You control assets worth 5x your investment, so appreciation applies to full value",
+            "It only increases risk",
+            "Banks give you free money"
+          ],
+          "correctIndex": 1,
+          "explanation": "With 20% down, you control an asset 5x your investment. Appreciation applies to full property value, multiplying your returns on invested capital."
+        }
+      ]
+    }
+  },
+  {
+    "id": "real-estate-fundamentals",
+    "title": "Real Estate Investment Fundamentals",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Successful real estate investing requires understanding key metrics, market dynamics, and financial calculations. Unlike stocks where you just hit 'buy,' real estate demands analyzing cash flow, cap rates, comparable sales, and market trends. These fundamentals separate profitable investors from those who lose money. Master these concepts before buying your first property."
+        },
+        {
+          "type": "list",
+          "title": "Key Real Estate Metrics",
+          "items": [
+            "Cash flow: Monthly rental income minus all expenses (mortgage, taxes, insurance, maintenance, vacancies, management)",
+            "Cash-on-cash return: Annual cash flow ÷ total cash invested (down payment + closing costs + repairs)",
+            "Cap rate: Annual net operating income ÷ property price (measures return independent of financing)",
+            "Gross rent multiplier: Property price ÷ annual gross rent (quick valuation tool)",
+            "Debt service coverage ratio: Net operating income ÷ annual debt payment (lenders want 1.25+)",
+            "ROI: Total return including appreciation, cash flow, and loan paydown"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 1% rule is a quick screening tool: monthly rent should equal or exceed 1% of purchase price. $200k property should rent for $2,000+ monthly. This doesn't guarantee profitability (expenses vary by market) but properties below 1% rarely cash flow positive. In expensive markets, 0.7-0.8% might be acceptable with strong appreciation potential."
+        },
+        {
+          "type": "list",
+          "title": "The 50% Rule for Expenses",
+          "items": [
+            "Estimate: Operating expenses average 50% of gross rental income",
+            "Includes: Property taxes, insurance, maintenance, repairs, vacancies, management, utilities, HOA",
+            "Excludes: Mortgage payment (that's debt service, separate calculation)",
+            "Example: $2,000 rent = $1,000 to expenses, $1,000 available for mortgage/profit",
+            "Reality check: If mortgage is $1,200 on $2,000 rent, you're losing $200 monthly",
+            "Markets vary: Some locations have higher expenses (taxes, insurance), adjust accordingly"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Location Fundamentals",
+          "items": [
+            "Job growth: Areas adding jobs attract renters and buyers, increasing demand",
+            "Population trends: Growing populations support real estate values",
+            "Quality of life: Good schools, low crime, amenities make areas desirable",
+            "Supply/demand: Limited new construction + growing demand = appreciation",
+            "Infrastructure: New transportation, businesses signal future growth",
+            "Path of progress: Areas improving relative to surroundings offer upside"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Markets move in cycles: expansion, peak, contraction, trough. Buy in early expansion or trough (after prices have dropped), avoid buying at peak when everyone is excited. This is contrarian and difficult emotionally. Counter-cyclical investing requires capital ready when others are fearful. Most wealth is made buying when markets are down."
+        },
+        {
+          "type": "list",
+          "title": "Investment Strategy Types",
+          "items": [
+            "Cash flow focus: Buy for monthly income, appreciate slowly but stable (good for retirement income)",
+            "Appreciation focus: Minimal cash flow but strong appreciation potential (builds wealth through value growth)",
+            "Value-add: Buy distressed, renovate, increase rents and value (requires capital and expertise)",
+            "Buy and hold: Long-term ownership, let appreciation and loan paydown build wealth",
+            "BRRRR: Buy, Rehab, Rent, Refinance, Repeat (recycle capital into multiple properties)",
+            "House flipping: Buy, renovate, sell quickly (active income, not passive investing)"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the 1% rule?",
+          "options": [
+            "Properties should appreciate 1% monthly",
+            "Monthly rent should equal or exceed 1% of purchase price",
+            "Only invest 1% of net worth in real estate",
+            "Cap rate should be 1%"
+          ],
+          "correctIndex": 1,
+          "explanation": "The 1% rule states monthly rent should equal or exceed 1% of purchase price as a quick profitability screening tool."
+        },
+        {
+          "question": "What does the 50% rule estimate?",
+          "options": [
+            "Your down payment amount",
+            "Operating expenses typically equal 50% of gross rental income",
+            "Properties appreciate 50% over 10 years",
+            "50% of rent goes to mortgage"
+          ],
+          "correctIndex": 1,
+          "explanation": "The 50% rule estimates operating expenses (taxes, insurance, maintenance, vacancies, etc.) average about 50% of gross rent."
+        }
+      ]
+    }
+  },
+  {
+    "id": "financing-basics",
+    "title": "Real Estate Financing Basics",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Financing is the leverage that makes real estate powerful. Understanding loan types, requirements, and strategies lets you acquire properties with minimal capital while maximizing returns. Most investors start with conventional financing, but numerous creative strategies exist. Knowledge of financing options often matters more than capital—smart investors use banks' money to build wealth."
+        },
+        {
+          "type": "list",
+          "title": "Conventional Financing",
+          "items": [
+            "Primary residence: 3-5% down, lowest rates, must live there 1+ year, FHA allows 3.5% down",
+            "Second home: 10-15% down, slightly higher rates, can't rent immediately",
+            "Investment property: 15-25% down (typically 20-25%), higher rates (+0.5-1%), stricter qualification",
+            "Multi-family (5+ units): Commercial loans, 25-30% down, based on property income not personal",
+            "Credit requirements: 620+ minimum, 680+ for better rates, 740+ for best rates",
+            "Debt-to-income: Typically max 43-50%, rental income can offset some debt"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "House hacking is the ultimate first investment: buy 2-4 unit property, live in one unit, rent others. Qualify for owner-occupied financing (3-5% down, best rates) while tenants pay most or all of your mortgage. After 1 year, move to next property and repeat. This strategy lets you acquire multiple properties with minimal capital."
+        },
+        {
+          "type": "list",
+          "title": "Loan Types",
+          "items": [
+            "Conventional: Traditional bank loans, 15-30 year terms, fixed or adjustable rates",
+            "FHA: Government-backed, 3.5% down, lower credit ok (580+), must live in property",
+            "VA: Veterans, 0% down, excellent rates, no PMI",
+            "Portfolio loans: Held by lender, more flexible criteria, useful after 10 conventional loans",
+            "Hard money: Short-term (6-24 months), higher rates (8-15%), for fix-and-flip or bridge",
+            "Seller financing: Owner finances purchase, negotiable terms, no bank qualification"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Creative Financing Strategies",
+          "items": [
+            "BRRRR method: Buy cash or hard money, rehab, rent, refinance 75-80% of new value, repeat",
+            "Subject-to: Take over existing mortgage (owner stays on loan), useful when rates were low",
+            "Seller financing: Owner acts as bank, make payments directly to them",
+            "Lease options: Rent with option to buy, control property with minimal capital",
+            "Partnerships: Partner with capital or experience, split returns",
+            "Home equity: Use primary residence equity to fund rental down payments"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Conventional wisdom says you need 20-25% down for investment properties, but creative strategies exist. House hacking needs 3-5%. Seller financing might need 5-10%. Partnerships might need 0% if you bring sweat equity. Subject-to might need minimal cash. Don't let 'standard' requirements prevent you from starting—alternatives exist."
+        },
+        {
+          "type": "list",
+          "title": "Getting Approved",
+          "items": [
+            "Credit score: 620+ minimum, work on improving if below this",
+            "Proof of income: W2s, tax returns, pay stubs for 2 years",
+            "Reserves: Lenders want 6 months PITI (principal, interest, taxes, insurance) in savings",
+            "Down payment: Source of funds must be documented (no mysterious cash)",
+            "Debt-to-income: Below 43-50%, pay down debt or increase income",
+            "Seasoning: Lenders often require 2 years of landlord experience before counting rental income"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Financing Mistakes",
+          "items": [
+            "Not shopping lenders: Rates and terms vary significantly, compare 3-5 lenders",
+            "Maxing DTI: Qualifying for maximum makes you vulnerable to vacancies",
+            "No reserves: Having zero cushion leads to financial distress quickly",
+            "Ignoring terms: Focusing only on rate, not prepayment penalties or other terms",
+            "Adjustable rates: ARMs are risky unless you plan to refinance or sell before adjustment",
+            "Too many mortgages: Conventional loans max at 10 properties, plan accordingly"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is house hacking?",
+          "options": [
+            "Illegally avoiding property taxes",
+            "Living in multi-unit property while renting out other units",
+            "Flipping houses quickly",
+            "Hacking into real estate databases"
+          ],
+          "correctIndex": 1,
+          "explanation": "House hacking means living in a property (often multi-unit) while renting out other units, allowing owner-occupied financing with minimal down payment."
+        },
+        {
+          "question": "What's the typical down payment for investment property conventional financing?",
+          "options": [
+            "0-5%",
+            "10-15%",
+            "20-25%",
+            "50%"
+          ],
+          "correctIndex": 2,
+          "explanation": "Investment properties typically require 20-25% down payment for conventional financing, with higher rates than owner-occupied properties."
+        }
+      ]
+    }
+  },
+  {
+    "id": "market-research",
+    "title": "Market Research & Selection",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Location is everything in real estate. The best property in a declining market loses money; an average property in a thriving market makes money. Successful investors spend weeks researching markets before buying. They analyze economic indicators, demographics, supply/demand dynamics, and future prospects. This research is the difference between profitable and disastrous investments."
+        },
+        {
+          "type": "list",
+          "title": "Market Indicators to Analyze",
+          "items": [
+            "Job growth: Look for 2%+ annual job growth, diversified employers, not single industry dependent",
+            "Population growth: Growing population = increasing housing demand",
+            "Median income: Higher and growing incomes support rents and property values",
+            "Days on market: Under 60 days suggests strong demand, over 120 suggests weak market",
+            "Rental vacancy rates: 5-8% is healthy, under 5% is tight (good for landlords), over 10% is oversupplied",
+            "Price-to-rent ratio: Under 15 favors buying, over 20 favors renting (affects your tenants' decisions)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Research tools: Zillow and Redfin for pricing data, Census.gov for demographics, BLS.gov for employment data, city economic development websites for future projects, local news for market sentiment. Spend 20+ hours researching before buying first property. Every hour of research prevents thousands in mistakes."
+        },
+        {
+          "type": "list",
+          "title": "Neighborhood Selection",
+          "items": [
+            "School quality: Even investors without kids should care—families care, affects values",
+            "Crime rates: Check local crime maps, visit area day AND night",
+            "Amenities: Shopping, restaurants, parks, public transit add value",
+            "Class of neighborhood: A (premium), B (middle class, best for starting), C (working class), D (avoid)",
+            "Path of progress: Look for improving areas near established good areas",
+            "Infrastructure projects: New roads, businesses, development signal growth"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Out-of-State Investing",
+          "items": [
+            "Why: Your local market might have low cap rates, better opportunities elsewhere",
+            "Challenges: Can't see property easily, need reliable local team",
+            "Team building: Local agent, property manager, contractor, inspector are crucial",
+            "Visit market: Spend long weekend visiting potential areas, driving neighborhoods",
+            "Start local: Most experts recommend starting locally, expand after experience",
+            "Risk: Higher due to distance, lack of local knowledge, dependency on others"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Markets are cyclical. California might boom while Texas is flat, then reverse. Midwest rust belt cities might offer 15% cap rates but declining populations. Sun Belt cities might have strong growth but inflated prices. No perfect market exists—you're choosing which trade-offs to accept: cash flow vs appreciation, growth vs stability."
+        },
+        {
+          "type": "list",
+          "title": "Market Research Mistakes",
+          "items": [
+            "Buying in your neighborhood blindly: Just because you live there doesn't make it good investment",
+            "Chasing hot markets: By the time market is 'hot,' prices already inflated",
+            "Ignoring fundamentals: Buying based on hype instead of economic data",
+            "No local knowledge: Investing somewhere you've never visited",
+            "Single indicator: Using only one metric (cap rate) without considering full picture",
+            "Timing market perfectly: Waiting for absolute bottom means missing opportunities"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's a healthy rental vacancy rate?",
+          "options": [
+            "0-2%",
+            "5-8%",
+            "15-20%",
+            "25%+"
+          ],
+          "correctIndex": 1,
+          "explanation": "Healthy rental markets have 5-8% vacancy rates. Under 5% indicates tight market (good for landlords), over 10% suggests oversupply."
+        },
+        {
+          "question": "What's most important when selecting a neighborhood?",
+          "options": [
+            "Where you personally like to hang out",
+            "Economic fundamentals: job growth, population trends, income levels",
+            "Where properties are cheapest",
+            "Newest developments"
+          ],
+          "correctIndex": 1,
+          "explanation": "Economic fundamentals (jobs, population, income) drive long-term property performance more than aesthetics or current prices."
+        }
+      ]
+    }
+  },
+  {
+    "id": "first-property",
+    "title": "Buying Your First Investment Property",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Buying your first investment property is intimidating. You're committing significant capital to an illiquid asset with ongoing responsibilities. But thousands do it successfully every year. Following a systematic approach reduces risk and increases confidence. The hardest part is starting—after the first property, the process becomes familiar and less scary."
+        },
+        {
+          "type": "list",
+          "title": "Pre-Purchase Preparation",
+          "items": [
+            "Financial position: 20-30% down payment + 6 months reserves + closing costs ($30k-60k minimum)",
+            "Credit preparation: 680+ score, reduce debt-to-income under 43%",
+            "Education: Read 3-5 books, take course, join local real estate investing group",
+            "Team building: Identify agent, lender, property manager, contractor, inspector",
+            "Strategy clarity: Know your approach (cash flow? appreciation? house hack?)",
+            "Market selected: Research complete, target area identified"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Finding deals: MLS listings (most accessible), off-market (direct mail, networking, wholesalers), foreclosures (auctions, REO), FSBO (for sale by owner). For first property, stick to MLS—deals exist despite perception that 'all good deals are off-market.' You need easy transaction to learn, not complex deal."
+        },
+        {
+          "type": "list",
+          "title": "Analyzing Deals",
+          "items": [
+            "Run numbers: Calculate cash flow using 50% expense rule + actual mortgage payment",
+            "Check comps: Verify asking price is reasonable compared to recent sales",
+            "Estimate repairs: Even move-in ready properties need reserves for deferred maintenance",
+            "Verify rents: Check actual rental comps for area, don't trust seller's pro forma",
+            "Calculate returns: Cash-on-cash return, cap rate, total ROI including appreciation",
+            "Analyze 20+ properties: See enough to recognize good deal when it appears"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Making Offers",
+          "items": [
+            "Understand market: In hot markets, offers at or above asking; in cool markets, 10-20% below",
+            "Include contingencies: Inspection, financing, appraisal protect you",
+            "Earnest money: 1-3% of price shows commitment",
+            "Ask for repairs: Inspection reveals issues, negotiate seller fixes or credits",
+            "Walk away if needed: Don't let emotion override analysis",
+            "First offer likely rejected: This is normal, don't take personally"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Due diligence is critical. Inspection (hire professional, $300-500), appraisal (lender orders), title search (included in closing), rent comp verification, neighborhood drive-by multiple times. Every dollar spent on due diligence prevents thousands in mistakes. Never waive inspection contingency to 'win' deal—that's gambling, not investing."
+        },
+        {
+          "type": "list",
+          "title": "Closing Process",
+          "items": [
+            "Loan processing: Provide all requested documents promptly",
+            "Appraisal: Property must appraise at or above purchase price",
+            "Final walkthrough: Verify condition hasn't changed, repairs completed",
+            "Review closing disclosure: Verify all numbers 3 days before closing",
+            "Bring certified funds: Personal check won't work for closing",
+            "Get keys, start marketing: List for rent immediately, don't wait"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "First Property Mistakes",
+          "items": [
+            "Analysis paralysis: Studying forever without taking action",
+            "Overpaying: Emotional attachment or FOMO leads to bad deals",
+            "Undercapitalized: Not having reserves for unexpected expenses",
+            "Skipping inspection: Trying to save $400 costs thousands later",
+            "Wrong property type: Starting with commercial or large multi-family",
+            "No exit strategy: Not considering how you'd sell if needed",
+            "Trusting seller numbers: Always verify rents, expenses, condition yourself"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How much capital should you have for first investment property?",
+          "options": [
+            "$5,000",
+            "$10,000-15,000",
+            "$30,000-60,000 (down payment + reserves + closing)",
+            "$200,000+"
+          ],
+          "correctIndex": 2,
+          "explanation": "Plan for 20-25% down payment, 6 months reserves, closing costs, and repair budget—typically $30k-60k minimum for first property."
+        },
+        {
+          "question": "Should you waive inspection contingency to win a deal?",
+          "options": [
+            "Yes, it shows commitment",
+            "No, never waive inspection on investment property",
+            "Only on new construction",
+            "Only if seller seems trustworthy"
+          ],
+          "correctIndex": 1,
+          "explanation": "Never waive inspection on investment property. The $300-500 inspection cost prevents discovering $20,000+ problems after closing."
+        }
+      ]
+    }
+  }
+]

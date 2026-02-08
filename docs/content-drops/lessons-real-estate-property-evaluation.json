@@ -1,0 +1,507 @@
+[
+  {
+    "id": "property-inspection",
+    "title": "Property Inspection Deep Dive",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Property inspection is your protection against hidden problems that could cost tens of thousands. Professional inspectors examine structure, systems, and components, identifying defects and estimating remaining life. This information lets you negotiate repairs, credits, or walk away. Skipping inspection to 'save' $400 is penny-wise, pound-foolish—it's the best $400 you'll ever spend."
+        },
+        {
+          "type": "list",
+          "title": "What Inspectors Examine",
+          "items": [
+            "Structure: Foundation, framing, walls, floors, ceilings for cracks, settling, damage",
+            "Roof: Age, condition, remaining life, leaks, flashing, drainage",
+            "HVAC: Heating, cooling systems age, efficiency, proper operation",
+            "Plumbing: Pipes, water heater, fixtures, water pressure, leaks, drainage",
+            "Electrical: Panel capacity, wiring, outlets, code compliance, safety issues",
+            "Exterior: Siding, windows, doors, grading, drainage"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Inspection reports categorize issues by severity. Major defects (foundation cracks, roof failure, electrical hazards) require immediate attention and significant cost. Minor issues (loose handrails, missing outlet covers) are cheap fixes. Use major issues to negotiate; don't nickel-and-dime sellers over minor cosmetic items. Focus negotiation on expensive repairs."
+        },
+        {
+          "type": "list",
+          "title": "Red Flags and Deal Breakers",
+          "items": [
+            "Foundation issues: Cracks, settling, water intrusion (very expensive, $10k-100k+)",
+            "Roof failure: Active leaks, past failure date (replacement $8k-25k depending on size)",
+            "Electrical hazards: Outdated wiring, insufficient service, fire risks",
+            "Plumbing problems: Sewer line issues, polybutylene pipes, galvanized pipes",
+            "Water damage: Mold, rot, structural damage from chronic moisture",
+            "Unpermitted work: Additions or renovations done without permits create liability"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Beyond Standard Inspection",
+          "items": [
+            "Sewer scope: Camera inspection of sewer line ($150-300), reveals root intrusion, breaks",
+            "Radon testing: Radioactive gas testing in basement areas ($150)",
+            "Mold testing: If musty smells or visible mold present ($300-700)",
+            "Structural engineer: If inspector notes foundation or structural concerns ($500-1000)",
+            "Pest inspection: Termites, carpenter ants, rodents ($75-150)",
+            "Pool/spa inspection: If property has pool, specialized inspection needed"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Attend the inspection. Walk through with inspector, ask questions, learn about property. This education helps you maintain property later and understand what to monitor. Take photos of important systems, write down model numbers and ages. This information is invaluable for future maintenance and tenant questions."
+        },
+        {
+          "type": "list",
+          "title": "Post-Inspection Negotiation",
+          "items": [
+            "Request major repairs: Ask seller to fix significant issues before closing",
+            "Request credits: Negotiate closing cost credits to handle repairs yourself",
+            "Price reduction: Lower purchase price to account for needed repairs",
+            "Walk away: If issues too severe or seller won't negotiate, exercise contingency",
+            "As-is decision: Accept property condition, factor repair costs into investment analysis",
+            "Don't sweat small stuff: Focus on major issues, not cosmetic minor items"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's a red flag that might be a deal breaker?",
+          "options": [
+            "Outdated paint colors",
+            "Major foundation issues or active roof leaks",
+            "Old appliances",
+            "Worn carpets"
+          ],
+          "correctIndex": 1,
+          "explanation": "Major foundation issues and roof failures are expensive ($10k-100k) and can be deal breakers. Cosmetic issues are minor and expected."
+        },
+        {
+          "question": "Should you attend the property inspection?",
+          "options": [
+            "No, just read the report",
+            "Yes, learn about the property and ask questions",
+            "Only if you're an expert",
+            "Only if seller is present"
+          ],
+          "correctIndex": 1,
+          "explanation": "Always attend inspections. You'll learn about the property, understand maintenance needs, and can ask inspector questions in real-time."
+        }
+      ]
+    }
+  },
+  {
+    "id": "cash-flow-analysis",
+    "title": "Cash Flow Analysis",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Cash flow is king in real estate investing. Positive cash flow (income exceeds expenses) creates monthly passive income and protects against vacancies. Negative cash flow drains your finances and turns 'investment' into liability. Accurate cash flow analysis prevents financial disasters. Optimistic assumptions about expenses have bankrupted countless investors—be conservative."
+        },
+        {
+          "type": "list",
+          "title": "Income Components",
+          "items": [
+            "Rental income: Primary source, verify with actual comparable rentals",
+            "Other income: Laundry, parking, storage, pet fees (don't overestimate these)",
+            "Vacancy factor: Reduce gross income by 5-10% for turnover and vacancy",
+            "Reality check: Don't use seller's 'market rent' claims, verify independently",
+            "Seasonal factors: Tourist areas have occupancy fluctuations",
+            "Rent growth: Conservative 2-3% annual increase is reasonable"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Example calculation: $2,000 gross monthly rent × 95% occupancy (5% vacancy) = $1,900 monthly income = $22,800 annually. This is your actual income for analysis, not the theoretical $24,000 if perpetually occupied. Always account for vacancy in projections."
+        },
+        {
+          "type": "list",
+          "title": "Operating Expenses",
+          "items": [
+            "Property taxes: Actual amount, check if homestead exemption will be removed",
+            "Insurance: Landlord policy, typically 25% more than homeowner policy",
+            "Property management: 8-10% of gross rent if hiring manager",
+            "Maintenance: 5-10% of rent annually for ongoing repairs",
+            "CapEx reserves: 5-10% of rent for major replacements (roof, HVAC, appliances)",
+            "Utilities: Water, sewer, trash if landlord pays",
+            "HOA fees: If applicable, don't forget these!",
+            "Pest control: $30-50 monthly if providing service"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Cash Flow Calculation",
+          "items": [
+            "1. Gross rental income: $2,000/month",
+            "2. Vacancy (5%): -$100",
+            "3. Operating expenses (50% rule): -$950",
+            "4. Net Operating Income: $950",
+            "5. Mortgage payment: -$800 (principal + interest)",
+            "6. Monthly cash flow: $150",
+            "Annual cash flow: $150 × 12 = $1,800"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 50% rule (operating expenses ≈ 50% of gross rent) is remarkably accurate across most properties. Some markets have higher taxes/insurance (55-60%), others lower (45%). Track your actual expenses to refine estimates. New investors often underestimate expenses by 30-50%, leading to negative cash flow surprises."
+        },
+        {
+          "type": "list",
+          "title": "Return Calculations",
+          "items": [
+            "Cash-on-cash return: Annual cash flow ÷ total cash invested",
+            "Example: $1,800 annual cash flow ÷ $45,000 invested = 4% cash-on-cash",
+            "Cap rate: NOI ÷ purchase price (measures property performance regardless of financing)",
+            "Total return: Cash flow + appreciation + loan paydown (use 8-10% appreciation is optimistic)",
+            "Conservative target: 8-12% cash-on-cash return minimum",
+            "Remember: Returns improve over time as rents rise and mortgage balance decreases"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Analysis Mistakes",
+          "items": [
+            "Optimistic rents: Using peak rents or seller's claims instead of verified comps",
+            "Underestimating expenses: Forgetting categories or using too-low estimates",
+            "No vacancy factor: Assuming 100% occupancy year-round",
+            "No CapEx reserves: Not budgeting for roof, HVAC, appliance replacements",
+            "Appreciation assumptions: Counting on 5%+ appreciation to make deal work",
+            "Ignoring time value: Not accounting for hours spent managing property"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What does the 50% rule estimate?",
+          "options": [
+            "50% of rent goes to mortgage",
+            "Operating expenses equal approximately 50% of gross rent",
+            "Properties appreciate 50% every decade",
+            "50% down payment required"
+          ],
+          "correctIndex": 1,
+          "explanation": "The 50% rule estimates operating expenses (taxes, insurance, maintenance, vacancies, management) typically equal about 50% of gross rental income."
+        },
+        {
+          "question": "What's a conservative vacancy factor to use?",
+          "options": [
+            "0% (assume full occupancy)",
+            "2-3%",
+            "5-10%",
+            "25%"
+          ],
+          "correctIndex": 2,
+          "explanation": "Use 5-10% vacancy factor to account for tenant turnover, vacancies between tenants, and occasional bad tenants requiring eviction."
+        }
+      ]
+    }
+  },
+  {
+    "id": "comparable-sales-analysis",
+    "title": "Comparable Sales Analysis",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Comparable sales (comps) analysis determines if property is fairly priced. By comparing recent sales of similar properties in the same area, you establish market value. This prevents overpaying and helps spot genuine deals. Appraisers use this method, and so should you before making offers. Markets move fast—analyze comps for every property you're considering."
+        },
+        {
+          "type": "list",
+          "title": "Finding Comparable Sales",
+          "items": [
+            "Location: Within 0.5 miles ideally, 1 mile maximum (same neighborhood)",
+            "Property type: Same type (single-family to single-family, not SFH to condo)",
+            "Size: Within 15-20% of subject property square footage",
+            "Beds/baths: Same bed/bath count (3/2 to 3/2, not 2/1)",
+            "Age/condition: Similar age and condition level",
+            "Sold recently: Last 3-6 months, older sales less relevant in moving markets"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Use Zillow, Redfin, Realtor.com to find recent sales. Your agent can provide MLS data with more details. Analyze minimum 3 comps, ideally 5-7. More data points provide better accuracy. If you can't find good comps (rural area, unique property), analysis is harder—proceed with extra caution."
+        },
+        {
+          "type": "list",
+          "title": "Adjustment Factors",
+          "items": [
+            "Square footage: Adjust $50-150 per sqft difference depending on market",
+            "Bedrooms/bathrooms: Additional bed worth $5k-15k, bath $3k-10k",
+            "Garage: Attached garage adds $5k-20k depending on market",
+            "Condition: Outdated/distressed properties worth 10-20% less",
+            "Lot size: Larger lots worth more in suburban/rural areas",
+            "Updates: Recent renovations (kitchen, bath, floors) add significant value"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Analysis Example",
+          "items": [
+            "Subject property: 3 bed, 2 bath, 1,500 sqft, needs updates",
+            "Comp 1: 3/2, 1,500 sqft, updated, sold $250k (adjust -$15k for condition) = $235k",
+            "Comp 2: 3/2, 1,600 sqft, similar condition, sold $245k (adjust -$5k for size) = $240k",
+            "Comp 3: 3/2, 1,400 sqft, similar condition, sold $225k (adjust +$5k for size) = $230k",
+            "Average adjusted value: ($235k + $240k + $230k) ÷ 3 = $235k",
+            "Conclusion: Subject property worth approximately $235k"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Rental comps work similarly. Find 3-5 properties currently listed for rent or recently rented in same area. Adjust for differences in size, condition, amenities. Verify with landlords if possible—asking rents don't always equal actual leasing prices. Conservative rental estimates prevent cash flow disasters."
+        },
+        {
+          "type": "list",
+          "title": "Comps Analysis Mistakes",
+          "items": [
+            "Cherry-picking comps: Only using sales that support your desired price",
+            "Too broad area: Using comps from different neighborhoods with different values",
+            "Old sales data: Using 12+ month old sales in changing markets",
+            "No adjustments: Treating 1,200 sqft and 1,800 sqft houses as equal",
+            "Listing prices: Using active listings instead of actual closed sales",
+            "Ignoring trends: Not recognizing if market is rising, flat, or falling"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What makes a good comparable sale?",
+          "options": [
+            "Any property in the same city",
+            "Similar property within 1 mile, sold in last 3-6 months, same beds/baths",
+            "Any property the same age",
+            "Only exactly identical properties"
+          ],
+          "correctIndex": 1,
+          "explanation": "Good comps are similar properties (size, beds/baths, condition) within 1 mile that sold recently (3-6 months)."
+        },
+        {
+          "question": "Should you make adjustments when comparing properties?",
+          "options": [
+            "No, just average the prices",
+            "Yes, adjust for size, condition, features differences",
+            "Only if properties are very different",
+            "Only professional appraisers should adjust"
+          ],
+          "correctIndex": 1,
+          "explanation": "Always adjust comp values for differences in square footage, condition, bedrooms, bathrooms, and features to estimate accurate market value."
+        }
+      ]
+    }
+  },
+  {
+    "id": "value-add-opportunities",
+    "title": "Identifying Value-Add Opportunities",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Value-add investing means buying properties below market value, making improvements, and either refinancing or selling at higher value. This strategy builds equity quickly and forces appreciation rather than waiting for market appreciation. The BRRRR method (Buy, Rehab, Rent, Refinance, Repeat) uses value-add to recycle capital into multiple properties with minimal money left in deals."
+        },
+        {
+          "type": "list",
+          "title": "Types of Value-Add Properties",
+          "items": [
+            "Cosmetic distress: Outdated but structurally sound, needs paint, flooring, fixtures",
+            "Deferred maintenance: Systems work but aged, need HVAC, roof, or appliance replacement",
+            "Functional obsolescence: Poor layout, can add bedroom/bath, improve flow",
+            "Mismanaged: Under-market rents, can raise to market after improvements",
+            "Motivated sellers: Divorce, estate, financial distress create discount opportunities",
+            "Hidden potential: Basement finish, garage conversion, ADU addition"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 70% rule for flippers: Pay no more than 70% of ARV (after repair value) minus repair costs. Investment example: ARV = $200k, repairs = $30k, maximum price = ($200k × 70%) - $30k = $110k. This leaves room for profit, holding costs, and unexpected expenses. Conservative investors use 65% in competitive markets."
+        },
+        {
+          "type": "list",
+          "title": "High-ROI Improvements",
+          "items": [
+            "Kitchen update: Paint cabinets, new hardware, countertops, backsplash ($3k-8k) adds $10k-20k value",
+            "Bathroom refresh: New vanity, toilet, fixtures, tile surround ($2k-5k) adds $8k-15k value",
+            "Flooring: Luxury vinyl plank throughout ($3k-6k) transforms appearance",
+            "Paint: Interior and exterior fresh paint ($2k-5k) makes massive visual impact",
+            "Curb appeal: Landscaping, front door, mailbox ($1k-2k) creates strong first impression",
+            "Light fixtures and hardware: Update throughout ($500-1k) modernizes feel"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Low-ROI Improvements (Avoid)",
+          "items": [
+            "High-end finishes: Granite/quartz may not return cost in middle-class rentals",
+            "Custom features: Built-ins, unique elements don't appeal to all buyers/renters",
+            "Over-improving for neighborhood: Putting $50k kitchen in $150k house",
+            "Major additions: Room additions rarely return full cost",
+            "Landscaping overkill: Elaborate landscapes require maintenance, tenants won't maintain",
+            "Pool installation: Pools are divisive, limit buyer pool, high maintenance"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Scope creep kills value-add deals. Set renovation budget before buying, stick to it. Adding 'just one more thing' repeatedly turns profitable projects into money pits. Have fixed-price contracts with contractors or fixed scope if doing work yourself. Time is money—every extra month is lost rent and holding costs."
+        },
+        {
+          "type": "list",
+          "title": "BRRRR Method",
+          "items": [
+            "Buy: Purchase distressed property, often with cash or hard money loan",
+            "Rehab: Renovate to add value, increase rental rates",
+            "Rent: Place quality tenant at market-rate rent",
+            "Refinance: Get conventional mortgage at 75-80% of new appraised value",
+            "Repeat: Pull most/all capital out, reinvest in next property",
+            "Result: Build portfolio rapidly with same capital recycled repeatedly"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Value-Add Mistakes",
+          "items": [
+            "Underestimating repairs: Not getting accurate contractor bids before buying",
+            "No contingency: Failing to budget 20% extra for unexpected issues",
+            "Wrong improvements: Doing what you like instead of what market values",
+            "DIY everything: Trying to save money doing work you're not skilled at",
+            "No permits: Unpermitted work creates problems at sale or refinance",
+            "Scope creep: Adding improvements beyond original budget"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the 70% rule?",
+          "options": [
+            "Finance 70% of purchase price",
+            "Pay no more than 70% of ARV minus repair costs",
+            "Spend 70% of budget on property, 30% on repairs",
+            "Target 70% occupancy rate"
+          ],
+          "correctIndex": 1,
+          "explanation": "The 70% rule states maximum purchase price = 70% of after-repair value minus repair costs, leaving room for profit and contingencies."
+        },
+        {
+          "question": "What's the highest-ROI improvement?",
+          "options": [
+            "Installing a pool",
+            "Custom built-ins",
+            "Paint, flooring, and kitchen/bath updates",
+            "Major room additions"
+          ],
+          "correctIndex": 2,
+          "explanation": "Cosmetic improvements like paint, flooring, and kitchen/bath updates provide highest ROI in rental properties by dramatically improving appearance affordably."
+        }
+      ]
+    }
+  },
+  {
+    "id": "due-diligence-checklist",
+    "title": "Complete Due Diligence Checklist",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Due diligence is your comprehensive investigation before finalizing a purchase. This is when you verify everything about the property, financials, legal status, and market position. Missing critical items during due diligence leads to expensive surprises. Methodical investors use checklists to ensure nothing is overlooked. Every hour spent on due diligence prevents thousands in losses."
+        },
+        {
+          "type": "list",
+          "title": "Physical Property Due Diligence",
+          "items": [
+            "Professional inspection: Structure, systems, major components",
+            "Specialized inspections: Sewer, radon, mold, termites, pool as needed",
+            "Roof age and condition: Verify remaining life, get contractor estimate if concerns",
+            "HVAC systems: Age, operation, efficiency, maintenance records",
+            "Water heater: Age (typical life 10-12 years), capacity for property",
+            "Appliances: Age and condition of any included appliances",
+            "Windows and doors: Condition, age, insulation quality",
+            "Foundation and drainage: Cracks, settling, water intrusion, grading"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Financial Due Diligence",
+          "items": [
+            "Verify rental income: Get lease agreements, verify rent amounts and terms",
+            "Review expenses: Request 2 years tax returns, utility bills, maintenance records",
+            "Property tax amount: Verify with county, check if homestead exemption will be removed",
+            "Insurance quotes: Get actual quotes, don't trust seller estimates",
+            "HOA documents: Fees, special assessments, financial health of HOA",
+            "Utility costs: If landlord pays any utilities, get historical usage",
+            "Deferred maintenance: Estimate cost of needed repairs and replacements"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Legal and Title Due Diligence",
+          "items": [
+            "Title search: Verify clean title, no liens or claims",
+            "Survey: Confirm boundaries, easements, encroachments",
+            "Zoning verification: Confirm legal use, check for violations",
+            "Permit history: Verify major work was permitted properly",
+            "Code violations: Check with city for any open violations",
+            "Rent control/regulations: Verify local landlord-tenant laws",
+            "Insurance claims history: CLUE report shows property claim history"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Market Due Diligence",
+          "items": [
+            "Rental comps: Verify rent competitive and achievable",
+            "Sales comps: Confirm purchase price reasonable",
+            "Occupancy rates: Check market vacancy rates",
+            "Days on market: Understand if property or area has absorption issues",
+            "Neighborhood visit: Drive area multiple times, day and night",
+            "Future development: Research planned projects that might impact value"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "During due diligence period (typically 7-14 days), you can walk away and get earnest money back. Use this time fully—schedule inspection immediately upon going under contract. Don't waste days of contingency period. Get quotes from contractors for any needed work. Every deadline missed reduces your protection."
+        },
+        {
+          "type": "list",
+          "title": "Red Flags to Walk Away",
+          "items": [
+            "Major structural issues: Foundation failure, severe settling, structural damage",
+            "Title problems: Liens, claims, or ownership disputes that can't be cleared",
+            "Illegal additions: Unpermitted major work that can't be retroactively permitted",
+            "Severe environmental issues: Mold throughout, lead paint, asbestos, contaminated soil",
+            "Neighborhood decline: Significant crime, abandonment, declining values",
+            "Seller misrepresentations: Caught lying about material facts",
+            "Numbers don't work: After real due diligence, cash flow is negative"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How long is typical due diligence period?",
+          "options": [
+            "2-3 days",
+            "7-14 days",
+            "30-45 days",
+            "6 months"
+          ],
+          "correctIndex": 1,
+          "explanation": "Typical due diligence periods are 7-14 days, during which you can walk away and recover earnest money if inspection reveals problems."
+        },
+        {
+          "question": "What should you do if major structural issues are discovered?",
+          "options": [
+            "Proceed anyway",
+            "Negotiate repair or price reduction, or walk away",
+            "Ignore it and hope for best",
+            "Sue the seller"
+          ],
+          "correctIndex": 1,
+          "explanation": "Major issues discovered during due diligence should be negotiated (repairs/credits) or you should exercise contingency and walk away."
+        }
+      ]
+    }
+  }
+]
