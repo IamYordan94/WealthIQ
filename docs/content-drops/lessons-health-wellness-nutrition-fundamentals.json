@@ -99,21 +99,416 @@
   {
     "id": "micronutrients-vitamins",
     "title": "Micronutrients & Vitamins",
-    "duration": "10 min"
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Micronutrients—vitamins and minerals—are needed in small amounts but play massive roles in health. They don't provide energy but are essential for energy production, immune function, bone health, and disease prevention. Deficiencies cause serious problems. This lesson covers key micronutrients and how to get them through food."
+        },
+        {
+          "type": "list",
+          "title": "Essential Vitamins",
+          "items": [
+            "Vitamin A: Vision, immune function (carrots, sweet potatoes, liver)",
+            "Vitamin C: Antioxidant, collagen production (citrus, berries, peppers)",
+            "Vitamin D: Bone health, mood (sunlight, fatty fish, fortified foods)",
+            "Vitamin E: Antioxidant, skin health (nuts, seeds, spinach)",
+            "Vitamin K: Blood clotting, bone health (leafy greens, broccoli)",
+            "B vitamins: Energy production, nerve function (whole grains, meat, eggs)",
+            "Folate: Cell division, pregnancy (leafy greens, legumes, fortified grains)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Essential Minerals",
+          "items": [
+            "Calcium: Bone health, muscle function (dairy, leafy greens, fortified foods)",
+            "Iron: Oxygen transport in blood (red meat, spinach, lentils)",
+            "Magnesium: 300+ reactions, sleep, muscle (nuts, seeds, whole grains, dark chocolate)",
+            "Zinc: Immune function, wound healing (meat, shellfish, legumes)",
+            "Potassium: Blood pressure, heart health (bananas, potatoes, beans)",
+            "Sodium: Fluid balance (salt - most get too much)",
+            "Iodine: Thyroid function (iodized salt, seaweed, fish)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The best source of micronutrients: variety of whole foods. Eat the rainbow - different colors provide different nutrients. No supplement replaces real food. Supplements fill gaps, don't replace diet. Most people can get everything from food with varied, colorful diet."
+        },
+        {
+          "type": "list",
+          "title": "Common Deficiencies",
+          "items": [
+            "Vitamin D: Most common, especially in northern climates",
+            "Magnesium: 50% of people deficient, stress depletes it",
+            "Iron: Especially in women, vegetarians/vegans",
+            "B12: Vegetarians/vegans at risk (only in animal products)",
+            "Calcium: If not enough dairy or leafy greens",
+            "Omega-3s: Most don't eat enough fatty fish",
+            "Get tested: Blood work shows deficiencies",
+            "Supplement strategically: Target actual deficiencies"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Food First Approach",
+          "items": [
+            "Colorful vegetables: Different colors = different nutrients",
+            "Variety of fruits: Berries, citrus, tropical, stone fruits",
+            "Whole grains: B vitamins, minerals",
+            "Nuts and seeds: Magnesium, vitamin E, healthy fats",
+            "Fatty fish: Omega-3s, vitamin D",
+            "Leafy greens: Folate, vitamin K, calcium, iron",
+            "Fermented foods: Probiotics, B vitamins",
+            "Quality over supplements: Real food has co-factors supplements lack"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the best way to get micronutrients?",
+          "options": [
+            "Supplements only",
+            "Variety of colorful whole foods - eat the rainbow",
+            "One type of food",
+            "Processed foods"
+          ],
+          "correctIndex": 1,
+          "explanation": "Variety of colorful whole foods provides micronutrients with co-factors supplements lack. Different colors = different nutrients. Supplements fill gaps but don't replace real food."
+        },
+        {
+          "question": "Which vitamin deficiency is most common?",
+          "options": [
+            "Vitamin C",
+            "Vitamin D - especially in northern climates",
+            "Vitamin A",
+            "Vitamin E"
+          ],
+          "correctIndex": 1,
+          "explanation": "Vitamin D deficiency is most common, especially in northern climates with less sunlight. Important for bone health, immune function, mood. Consider supplementation if deficient."
+        }
+      ]
+    }
   },
   {
     "id": "meal-planning",
     "title": "Practical Meal Planning",
-    "duration": "9 min"
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Meal planning is secret weapon for consistent healthy eating. Planning prevents last-minute poor choices, saves money, reduces food waste, and reduces decision fatigue. Most people fail at healthy eating not from lack of knowledge but lack of planning. This lesson gives you simple meal planning system that actually works."
+        },
+        {
+          "type": "list",
+          "title": "Benefits of Meal Planning",
+          "items": [
+            "Consistency: Easier to stick with healthy eating",
+            "Save money: Less restaurant food, less food waste",
+            "Save time: One planning session saves daily decisions",
+            "Better nutrition: Balanced meals, not random choices",
+            "Less stress: Know what you're eating",
+            "Portion control: Pre-portioned prevents overeating",
+            "Family friendly: Everyone eats same healthy meals",
+            "Weight goals: Easier to track and adjust"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Simple Planning Process",
+          "items": [
+            "Step 1: Choose 3-5 dinner recipes for week",
+            "Step 2: Make shopping list from recipes",
+            "Step 3: Shop once for entire week",
+            "Step 4: Prep ingredients Sunday (chop vegetables, cook grains, etc)",
+            "Step 5: Cook dinner, make extra for lunch next day",
+            "Step 6: Simple breakfasts (eggs, oatmeal, yogurt)",
+            "Repeat weekly: Gets easier with practice",
+            "Keep favorites: Rotate successful meals"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Meal Prep Strategies",
+          "items": [
+            "Batch cooking: Cook large amounts, portion for week",
+            "Ingredient prep: Wash/chop vegetables, cook grains ahead",
+            "Protein prep: Cook chicken, hard boil eggs, portion fish",
+            "Container system: Glass containers with portions",
+            "Freezer friendly: Make double, freeze half",
+            "Mix and match: Prep components, combine different ways",
+            "2-hour Sunday session: Set aside focused prep time",
+            "Start small: Prep 3 days if full week overwhelming"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Budget-Friendly Tips",
+          "items": [
+            "Buy in bulk: Grains, nuts, seeds cheaper in bulk",
+            "Seasonal produce: Cheaper and tastier",
+            "Frozen vegetables: Just as nutritious, often cheaper",
+            "Canned beans: Convenient, cheap protein source",
+            "Eggs: Cheap complete protein",
+            "Whole chicken: Cheaper than parts, use for multiple meals",
+            "Store brands: Often same quality as name brands",
+            "Limit processed: Whole foods usually cheaper per serving"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Easy Meal Ideas",
+          "items": [
+            "Breakfast: Overnight oats, egg muffins, smoothies, yogurt bowls",
+            "Lunch: Big salads with protein, leftover dinner, grain bowls",
+            "Dinner: Sheet pan meals, slow cooker, stir-fry, grilled protein + vegetables",
+            "Snacks: Nuts, fruit, vegetables + hummus, boiled eggs, cheese",
+            "Keep simple: 5-6 ingredients max",
+            "Rotate favorites: Don't reinvent every week",
+            "Theme nights: Taco Tuesday, Meatless Monday, etc."
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the main benefit of meal planning?",
+          "options": [
+            "It's complicated",
+            "Consistency - prevents last-minute poor choices, reduces decision fatigue",
+            "You eat less",
+            "It's more expensive"
+          ],
+          "correctIndex": 1,
+          "explanation": "Meal planning creates consistency. One planning session prevents week of poor last-minute choices. Reduces decision fatigue, saves time and money, improves nutrition."
+        },
+        {
+          "question": "How much time should you set aside for meal prep?",
+          "options": [
+            "All day Sunday",
+            "2 hours weekly - focused prep session makes week easier",
+            "Daily planning",
+            "No prep needed"
+          ],
+          "correctIndex": 1,
+          "explanation": "2-hour Sunday prep session covers most of week. Wash/chop vegetables, cook proteins, prepare grains. Front-load effort, coast rest of week."
+        }
+      ]
+    }
   },
   {
     "id": "reading-nutrition-labels",
     "title": "Reading Nutrition Labels",
-    "duration": "8 min"
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Nutrition labels tell you what's really in your food. Food marketing lies, labels don't (mostly). Learning to read labels helps you avoid hidden sugars, inflammatory oils, and misleading health claims. This skill empowers you to make informed choices. Five minutes learning saves years of poor food choices."
+        },
+        {
+          "type": "list",
+          "title": "Reading the Label",
+          "items": [
+            "Serving size: First thing to check (often smaller than expected)",
+            "Servings per container: Multiply values if you eat whole package",
+            "Calories: Energy per serving",
+            "Macros: Protein, carbs, fat in grams",
+            "Fiber: Subtract from total carbs for net carbs",
+            "Sugar: Look for added sugars specifically",
+            "Sodium: Watch if monitoring blood pressure",
+            "Percent Daily Value: Based on 2,000 calorie diet"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Ingredient List Secrets",
+          "items": [
+            "Order matters: Listed by weight, most to least",
+            "Short list better: 5 ingredients usually good",
+            "Recognize everything: If you can't pronounce, probably processed",
+            "Sugar aliases: 60+ names (high fructose corn syrup, cane juice, dextrose)",
+            "Hidden oils: Vegetable, soybean, canola, cottonseed oils",
+            "Artificial colors: Red 40, Yellow 5 (avoid)",
+            "Preservatives: BHA, BHT, sodium benzoate",
+            "Rule: If grandma wouldn't recognize it, reconsider"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Marketing Tricks",
+          "items": [
+            "'Natural': Meaningless term, no regulation",
+            "'Made with whole grains': Could be 1% whole grain",
+            "'Low-fat': Often loaded with sugar",
+            "'Sugar-free': Artificial sweeteners instead",
+            "'Multigrain': Doesn't mean whole grain",
+            "'Lightly sweetened': Still has lots of sugar",
+            "'Heart healthy': Based on questionable claims",
+            "Trust label, not marketing: Front of package lies, back tells truth"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "What to Look For",
+          "items": [
+            "Protein: At least 10-20g per serving for meals",
+            "Fiber: At least 3-5g per serving",
+            "Sugar: Less than 5g added sugars per serving",
+            "Sodium: Less than 300mg per serving",
+            "Fats: Mostly unsaturated, zero trans fat",
+            "Ingredients: Whole foods first, short list",
+            "Avoid: Partially hydrogenated oils, high fructose corn syrup",
+            "Compare: Check multiple brands, choose best option"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Best Strategy",
+          "items": [
+            "Shop perimeter: Fresh foods don't need labels",
+            "Whole foods first: Vegetables, fruits, meat, eggs",
+            "Packaged = check label: Always read before buying",
+            "Simple test: Less than 5 ingredients, all recognizable",
+            "Real food: Single ingredient items (apple, chicken, broccoli)",
+            "Compare brands: Find cleanest option",
+            "Don't trust claims: Verify with actual label",
+            "When in doubt: Choose less processed option"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What should you check first on nutrition label?",
+          "options": [
+            "Calories only",
+            "Serving size - often smaller than you expect",
+            "Nothing",
+            "Front of package claims"
+          ],
+          "correctIndex": 1,
+          "explanation": "Check serving size first. Often smaller than expected (like 1/4 cup cereal). Everything else is per serving, so if you eat more, multiply the values."
+        },
+        {
+          "question": "What does 'natural' on food packaging mean?",
+          "options": [
+            "Organic and healthy",
+            "Meaningless - no regulation, marketing term only",
+            "Government approved",
+            "No preservatives"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Natural' is meaningless marketing term with no regulation. Ignore front package claims. Read actual ingredient list and nutrition facts instead."
+        }
+      ]
+    }
   },
   {
     "id": "nutrition-myths",
     "title": "Nutrition Myths Debunked",
-    "duration": "9 min"
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Nutrition industry is full of myths, contradictions, and bad advice driven by profit, not science. Low-fat! No, low-carb! Eat 6 meals! No, fast! Confusing by design. This lesson cuts through nonsense, debunks common myths with science, and gives you clarity on what actually matters for health."
+        },
+        {
+          "type": "list",
+          "title": "Major Myths Debunked",
+          "items": [
+            "Myth: 'Carbs are bad' | Truth: Refined carbs problematic, whole carbs healthy",
+            "Myth: 'Fat makes you fat' | Truth: Excess calories make you fat, healthy fats essential",
+            "Myth: 'Eating late causes weight gain' | Truth: Total calories matter, not timing",
+            "Myth: 'You need to eat 6 small meals' | Truth: Meal frequency doesn't matter, total intake does",
+            "Myth: 'Breakfast is essential' | Truth: Optional, depends on individual preference",
+            "Myth: 'Diet soda is healthy' | Truth: Artificial sweeteners may disrupt metabolism",
+            "Myth: 'Detox diets cleanse toxins' | Truth: Liver and kidneys detox naturally",
+            "Myth: 'Supplements can replace diet' | Truth: Whole foods first, supplement gaps only"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "The Calorie Confusion",
+          "items": [
+            "Myth: 'All calories are equal' | Partially true but misleading",
+            "Truth: Calorie is energy unit, but sources matter",
+            "Protein: Thermic effect (uses 30% of its calories to digest)",
+            "Processing: Refined foods digest easier (absorb more calories)",
+            "Satiety: 500 calories of chicken satisfies more than 500 of candy",
+            "Hormones: Different foods trigger different hormonal responses",
+            "Metabolism: Protein preserves muscle, sugar stores as fat",
+            "Bottom line: Quality and quantity both matter"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Organic & Clean Eating",
+          "items": [
+            "Myth: 'Organic is always worth it' | Truth: Priorities matter",
+            "Dirty Dozen: Buy organic (strawberries, spinach, apples, grapes, etc)",
+            "Clean Fifteen: Conventional fine (avocados, pineapple, onions, etc)",
+            "Cost-benefit: Organic vegetables > conventional junk food",
+            "'Clean eating': Vague term, focus on whole foods",
+            "Pesticides: Washing reduces most residue",
+            "Local: Sometimes better than organic shipped far",
+            "Don't let perfect stop good: Conventional vegetables beat no vegetables"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Fasting & Meal Timing",
+          "items": [
+            "Myth: 'Fasting destroys metabolism' | Truth: Short-term fasting may boost metabolism",
+            "Intermittent fasting: Can work but not magic",
+            "Meal timing: Less important than total intake",
+            "Breakfast optional: Listen to your body",
+            "Post-workout window: Not as critical as once thought",
+            "Eating late: Doesn't inherently cause weight gain",
+            "Best schedule: What you can sustain long-term",
+            "Individual: Some thrive on fasting, others feel terrible"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "What Actually Matters",
+          "items": [
+            "Consistency: Doing it long-term beats perfect short-term",
+            "Whole foods: Minimally processed majority of diet",
+            "Adequate protein: 0.8-1g per kg minimum",
+            "Vegetables: Multiple servings daily",
+            "Hydration: Half body weight in ounces",
+            "Sleep: 7-9 hours for hormone regulation",
+            "Stress management: Chronic stress sabotages nutrition",
+            "Sustainability: If you can't maintain it, it doesn't work"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Are all carbs bad for you?",
+          "options": [
+            "Yes, all carbs are bad",
+            "No - refined carbs problematic, whole carbs healthy",
+            "Only eat carbs",
+            "Carbs don't exist"
+          ],
+          "correctIndex": 1,
+          "explanation": "Refined carbs (white bread, sugar) spike blood sugar and provide little nutrition. Whole carbs (vegetables, fruits, whole grains) provide energy, fiber, and nutrients. Quality matters."
+        },
+        {
+          "question": "Does eating late at night cause weight gain?",
+          "options": [
+            "Yes, always",
+            "No - total calories matter, not timing",
+            "Only on weekends",
+            "Only certain foods"
+          ],
+          "correctIndex": 1,
+          "explanation": "Total calories and quality matter more than timing. Your body doesn't know what time it is. Eating late won't cause weight gain if within calorie needs. Individual schedule matters."
+        }
+      ]
+    }
   }
 ]
