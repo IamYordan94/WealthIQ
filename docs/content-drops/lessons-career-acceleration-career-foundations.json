@@ -1,0 +1,506 @@
+[
+  {
+    "id": "career-planning",
+    "title": "Strategic Career Planning",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Most people spend more time planning vacations than planning careers. A strategic approach to career development dramatically increases earning potential, job satisfaction, and long-term success. Career planning isn't about rigidly following a script—it's about understanding your goals, the market landscape, and making intentional choices that compound over time."
+        },
+        {
+          "type": "list",
+          "title": "Assessing Your Starting Point",
+          "items": [
+            "Skills inventory: List technical and soft skills you've developed (programming, writing, public speaking, project management)",
+            "Values clarification: What matters most? Money, work-life balance, impact, creativity, autonomy, prestige?",
+            "Strengths identification: What do you do better than most? What energizes you?",
+            "Market position: How does your compensation compare to market rates? Use Levels.fyi, Glassdoor, PayScale",
+            "Growth trajectory: Are you learning and advancing, or stagnating?"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Career capital is your accumulation of rare and valuable skills. Early career (0-5 years), prioritize learning over earning. Take positions that teach you valuable skills, even if they pay less initially. By mid-career (5-15 years), you should be converting that capital into higher compensation, leadership roles, or entrepreneurial ventures."
+        },
+        {
+          "type": "list",
+          "title": "Creating Your Career Vision",
+          "items": [
+            "5-year horizon: What role, salary, skills, lifestyle do you want?",
+            "Work backwards: What positions lead to your target? What skills are required?",
+            "Multiple paths: Identify 2-3 viable routes (corporate track, entrepreneurship, consulting)",
+            "Decision filters: Create rules for evaluating opportunities (must offer X skill development, minimum Y salary)",
+            "Review quarterly: Adjust based on changing circumstances and new information"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Career Planning Mistakes",
+          "items": [
+            "Following default path: Taking promotions or jobs because 'that's next' without evaluating fit",
+            "Optimizing for wrong variable: Chasing prestige or comfort over skill development and growth",
+            "Golden handcuffs: Staying in comfortable but limiting roles for incremental raises",
+            "No skill differentiation: Being generically good at many things instead of excellent at valuable things",
+            "Ignoring market trends: Building skills in declining industries or obsolete technologies"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Your career strategy should balance exploitation (maximizing current position) and exploration (developing new skills and opportunities). Too much exploitation leads to stagnation; too much exploration prevents capitalizing on accumulated career capital. The ratio shifts over time: explore aggressively early, exploit strategically later."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What should be prioritized in early career (0-5 years)?",
+          "options": [
+            "Highest possible salary",
+            "Learning and skill development",
+            "Job security and stability",
+            "Work-life balance"
+          ],
+          "correctIndex": 1,
+          "explanation": "Early career should prioritize learning and developing rare, valuable skills over maximizing immediate compensation. This builds career capital."
+        },
+        {
+          "question": "What is career capital?",
+          "options": [
+            "Your salary and total compensation",
+            "Accumulation of rare and valuable skills",
+            "Your professional network size",
+            "Years of experience"
+          ],
+          "correctIndex": 1,
+          "explanation": "Career capital is your accumulation of rare and valuable skills that give you leverage and options in the job market."
+        }
+      ]
+    }
+  },
+  {
+    "id": "personal-branding",
+    "title": "Building Your Personal Brand",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Your personal brand is your professional reputation—what people think of when they hear your name. In a connected world, your brand precedes you into every interview, negotiation, and opportunity. A strong personal brand opens doors, commands higher compensation, and creates opportunities others don't see. You're building a brand whether intentionally or not—might as well be strategic."
+        },
+        {
+          "type": "list",
+          "title": "Components of Personal Brand",
+          "items": [
+            "Expertise: What are you known for? What value do you uniquely provide?",
+            "Visibility: Do the right people know you exist and what you can do?",
+            "Credibility: Can you deliver on promises? Do you have proof of results?",
+            "Consistency: Does your message and presentation align across platforms?",
+            "Authenticity: Are you genuine or playing a character? People detect fakeness"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Choose a positioning that's both valuable and authentic. 'Marketing specialist' is generic. 'B2B SaaS growth marketer specializing in product-led growth' is specific and valuable. Riches are in niches—being known as the go-to person for something specific is more valuable than being somewhat known for everything."
+        },
+        {
+          "type": "list",
+          "title": "Building Brand Visibility",
+          "items": [
+            "LinkedIn optimization: Professional photo, compelling headline, detailed experience, regular posts about your expertise",
+            "Content creation: Write articles, record videos, share insights about your field 2-3x weekly",
+            "Speaking engagements: Present at conferences, meetups, webinars in your industry",
+            "Open source contributions: For developers, contribute to projects and share your work",
+            "Help publicly: Answer questions in forums, Slack communities, Reddit in your field",
+            "Consistency: Small regular contributions beat occasional bursts"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "LinkedIn Strategy",
+          "items": [
+            "Headline: Not job title—value proposition (e.g., 'I help SaaS companies reduce churn through data-driven CX')",
+            "About section: Tell your story, highlight achievements, include keywords, add contact info",
+            "Experience: Use bullet points showing impact with numbers, not just responsibilities",
+            "Post regularly: Share insights, lessons learned, industry trends 2-3x per week",
+            "Engage authentically: Comment thoughtfully on others' posts in your industry",
+            "Connect strategically: Add people in your industry with personalized notes"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Personal branding isn't about becoming an influencer—it's about being known by the right people. You don't need 100,000 followers. You need 100-1,000 people in your industry who know your name, respect your work, and think of you when opportunities arise. Quality of network beats quantity."
+        },
+        {
+          "type": "list",
+          "title": "Personal Branding Don'ts",
+          "items": [
+            "Don't be inauthentic: Playing a character exhausts you and people detect it",
+            "Don't overshare personal life: Some personal is good, but maintain professional boundaries",
+            "Don't just consume: Passive scrolling doesn't build brand, creating and engaging does",
+            "Don't copy others' voice: Learn from successful people but develop your authentic style",
+            "Don't wait for perfection: Start sharing insights now, improve as you go"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is personal branding?",
+          "options": [
+            "Having a large social media following",
+            "Your professional reputation and what people think when they hear your name",
+            "Your resume and work history",
+            "Creating a logo for yourself"
+          ],
+          "correctIndex": 1,
+          "explanation": "Personal brand is your professional reputation—the perception people have of your expertise, reliability, and value."
+        },
+        {
+          "question": "What's more valuable than having 100,000 followers?",
+          "options": [
+            "Being known by 100-1,000 people in your industry who respect your work",
+            "Having a verified checkmark",
+            "Posting content daily",
+            "Having the perfect LinkedIn photo"
+          ],
+          "correctIndex": 0,
+          "explanation": "Quality beats quantity in networking. Being known by the right people in your industry is more valuable than large but irrelevant followings."
+        }
+      ]
+    }
+  },
+  {
+    "id": "resume-cv-optimization",
+    "title": "Resume & CV Optimization",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Your resume has 6-10 seconds to capture attention before it's rejected or moved forward. Hiring managers and recruiters scan for relevant keywords, quantified achievements, and clear value proposition. A mediocre resume prevents great candidates from getting interviews, while an optimized resume opens doors. The goal isn't creative writing—it's passing screening filters and proving value quickly."
+        },
+        {
+          "type": "list",
+          "title": "Resume Structure",
+          "items": [
+            "Header: Name, title, phone, email, LinkedIn, portfolio/GitHub if relevant (no address needed)",
+            "Summary (optional): 2-3 sentences highlighting years of experience, specialization, key value proposition",
+            "Experience: Reverse chronological, bullet points showing impact with metrics",
+            "Skills: List technical skills, tools, certifications relevant to target role",
+            "Education: Degree, school, graduation year (GPA only if recent grad and 3.5+)",
+            "Length: 1 page for <10 years experience, 2 pages for 10+ years"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The magic is in the bullet points. Avoid responsibility descriptions ('Managed social media accounts'). Focus on achievements with metrics ('Grew Instagram following from 5K to 50K in 6 months, increasing engagement rate from 2% to 8%'). Every bullet should answer: What did you do? What was the impact? What were the numbers?"
+        },
+        {
+          "type": "list",
+          "title": "Bullet Point Formula",
+          "items": [
+            "Action verb + what you did + quantified result",
+            "Bad: 'Responsible for customer service'",
+            "Good: 'Resolved 50+ customer inquiries daily, maintaining 4.8/5 satisfaction rating'",
+            "Bad: 'Managed projects'",
+            "Good: 'Led 5 cross-functional projects worth $2M, delivering all on-time and 15% under budget'",
+            "Numbers > words: Use percentages, dollar amounts, time savings, growth rates"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "ATS (Applicant Tracking System) Optimization",
+          "items": [
+            "Use keywords from job description: ATS scans for specific skills and experience",
+            "Avoid tables, graphics, headers/footers: Can confuse ATS parsing",
+            "Use standard section headers: 'Work Experience' not 'My Professional Journey'",
+            "Spell out acronyms once: 'Search Engine Optimization (SEO)' then use 'SEO'",
+            "Save as .docx or PDF: Most ATS handle these formats best",
+            "Test with jobscan.co: Free tool shows how well your resume matches job descriptions"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Tailor your resume for each application. This doesn't mean rewriting everything—maintain a master resume with all accomplishments, then customize by emphasizing relevant skills and experiences for each role. A tailored resume showing exactly what they need beats a generic resume showing everything you've done."
+        },
+        {
+          "type": "list",
+          "title": "Common Resume Mistakes",
+          "items": [
+            "Objective statement: Waste of space, everyone wants 'a challenging role with growth opportunity'",
+            "Typos and grammar errors: Instant rejection, get multiple people to review",
+            "Unprofessional email: Use firstname.lastname@gmail.com, not partygirl2000@hotmail.com",
+            "Gaps without explanation: Address employment gaps briefly (freelancing, education, family care)",
+            "Irrelevant information: Ancient jobs, hobbies, physical characteristics",
+            "Lying or exaggerating: Always gets discovered, permanently damages reputation"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the most important element of resume bullet points?",
+          "options": [
+            "Using big vocabulary words",
+            "Quantified achievements with metrics",
+            "Listing all responsibilities",
+            "Using passive voice"
+          ],
+          "correctIndex": 1,
+          "explanation": "Quantified achievements with metrics (numbers, percentages, dollar amounts) show concrete impact and prove your value."
+        },
+        {
+          "question": "How long should your resume be if you have 7 years of experience?",
+          "options": [
+            "1 page",
+            "2 pages",
+            "3 pages",
+            "As long as needed"
+          ],
+          "correctIndex": 0,
+          "explanation": "For under 10 years of experience, keep resumes to 1 page. Focus on most relevant and impactful achievements."
+        },
+        {
+          "question": "What is an ATS?",
+          "options": [
+            "A type of resume template",
+            "Applicant Tracking System that scans resumes for keywords",
+            "Advanced Training Seminar",
+            "A certification"
+          ],
+          "correctIndex": 1,
+          "explanation": "ATS (Applicant Tracking System) is software that scans and filters resumes based on keywords and qualifications before humans review them."
+        }
+      ]
+    }
+  },
+  {
+    "id": "interview-mastery",
+    "title": "Interview Mastery",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Interviewing is a skill that dramatically improves with preparation and practice. Great candidates fail interviews through poor preparation; average candidates succeed with excellent interviewing skills. Interviews aren't about honestly answering questions—they're about strategically presenting yourself as the solution to the employer's problems. Master this and you'll consistently land offers above your perceived level."
+        },
+        {
+          "type": "list",
+          "title": "Pre-Interview Preparation",
+          "items": [
+            "Research company: Read recent news, understand products/services, know competitors, review Glassdoor",
+            "Research interviewers: LinkedIn profiles to understand their background and interests",
+            "Prepare stories: 5-7 STAR method stories covering different competencies",
+            "Prepare questions: 3-5 thoughtful questions showing you researched the role and company",
+            "Practice delivery: Record yourself answering common questions, refine until natural",
+            "Technical prep: For technical roles, review concepts and practice problems on LeetCode, HackerRank"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The STAR method structures your answers: Situation (context), Task (challenge/goal), Action (what you did), Result (outcome with metrics). This framework keeps answers concise, focused, and impressive. Every answer should end with quantified results. 'I improved the process' is weak. 'I reduced processing time by 40%, saving the team 10 hours weekly' is powerful."
+        },
+        {
+          "type": "list",
+          "title": "Common Interview Questions",
+          "items": [
+            "Tell me about yourself: 60-second pitch highlighting relevant experience, not life story",
+            "Why this company/role?: Show you researched, connect to your career goals, express genuine interest",
+            "Greatest weakness: Real weakness + what you're doing to improve, avoid humble brags",
+            "Describe a challenge: Use STAR method, emphasize problem-solving and results",
+            "Where do you see yourself in 5 years?: Show ambition aligned with company, avoid 'your job'",
+            "Why should we hire you?: Connect your unique skills to their specific needs"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Interview Performance Tips",
+          "items": [
+            "First impression: Business appropriate dress, arrive 10 min early (but not earlier), firm handshake, smile",
+            "Energy level: Match interviewer's energy plus 10%, show enthusiasm without seeming desperate",
+            "Listen actively: Don't interrupt, take brief notes, pause before answering to show thoughtfulness",
+            "Ask clarifying questions: Shows analytical thinking, buys time to formulate better answers",
+            "Close strong: Reiterate interest, ask about next steps, thank them for their time",
+            "Follow up: Send thank-you email within 24 hours, reference specific conversation points"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Behavioral interviews assess past behavior predicting future performance. Technical interviews test knowledge and problem-solving under pressure. Case interviews evaluate analytical thinking. Phone screens filter out weak candidates. Final round interviews validate fit and close the deal. Each type requires different preparation strategies but all reward practice."
+        },
+        {
+          "type": "list",
+          "title": "Interview Mistakes to Avoid",
+          "items": [
+            "Talking too much: Answer in 1-2 minutes, not 10-minute monologues",
+            "Badmouthing previous employers: Always frame departures positively (growth, new challenges)",
+            "Focusing on what you want: Frame answers around value you provide, not what you need",
+            "Not preparing questions: Asking nothing signals disinterest",
+            "Lying about skills: You'll be exposed and waste everyone's time",
+            "Discussing salary too early: Wait for offer before negotiating, exception if they demand number"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Your Questions to Ask",
+          "items": [
+            "What does success look like in this role in first 90 days?",
+            "What are the biggest challenges facing the team/department?",
+            "How would you describe the company/team culture?",
+            "What opportunities for growth and development exist?",
+            "What do you enjoy most about working here? (Personal connection)",
+            "Avoid: Questions about salary, benefits, time off in early rounds"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the STAR method?",
+          "options": [
+            "A rating system for candidates",
+            "Structure for answering questions: Situation, Task, Action, Result",
+            "A type of interview",
+            "A negotiation technique"
+          ],
+          "correctIndex": 1,
+          "explanation": "STAR method structures answers by describing Situation, Task, Action taken, and Result achieved—providing complete, impressive responses."
+        },
+        {
+          "question": "When should you send a thank-you email after an interview?",
+          "options": [
+            "Immediately after leaving",
+            "Within 24 hours",
+            "After one week",
+            "Only if you get the job"
+          ],
+          "correctIndex": 1,
+          "explanation": "Send thank-you emails within 24 hours while you're still fresh in interviewers' minds, showing professionalism and continued interest."
+        },
+        {
+          "question": "How should you answer 'What is your greatest weakness?'",
+          "options": [
+            "Say you have no weaknesses",
+            "Give a strength disguised as weakness ('I work too hard')",
+            "Share real weakness and what you're doing to improve it",
+            "Refuse to answer"
+          ],
+          "correctIndex": 2,
+          "explanation": "Show self-awareness by sharing a real but not disqualifying weakness, plus specific steps you're taking to improve. Demonstrates growth mindset."
+        }
+      ]
+    }
+  },
+  {
+    "id": "salary-negotiation",
+    "title": "Salary Negotiation Strategies",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Negotiating your salary is the highest-ROI activity you'll ever perform. A single successful negotiation can earn you $5,000-20,000+ more annually, which compounds over your career. Yet most people accept first offers without negotiating, leaving hundreds of thousands on the table over a lifetime. Companies expect negotiation—not negotiating signals you undervalue yourself."
+        },
+        {
+          "type": "list",
+          "title": "Pre-Negotiation Preparation",
+          "items": [
+            "Research market rates: Use Levels.fyi, Glassdoor, PayScale, industry salary surveys for your role/location",
+            "Know your value: Document achievements, skills, certifications that justify higher compensation",
+            "Determine your range: Minimum acceptable, target salary, aspirational number",
+            "Consider total compensation: Base, bonus, equity, benefits, work-life balance, growth opportunities",
+            "Gather competing offers: Multiple offers provide immense negotiating leverage",
+            "Practice delivery: Role-play negotiation conversations until comfortable"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Timing is critical. Never discuss salary until you have an offer. When asked about salary expectations early, deflect with 'I'd like to learn more about the role first' or 'I'm sure we can find a fair number once we determine fit.' The person who mentions numbers first typically loses. Make them commit first."
+        },
+        {
+          "type": "list",
+          "title": "Negotiation Tactics",
+          "items": [
+            "Anchor high: If forced to name number, start at top of market range—they'll negotiate down",
+            "Never accept first offer: Always counter, even if offer seems good. Room exists.",
+            "Justify with data: 'Based on market research for this role and my X years experience, I was expecting $Y'",
+            "Use silence: After stating your number, stay quiet. Let them respond first.",
+            "Trade-offs: If they can't move on salary, negotiate bonus, equity, vacation, remote work, title",
+            "Get it in writing: Verbal agreements mean nothing, confirm all terms in offer letter"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Negotiation Scripts",
+          "items": [
+            "First offer response: 'Thank you for the offer. I'm excited about the role. Based on my research and experience, I was expecting closer to $X. Is there flexibility?'",
+            "If they say no: 'I understand the salary constraints. Can we discuss signing bonus, equity, or additional vacation days?'",
+            "Multiple offers: 'I have another offer at $X, but I prefer your company. Can you match?'",
+            "Current salary question: 'I'd prefer to focus on the value I'll bring to this role rather than my current compensation'",
+            "Final counteroffer: 'I appreciate you working with me. If you can reach $X, I'm ready to accept today'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Women and minorities statistically negotiate less often and less aggressively, contributing to pay gaps. If you're uncomfortable advocating for yourself, reframe it: you're not being difficult, you're establishing fair value. Companies profit when employees don't negotiate. Don't subsidize their profits by underselling yourself."
+        },
+        {
+          "type": "list",
+          "title": "Negotiation Mistakes",
+          "items": [
+            "Accepting first offer: Leaves $5k-20k+ on table, companies expect negotiation",
+            "Revealing current salary: Anchors negotiation to past, not future value",
+            "Negotiating from desperation: Need money ≠ negotiate poorly, wait for strong position if possible",
+            "Multiple rounds without progress: If 2-3 counters don't move them, either accept or walk",
+            "Burning bridges: Stay professional even if rejecting, industry is small",
+            "Bluffing about other offers: Never lie, always gets discovered"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Beyond Base Salary",
+          "items": [
+            "Signing bonus: One-time payment, easier for companies than ongoing salary increases",
+            "Performance bonus: 10-30% of salary for hitting targets",
+            "Equity: Stock options or RSUs, can be worth more than salary at startups/tech companies",
+            "Benefits: Health insurance, 401k match, education reimbursement",
+            "Work arrangements: Remote work, flexible hours, extra vacation days",
+            "Review timeline: Negotiate earlier performance review for potential raise"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "When should you discuss salary expectations?",
+          "options": [
+            "In the first interview",
+            "Only after receiving a formal offer",
+            "When the recruiter first contacts you",
+            "Never, let them decide"
+          ],
+          "correctIndex": 1,
+          "explanation": "Wait until you have a formal offer before discussing specific numbers. This gives you maximum leverage and ensures they're committed to hiring you."
+        },
+        {
+          "question": "Should you always negotiate even if the first offer seems good?",
+          "options": [
+            "No, you might lose the offer",
+            "Yes, there's almost always room to negotiate",
+            "Only if you have other offers",
+            "Only for senior positions"
+          ],
+          "correctIndex": 1,
+          "explanation": "Always negotiate. Companies expect it, build room into offers, and won't rescind offers for reasonable negotiation. You leave money on table by not asking."
+        },
+        {
+          "question": "If they can't increase base salary, what else can you negotiate?",
+          "options": [
+            "Nothing, salary is all that matters",
+            "Signing bonus, equity, vacation, remote work, title",
+            "Only vacation days",
+            "Accept defeat and look elsewhere"
+          ],
+          "correctIndex": 1,
+          "explanation": "Total compensation includes many elements beyond base salary. Negotiate signing bonus, equity, benefits, work arrangements, and review timeline."
+        }
+      ]
+    }
+  }
+]
