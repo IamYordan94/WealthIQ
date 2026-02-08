@@ -1,0 +1,508 @@
+[
+  {
+    "id": "resilience-fundamentals",
+    "title": "Mental Resilience Fundamentals",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Resilience isn't about never falling down—it's about getting back up faster each time. Life hits everyone: failures, rejections, losses, setbacks. Difference between those who thrive and those who break isn't what happens to them—it's how they respond. Resilience is trainable skill, not fixed trait. You can build mental toughness like building physical strength: consistent practice under stress."
+        },
+        {
+          "type": "list",
+          "title": "What is Mental Resilience",
+          "items": [
+            "Definition: Capacity to recover quickly from difficulties, adapt to adversity",
+            "Not about: Avoiding problems, never feeling pain, being tough all the time",
+            "About: Bouncing back, learning from setbacks, growing through challenges",
+            "Components: Emotional regulation, cognitive flexibility, social support, sense of purpose",
+            "Outcome: Handle stress better, recover faster, grow from adversity",
+            "Trainable: Like muscle, resilience strengthens with practice"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The resilience paradox: Resilience isn't built in comfort—it's built through facing challenges. Avoiding all stress makes you fragile. Strategic exposure to manageable stressors builds capacity. Like vaccines expose you to weakened virus to build immunity, small challenges build psychological immunity to bigger ones."
+        },
+        {
+          "type": "list",
+          "title": "The 7 Pillars of Resilience",
+          "items": [
+            "1. Self-awareness: Understanding your emotions, triggers, patterns",
+            "2. Self-regulation: Managing emotional responses, not being controlled by them",
+            "3. Optimism: Realistic positive outlook, seeing opportunities in challenges",
+            "4. Mental agility: Flexible thinking, adapting to change",
+            "5. Relationships: Strong support network, giving and receiving help",
+            "6. Purpose: Clear sense of meaning, why you keep going",
+            "7. Self-care: Physical health, rest, recovery practices"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Fixed vs. Growth Mindset",
+          "items": [
+            "Fixed: Abilities are static, avoid challenges, give up easily, threatened by others' success",
+            "Growth: Abilities develop through effort, embrace challenges, persist, inspired by others",
+            "Impact: Mindset determines how you interpret and respond to setbacks",
+            "Fixed response to failure: 'I'm not good enough' (permanent, global)",
+            "Growth response: 'I haven't figured this out yet' (temporary, specific)",
+            "Development: Actively cultivate growth mindset through language and interpretation"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Explanatory style: How you explain events to yourself shapes resilience. Pessimistic style: permanent ('always'), personal ('my fault'), pervasive ('everything'). Optimistic style: temporary ('this time'), specific ('this situation'), external factors considered. Example: Rejection. Pessimistic: 'I always fail, I'm not good enough at anything.' Optimistic: 'This didn't work out this time. I'll improve my approach.'"
+        },
+        {
+          "type": "list",
+          "title": "Building Resilience Foundation",
+          "items": [
+            "Accept reality: Acknowledge difficulty without catastrophizing",
+            "Find meaning: Connect challenges to larger purpose",
+            "Maintain perspective: This too shall pass, temporary setback not permanent condition",
+            "Take action: Small steps forward, regaining sense of control",
+            "Learn from adversity: Extract lessons, what can I learn?",
+            "Practice gratitude: What's still good? Maintain appreciation",
+            "Build support: Lean on relationships during hard times"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is resilience?",
+          "options": [
+            "Never experiencing difficulties",
+            "Capacity to recover quickly from difficulties and adapt to adversity",
+            "Being tough all the time",
+            "Avoiding all stress"
+          ],
+          "correctIndex": 1,
+          "explanation": "Resilience is capacity to recover quickly from difficulties and adapt to adversity. It's not about avoiding problems but bouncing back from them."
+        },
+        {
+          "question": "How is resilience built?",
+          "options": [
+            "Avoiding all challenges",
+            "Through facing manageable challenges and recovering from them",
+            "It's fixed at birth",
+            "Only through major trauma"
+          ],
+          "correctIndex": 1,
+          "explanation": "Resilience is built through facing manageable challenges and recovering from them. Like muscle, it strengthens with practice under appropriate stress."
+        }
+      ]
+    }
+  },
+  {
+    "id": "adversity-response",
+    "title": "Responding to Adversity",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Adversity is inevitable. Loss, failure, rejection, disappointment—everyone faces these. What separates resilient people isn't immunity to pain—it's their response pattern. They feel the pain, process it, extract meaning, and move forward. Non-resilient people get stuck: ruminating, catastrophizing, avoiding. Your first response is automatic. Your second response is choice."
+        },
+        {
+          "type": "list",
+          "title": "The Resilience Response Cycle",
+          "items": [
+            "1. Event: Adversity occurs (loss, failure, rejection)",
+            "2. Reaction: Initial emotional response (automatic, can't control)",
+            "3. Pause: Create space before responding (breathing, stepping back)",
+            "4. Assess: What actually happened? Separate facts from interpretation",
+            "5. Reframe: Is there another way to see this?",
+            "6. Act: What's one small step forward?",
+            "7. Learn: What can I take from this experience?"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The gap between stimulus and response: Viktor Frankl survived Nazi concentration camps and wrote 'Man's Search for Meaning.' His insight: 'Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.' This space is where resilience lives."
+        },
+        {
+          "type": "list",
+          "title": "Cognitive Distortions to Avoid",
+          "items": [
+            "Catastrophizing: Assuming worst possible outcome ('This will ruin everything')",
+            "All-or-nothing: Seeing only extremes ('I'm complete failure')",
+            "Overgeneralization: One event proves pattern ('I always mess up')",
+            "Personalization: Everything is about you ('This is my fault')",
+            "Mind reading: Assuming you know others' thoughts ('They think I'm incompetent')",
+            "Emotional reasoning: Feelings are facts ('I feel worthless so I must be')",
+            "Combat: Recognize distortion, challenge it with evidence"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Healthy vs. Unhealthy Coping",
+          "items": [
+            "Healthy: Exercise, talking to friends, journaling, problem-solving, seeking help, self-care",
+            "Unhealthy: Substance abuse, isolation, avoidance, lashing out, numbing, denial",
+            "Why unhealthy feels good: Provides immediate relief from discomfort",
+            "Why unhealthy fails: Short-term relief, long-term amplification of problems",
+            "Why healthy is hard: Uncomfortable in short-term, beneficial long-term",
+            "Strategy: Build healthy coping habits before crisis hits"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Post-traumatic growth: Not everyone who faces trauma is damaged by it. Many experience post-traumatic growth: increased resilience, deeper relationships, greater appreciation for life, new possibilities, spiritual development. Trauma can break you or forge you stronger. The difference is often meaning-making: finding purpose in pain."
+        },
+        {
+          "type": "list",
+          "title": "Practical Adversity Responses",
+          "items": [
+            "Name it: 'I'm feeling anxious/sad/angry' (labels reduce intensity)",
+            "Accept it: Emotions are valid, don't fight them",
+            "Breathe: Physiological intervention calms nervous system",
+            "Ground yourself: 5-4-3-2-1 technique (5 things you see, 4 hear, 3 feel, 2 smell, 1 taste)",
+            "Journal: Write about it, externalize thoughts",
+            "Reach out: Text friend, talk to therapist, connect",
+            "Take action: One small step, regain sense of control"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the key insight from Viktor Frankl?",
+          "options": [
+            "Avoid all suffering",
+            "Between stimulus and response is space where we choose our response",
+            "Some people are naturally resilient",
+            "Emotions don't matter"
+          ],
+          "correctIndex": 1,
+          "explanation": "Frankl: Between stimulus and response is space where we choose our response. In that choice lies our growth and freedom. We can't control what happens but we can control our response."
+        },
+        {
+          "question": "What is post-traumatic growth?",
+          "options": [
+            "Pretending trauma didn't happen",
+            "Becoming stronger through adversity - deeper relationships, resilience, appreciation, purpose",
+            "Never experiencing trauma",
+            "Ignoring pain"
+          ],
+          "correctIndex": 1,
+          "explanation": "Post-traumatic growth: becoming stronger through adversity. Increased resilience, deeper relationships, greater appreciation, new possibilities, spiritual development through meaning-making."
+        }
+      ]
+    }
+  },
+  {
+    "id": "mindset-reframing",
+    "title": "Mindset & Reframing",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Your mind is narrator of your life, but it's unreliable narrator. It doesn't report facts—it interprets them through filters: past experiences, beliefs, fears, biases. Same event, different interpretations, completely different emotional responses. Resilience is partially about changing interpretations: cognitive reframing. You can't always change situation, but you can change how you see it."
+        },
+        {
+          "type": "list",
+          "title": "The ABCs of Reframing",
+          "items": [
+            "A - Adversity: What happened? (Just facts, no interpretation)",
+            "B - Beliefs: What are you telling yourself about it?",
+            "C - Consequences: How do those beliefs make you feel and act?",
+            "D - Disputation: Challenge the beliefs. Are they true? Is there evidence?",
+            "E - Energization: New beliefs lead to better emotional state and actions",
+            "Example: Rejected from job (A) → 'I'm not good enough' (B) → Depressed, stop applying (C) → Challenge: Evidence? Other factors? (D) → 'Not right fit, keep improving' (E)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Reframing isn't positive thinking toxic positivity ('Everything is great!'). It's realistic optimism: acknowledging reality while finding productive interpretations. Bad things happen. Reframing helps you respond effectively rather than being paralyzed by catastrophic interpretations."
+        },
+        {
+          "type": "list",
+          "title": "Powerful Reframes",
+          "items": [
+            "Failure → Learning: 'What can I learn from this?'",
+            "Obstacle → Opportunity: 'How can this make me better?'",
+            "Rejection → Redirection: 'This frees me for better opportunity'",
+            "Fear → Growth edge: 'This scares me because it matters'",
+            "Criticism → Feedback: 'Data to improve'",
+            "Change → Adventure: 'Chance to try something new'",
+            "Problem → Challenge: 'Puzzle to solve'"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "The Stoic Perspective",
+          "items": [
+            "Dichotomy of control: Some things you control, most you don't",
+            "Control: Your thoughts, actions, effort, attitude, responses",
+            "Don't control: Others' actions, outcomes, past, most of future",
+            "Wisdom: Focus energy on what you control, accept what you don't",
+            "Amor fati: Love your fate. Embrace what happens, find way forward",
+            "Premeditatio malorum: Visualize challenges beforehand, prepare mentally",
+            "Practice: Daily reminders of what's in your control"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The benefit finding practice: In any adversity, identify three potential benefits or opportunities. This isn't denying difficulty—it's training mind to see beyond immediate pain. Lost job? 1) Chance to find better fit. 2) Time to learn new skills. 3) Clarity on what I don't want. This habit builds optimistic explanatory style."
+        },
+        {
+          "type": "list",
+          "title": "Questioning Limiting Beliefs",
+          "items": [
+            "Is it true? What's the evidence for this belief?",
+            "Is it absolutely true? Any exceptions or nuance?",
+            "How does this belief make me feel? What emotions arise?",
+            "Who would I be without this belief? How would I act differently?",
+            "What's a more empowering belief? Alternative interpretation?",
+            "What evidence supports the new belief?",
+            "Practice: Byron Katie's 'The Work' methodology"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is cognitive reframing?",
+          "options": [
+            "Ignoring reality",
+            "Changing interpretation of events while acknowledging reality",
+            "Positive thinking only",
+            "Denying problems exist"
+          ],
+          "correctIndex": 1,
+          "explanation": "Reframing: changing interpretation of events while acknowledging reality. It's realistic optimism, not toxic positivity. Finding productive interpretations enables effective response."
+        },
+        {
+          "question": "What's the Stoic dichotomy of control?",
+          "options": [
+            "Control everything",
+            "Focus energy on what you control, accept what you don't",
+            "Give up on everything",
+            "Only think about the past"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dichotomy of control: Focus energy on what you control (thoughts, actions, effort, attitude), accept what you don't (others' actions, outcomes, past)."
+        }
+      ]
+    }
+  },
+  {
+    "id": "building-mental-toughness",
+    "title": "Building Mental Toughness",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Mental toughness is capacity to perform under pressure, persist through difficulty, and maintain focus when things get hard. It's not genetic gift—it's skill built through deliberate practice. Like physical training, mental training requires progressive overload: gradually increasing challenge over time. Comfort zone is where growth dies."
+        },
+        {
+          "type": "list",
+          "title": "The 4 Cs of Mental Toughness",
+          "items": [
+            "Control: Belief you can influence outcomes through effort",
+            "Commitment: Persistence in pursuing goals despite obstacles",
+            "Challenge: Viewing difficulties as opportunities, not threats",
+            "Confidence: Belief in your abilities, earned through past success",
+            "Assessment: Rate yourself 1-10 on each C",
+            "Development: Focus on weakest C for biggest gains"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Voluntary hardship: Deliberately choosing discomfort builds mental toughness. Cold showers, hard workouts, intermittent fasting, public speaking. Not for sake of suffering—for building confidence that you can handle discomfort. This transfers: If you can endure cold shower, you can handle difficult conversation."
+        },
+        {
+          "type": "list",
+          "title": "Mental Toughness Training",
+          "items": [
+            "Physical challenge: Regular intense exercise (builds discipline, stress tolerance)",
+            "Discomfort practice: Daily cold exposure, fasting, early rising",
+            "Focus training: Meditation, deep work sessions without distraction",
+            "Deliberate practice: Work on edges of ability, systematic improvement",
+            "Pushing limits: Occasionally go beyond comfort zone",
+            "Reflection: Journal about challenges faced and overcome",
+            "Progressive: Start small, gradually increase difficulty"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "The 40% Rule",
+          "items": [
+            "Concept: When mind says you're done, you're only 40% depleted",
+            "Origin: Navy SEAL training observation",
+            "Application: Mind quits before body, you have more capacity",
+            "Practice: When you want to stop, continue slightly longer",
+            "Caution: Know difference between discomfort and injury",
+            "Benefit: Builds confidence in your capacity",
+            "Mental: 'I can keep going' becomes default belief"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Self-talk matters: Your internal dialogue shapes performance. Negative self-talk ('I can't do this') undermines effort. Neutral or positive self-talk ('I can handle this', 'One step at a time') enables persistence. Elite athletes use self-talk strategically. You should too."
+        },
+        {
+          "type": "list",
+          "title": "Developing Grit",
+          "items": [
+            "Grit: Passion and perseverance for long-term goals",
+            "Passion: Not excitement—consistent interest over time",
+            "Perseverance: Continuing despite setbacks and plateaus",
+            "Practice: Deliberate practice over years, not months",
+            "Mindset: Process-oriented, not outcome-focused",
+            "Identity: 'I'm someone who finishes things'",
+            "Evidence: Grit predicts success better than talent"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Building Confidence",
+          "items": [
+            "Small wins: Stack small successes, build evidence",
+            "Skill development: Competence breeds confidence",
+            "Past success: Remind yourself what you've overcome",
+            "Preparation: Confidence comes from being prepared",
+            "Visualization: Mental rehearsal of success",
+            "Posture: Confident body language influences mindset",
+            "Affirmations: 'I am capable' (when backed by action)"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What are the 4 Cs of Mental Toughness?",
+          "options": [
+            "Cash, credit, cards, cryptocurrency",
+            "Control, Commitment, Challenge, Confidence",
+            "Comfort, convenience, certainty, calm",
+            "Courage, compassion, creativity, connection"
+          ],
+          "correctIndex": 1,
+          "explanation": "4 Cs: Control (influence outcomes), Commitment (persist despite obstacles), Challenge (opportunities not threats), Confidence (belief in abilities)."
+        },
+        {
+          "question": "What's the 40% rule?",
+          "options": [
+            "Take 40% breaks",
+            "When mind says you're done, you're only 40% depleted - you have more capacity",
+            "Work 40% harder",
+            "Only use 40% effort"
+          ],
+          "correctIndex": 1,
+          "explanation": "40% rule: When mind says you're done, you're only 40% depleted. Mind quits before body. You have more capacity than you think."
+        }
+      ]
+    }
+  },
+  {
+    "id": "purpose-meaning",
+    "title": "Purpose & Meaning",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Purpose is resilience fuel. When you know your why, you can endure any how. People with strong sense of purpose recover faster from setbacks, persist through difficulties, and find meaning in suffering. Purpose isn't found—it's constructed. It's not one thing—it evolves. But having it makes difference between giving up and pushing through."
+        },
+        {
+          "type": "list",
+          "title": "Why Purpose Matters",
+          "items": [
+            "Motivation: Why to keep going when it's hard",
+            "Direction: What to prioritize, what to say no to",
+            "Meaning: Transforms suffering from pointless to purposeful",
+            "Resilience: Purpose-driven people bounce back faster",
+            "Well-being: Strong correlate with happiness and life satisfaction",
+            "Legacy: What you're building beyond yourself",
+            "Research: Purpose linked to longer life, better health"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Frankl's insight: 'Life is never made unbearable by circumstances, but only by lack of meaning and purpose.' Concentration camp survivors weren't necessarily strongest physically—they were those with reason to survive. Purpose to see loved ones, bear witness, complete work. Purpose sustained them through unimaginable hardship."
+        },
+        {
+          "type": "list",
+          "title": "Discovering Your Purpose",
+          "items": [
+            "What breaks your heart? What injustice, problem, or suffering moves you?",
+            "What brings you joy? When do you lose track of time?",
+            "What are you naturally good at? Talents and strengths?",
+            "What does world need? Problems you could help solve?",
+            "What would you do if money wasn't issue?",
+            "What would you regret not doing?",
+            "Ikigai: Intersection of what you love, what you're good at, what world needs, what you can be paid for"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Types of Purpose",
+          "items": [
+            "Contribution: Making positive impact on others",
+            "Creation: Building something meaningful",
+            "Growth: Becoming best version of yourself",
+            "Connection: Deepening relationships, community",
+            "Legacy: What you leave behind",
+            "Service: Helping others, reducing suffering",
+            "Note: Purpose can combine multiple types"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Purpose statement: One sentence capturing your why. Examples: 'Help entrepreneurs build sustainable businesses.' 'Raise children who contribute positively to world.' 'Create art that inspires hope.' Don't overthink it. Draft one today. Refine over time. Having something is better than waiting for perfect version."
+        },
+        {
+          "type": "list",
+          "title": "Living Purposefully",
+          "items": [
+            "Daily alignment: Does today's work serve purpose?",
+            "Priority filter: Does this opportunity align with purpose?",
+            "Meaning-making: How does current challenge relate to purpose?",
+            "Regular review: Monthly check-in on purpose alignment",
+            "Adjust course: Purpose evolves, be willing to pivot",
+            "Small actions: Purpose lived in daily choices, not just big moments",
+            "Share it: Telling others your purpose reinforces commitment"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "When You Lose Sense of Purpose",
+          "items": [
+            "Normal: Purpose clarity fluctuates, especially during transitions",
+            "Revisit: Return to discovery questions",
+            "Try things: Experiment with different activities, causes",
+            "Small purposes: Purpose doesn't have to be grand, can be simple",
+            "Serve others: Helping others often clarifies purpose",
+            "Therapy: Professional help navigating existential questions",
+            "Be patient: Purpose crystallizes over time"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Why does purpose enhance resilience?",
+          "options": [
+            "It doesn't",
+            "Provides reason to persist through difficulty and transforms suffering into something meaningful",
+            "Makes you never experience hardship",
+            "Purpose eliminates all problems"
+          ],
+          "correctIndex": 1,
+          "explanation": "Purpose provides reason to persist when things get hard and transforms suffering from pointless to meaningful. When you know your why, you can endure any how."
+        },
+        {
+          "question": "What is Ikigai?",
+          "options": [
+            "Japanese food",
+            "Intersection of what you love, what you're good at, what world needs, what you can be paid for",
+            "Meditation practice",
+            "Type of exercise"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ikigai: Japanese concept of purpose found at intersection of what you love, what you're good at, what world needs, and what you can be paid for."
+        }
+      ]
+    }
+  }
+]
