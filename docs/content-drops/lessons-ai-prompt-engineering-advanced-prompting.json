@@ -1,1 +1,477 @@
-[Continuing in next file...]
+[
+  {
+    "id": "complex-reasoning",
+    "title": "Complex Reasoning & Problem-Solving",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Advanced prompting unlocks AI's ability to tackle complex problems requiring multi-step reasoning, analysis, and creativity. These techniques go beyond simple requests to orchestrate sophisticated thinking. The strategies here transform AI from simple assistant to powerful problem-solving partner capable of handling ambiguous, complex challenges."
+        },
+        {
+          "type": "list",
+          "title": "Advanced Chain of Thought",
+          "items": [
+            "Self-consistency: Generate multiple reasoning paths, compare answers ('Solve this 3 different ways')",
+            "Step-by-step with verification: 'Solve step-by-step, verify each step before proceeding'",
+            "Explicit reasoning: 'Before answering, explain your reasoning process'",
+            "Decomposition: 'Break this complex problem into sub-problems, solve each, then synthesize'",
+            "Validation: 'After solving, check your answer for logical consistency'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Tree of Thoughts technique for complex decisions: 'Problem: [describe]. Generate 3 distinct approaches. For each: outline strategy, identify pros/cons, predict likely outcome, assign confidence score. Then recommend best approach with detailed reasoning.' This forces systematic exploration of solution space."
+        },
+        {
+          "type": "list",
+          "title": "Multi-Perspective Analysis",
+          "items": [
+            "Devil's advocate: 'First provide your analysis, then argue against it'",
+            "Multiple personas: 'Analyze from perspectives of: engineer, marketer, customer, investor'",
+            "Pros and cons: 'List 5 advantages and 5 disadvantages, then weight by importance'",
+            "Scenario analysis: 'Consider best case, worst case, most likely scenarios'",
+            "Time horizons: 'Evaluate implications in: 1 month, 1 year, 5 years'"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Constraint-Based Problem Solving",
+          "items": [
+            "Define constraints: 'Given constraints: [list], find optimal solution'",
+            "Trade-off analysis: 'Optimize for X while maintaining minimum Y'",
+            "Progressive constraints: 'First solve generally, then apply these constraints'",
+            "Constraint relaxation: 'Which constraints could we relax to improve outcome?'",
+            "Resource optimization: 'Best solution with [time/budget/resource] limitations'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Meta-prompting for quality: 'Before generating final answer: 1) Outline approach, 2) Identify potential issues, 3) Consider alternatives, 4) Then provide well-reasoned response.' This forces AI through quality checks before final output."
+        },
+        {
+          "type": "list",
+          "title": "Socratic Prompting",
+          "items": [
+            "Question cascade: Ask series of probing questions",
+            "Challenge assumptions: 'What assumptions are you making?'",
+            "Explore implications: 'If that's true, what follows?'",
+            "Root cause: 'Keep asking why until we reach root cause'",
+            "Thought experiments: 'What if we changed X? How would that affect Y?'",
+            "Edge cases: 'What are edge cases where this wouldn't work?'"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is Tree of Thoughts?",
+          "options": [
+            "Writing long prompts",
+            "Generating multiple approaches, analyzing each, then recommending best",
+            "Drawing tree diagrams",
+            "Thinking about trees"
+          ],
+          "correctIndex": 1,
+          "explanation": "Tree of Thoughts generates multiple approaches to a problem, analyzes each systematically, then recommends best with reasoning."
+        },
+        {
+          "question": "What's the benefit of multi-perspective analysis?",
+          "options": [
+            "Makes prompts longer",
+            "Reveals blind spots by examining from different viewpoints",
+            "Confuses the AI",
+            "No benefit"
+          ],
+          "correctIndex": 1,
+          "explanation": "Examining problems from multiple perspectives (personas, timeframes, scenarios) reveals blind spots and leads to more robust solutions."
+        }
+      ]
+    }
+  },
+  {
+    "id": "role-prompting-mastery",
+    "title": "Role & Persona Prompting Mastery",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Assigning AI a specific role or persona dramatically shapes output quality and style. Well-crafted personas tap into patterns the model learned during training. A 'Harvard professor' persona produces different analysis than 'startup founder' persona. Mastering role prompting means knowing which personas to invoke for which tasks and how to define them effectively."
+        },
+        {
+          "type": "list",
+          "title": "Effective Persona Construction",
+          "items": [
+            "Specific expertise: 'marketing professor' > 'marketer' > 'expert'",
+            "Relevant background: Add experience, achievements, approach style",
+            "Known traits: Reference recognizable characteristics or philosophies",
+            "Example: 'You are a McKinsey senior partner specializing in digital transformation, known for data-driven recommendations and practical implementation focus'",
+            "Avoid vagueness: 'You are very smart' doesn't work; specific expertise does"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Persona Types by Use Case",
+          "items": [
+            "Analysis: 'Management consultant', 'Data scientist', 'Industry analyst'",
+            "Writing: 'Journalist', 'Copywriter', 'Technical writer', 'Novelist'",
+            "Creative: 'Art director', 'Creative director', 'Inventor', 'Designer'",
+            "Technical: 'Senior engineer', 'Solutions architect', 'DevOps expert'",
+            "Teaching: 'Patient tutor', 'University professor', 'Educational content creator'",
+            "Strategy: 'Business strategist', 'Product manager', 'Startup advisor'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Multiple persona technique: 'Analyze this from three perspectives: 1) As technical architect (focus: feasibility), 2) As business analyst (focus: ROI), 3) As user experience designer (focus: usability). Then synthesize into unified recommendation.' This captures different dimensions of complex problems."
+        },
+        {
+          "type": "list",
+          "title": "Persona Enhancement Techniques",
+          "items": [
+            "Add constraints: 'Known for concise, actionable advice'",
+            "Communication style: 'Explains complex topics simply with analogies'",
+            "Values: 'Prioritizes data-driven decisions over intuition'",
+            "Approach: 'Uses frameworks like SWOT, Porter's Five Forces'",
+            "Audience awareness: 'Adapts communication to audience technical level'",
+            "Quality standards: 'Never compromises on accuracy or thoroughness'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Expert panels: Simulate group of experts. 'You are a panel of: chief marketing officer, data scientist, and brand strategist. Each provides perspective on this marketing campaign, then panel discusses and reaches consensus recommendation.' This creates richer, more nuanced analysis."
+        },
+        {
+          "type": "list",
+          "title": "Role Prompting Mistakes",
+          "items": [
+            "Too generic: 'You are expert' lacks specific domain",
+            "Conflicting traits: Assigning incompatible characteristics",
+            "Overcomplicating: 10-sentence persona descriptions rarely help",
+            "Wrong persona: Using creative persona for technical task",
+            "No follow-through: Assigning persona but ignoring in rest of conversation",
+            "Unrealistic: Personas that don't exist in training data"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What makes an effective persona?",
+          "options": [
+            "Being as vague as possible",
+            "Specific expertise, relevant background, and defined approach",
+            "Just saying they're an expert",
+            "Making them sound nice"
+          ],
+          "correctIndex": 1,
+          "explanation": "Effective personas have specific expertise, relevant background, and defined approaches. 'Marketing professor' > 'marketer' > 'expert'."
+        },
+        {
+          "question": "What's the multi-persona technique?",
+          "options": [
+            "Using different personas in different chats",
+            "Having AI analyze from multiple expert perspectives then synthesize",
+            "Confusing the AI with contradictions",
+            "Never using personas"
+          ],
+          "correctIndex": 1,
+          "explanation": "Multi-persona technique has AI analyze from different expert perspectives (technical, business, user) then synthesize unified insights."
+        }
+      ]
+    }
+  },
+  {
+    "id": "output-control",
+    "title": "Output Format & Structure Control",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Controlling output format and structure ensures AI delivers exactly what you need in the format you need it. Well-formatted outputs integrate seamlessly into your workflow, require no reformatting, and are immediately usable. From simple lists to complex JSON, from tables to scripts, specifying format is crucial for efficiency."
+        },
+        {
+          "type": "list",
+          "title": "Common Format Specifications",
+          "items": [
+            "Lists: 'as numbered list', 'as bullet points', 'ranked by importance'",
+            "Tables: 'create comparison table with columns: [list columns]'",
+            "Paragraphs: 'write 3 paragraphs, 100 words each'",
+            "Scripts: 'format as script with [Actor]: [Dialogue]'",
+            "Outlines: 'hierarchical outline with main points and sub-points'",
+            "Code blocks: 'provide as formatted code block with syntax highlighting'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Structured data formats: When integrating AI into workflows, structured formats (JSON, CSV, XML) enable automation. Example: 'Extract information and format as JSON: {\"name\": \"\", \"email\": \"\", \"company\": \"\"}' - output can be directly parsed by code."
+        },
+        {
+          "type": "list",
+          "title": "Advanced Format Control",
+          "items": [
+            "Templates: Provide template AI should fill: 'Use this template: [template with {variables}]'",
+            "Delimiters: 'Separate sections with ### headers'",
+            "Length constraints: 'Each bullet max 15 words, total 5 bullets'",
+            "Style guides: 'Follow AP style', 'Use Oxford comma', 'Write in active voice'",
+            "Structure rules: 'Hook in first sentence, supporting points, conclusion with CTA'",
+            "Citation formats: 'Include citations in APA format'"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Multi-Format Outputs",
+          "items": [
+            "Specify multiple: 'Provide answer as: 1) Executive summary (50 words), 2) Detailed analysis (300 words), 3) Bullet points (5 key takeaways)'",
+            "Progressive detail: 'TL;DR (1 sentence), Summary (paragraph), Detailed explanation (500 words)'",
+            "Different audiences: 'Explain for: technical team, management, customers'",
+            "Complementary formats: 'Comparison table plus paragraph explaining key differences'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Example complex format request: 'Create product comparison. Format: Comparison table (columns: Product, Price, Key Features, Pros, Cons). Below table: 2-3 sentence summary for each product. At end: recommendation paragraph for different user types.' This creates immediately usable, well-organized output."
+        },
+        {
+          "type": "list",
+          "title": "Format Specification Tips",
+          "items": [
+            "Be explicit: Don't assume AI knows format you want",
+            "Show examples: Provide example of desired format",
+            "Use markup: Specify markdown, HTML, or other markup needed",
+            "Check early: Verify format in first response before requesting full content",
+            "Templates work: 'Fill in this template' often easier than describing format",
+            "Iterate format: Adjust format in follow-ups if not quite right"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Why specify output format?",
+          "options": [
+            "It's not important",
+            "Ensures output is immediately usable in your workflow",
+            "Makes prompts longer",
+            "AI ignores format requests"
+          ],
+          "correctIndex": 1,
+          "explanation": "Specifying format ensures output is immediately usable without reformatting, integrates into workflow, and matches your needs exactly."
+        },
+        {
+          "question": "What's useful for automating workflows?",
+          "options": [
+            "Paragraph format",
+            "Structured formats like JSON or CSV",
+            "Random format",
+            "No format"
+          ],
+          "correctIndex": 1,
+          "explanation": "Structured formats (JSON, CSV) enable automation because code can parse them directly, integrating AI into automated workflows."
+        }
+      ]
+    }
+  },
+  {
+    "id": "prompt-chaining",
+    "title": "Prompt Chaining & Workflows",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Prompt chaining breaks complex tasks into sequential prompts where each output feeds into the next. This enables tackling problems too complex for single prompts. Instead of one massive request, create a workflow of connected prompts. This approach mirrors how humans work: research, outline, draft, edit, refine. Each step builds on previous, creating superior final results."
+        },
+        {
+          "type": "list",
+          "title": "Prompt Chain Patterns",
+          "items": [
+            "Research → Synthesize → Create: Gather info, analyze, produce output",
+            "Brainstorm → Select → Develop: Generate ideas, choose best, develop fully",
+            "Draft → Critique → Revise: Create initial version, identify issues, improve",
+            "Analyze → Plan → Execute: Understand problem, create strategy, implement",
+            "Broad → Narrow → Specific: Start general, progressively focus",
+            "Generate → Evaluate → Refine: Create options, assess, perfect selection"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Example workflow for article writing: 1) 'Research and summarize key points about [topic]', 2) 'Create detailed outline from this research', 3) 'Write introduction and first section from outline', 4) 'Continue with remaining sections', 5) 'Review full article and suggest improvements', 6) 'Implement improvements'. Each step manageable, final product excellent."
+        },
+        {
+          "type": "list",
+          "title": "Chaining Techniques",
+          "items": [
+            "Progressive refinement: Each prompt improves previous output",
+            "Modular approach: Each prompt handles one aspect, combine at end",
+            "Validation steps: Periodic checks for accuracy, relevance, quality",
+            "Parallel chains: Multiple chains for different aspects, merge results",
+            "Conditional logic: Next prompt depends on previous output",
+            "Feedback loops: Later prompts reference and improve earlier outputs"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Complex Workflow Example",
+          "items": [
+            "1. Research: 'List 10 key trends in [industry]'",
+            "2. Analysis: 'For each trend, explain implications for [target audience]'",
+            "3. Selection: 'Rank these trends by impact, select top 5'",
+            "4. Deep dive: 'For each top 5, provide detailed analysis with examples'",
+            "5. Synthesis: 'Create executive summary connecting these trends'",
+            "6. Action items: 'Based on this analysis, recommend 5 strategic actions'",
+            "7. Presentation: 'Format as slide deck outline'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Automated workflows: Advanced users create chains that run automatically. Using AI APIs, code strings together prompts. Example: Email arrives → AI summarizes → Creates draft response → Flags for your review. This transforms AI from tool to system."
+        },
+        {
+          "type": "list",
+          "title": "Chaining Best Practices",
+          "items": [
+            "Document workflow: Save successful chains for reuse",
+            "Checkpoint outputs: Copy important intermediate results",
+            "Flexible ordering: Adjust sequence based on intermediate results",
+            "Quality gates: Verify critical outputs before proceeding",
+            "Know when to restart: If early output is wrong, restart chain",
+            "Combine conversations: Start new chat if context getting too long",
+            "Template chains: Create reusable workflow templates"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is prompt chaining?",
+          "options": [
+            "Writing very long prompts",
+            "Breaking complex tasks into sequential prompts where each feeds into next",
+            "Copying prompts from others",
+            "Using multiple AI tools"
+          ],
+          "correctIndex": 1,
+          "explanation": "Prompt chaining breaks complex work into sequential steps where each prompt builds on previous outputs, enabling sophisticated workflows."
+        },
+        {
+          "question": "What's a benefit of prompt chains?",
+          "options": [
+            "Slower results",
+            "More complex prompts",
+            "Can tackle problems too complex for single prompts",
+            "No benefits"
+          ],
+          "correctIndex": 2,
+          "explanation": "Prompt chains tackle complexity impossible in single prompts by breaking into manageable steps, each building on previous, creating superior results."
+        }
+      ]
+    }
+  },
+  {
+    "id": "specialized-techniques",
+    "title": "Specialized Prompting Techniques",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Beyond core techniques, specialized prompting approaches unlock capabilities for specific use cases: creative work, technical tasks, data analysis, learning. These techniques represent the cutting edge of prompt engineering. While not needed daily, knowing they exist and when to deploy them makes you a power user capable of handling any situation."
+        },
+        {
+          "type": "list",
+          "title": "Recursive Prompting",
+          "items": [
+            "Concept: AI evaluates its own output and improves it",
+            "Method: 'Generate [output]. Now critique it and create improved version. Repeat 3 times.'",
+            "Usage: Writing, code, analysis that benefits from multiple refinement passes",
+            "Example: 'Write paragraph. Critique clarity and persuasiveness. Rewrite improved version. Repeat twice more.'",
+            "Benefit: Automated iteration without manual review"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Contrastive Prompting",
+          "items": [
+            "Concept: Define what you want by contrasting with what you don't want",
+            "Format: 'Create X that is [desired qualities] but NOT [undesired qualities]'",
+            "Example: 'Write product description that is engaging and benefit-focused but NOT salesy or hyperbolic'",
+            "Usage: When desired style is easier to define by contrast",
+            "Multiple contrasts: 'Professional but not boring, detailed but not overwhelming'"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Analogical Prompting",
+          "items": [
+            "Concept: Reference familiar examples to guide output",
+            "Format: 'Create [X] similar to [well-known example] but adapted for [your context]'",
+            "Example: 'Write product launch email in style of Apple product announcements, but for B2B software'",
+            "Usage: When you want style/approach of known reference",
+            "Benefit: Leverages AI's training on successful examples"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Constraint-based creativity: Paradoxically, constraints enhance creativity. 'Write compelling product description using only one-syllable words' or 'Explain quantum computing as if describing to medieval peasant' forces creative problem-solving that yields memorable, unique outputs."
+        },
+        {
+          "type": "list",
+          "title": "Debate Simulation",
+          "items": [
+            "Setup: 'Simulate debate between [Position A] and [Position B]'",
+            "Structure: Multiple rounds with arguments and counterarguments",
+            "Usage: Exploring controversial topics, testing ideas, understanding perspectives",
+            "Example: 'Simulate debate: entrepreneur arguing for rapid growth vs. cautious approach. 3 rounds.'",
+            "Synthesis: 'Now, as neutral analyst, synthesize strongest arguments from both sides'"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Gamification Prompting",
+          "items": [
+            "Scoring: 'Rate each option 1-10 on: cost, impact, feasibility'",
+            "Competition: 'Generate 5 ideas. Evaluate each as if competing. Pick winner.'",
+            "Challenges: 'You have [constraints]. Find most creative solution.'",
+            "Scenarios: 'You're facing [situation]. What's your move?'",
+            "Benefit: Engages different problem-solving modes"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Meta-cognitive Prompting",
+          "items": [
+            "Self-reflection: 'Before answering, consider what information you need'",
+            "Uncertainty acknowledgment: 'Rate your confidence on each point (1-10)'",
+            "Knowledge boundaries: 'What would you need to know to answer this better?'",
+            "Assumption checking: 'List assumptions you're making'",
+            "Alternative consideration: 'What perspectives might you be missing?'"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is recursive prompting?",
+          "options": [
+            "Reusing old prompts",
+            "Having AI evaluate and improve its own output multiple times",
+            "Writing circular prompts",
+            "Avoiding iteration"
+          ],
+          "correctIndex": 1,
+          "explanation": "Recursive prompting has AI generate output, critique it, create improved version, and repeat—automated multi-pass refinement."
+        },
+        {
+          "question": "What is contrastive prompting?",
+          "options": [
+            "Comparing two things",
+            "Defining what you want by contrasting with what you don't want",
+            "Using dark mode",
+            "Disagreeing with AI"
+          ],
+          "correctIndex": 1,
+          "explanation": "Contrastive prompting defines desired output by specifying what it should be AND what it shouldn't be: 'Detailed but NOT overwhelming'."
+        }
+      ]
+    }
+  }
+]
