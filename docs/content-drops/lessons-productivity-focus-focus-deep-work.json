@@ -1,1 +1,495 @@
-[Continuing in separate push due to length...]
+[
+  {
+    "id": "deep-work-fundamentals",
+    "title": "Deep Work Fundamentals",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Deep work is professional activity performed in a state of distraction-free concentration that pushes cognitive capabilities to their limit. These efforts create new value, improve skill, and are hard to replicate. Deep work is increasingly rare and increasingly valuable. In distraction economy, ability to focus deeply is superpower. Four hours of deep work daily can transform your career and life."
+        },
+        {
+          "type": "list",
+          "title": "Deep Work vs. Shallow Work",
+          "items": [
+            "Deep: Writing, coding, strategic thinking, learning, creating—requires focus, generates value",
+            "Shallow: Email, meetings, admin, social media—can do while distracted, minimal value",
+            "Deep work: Career-advancing, skill-building, hard to replicate",
+            "Shallow work: Necessary but not sufficient, easily replaceable",
+            "Modern trap: 80% time on shallow work, wondering why no progress",
+            "Goal: Maximize deep work hours, minimize shallow work"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Why deep work is rare: Our work culture rewards visible busyness. Responding immediately to emails looks productive. Being in all meetings looks engaged. But these are shallow. Deep work is invisible—you're alone, door closed, unavailable. This makes people uncomfortable. Yet it's where all valuable work happens."
+        },
+        {
+          "type": "list",
+          "title": "Deep Work Strategies",
+          "items": [
+            "Monastic: Eliminate all shallow work (not realistic for most)",
+            "Bimodal: Dedicate large chunks (days/weeks) to deep work, rest to shallow",
+            "Rhythmic: Daily deep work sessions at same time (most practical)",
+            "Journalistic: Deep work whenever you have free time (advanced skill)",
+            "Start: Rhythmic approach—2 hours daily, same time"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Creating Deep Work Sessions",
+          "items": [
+            "Duration: Start with 60-90 minutes, build to 4 hours max",
+            "Environment: Quiet space, no distractions, comfortable",
+            "Rules: No phone, no internet (unless needed for work), no people",
+            "Ritual: Same time, same place, same routine to trigger focus",
+            "Tools: Everything needed within reach",
+            "Goal: Clear objective for session",
+            "Recovery: 15-minute break after each session"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The deep work hypothesis: The ability to perform deep work is becoming increasingly rare at exactly the same time it's becoming increasingly valuable. Those who cultivate this skill will thrive. Master deep work = master your professional life."
+        },
+        {
+          "type": "list",
+          "title": "Building Deep Work Capacity",
+          "items": [
+            "Start small: 60 minutes initially",
+            "Progressive overload: Add 15 minutes weekly",
+            "Consistency: Daily practice more important than length",
+            "Track: Log deep work hours weekly",
+            "Celebrate: Acknowledge progress as capacity grows",
+            "Patience: Takes months to build 4-hour capacity",
+            "Reality: Even 2 hours daily deep work is exceptional"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is deep work?",
+          "options": [
+            "Working long hours",
+            "Professional activity in distraction-free concentration that creates value",
+            "Any work activity",
+            "Physical labor"
+          ],
+          "correctIndex": 1,
+          "explanation": "Deep work: professional activity in distraction-free concentration that pushes cognitive capabilities, creates value, improves skill, hard to replicate."
+        },
+        {
+          "question": "What's a realistic deep work goal?",
+          "options": [
+            "10 hours daily",
+            "2-4 hours daily",
+            "30 minutes weekly",
+            "All day every day"
+          ],
+          "correctIndex": 1,
+          "explanation": "2-4 hours daily deep work is realistic and exceptional. Even 2 hours daily of focused deep work transforms career and life results."
+        }
+      ]
+    }
+  },
+  {
+    "id": "focus-techniques",
+    "title": "Focus & Concentration Techniques",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Focus is trainable skill. Like muscle, it strengthens with practice and weakens with disuse. Modern life trains distraction: notifications, multitasking, entertainment on demand. This atrophies focus. Rebuilding it requires deliberate practice. Good news: significant improvement possible in weeks. Great news: it compounds forever."
+        },
+        {
+          "type": "list",
+          "title": "Pomodoro Technique",
+          "items": [
+            "Structure: 25 minutes focused work + 5 minute break",
+            "After 4 pomodoros: Take 15-30 minute break",
+            "Rules: During 25 min, do only one task",
+            "If interrupted: Pomodoro is void, start over",
+            "Track: Check off completed pomodoros",
+            "Benefits: Creates urgency, manageable chunks, prevents burnout",
+            "Variations: 50 min work + 10 min break for deeper work"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Attention residue: When switching tasks, your attention doesn't immediately follow. Part stays on previous task. Solution: Complete tasks fully before switching, or use clear break between tasks to reset attention. This is why finishing one thing before starting another is more effective."
+        },
+        {
+          "type": "list",
+          "title": "Flow State Triggers",
+          "items": [
+            "Clear goals: Know exactly what you're trying to accomplish",
+            "Immediate feedback: Can see progress in real-time",
+            "Challenge-skill balance: Task stretches but doesn't overwhelm",
+            "Eliminate distractions: Remove all potential interruptions",
+            "Time pressure: Moderate deadline creates focus",
+            "Intrinsic interest: Genuinely interested in the work",
+            "Ritual: Consistent routine signals 'flow time' to brain"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Meditation for Focus",
+          "items": [
+            "Practice: 10 minutes daily builds attention control",
+            "Method: Focus on breath, notice when mind wanders, return to breath",
+            "Benefit: Trains noticing distraction and redirecting attention",
+            "Transfer: This skill transfers to work",
+            "Progress: Easier to maintain focus during deep work",
+            "Apps: Headspace, Calm, Insight Timer for guided sessions",
+            "Consistency: Daily practice matters more than length"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The focus workout: Deliberately practice resisting distraction. Read for 25 minutes without checking phone. Write for 30 minutes without switching tasks. When urge to distract arises, notice it, don't act on it. This trains executive function. Literally growing neural pathways for focus."
+        },
+        {
+          "type": "list",
+          "title": "Eliminating Distractions",
+          "items": [
+            "Phone: Different room or in drawer",
+            "Internet: Block distracting sites during focus time",
+            "People: Headphones, closed door, do-not-disturb status",
+            "Notifications: Everything off except critical",
+            "Visual: Clean workspace, close unnecessary windows",
+            "Mental: Brain dump before starting removes mental clutter",
+            "Environment: Control what you can control"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Sustaining Focus",
+          "items": [
+            "Breaks: Regular breaks sustain focus longer",
+            "Movement: Walk or stretch between sessions",
+            "Hydration: Dehydration impairs focus",
+            "Nutrition: Stable blood sugar prevents crashes",
+            "Sleep: Adequate sleep non-negotiable for focus",
+            "Variety: Mix up tasks to prevent mental fatigue",
+            "End times: Knowing when you're done helps maintain intensity"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the Pomodoro Technique?",
+          "options": [
+            "Italian cooking method",
+            "25 min focused work + 5 min break",
+            "Working all day",
+            "Time tracking software"
+          ],
+          "correctIndex": 1,
+          "explanation": "Pomodoro: 25 min focused work + 5 min break. After 4 cycles, 15-30 min break. Creates urgency, manageable chunks, prevents burnout."
+        },
+        {
+          "question": "How does meditation help productivity?",
+          "options": [
+            "It doesn't",
+            "Trains attention control that transfers to work focus",
+            "Only for relaxation",
+            "Wastes time"
+          ],
+          "correctIndex": 1,
+          "explanation": "Meditation trains noticing distraction and redirecting attention. This skill transfers to work, making it easier to maintain focus during deep work."
+        }
+      ]
+    }
+  },
+  {
+    "id": "productive-breaks",
+    "title": "Strategic Breaks & Recovery",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Breaks aren't weakness—they're strategy. Your brain isn't designed for 8 hours of continuous focus. Forcing it creates diminishing returns and burnout. Strategic breaks restore focus, prevent exhaustion, and often spark insights. The question isn't whether to take breaks, but how to take effective breaks that truly restore you."
+        },
+        {
+          "type": "list",
+          "title": "Types of Breaks",
+          "items": [
+            "Micro: 5 min every hour (stand, stretch, breathe, look away from screen)",
+            "Short: 10-15 min every 90 minutes (walk, snack, nature, chat)",
+            "Lunch: 30-60 min midday (eat away from desk, ideally outside)",
+            "Daily: 1-2 hour evening of no work (dinner, family, hobby)",
+            "Weekly: One full day off (complete disconnect from work)",
+            "Annual: 1-2 week vacations (true recharge, not working remotely)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Effective vs. ineffective breaks: Effective breaks restore energy. Nature walks, exercise, social connection, naps, hobbies. Ineffective breaks deplete energy. Social media scrolling, news reading, email checking. These aren't breaks—they're just different work. True break disengages from screens and demands."
+        },
+        {
+          "type": "list",
+          "title": "Break Activities",
+          "items": [
+            "Movement: Walk, stretch, exercise (boosts energy and creativity)",
+            "Nature: Even 5 min outside restores attention",
+            "Social: Brief conversation with someone you like",
+            "Nap: 10-20 min power nap (not longer, causes grogginess)",
+            "Meditation: 5-10 min breathing or mindfulness",
+            "Hobby: Brief engagement with enjoyable activity",
+            "Nothing: Stare out window, let mind wander"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "The Science of Breaks",
+          "items": [
+            "Attention restoration: Breaks restore depleted attention",
+            "Creativity boost: Mind wandering enables insight",
+            "Productivity: 52-17 rule—52 min work, 17 min break = optimal productivity",
+            "Health: Sitting breaks reduce health risks",
+            "Burnout prevention: Regular breaks prevent exhaustion",
+            "Problem-solving: Breaks allow unconscious processing",
+            "Evidence: Top performers take more breaks, not fewer"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The power of walking: Walking meetings, walking breaks, walking to think through problems. Movement boosts creativity, improves mood, restores focus. Many breakthrough ideas come during walks, not at desk. Steve Jobs famous for walking meetings. Walking = thinking tool."
+        },
+        {
+          "type": "list",
+          "title": "Weekend Recovery",
+          "items": [
+            "One full day off: Minimum one day with no work",
+            "Different activities: Not work-adjacent, truly different",
+            "Physical: Exercise, sports, outdoors",
+            "Social: Quality time with people you enjoy",
+            "Creative: Hobbies, art, music",
+            "Restorative: Sleep, nature, relaxation",
+            "Sunday prep: Brief review and planning for week ahead"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What makes a break effective?",
+          "options": [
+            "Checking social media",
+            "Restores energy through nature, movement, social connection, true disengagement",
+            "Reading emails",
+            "Watching news"
+          ],
+          "correctIndex": 1,
+          "explanation": "Effective breaks restore energy: nature, movement, social connection, naps, hobbies. Social media and email aren't breaks—just different work."
+        },
+        {
+          "question": "What's the 52-17 rule?",
+          "options": [
+            "Work for 52 hours weekly",
+            "52 min work + 17 min break for optimal productivity",
+            "52 min break + 17 min work",
+            "Random numbers"
+          ],
+          "correctIndex": 1,
+          "explanation": "52-17 rule: 52 min work + 17 min break = optimal productivity ratio. Regular breaks restore attention and prevent fatigue."
+        }
+      ]
+    }
+  },
+  {
+    "id": "managing-interruptions",
+    "title": "Managing Interruptions",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Average knowledge worker is interrupted every 11 minutes. After interruption, takes 23 minutes to refocus. That means you never achieve deep focus if interrupted hourly. Interruptions are productivity cancer. Some are legitimate and necessary. Most aren't. Mastering interruption management is mastering productivity."
+        },
+        {
+          "type": "list",
+          "title": "Types of Interruptions",
+          "items": [
+            "Self-interruptions: You checking phone, email, social media (most common)",
+            "External: Colleagues, phone calls, messages",
+            "Environmental: Noise, movement, notifications",
+            "Mental: Wandering thoughts, anxiety, random ideas",
+            "Urgent: Genuine emergencies requiring immediate attention (rare)",
+            "Reality check: 90% of 'urgent' interruptions aren't actually urgent"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The interruption cost: Not just the interruption time itself. It's: time to refocus (23 min), attention residue, mental fatigue from switching, work quality degradation, stress increase. One 2-minute interruption costs 25+ minutes of productivity. Five interruptions = half your day lost."
+        },
+        {
+          "type": "list",
+          "title": "Preventing External Interruptions",
+          "items": [
+            "Communication: Let team know your focus times",
+            "Status: 'Do not disturb' on Slack, Teams, etc.",
+            "Physical: Closed door, headphones, out of sight",
+            "Scheduled availability: 'I'm free 2-3pm for questions'",
+            "Emergency protocol: Clear criteria for actual emergencies",
+            "Batching: Office hours for questions and discussions",
+            "Training: Teach people when/how to reach you"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Preventing Self-Interruptions",
+          "items": [
+            "Phone: Different room, airplane mode, or app blockers",
+            "Email: Close program, check on schedule only",
+            "Internet: Block distracting sites during focus time",
+            "Notifications: Turn off everything",
+            "Capture system: Notebook for random thoughts/tasks",
+            "Implementation intention: 'When I want to check phone, I will breathe and refocus'",
+            "Awareness: Notice urge, don't act on it"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The interruption log: Track every interruption for one week. What interrupted you? Was it necessary? Could it have waited? Pattern emerges. Most interruptions: self-inflicted, unnecessary, batchable. This awareness enables targeting biggest sources."
+        },
+        {
+          "type": "list",
+          "title": "Handling Interruptions",
+          "items": [
+            "Assess urgency: Is this truly urgent? (usually no)",
+            "Defer: 'Can this wait until 2pm?' (usually yes)",
+            "Batch: 'Add it to list, I'll handle during admin time'",
+            "Delegate: 'Can [Name] help with this?'",
+            "Quick resolution: If truly urgent, resolve quickly and return",
+            "Log it: Write down where you were before returning to work",
+            "Protect: Say no to non-urgent interruptions"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the cost of an interruption?",
+          "options": [
+            "Just the interruption time",
+            "Interruption time + 23 min refocus time + attention residue",
+            "Nothing",
+            "Only 2 minutes"
+          ],
+          "correctIndex": 1,
+          "explanation": "Interruptions cost: interruption time + 23 min to refocus + attention residue + mental fatigue. 2-min interruption = 25+ min productivity loss."
+        },
+        {
+          "question": "What causes most interruptions?",
+          "options": [
+            "Emergencies",
+            "Self-interruptions (checking phone, email, social media)",
+            "Colleagues",
+            "True crises"
+          ],
+          "correctIndex": 1,
+          "explanation": "Self-interruptions (checking phone, email, social media) are most common. You are usually your own biggest source of interruptions."
+        }
+      ]
+    }
+  },
+  {
+    "id": "work-life-integration",
+    "title": "Work-Life Integration",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Work-life balance implies opposition: time at work takes from life. Wrong framing. Work is part of life. The goal isn't balance—it's integration. Sustainable productivity comes from whole life working together: work that matters, relationships that fulfill, health that energizes, rest that restores. Neglecting any dimension eventually tanks productivity and happiness."
+        },
+        {
+          "type": "list",
+          "title": "Life Dimensions",
+          "items": [
+            "Work: Career, income, contribution, growth",
+            "Relationships: Family, friends, romantic, social",
+            "Health: Physical fitness, nutrition, sleep",
+            "Personal growth: Learning, skills, hobbies",
+            "Recreation: Fun, enjoyment, play",
+            "Spirit: Purpose, meaning, values",
+            "Integration: These support each other, don't compete"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The sustainable productivity principle: You can sprint for short periods, but you can't sustain sprinting. Sustainable high performance requires: adequate sleep, regular exercise, healthy nutrition, meaningful relationships, regular recovery. Sacrificing these for short-term productivity gains creates long-term productivity collapse."
+        },
+        {
+          "type": "list",
+          "title": "Setting Boundaries",
+          "items": [
+            "Working hours: Define start and end times",
+            "Evening shutdown: Ritual marking end of workday",
+            "Weekend protection: One full day minimum with no work",
+            "Vacation: True disconnect, not working remotely",
+            "Email: No checking after hours or weekends",
+            "Communicate: Make boundaries known to colleagues",
+            "Enforce: Boundaries only work if you enforce them"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Shutdown Ritual",
+          "items": [
+            "Review: What got done today?",
+            "Capture: Note any incomplete tasks or thoughts",
+            "Plan: Quick review of tomorrow's priorities",
+            "Close: Shut down computer, clear desk",
+            "Phrase: Say 'shutdown complete' or similar trigger",
+            "Transition: Change clothes, exercise, or other clear break",
+            "Benefit: Signals brain work is done, enables mental recovery"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Quality over quantity: Focused 6 hours produces more than distracted 10 hours. High performers work intensely during work hours, then fully disconnect. This rhythm sustains high performance indefinitely. Always-on approach leads to burnout and mediocre work."
+        },
+        {
+          "type": "list",
+          "title": "Integration Strategies",
+          "items": [
+            "Exercise: Midday workouts boost afternoon productivity",
+            "Family: Dinner together, no devices",
+            "Learning: Read, courses, hobbies outside work",
+            "Social: Regular friend time, not just networking",
+            "Nature: Time outdoors restores and energizes",
+            "Sleep: 7-9 hours non-negotiable",
+            "Purpose: Work aligned with values provides energy"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's work-life integration?",
+          "options": [
+            "Always being available",
+            "All life dimensions working together sustainably",
+            "Never working",
+            "Work taking priority"
+          ],
+          "correctIndex": 1,
+          "explanation": "Integration: all life dimensions (work, relationships, health, growth) working together sustainably. Not opposition—mutual support."
+        },
+        {
+          "question": "What's the shutdown ritual?",
+          "options": [
+            "Turning off computer",
+            "Review day, capture thoughts, plan tomorrow, close, signal 'shutdown complete'",
+            "Leaving office",
+            "Checking email"
+          ],
+          "correctIndex": 1,
+          "explanation": "Shutdown ritual: review day, capture thoughts, plan tomorrow, close workspace, say trigger phrase. Signals brain work is done, enables recovery."
+        }
+      ]
+    }
+  }
+]
