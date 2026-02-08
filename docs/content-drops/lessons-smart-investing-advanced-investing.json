@@ -1,0 +1,454 @@
+[
+  {
+    "id": "alternative-investments",
+    "title": "Alternative Investments Overview",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Alternative investments are assets beyond traditional stocks and bonds: real estate, commodities, private equity, cryptocurrencies, and more. They can provide diversification and uncorrelated returns, but they also carry unique risks, higher fees, lower liquidity, and complexity. For most investors, a traditional portfolio provides sufficient diversification without these complications."
+        },
+        {
+          "type": "list",
+          "title": "Real Estate Investment Options",
+          "items": [
+            "Physical property: Direct ownership, full control, but illiquid and management-intensive",
+            "REITs (Real Estate Investment Trusts): Stock-like real estate exposure, liquid, professional management, 90%+ income paid as dividends",
+            "Real estate crowdfunding: Fractional property ownership, higher minimums ($1,000-5,000), less liquid",
+            "REIT index funds: Diversified exposure to hundreds of properties/companies (VNQ, FREL)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Commodities",
+          "items": [
+            "Gold: Traditional inflation hedge, no income, high volatility, store of value",
+            "Oil/Energy: Correlates with economy, very volatile, geopolitical risks",
+            "Agriculture: Food commodities, weather/climate dependent",
+            "Access: Commodity ETFs (GLD for gold, USO for oil), futures (complex, not for beginners)",
+            "Role: Small allocation (5%) for diversification, not core holding"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Cryptocurrencies like Bitcoin and Ethereum are extremely speculative. They're not backed by earnings, assets, or governments—value depends entirely on what others will pay. Volatility is extreme (50%+ swings common). If you invest in crypto, limit it to 1-5% of portfolio and only money you can afford to lose completely. It's speculation, not investing."
+        },
+        {
+          "type": "list",
+          "title": "Private Investments",
+          "items": [
+            "Private equity: Buying stakes in private companies, typically requires $100k+ and accredited investor status",
+            "Venture capital: Startup investments, extremely high risk, 90% failure rate",
+            "Hedge funds: Complex strategies, high fees (2% management + 20% performance), often underperform after fees",
+            "Access: Limited to wealthy investors, high minimums, long lock-up periods",
+            "Reality: Most private investments underperform public markets after accounting for fees, liquidity risk, and selection bias"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Should You Invest in Alternatives?",
+          "items": [
+            "Probably not needed: Traditional stock/bond portfolio provides sufficient diversification for 90%+ of investors",
+            "If yes: Keep allocation small (5-10% maximum), use liquid alternatives like REIT funds",
+            "Avoid: Anything requiring accredited investor status, illiquid investments if you need access to money, anything you don't fully understand",
+            "Red flags: Promises of high returns with low risk, complex structures, high fees, pressure tactics"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Alternative investments are marketed heavily because they generate high fees for financial firms. Most alternatives underperform a simple 70/30 stock/bond portfolio after accounting for fees, taxes, and liquidity constraints. Only consider alternatives after maxing traditional accounts and understanding the specific risks and tax implications."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is a REIT?",
+          "options": [
+            "A retirement account type",
+            "Real Estate Investment Trust that owns income-producing properties",
+            "A type of government bond",
+            "A cryptocurrency"
+          ],
+          "correctIndex": 1,
+          "explanation": "REITs (Real Estate Investment Trusts) are companies that own and operate income-producing real estate, traded like stocks."
+        },
+        {
+          "question": "What percentage of portfolio should cryptocurrencies represent at most?",
+          "options": [
+            "50%+",
+            "25-40%",
+            "10-20%",
+            "1-5%"
+          ],
+          "correctIndex": 3,
+          "explanation": "Due to extreme volatility and speculative nature, cryptocurrencies should represent no more than 1-5% of portfolio, and only money you can afford to lose."
+        }
+      ]
+    }
+  },
+  {
+    "id": "understanding-valuation",
+    "title": "Stock Valuation Basics",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Stock valuation determines whether a stock is cheap or expensive relative to its earnings and growth. While index fund investors don't need to value individual stocks, understanding basic valuation helps you avoid speculation, recognize bubbles, and understand market movements. Remember: even perfectly valued stocks can lose money short-term during market panics."
+        },
+        {
+          "type": "list",
+          "title": "Price-to-Earnings Ratio (P/E)",
+          "items": [
+            "Formula: Stock price ÷ earnings per share",
+            "$100 stock earning $5/share = 20 P/E (you pay $20 for each $1 of earnings)",
+            "Low P/E (5-15): Potentially undervalued or mature/slow-growth company",
+            "Medium P/E (15-25): Typical for established companies with moderate growth",
+            "High P/E (25-50+): Growth expectations or overvaluation, common in tech",
+            "S&P 500 historical average: ~16 P/E"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "P/E ratio alone doesn't determine value. A tech company growing 30% annually might deserve 40 P/E. A mature utility growing 2% annually deserves 12 P/E. Compare companies within the same industry and consider growth rates. The PEG ratio (P/E divided by growth rate) helps account for growth: PEG under 1.0 suggests undervaluation, over 2.0 suggests overvaluation."
+        },
+        {
+          "type": "list",
+          "title": "Other Valuation Metrics",
+          "items": [
+            "Price-to-Book (P/B): Stock price ÷ book value per share, useful for banks/real estate",
+            "Price-to-Sales (P/S): Market cap ÷ annual revenue, useful for unprofitable growth companies",
+            "Dividend yield: Annual dividend ÷ stock price, higher yield might indicate undervaluation or distress",
+            "Free cash flow: Cash company generates after expenses/investments, more reliable than accounting earnings",
+            "Debt-to-equity: Company debt ÷ shareholder equity, measures financial leverage and risk"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Market valuation ebbs and flows between expensive and cheap. During bubbles (1929, 2000, 2021), P/E ratios exceed 30-40 for the overall market. During crashes, they fall to 10-15. While you can't time these perfectly, knowing when markets are historically expensive helps temper expectations for future returns. Expensive markets deliver lower subsequent returns over 10-20 years."
+        },
+        {
+          "type": "list",
+          "title": "Valuation in Practice",
+          "items": [
+            "For index investors: Don't worry about individual stock valuation, focus on overall market valuation",
+            "If market P/E over 30: Expect lower returns next decade, maintain but don't increase equity allocation",
+            "If market P/E under 15: Historically predicts strong subsequent returns, stay invested or increase allocation",
+            "Never sell everything based on valuation: Market can stay expensive or cheap longer than you expect",
+            "Use valuation for perspective: Helps explain why some periods deliver 20% returns, others deliver 5%"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The problem with valuation is the 'this time is different' syndrome. Every bubble has a narrative explaining why traditional valuation doesn't apply. In 2000, it was the internet revolution. In 2021, it was COVID stimulus and new retail investors. The fundamentals always matter eventually—companies must generate earnings to justify valuations long-term."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What does P/E ratio measure?",
+          "options": [
+            "Total company revenue",
+            "Price paid per dollar of earnings",
+            "Percentage of profit paid as dividend",
+            "Profit margin of company"
+          ],
+          "correctIndex": 1,
+          "explanation": "P/E ratio shows how much investors pay for each dollar of company earnings. A P/E of 20 means paying $20 for $1 of annual earnings."
+        },
+        {
+          "question": "What is the S&P 500 historical average P/E ratio?",
+          "options": [
+            "~10",
+            "~16",
+            "~25",
+            "~40"
+          ],
+          "correctIndex": 1,
+          "explanation": "The S&P 500 has historically averaged around 16 P/E. Ratios above 25-30 indicate expensive markets; below 12-15 indicate cheap markets."
+        }
+      ]
+    }
+  },
+  {
+    "id": "international-investing",
+    "title": "International Investing Strategy",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "International stocks represent about 60% of global market capitalization, yet many US investors own little or no international exposure. While the US has dominated recently, international stocks periodically outperform. A globally diversified portfolio reduces country-specific risk and captures worldwide economic growth. The question isn't whether to own international stocks, but how much."
+        },
+        {
+          "type": "list",
+          "title": "Why Own International Stocks?",
+          "items": [
+            "Diversification: Reduces exposure to US-specific risks (political, economic, regulatory)",
+            "Growth opportunities: Emerging markets grow faster than developed economies",
+            "Currency diversification: International holdings provide hedge against dollar weakness",
+            "Historical cycles: International stocks periodically outperform US (2000s, 1970s-80s)",
+            "Global economy: Many companies operate globally regardless of headquarters"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Developed international markets (Europe, Japan, Australia) offer stability similar to US but with different economic cycles. Emerging markets (China, India, Brazil) provide higher growth potential with significantly more volatility and risk. A total international fund automatically balances between developed and emerging markets based on market caps."
+        },
+        {
+          "type": "list",
+          "title": "International Allocation Approaches",
+          "items": [
+            "Market cap weight: 60% international, 40% US (matches global market proportions)",
+            "Moderate: 30-40% international, 60-70% US (balances home bias with global exposure)",
+            "Conservative: 20-30% international, 70-80% US (slight tilt toward US)",
+            "Most common: 20-40% international is reasonable compromise"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "How to Invest Internationally",
+          "items": [
+            "Total international stock index: One fund owns developed and emerging markets (VXUS, FTIHX, SWISX)",
+            "Developed markets only: Excludes higher-risk emerging markets (VEA, FSPSX)",
+            "Emerging markets: Higher growth potential, higher risk (VWO, FPADX)",
+            "Recommendation: Total international fund provides appropriate balance automatically"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "International investing comes with additional considerations: currency risk (foreign currency fluctuations affect returns), political risk (different regulatory environments), and less corporate transparency in some markets. These risks are why many suggest lower international allocation than pure market cap weighting, but they're also why diversification matters."
+        },
+        {
+          "type": "list",
+          "title": "International Investing Don'ts",
+          "items": [
+            "Don't avoid international entirely: Missing 60% of global market opportunities",
+            "Don't chase hot markets: Buying after strong performance often leads to disappointment",
+            "Don't over-complicate: Single total international fund sufficient for most investors",
+            "Don't obsess over exact allocation: 20%, 30%, or 40% all work fine",
+            "Don't check international separately: View as part of total portfolio"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What percentage of global market capitalization is outside the US?",
+          "options": [
+            "About 20%",
+            "About 40%",
+            "About 60%",
+            "About 80%"
+          ],
+          "correctIndex": 2,
+          "explanation": "International stocks represent approximately 60% of global market capitalization, though US has dominated recent performance."
+        },
+        {
+          "question": "What is a reasonable international stock allocation?",
+          "options": [
+            "0% (US only)",
+            "20-40% of stock allocation",
+            "80-90% of portfolio",
+            "100% (no US exposure)"
+          ],
+          "correctIndex": 1,
+          "explanation": "Most experts recommend 20-40% international stocks to balance global diversification with home country bias and familiarity."
+        }
+      ]
+    }
+  },
+  {
+    "id": "retirement-income",
+    "title": "Creating Retirement Income",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Retirement income strategy determines how you convert decades of savings into reliable spending money. The transition from accumulation (saving) to distribution (spending) is psychologically and financially challenging. The goal is making your money last 30+ years while maintaining purchasing power against inflation, without running out or leaving enormous unused surpluses."
+        },
+        {
+          "type": "list",
+          "title": "The 4% Rule",
+          "items": [
+            "Withdraw 4% of portfolio in year 1, adjust for inflation annually",
+            "$1 million portfolio = $40,000 first year, then adjust for inflation",
+            "Based on historical success: 95%+ success rate over 30 years",
+            "Works with 50-60% stock allocation, rest bonds",
+            "Adjustable: Increase withdrawals in good years, decrease in bad years for higher success"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 4% rule is a starting point, not gospel. Retiring into expensive markets (high P/E ratios) suggests using 3-3.5%. Retiring into cheap markets supports 4.5-5%. Flexible spending—willing to reduce expenses 10-20% during bear markets—dramatically improves success rates. The worst failures come from fixed spending during prolonged bear markets."
+        },
+        {
+          "type": "list",
+          "title": "Income Sources in Retirement",
+          "items": [
+            "Portfolio withdrawals: Primary source for most retirees, using 4% rule or variations",
+            "Social Security: Average $20k-30k annually, claim at 70 for maximum benefit (8% annual increase 67-70)",
+            "Pensions: Rare for younger generations, guaranteed income if available",
+            "Part-time work: Even $10k-20k annually reduces portfolio strain significantly",
+            "Rental income: If own rental properties, provides inflation-adjusted income"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Withdrawal Strategies",
+          "items": [
+            "Proportional: Withdraw from all accounts in proportion to balance (simplest)",
+            "Tax-efficient: Withdraw from taxable first, then tax-deferred, then Roth (minimizes lifetime taxes)",
+            "Bracket management: Withdraw enough from tax-deferred to fill lower tax brackets",
+            "Required Minimum Distributions (RMDs): Must withdraw from traditional IRA/401k starting age 73",
+            "Roth conversions: Convert traditional IRA to Roth during low-income years to reduce future RMDs"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Sequence of returns risk is critical in early retirement. A market crash in year 1-5 of retirement, combined with withdrawals, can permanently damage portfolio. Mitigations: Keep 2-3 years spending in bonds/cash, reduce spending during crashes, consider working part-time early in retirement, or delay retirement 1-2 years after market crashes."
+        },
+        {
+          "type": "list",
+          "title": "Retirement Asset Allocation",
+          "items": [
+            "Early retirement (65-70): 60-70% stocks, 30-40% bonds (growth still needed)",
+            "Mid retirement (70-80): 50-60% stocks, 40-50% bonds (balanced)",
+            "Late retirement (80+): 40-50% stocks, 50-60% bonds (some growth still needed for longevity)",
+            "Don't go 100% bonds: Inflation risk over 20-30 years requires stock exposure",
+            "Glide path: Gradually increase bonds but never eliminate stocks entirely"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the 4% rule?",
+          "options": [
+            "Save 4% of income annually",
+            "Withdraw 4% of portfolio in first retirement year, adjust for inflation",
+            "Invest in bonds paying 4% interest",
+            "Retire when portfolio reaches 4 million"
+          ],
+          "correctIndex": 1,
+          "explanation": "The 4% rule suggests withdrawing 4% of your portfolio in the first retirement year, then adjusting that amount for inflation annually."
+        },
+        {
+          "question": "What is sequence of returns risk?",
+          "options": [
+            "Risk of investing in the wrong order",
+            "Danger of market crashes early in retirement combined with withdrawals",
+            "Risk of bonds underperforming stocks",
+            "Inflation risk"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sequence risk is the danger that market crashes early in retirement, combined with withdrawals, permanently impair portfolio and increase failure risk."
+        }
+      ]
+    }
+  },
+  {
+    "id": "financial-independence",
+    "title": "Path to Financial Independence",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Financial independence (FI) means having enough investment income to cover living expenses without working. It's not about never working—it's about working being optional. The FIRE movement (Financial Independence, Retire Early) took this concept mainstream. Whether you want to retire at 40 or simply have the option to say no to jobs you hate, the mathematics are the same: save aggressively, invest wisely, reduce expenses."
+        },
+        {
+          "type": "list",
+          "title": "The Mathematics of FI",
+          "items": [
+            "25x rule: Need 25x annual expenses invested ($40k expenses = $1M needed)",
+            "Based on 4% withdrawal rate: $1M × 4% = $40k annually",
+            "Expenses matter more than income: $40k expenses needs $1M, $80k expenses needs $2M",
+            "Savings rate determines timeline: 50% savings rate = FI in ~17 years, 70% = ~9 years",
+            "Investment returns accelerate: Higher savings + compound growth creates exponential progress"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Traditional retirement math assumes 40-year career saving 10-15%, leading to retirement at 65. FIRE flips this: save 50-70% of income, reduce expenses, reach FI in 10-20 years. This requires aggressive lifestyle decisions most people won't make. The principles apply even if you don't want extreme early retirement—higher savings accelerates all financial goals."
+        },
+        {
+          "type": "list",
+          "title": "Savings Rate Impact",
+          "items": [
+            "10% savings rate: 51 years to FI",
+            "25% savings rate: 32 years to FI",
+            "50% savings rate: 17 years to FI",
+            "65% savings rate: 10.5 years to FI",
+            "75% savings rate: 7 years to FI",
+            "Every increase in savings rate has double effect: more invested + less needed for FI"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Paths to High Savings Rates",
+          "items": [
+            "Increase income: Career advancement, side hustles, higher-paying job changes",
+            "Decrease expenses: Housing (smaller, roommates, low-cost area), transportation (no car, used car), food (cook at home)",
+            "Geographic arbitrage: Earn high-cost-area wages, live in low-cost area",
+            "Lifestyle design: Question every expense, optimize for value not status",
+            "Partner synergy: Two incomes, shared expenses, aligned financial goals"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Lean FI means retiring on minimal expenses ($25k-40k annually), requiring $625k-$1M. Fat FI means comfortable lifestyle ($80k-120k+), requiring $2M-3M+. Coast FI means having enough invested that you never need to save again—compound growth reaches full FI by traditional retirement age. Each approach suits different people."
+        },
+        {
+          "type": "list",
+          "title": "FI Considerations Beyond Math",
+          "items": [
+            "Healthcare: US early retirees need ACA coverage until Medicare at 65 ($5k-15k annually)",
+            "Identity: Work provides purpose for many; plan what you'll do with time",
+            "Sequence risk: Early retirement = longer exposure to market risk, consider working part-time in early years",
+            "Lifestyle creep: Easy to inflate expenses as wealth grows, defeating the purpose",
+            "Social pressure: Friends/family may not understand, creates isolation",
+            "One more year syndrome: Difficulty pulling trigger despite hitting number"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Financial independence is worth pursuing even if you don't retire early. Having FI provides: negotiating power at work, ability to take career risks, resilience during job loss, option to work less, freedom to pursue passion projects, reduced financial stress. The journey builds wealth habits that serve you regardless of when you retire."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the 25x rule for financial independence?",
+          "options": [
+            "Save for 25 years",
+            "Need 25 times your annual expenses invested",
+            "Invest 25% of income",
+            "Retire at age 25"
+          ],
+          "correctIndex": 1,
+          "explanation": "The 25x rule states you need 25 times your annual expenses invested to be financially independent, based on 4% safe withdrawal rate."
+        },
+        {
+          "question": "At 50% savings rate, how long does it typically take to reach FI?",
+          "options": [
+            "7 years",
+            "10 years",
+            "17 years",
+            "30 years"
+          ],
+          "correctIndex": 2,
+          "explanation": "With a 50% savings rate and typical investment returns, financial independence is achievable in approximately 17 years."
+        },
+        {
+          "question": "What is Coast FI?",
+          "options": [
+            "Retiring in a coastal area",
+            "Having enough invested that you never need to save again",
+            "Working part-time",
+            "Living on only investment income"
+          ],
+          "correctIndex": 1,
+          "explanation": "Coast FI means having enough invested that compound growth will reach your FI number by traditional retirement age without additional contributions."
+        }
+      ]
+    }
+  }
+]
