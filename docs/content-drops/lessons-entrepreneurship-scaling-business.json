@@ -1,1 +1,568 @@
-[Final module...]
+[
+  {
+    "id": "systems-processes",
+    "title": "Building Systems & Processes",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "You can't scale chaos. What works when you're doing everything yourself breaks when you have 10 employees. Scaling requires systems: documented, repeatable processes that work without you. The goal isn't to work more hours—it's to build business that runs without constant intervention. Systems turn your business from startup into scalable enterprise."
+        },
+        {
+          "type": "list",
+          "title": "Why Systems Matter",
+          "items": [
+            "Consistency: Same quality regardless of who does it",
+            "Scalability: Can handle 10x volume without 10x chaos",
+            "Training: New employees productive faster",
+            "Delegation: Others can do what only you did before",
+            "Quality: Fewer mistakes, predictable outcomes",
+            "Freedom: Business runs without your constant involvement",
+            "Value: Systematic businesses worth more to buyers"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The E-Myth principle: Most businesses fail because founders are technicians, not entrepreneurs. They know how to do the work but not how to build systems for others to do it. Scaling means working ON the business (systems, strategy) not just IN the business (daily operations)."
+        },
+        {
+          "type": "list",
+          "title": "Core Business Systems",
+          "items": [
+            "Sales: Lead generation, qualification, closing, follow-up",
+            "Operations: Fulfillment, quality control, customer service",
+            "Finance: Invoicing, collections, expense management, reporting",
+            "Marketing: Content, campaigns, analytics, optimization",
+            "HR: Hiring, onboarding, training, performance management",
+            "Product: Development, testing, launches, improvements",
+            "Start: Document most critical system first (usually sales or operations)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Creating Standard Operating Procedures (SOPs)",
+          "items": [
+            "1. Identify: What process needs documentation?",
+            "2. Document current: How is it done now? (even if imperfect)",
+            "3. Screen record: Video yourself doing the process",
+            "4. Write steps: Clear, numbered, specific instructions",
+            "5. Include screenshots: Visual aids for clarity",
+            "6. Test: Have someone else follow the SOP",
+            "7. Refine: Update based on feedback and improvements",
+            "Tools: Loom (video), Notion/Google Docs (documentation), Trainual (training platform)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The checklist manifesto: Complex tasks benefit from checklists. Pilots use them. Surgeons use them. You should too. Simple checklist reduces errors dramatically. For every recurring task, create checklist. Even if you know the steps, checklist ensures nothing gets forgotten under pressure."
+        },
+        {
+          "type": "list",
+          "title": "Process Automation",
+          "items": [
+            "Email sequences: Automated follow-ups and nurturing",
+            "Invoicing: Automatic invoice generation and reminders",
+            "Reporting: Automated dashboards and reports",
+            "Onboarding: Automated welcome sequences for customers and employees",
+            "Social media: Scheduled posts, auto-publishing",
+            "Data entry: Zapier/Make connecting tools, eliminating manual work",
+            "Rule: If you do it more than 3 times, systematize it"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Measuring System Effectiveness",
+          "items": [
+            "Time: Does it reduce time spent?",
+            "Errors: Does it reduce mistakes?",
+            "Training: How quickly can new person learn it?",
+            "Output: Does it maintain or improve quality?",
+            "Consistency: Same results every time?",
+            "Scalability: Works at 10x current volume?",
+            "Continuous improvement: Update systems quarterly based on learnings"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the primary benefit of business systems?",
+          "options": [
+            "They make you busier",
+            "Enable scaling without proportional increase in chaos and your time",
+            "They're impressive",
+            "Competitors will copy them"
+          ],
+          "correctIndex": 1,
+          "explanation": "Systems enable scaling without proportional chaos. They create consistency, enable delegation, and let business run without your constant involvement."
+        },
+        {
+          "question": "What's working ON vs IN the business?",
+          "options": [
+            "Same thing",
+            "ON = systems/strategy; IN = daily operations",
+            "ON is better than IN",
+            "IN is more important"
+          ],
+          "correctIndex": 1,
+          "explanation": "ON the business = building systems and strategy. IN the business = doing daily work. Scaling requires more ON, less IN."
+        }
+      ]
+    }
+  },
+  {
+    "id": "hiring-team-building",
+    "title": "Hiring & Team Building",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "You can't scale alone. Solopreneurs hit ceiling fast. Growth requires team. But hiring wrong people is worse than hiring no one. Bad hire costs 3-5x their salary in time, money, and opportunity cost. Great hire multiplies your capacity. The quality of your team determines the quality of your business. Hire slow, fire fast."
+        },
+        {
+          "type": "list",
+          "title": "When to Hire First Employees",
+          "items": [
+            "Revenue stable: Consistent income to cover salaries",
+            "Clear need: Specific role that would unlock growth",
+            "ROI identified: Revenue they'll help generate exceeds their cost",
+            "Systems ready: Documented processes for them to follow",
+            "Time constrained: You're bottleneck preventing growth",
+            "Don't hire: To look bigger or because everyone else is",
+            "First hires: Usually sales, operations, or customer service"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Contractor vs. employee decision: Start with contractors for specialized tasks (design, development, bookkeeping). They provide flexibility without long-term commitment. Convert to employee when: work is ongoing, role is core to business, need more control and availability. Many successful businesses run largely on contractors."
+        },
+        {
+          "type": "list",
+          "title": "Hiring Process",
+          "items": [
+            "1. Define role: Specific responsibilities and outcomes (not just tasks)",
+            "2. Write compelling job post: Sell the opportunity, not just list requirements",
+            "3. Screen applications: Look for evidence of results, not just credentials",
+            "4. Skills test: Paid trial project showing actual work quality",
+            "5. Interview: Cultural fit, problem-solving, values alignment",
+            "6. References: Actually call them, ask specific questions",
+            "7. Trial period: 30-90 days to evaluate fit",
+            "Red flags: Job hopping, no questions asked, unrealistic expectations"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "What to Look For",
+          "items": [
+            "Results-oriented: Track record of achieving outcomes",
+            "Self-starter: Takes initiative, doesn't need constant direction",
+            "Problem-solver: Identifies and solves problems independently",
+            "Culture fit: Shares values, work style compatible",
+            "Growth mindset: Eager to learn and improve",
+            "Communication: Clear, proactive communicator",
+            "Warning: Skills can be taught; attitude and work ethic can't"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The A-player concept: A-players are top 10% performers who achieve 2-5x more than average. They're not necessarily expensive—they're underpriced relative to their output. One A-player beats three B-players. Build team of A-players by: clear expectations, autonomy, challenging work, growth opportunities, and fair compensation."
+        },
+        {
+          "type": "list",
+          "title": "Onboarding & Training",
+          "items": [
+            "Pre-start: Send welcome email, equipment, access to systems",
+            "Day 1: Clear expectations, company values, meet team",
+            "Week 1: Training on core systems, early wins to build confidence",
+            "Month 1: Regular check-ins, feedback, address questions",
+            "90 days: Formal review, decide on long-term fit",
+            "Documentation: Provide SOPs, training videos, checklists",
+            "Mentorship: Pair with experienced team member"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Team Culture",
+          "items": [
+            "Values: Define and live core values (integrity, customer focus, innovation)",
+            "Communication: Regular team meetings, transparent updates",
+            "Recognition: Celebrate wins, acknowledge contributions",
+            "Feedback: Regular two-way feedback (not just annual reviews)",
+            "Growth: Provide learning opportunities, clear career paths",
+            "Autonomy: Trust team, don't micromanage",
+            "Remote-friendly: Embrace remote work for access to global talent"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the cost of a bad hire?",
+          "options": [
+            "Just their salary",
+            "3-5x their salary in time, money, and opportunity cost",
+            "Nothing if you fire them",
+            "Minimal impact"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bad hire costs 3-5x their salary in time, money, opportunity cost, and team impact. This is why hiring slow and carefully is critical."
+        },
+        {
+          "question": "What matters most in hiring?",
+          "options": [
+            "Years of experience",
+            "Results track record, attitude, and cultural fit",
+            "Prestigious degree",
+            "Accepting lowest salary"
+          ],
+          "correctIndex": 1,
+          "explanation": "Results track record, attitude, and cultural fit matter most. Skills can be taught; attitude, work ethic, and values alignment can't."
+        }
+      ]
+    }
+  },
+  {
+    "id": "financial-management",
+    "title": "Financial Management & Metrics",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Revenue is vanity, profit is sanity, cash is reality. Many businesses grow themselves to death: increasing revenue while bleeding cash and margin. Financial management determines whether you scale successfully or implode spectacularly. You need three things: accurate tracking, key metrics understanding, and cash flow management. Most entrepreneurs are terrible at this. The ones who master it dominate."
+        },
+        {
+          "type": "list",
+          "title": "Critical Financial Metrics",
+          "items": [
+            "Revenue: Total income (monthly recurring revenue for subscriptions)",
+            "Gross margin: (Revenue - Cost of Goods Sold) ÷ Revenue × 100%",
+            "Net profit margin: Net profit ÷ Revenue × 100%",
+            "Cash runway: How many months until you run out of cash",
+            "Customer Acquisition Cost (CAC): Total sales/marketing spend ÷ new customers",
+            "Lifetime Value (LTV): Average revenue per customer over lifetime",
+            "LTV:CAC ratio: Should be 3:1 minimum (LTV 3x higher than CAC)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The unit economics foundation: Before scaling, you must have profitable unit economics. If acquiring and serving one customer loses money, acquiring 1000 customers loses more money faster. Fix unit economics first, then scale. Many startups ignore this and scale unprofitable models, then wonder why they fail despite growth."
+        },
+        {
+          "type": "list",
+          "title": "Cash Flow Management",
+          "items": [
+            "Forecast: Project cash in and out for next 12 months",
+            "Monitor weekly: Cash position can change fast",
+            "Accounts receivable: Get paid faster (upfront, shorter terms)",
+            "Accounts payable: Pay slower (within terms, negotiate longer)",
+            "Inventory: Don't tie up cash in excess inventory",
+            "Buffer: Maintain 3-6 months operating expenses in reserve",
+            "Warning: Profitable on paper means nothing if you run out of cash"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Improving Profitability",
+          "items": [
+            "Increase prices: Often easiest lever (10% price increase = major profit boost)",
+            "Reduce CAC: Improve conversion rates, lower ad costs, referral programs",
+            "Increase LTV: Upsells, cross-sells, reduce churn, improve retention",
+            "Cut waste: Eliminate low-ROI expenses",
+            "Improve efficiency: Same output with less input",
+            "Better customers: Focus on most profitable segments",
+            "Focus: 80/20 analysis—which 20% of products/customers drive 80% of profit?"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The dashboard approach: Don't wait for month-end financials to understand business health. Build real-time dashboard tracking key metrics: daily revenue, cash position, CAC, LTV, gross margin. Review daily. Make decisions based on data, not gut feeling. What gets measured gets managed."
+        },
+        {
+          "type": "list",
+          "title": "Financial Systems",
+          "items": [
+            "Accounting software: QuickBooks, Xero, or FreshBooks",
+            "Bookkeeper: Professional handling books monthly",
+            "Separate accounts: Business and personal finances completely separate",
+            "Monthly review: Review P&L, balance sheet, cash flow statement",
+            "Tax planning: Quarterly estimates, tax-advantaged strategies",
+            "Audit trail: Document all expenses, keep receipts",
+            "Accountant: CPA for tax strategy and annual filing"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Fundraising Considerations",
+          "items": [
+            "Bootstrap first: Maintain control, build sustainably",
+            "Revenue as fuel: Best funding source is customer revenue",
+            "When to raise: Clear use case, proven model, ready to scale",
+            "Angel/VC: Give up equity, faster growth, higher pressure",
+            "Loans: Maintain equity, must repay regardless of success",
+            "Alternative: Profit-sharing agreements, revenue-based financing",
+            "Reality: Most businesses don't need VC; bootstrap to profitability"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the saying about business metrics?",
+          "options": [
+            "Revenue is everything",
+            "Revenue is vanity, profit is sanity, cash is reality",
+            "Profit doesn't matter",
+            "Only growth matters"
+          ],
+          "correctIndex": 1,
+          "explanation": "Revenue is vanity, profit is sanity, cash is reality. You can grow revenue while going bankrupt. Profit and cash flow determine survival."
+        },
+        {
+          "question": "What should LTV:CAC ratio be?",
+          "options": [
+            "1:1",
+            "3:1 minimum (LTV 3x CAC or higher)",
+            "Doesn't matter",
+            "1:3"
+          ],
+          "correctIndex": 1,
+          "explanation": "LTV:CAC should be 3:1 minimum. Customer lifetime value should be at least 3x acquisition cost for sustainable, profitable scaling."
+        }
+      ]
+    }
+  },
+  {
+    "id": "growth-strategies",
+    "title": "Growth Strategies & Channels",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Growth doesn't happen accidentally. You need systematic approach to customer acquisition. Most businesses try everything, master nothing. Better strategy: identify 1-2 channels where your customers are, master those, then expand. Traction beats theory—test quickly, double down on what works, kill what doesn't. Growth is about multiplication, not addition."
+        },
+        {
+          "type": "list",
+          "title": "Primary Growth Channels",
+          "items": [
+            "Content marketing: SEO, blog, YouTube, podcasts (slow build, compounds)",
+            "Paid advertising: Google, Facebook, LinkedIn ads (fast, expensive, scalable)",
+            "Social media: Organic posts, engagement, community building",
+            "Email marketing: List building, nurturing, conversion",
+            "Partnerships: Co-marketing, integrations, affiliate programs",
+            "Sales: Outbound prospecting, inbound leads, account-based marketing",
+            "PR: Media coverage, podcast appearances, thought leadership",
+            "Referrals: Customer referral programs, word-of-mouth systems"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The bullseye framework: Brainstorm all possible channels. Test top 3-5 with small experiments. Measure results rigorously. One channel will emerge as winner—pour resources into that. This beats spreading thin across many channels. Master one, then layer in second."
+        },
+        {
+          "type": "list",
+          "title": "Channel Selection Criteria",
+          "items": [
+            "Where are customers? Match channel to customer behavior",
+            "What's your strength? Use channels aligned with your skills",
+            "What's your budget? Some channels require more cash",
+            "What's your timeline? Some channels take longer",
+            "What's your LTV? High LTV supports expensive channels",
+            "Competition level? Avoid overly saturated channels",
+            "Example: High-ticket B2B = LinkedIn + outbound. Consumer product = Facebook ads + influencers"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Viral & Referral Growth",
+          "items": [
+            "Concept: Customers bring more customers organically",
+            "Viral coefficient: How many new customers does each customer bring?",
+            ">1.0 = viral growth: Each customer brings more than 1 new customer",
+            "Referral programs: Incentivize customers to refer (Dropbox: both get storage)",
+            "Product virality: Product itself encourages sharing (Zoom: free tier invites)",
+            "Social proof: Testimonials, case studies, reviews drive growth",
+            "Goal: Engineer referrals into product and customer experience"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Retention is growth: Acquiring new customers is 5-25x more expensive than retaining existing ones. Reducing churn by 5% can increase profits 25-95%. Before pouring money into acquisition, fix retention. Leaky bucket stays empty no matter how much you pour in."
+        },
+        {
+          "type": "list",
+          "title": "Growth Hacking Tactics",
+          "items": [
+            "Free tools: Create valuable free tools that attract target customers",
+            "Content upgrades: Gated valuable content to build email list",
+            "Webinars: Educational webinars that convert to customers",
+            "Partnerships: Cross-promote with complementary businesses",
+            "Community: Build community that provides value beyond product",
+            "PR stunts: Creative, newsworthy campaigns",
+            "API/integrations: Integrate with popular platforms for exposure"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Testing & Optimization",
+          "items": [
+            "A/B testing: Test everything (landing pages, ads, emails, pricing)",
+            "Conversion funnel: Optimize each step (acquisition → activation → revenue)",
+            "Analytics: Track metrics religiously (Google Analytics, Mixpanel)",
+            "Customer feedback: Talk to customers, understand friction points",
+            "Iteration speed: Fast testing beats perfect planning",
+            "Document learnings: Build institutional knowledge",
+            "Compound wins: Small improvements across funnel multiply impact"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the bullseye framework?",
+          "options": [
+            "Try every channel equally",
+            "Test top channels, find winner, double down on it",
+            "Only use one channel forever",
+            "Guess which channel works"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bullseye framework: brainstorm channels, test top 3-5, measure rigorously, find winner, pour resources into that. Master one before adding second."
+        },
+        {
+          "question": "What's more important before scaling acquisition?",
+          "options": [
+            "Hiring more salespeople",
+            "Fixing retention (leaky bucket stays empty)",
+            "Raising prices",
+            "Expanding product line"
+          ],
+          "correctIndex": 1,
+          "explanation": "Fix retention before scaling acquisition. Acquiring customers into leaky bucket wastes resources. Retention is 5-25x cheaper than acquisition."
+        }
+      ]
+    }
+  },
+  {
+    "id": "scaling-sustainably",
+    "title": "Scaling Sustainably",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Scaling can kill you. Many businesses don't fail from lack of growth—they fail from growing too fast without infrastructure to support it. Sustainable scaling means: profitable unit economics, systems in place, team that can handle growth, cash to fund growth, and mental/physical capacity to manage complexity. Slow and steady often beats blitzscaling."
+        },
+        {
+          "type": "list",
+          "title": "Scaling Readiness Checklist",
+          "items": [
+            "Profitable unit economics: LTV > 3x CAC, positive gross margins",
+            "Repeatable sales: Proven process for acquiring customers reliably",
+            "Product-market fit: Customers love product, low churn, organic referrals",
+            "Documented systems: SOPs for core operations",
+            "Team in place: People who can handle increased volume",
+            "Cash reserves: 6-12 months runway plus growth capital",
+            "Founder capacity: Mental, physical, emotional capacity for more complexity"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The scaling paradox: What got you here won't get you there. Founder-led sales works at $100K revenue but not $10M. Scrappy hustle works at 3 employees but not 30. You must constantly evolve: delegate what you did, hire for what you can't, build systems for repeatability, focus on strategy over tactics."
+        },
+        {
+          "type": "list",
+          "title": "Common Scaling Mistakes",
+          "items": [
+            "Scaling too early: Before product-market fit or unit economics work",
+            "Growing revenue, not profit: Bigger losses at higher volume",
+            "Hiring too fast: Culture dilution, coordination overhead",
+            "Losing focus: Trying to be everything to everyone",
+            "Founder bottleneck: Not delegating, staying in weeds",
+            "Ignoring culture: Values get lost as team grows",
+            "Forgetting customers: Obsessing over growth, neglecting experience"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Delegation Strategy",
+          "items": [
+            "Identify: What only you can do? Everything else should eventually be delegated",
+            "Document: Create SOPs before delegating",
+            "Hire: Find people better than you at specific tasks",
+            "Train: Invest time upfront in thorough training",
+            "Trust: Let go, allow mistakes, resist micromanaging",
+            "Review: Regular check-ins and feedback, not constant oversight",
+            "Elevate: As you delegate, move up to higher-level work"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The personal toll of scaling: Growth is stressful. More employees, more problems. More customers, more complexity. More revenue, more responsibility. Many founders burn out. Protect yourself: maintain health routines, therapy/coaching, peer support groups, boundaries between work and life. You can't pour from empty cup."
+        },
+        {
+          "type": "list",
+          "title": "Maintaining Company Culture",
+          "items": [
+            "Document values: Write down core values explicitly",
+            "Hire for fit: Culture fit weighted heavily in hiring",
+            "Communicate constantly: Over-communicate mission, values, wins",
+            "Rituals: Team meetings, celebrations, traditions",
+            "Lead by example: Founders embody values",
+            "Address violations: Swift action when values breached",
+            "Evolve thoughtfully: Culture evolves but core values stay constant"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Long-term Vision",
+          "items": [
+            "Exit planning: Bootstrap to lifestyle? Sell to strategic buyer? IPO?",
+            "Timeline: 5-10 year vision for business and your role",
+            "Lifestyle design: What life do you want? Does business support it?",
+            "Legacy: What do you want business to be known for?",
+            "Options: Build business that provides options (sell, keep, step back)",
+            "Enjoyment: Scaling should lead somewhere you want to be",
+            "Reality: It's okay to choose not to scale if that's not your goal"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Key Scaling Principles",
+          "items": [
+            "Profit first: Profitable growth beats unprofitable growth",
+            "Systems enable scaling: Can't scale chaos",
+            "Team is everything: Business ceiling is team capability",
+            "Focus wins: Dominate niche before expanding",
+            "Cash is king: Growth consumes cash; manage carefully",
+            "Sustainable pace: Marathon, not sprint",
+            "Your wellbeing: Protect it or business becomes prison"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "When should you scale?",
+          "options": [
+            "Immediately after launch",
+            "After achieving product-market fit, profitable unit economics, and systems",
+            "Never",
+            "When competitors scale"
+          ],
+          "correctIndex": 1,
+          "explanation": "Scale after: product-market fit, profitable unit economics, documented systems, team, cash reserves, and founder capacity. Scaling too early kills businesses."
+        },
+        {
+          "question": "What's the scaling paradox?",
+          "options": [
+            "Scaling is impossible",
+            "What got you here won't get you there - must constantly evolve",
+            "Scaling is easy",
+            "Never change anything"
+          ],
+          "correctIndex": 1,
+          "explanation": "Scaling paradox: what got you here won't get you there. Must evolve from founder doing everything to delegation, systems, and strategic focus."
+        }
+      ]
+    }
+  }
+]
