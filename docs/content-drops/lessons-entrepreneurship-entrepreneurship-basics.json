@@ -1,0 +1,488 @@
+[
+  {
+    "id": "entrepreneurship-fundamentals",
+    "title": "Entrepreneurship Fundamentals",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Entrepreneurship is building something valuable from nothing. It's not about having perfect idea or unlimited capital—it's about solving real problems for real people and getting paid for it. Most people overthink it. They wait for perfect moment, perfect idea, perfect conditions. Meanwhile, entrepreneurs with worse ideas but better execution are building successful businesses. Action beats perfection. Start before you're ready."
+        },
+        {
+          "type": "list",
+          "title": "What is Entrepreneurship",
+          "items": [
+            "Problem-solving: Identifying problems and creating solutions people pay for",
+            "Value creation: Building something customers value more than money they pay",
+            "Risk-taking: Accepting uncertainty in exchange for potential upside",
+            "Resource orchestration: Making much from little",
+            "Opportunity recognition: Seeing possibilities others miss",
+            "Execution: Turning ideas into reality",
+            "Not required: Perfect idea, MBA, tons of money, technical skills"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Employee vs. Entrepreneur mindset: Employees trade time for money (linear income). Entrepreneurs build assets that generate value (exponential potential). Employees seek security. Entrepreneurs create it. Employees avoid risk. Entrepreneurs manage it. Neither is better—they're different paths with different tradeoffs. Choose consciously."
+        },
+        {
+          "type": "list",
+          "title": "Types of Entrepreneurship",
+          "items": [
+            "Solopreneur: One-person business (coaching, freelancing, content)",
+            "Small business: Local, lifestyle business (restaurant, shop, services)",
+            "Scalable startup: High-growth potential (tech, SaaS)",
+            "Social enterprise: Mission-driven, profit + impact",
+            "Franchise: Buying proven business model",
+            "Acquisition: Buying and improving existing business",
+            "Start: Begin with what fits your goals, resources, and lifestyle"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Common Myths",
+          "items": [
+            "Myth: Need original idea (False: Most successful businesses improve existing solutions)",
+            "Myth: Need lots of money (False: Many started with <$1000)",
+            "Myth: Need to quit job (False: Start side hustle first)",
+            "Myth: Must be young (False: Average age 42 for successful founders)",
+            "Myth: Must be tech genius (False: Most businesses aren't tech)",
+            "Myth: It's glamorous (False: Mostly grinding, problem-solving, rejection)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The entrepreneurial equation: Success = (Problem × Solution × Execution) / Competition. Big problem, good solution, great execution, low competition = high success probability. Miss any element and odds drop dramatically. Most focus on solution. Smart entrepreneurs focus on problem and execution."
+        },
+        {
+          "type": "list",
+          "title": "Skills That Matter",
+          "items": [
+            "Selling: Getting customers to say yes",
+            "Marketing: Getting attention and trust",
+            "Problem-solving: Navigating obstacles",
+            "Learning: Acquiring skills as needed",
+            "Persistence: Continuing when it's hard",
+            "Financial literacy: Understanding numbers",
+            "Communication: Clear messaging",
+            "Good news: All learnable through practice"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the entrepreneurial equation?",
+          "options": [
+            "Money × Time",
+            "(Problem × Solution × Execution) / Competition",
+            "Idea × Luck",
+            "Capital × Network"
+          ],
+          "correctIndex": 1,
+          "explanation": "Success = (Problem × Solution × Execution) / Competition. All elements matter. Missing any dramatically reduces success probability."
+        },
+        {
+          "question": "What's the average age of successful founders?",
+          "options": [
+            "25",
+            "42",
+            "18",
+            "60"
+          ],
+          "correctIndex": 1,
+          "explanation": "Average age of successful founders is 42. Experience, network, and resources matter more than youth. You're not too old to start."
+        }
+      ]
+    }
+  },
+  {
+    "id": "business-models",
+    "title": "Business Models & Revenue Streams",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Business model is how you make money. It's not what you sell—it's HOW you sell it. Same product, different model = completely different business. Coffee shop vs. coffee subscription vs. coffee course. All coffee, different models, different economics. Understanding models before starting saves years of struggle. Wrong model with right product still fails."
+        },
+        {
+          "type": "list",
+          "title": "Common Business Models",
+          "items": [
+            "Direct sales: Sell product once (e-commerce, physical products)",
+            "Subscription: Recurring revenue (Netflix, SaaS, membership)",
+            "Freemium: Free basic, paid premium (Spotify, LinkedIn)",
+            "Marketplace: Connect buyers and sellers, take cut (Airbnb, Uber)",
+            "Advertising: Free service, monetize attention (Google, Facebook)",
+            "Licensing: Let others use your IP for fee",
+            "Service: Sell time and expertise (consulting, agency)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The subscription advantage: Predictable recurring revenue vs. constant customer acquisition. $100/month customer = $1,200 yearly. Ten customers = $12,000/year predictable. This transforms business from hustle to asset. Netflix, Spotify, SaaS—all subscription. It's powerful because it compounds: retain customers, revenue grows without proportional effort."
+        },
+        {
+          "type": "list",
+          "title": "Revenue Stream Types",
+          "items": [
+            "Transaction: One-time purchase per customer",
+            "Recurring: Subscription, membership, retainer",
+            "Usage-based: Pay per use (AWS, utilities)",
+            "Commission: Percentage of transaction (real estate, affiliates)",
+            "Licensing: Royalties on IP usage",
+            "Advertising: Sponsorships, ad revenue",
+            "Multiple streams: Best businesses have 2-3 revenue sources"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Evaluating Business Models",
+          "items": [
+            "Customer acquisition cost (CAC): How much to get customer?",
+            "Lifetime value (LTV): How much revenue per customer?",
+            "LTV:CAC ratio: Should be 3:1 or better",
+            "Margins: Profit per sale (higher = better)",
+            "Scalability: Can revenue grow without proportional costs?",
+            "Predictability: Can you forecast revenue?",
+            "Capital requirements: How much money needed upfront?"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Service vs. Product: Services trade time for money (doesn't scale but low startup cost). Products decouple time from money (scales but requires upfront work). Hybrid approach works well: Start with service (cash flow), build product with profits (scale). Example: Consulting → Course → SaaS."
+        },
+        {
+          "type": "list",
+          "title": "Choosing Your Model",
+          "items": [
+            "Market: What does target market prefer and can afford?",
+            "Competition: What models are competitors using successfully?",
+            "Resources: What can you realistically start with?",
+            "Goals: Quick cash vs. long-term asset?",
+            "Lifestyle: How much ongoing effort required?",
+            "Scalability: Do you want to scale massively or stay boutique?",
+            "Start simple: Can always add complexity later"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's a healthy LTV:CAC ratio?",
+          "options": [
+            "1:1",
+            "3:1 or better",
+            "1:3",
+            "Doesn't matter"
+          ],
+          "correctIndex": 1,
+          "explanation": "Healthy LTV:CAC ratio is 3:1 or better. Customer lifetime value should be at least 3x acquisition cost for sustainable, profitable growth."
+        },
+        {
+          "question": "What's the main advantage of subscription model?",
+          "options": [
+            "One-time sales",
+            "Predictable recurring revenue that compounds",
+            "Higher prices",
+            "Less work"
+          ],
+          "correctIndex": 1,
+          "explanation": "Subscription provides predictable recurring revenue that compounds. Retain customers, revenue grows without proportional effort. Transforms business to asset."
+        }
+      ]
+    }
+  },
+  {
+    "id": "starting-strategies",
+    "title": "Starting with Limited Resources",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Most successful businesses started with almost nothing. Apple in garage. Amazon in basement. Facebook in dorm. Capital is overrated. Resourcefulness beats resources. Limited money forces creativity, lean thinking, and customer focus. These constraints often lead to better businesses. The question isn't 'Do I have enough money?' It's 'How can I start with what I have?'"
+        },
+        {
+          "type": "list",
+          "title": "Lean Startup Principles",
+          "items": [
+            "Start small: Minimal viable version, not perfect version",
+            "Test quickly: Launch fast, learn from real customers",
+            "Iterate: Use feedback to improve continuously",
+            "Bootstrap: Self-fund with revenue, not outside capital",
+            "Customer-funded: Get customers to pay before building fully",
+            "Focus: Do one thing well before expanding",
+            "Scrappy: Use free/cheap tools, DIY what you can"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The side hustle approach: Keep job, start business on the side. This eliminates financial pressure, lets you test ideas with safety net, and provides capital to invest in growth. Once side hustle income exceeds job income (or hits target number), then consider full-time. This path is slower but much lower risk."
+        },
+        {
+          "type": "list",
+          "title": "Starting with $0-$1000",
+          "items": [
+            "Service business: Freelancing, consulting, coaching (sell time and skills)",
+            "Digital products: Ebooks, courses, templates (create once, sell repeatedly)",
+            "Content creation: YouTube, blog, podcast (monetize audience)",
+            "Reselling: Buy low, sell high (thrifting, arbitrage)",
+            "Dropshipping: Sell products without inventory",
+            "Affiliate marketing: Promote others' products for commission",
+            "Reality: Service fastest to revenue, product better long-term"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Free and Low-Cost Tools",
+          "items": [
+            "Website: Carrd, WordPress, Wix (free/cheap)",
+            "Email: Mailchimp free tier, Substack",
+            "Design: Canva free tier",
+            "Payments: Stripe, PayPal (free to start, fee per transaction)",
+            "Social media: Free marketing and distribution",
+            "Video calls: Zoom free tier, Google Meet",
+            "Project management: Notion, Trello free tiers",
+            "Start: Use free versions until revenue justifies paid"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Preselling strategy: Sell before you build. Create landing page describing product, take preorders/deposits, build only if enough interest. This validates idea, generates capital to build, and ensures you're building what customers actually want. No customers = idea failed fast and cheap."
+        },
+        {
+          "type": "list",
+          "title": "Time Investment",
+          "items": [
+            "Evenings: 2-3 hours after work (10-15 hours/week)",
+            "Weekends: 4-8 hours Saturday and Sunday",
+            "Morning: 1 hour before work if you're morning person",
+            "Lunch breaks: 30-60 minutes for tasks",
+            "Total: 15-25 hours weekly is realistic with full-time job",
+            "Sacrifice: Less TV, social media, leisure temporarily",
+            "Duration: 6-12 months to meaningful traction"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the preselling strategy?",
+          "options": [
+            "Discount products",
+            "Sell before you build to validate and fund development",
+            "Pre-launch marketing",
+            "Advance advertising"
+          ],
+          "correctIndex": 1,
+          "explanation": "Preselling: Sell before you build. Validates idea, generates capital, ensures building what customers want. No customers = failed fast and cheap."
+        },
+        {
+          "question": "What's a realistic time investment with full-time job?",
+          "options": [
+            "1 hour weekly",
+            "15-25 hours weekly",
+            "60 hours weekly",
+            "No time needed"
+          ],
+          "correctIndex": 1,
+          "explanation": "15-25 hours weekly is realistic with full-time job (evenings, weekends, mornings). Requires sacrifice but sustainable for 6-12 months to traction."
+        }
+      ]
+    }
+  },
+  {
+    "id": "mindset-psychology",
+    "title": "Entrepreneurial Mindset",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Entrepreneurship is 80% psychology, 20% strategy. Skills can be learned. Mindset determines whether you persist long enough to succeed. Most businesses fail not from bad idea or execution, but because founder quit too early. The mental game—handling rejection, uncertainty, setbacks, slow progress—separates those who succeed from those who don't."
+        },
+        {
+          "type": "list",
+          "title": "Growth vs. Fixed Mindset",
+          "items": [
+            "Fixed: 'I'm not good at sales' (abilities are fixed)",
+            "Growth: 'I'm not good at sales yet' (abilities develop through effort)",
+            "Fixed: Avoids challenges, fears failure, gives up easily",
+            "Growth: Embraces challenges, learns from failure, persists",
+            "Reality: All successful entrepreneurs have growth mindset",
+            "Development: Mindset is learnable, not innate",
+            "Practice: Add 'yet' to limiting beliefs"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Failure is feedback: Every 'no' gets you closer to 'yes.' Every failed attempt teaches what doesn't work. Edison didn't fail 1,000 times—he found 1,000 ways that don't work. Reframe failure from permanent defeat to temporary data. Most overnight successes took 5-10 years of 'failures.'"
+        },
+        {
+          "type": "list",
+          "title": "Handling Uncertainty",
+          "items": [
+            "Comfort with discomfort: Uncertainty is permanent in entrepreneurship",
+            "Bias toward action: Imperfect action beats perfect planning",
+            "Small bets: Test quickly with small investments",
+            "Reversible decisions: Most decisions are reversible",
+            "Information gathering: Get just enough info to decide, not complete certainty",
+            "Risk management: Mitigate risks, don't eliminate them",
+            "Accept: You'll never feel fully ready"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Rejection Resilience",
+          "items": [
+            "Expect rejection: Most pitches, applications, outreach get no/ignored",
+            "Numbers game: 100 nos to 10 maybes to 1 yes is normal",
+            "Not personal: They're rejecting offer, not you",
+            "Feedback opportunity: Ask why if appropriate",
+            "Quick recovery: Move to next prospect immediately",
+            "Desensitization: Exposure reduces sting",
+            "Practice: Seek rejection to build tolerance (rejection therapy)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The dip: Every business hits a dip—period where excitement fades, progress slows, doubts creep in. Most quit here. Winners push through. The dip separates dabblers from entrepreneurs. Knowing it's coming helps you prepare mentally. When it arrives, remember: this is normal, expected, temporary."
+        },
+        {
+          "type": "list",
+          "title": "Building Confidence",
+          "items": [
+            "Small wins: Start with achievable goals, build momentum",
+            "Skills: Confidence comes from competence—keep learning",
+            "Evidence: Track wins and progress",
+            "Support: Surround yourself with encouraging people",
+            "Self-talk: Monitor and adjust internal dialogue",
+            "Action: Confidence follows action, doesn't precede it",
+            "Remember: Every expert was once beginner"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What separates growth from fixed mindset?",
+          "options": [
+            "Intelligence level",
+            "Belief that abilities develop through effort vs. are fixed",
+            "Natural talent",
+            "Educational background"
+          ],
+          "correctIndex": 1,
+          "explanation": "Growth mindset: abilities develop through effort. Fixed mindset: abilities are fixed. Growth mindset is essential for entrepreneurship and learnable."
+        },
+        {
+          "question": "What's 'the dip'?",
+          "options": [
+            "Product feature",
+            "Period where excitement fades, progress slows, doubts creep in",
+            "Sales technique",
+            "Marketing strategy"
+          ],
+          "correctIndex": 1,
+          "explanation": "The dip: period where excitement fades, progress slows, doubts arise. Most quit here. Winners push through. Normal, expected, temporary."
+        }
+      ]
+    }
+  },
+  {
+    "id": "legal-basics",
+    "title": "Legal & Administrative Basics",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Legal structure matters but don't overthink it. Many wait months researching perfect structure before making first sale. Wrong approach. Make money first, formalize later. That said, understanding basics prevents costly mistakes. Knowing when and how to structure protects you and creates legitimacy. Get fundamentals right early."
+        },
+        {
+          "type": "list",
+          "title": "Business Structures",
+          "items": [
+            "Sole proprietorship: Simplest, you and business are one (default if you do nothing)",
+            "LLC: Separates personal and business liability (most common for small business)",
+            "S-Corp: Tax advantages once profitable, more complex",
+            "C-Corp: For raising venture capital, most complex",
+            "Partnership: Multiple owners, shared liability",
+            "Start: Sole prop initially, LLC when revenue hits $30-50K or liability concerns",
+            "Consult: Lawyer and accountant for your specific situation"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "LLC basics: Protects personal assets if business sued or goes into debt. Costs $50-500 to form (varies by state). Requires separate bank account and some paperwork. Worth it once you have meaningful revenue or risk. Don't need day one unless high-risk industry (consulting, services with liability)."
+        },
+        {
+          "type": "list",
+          "title": "Essential Administrative Setup",
+          "items": [
+            "Business name: Check availability, register if needed",
+            "EIN: Free tax ID from IRS (like SSN for business)",
+            "Bank account: Separate business account (even sole prop)",
+            "Accounting: Simple system to track income/expenses (even spreadsheet)",
+            "Contracts: Basic agreements for clients/customers",
+            "Insurance: General liability if applicable",
+            "Licenses: Check local requirements for your industry"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Tax Essentials",
+          "items": [
+            "Track everything: All income and expenses",
+            "Separate accounts: Personal and business separate",
+            "Quarterly estimates: Pay taxes quarterly if making profit",
+            "Deductions: Office, equipment, software, travel, education",
+            "Receipts: Keep all receipts digitally",
+            "Hire help: Accountant worth cost once revenue $50K+",
+            "Software: QuickBooks, FreshBooks, or Wave (free)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Common mistake: Mixing personal and business finances. Use separate accounts from day one. This simplifies taxes dramatically and looks professional. Open business checking account (many free options). Get business credit card once eligible. Clean separation saves headaches."
+        },
+        {
+          "type": "list",
+          "title": "Contracts and Agreements",
+          "items": [
+            "Terms of service: Website/service terms",
+            "Client contracts: Scope, payment, timeline",
+            "NDAs: If handling sensitive information",
+            "Operating agreement: For LLCs with partners",
+            "Vendor agreements: With suppliers/partners",
+            "Templates: Use templates initially (RocketLawyer, LegalZoom)",
+            "Lawyer review: Have lawyer review once revenue $100K+"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "When should you form an LLC?",
+          "options": [
+            "Before making first sale",
+            "When revenue hits $30-50K or have liability concerns",
+            "Never",
+            "After 5 years"
+          ],
+          "correctIndex": 1,
+          "explanation": "Form LLC when revenue hits $30-50K or have liability concerns. Don't need day one unless high-risk industry. Make money first, formalize later."
+        },
+        {
+          "question": "Why separate personal and business finances?",
+          "options": [
+            "Not necessary",
+            "Simplifies taxes, looks professional, protects legally",
+            "Banks require it",
+            "Only for large companies"
+          ],
+          "correctIndex": 1,
+          "explanation": "Separate accounts simplify taxes dramatically, look professional, and provide legal protection. Do from day one even as sole proprietor."
+        }
+      ]
+    }
+  }
+]
