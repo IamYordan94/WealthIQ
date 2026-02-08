@@ -1,0 +1,465 @@
+[
+  {
+    "id": "strategic-networking",
+    "title": "Strategic Networking",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Most jobs are filled through networks before they're publicly posted. Networking isn't schmoozing at forced events—it's building genuine relationships with people who can help your career and whom you can help in return. Strong networks provide opportunities, information, mentorship, and support. The best time to build your network is years before you need it."
+        },
+        {
+          "type": "list",
+          "title": "Why Networking Matters",
+          "items": [
+            "Hidden job market: 70-80% of jobs never posted publicly, filled through referrals",
+            "Internal referrals: 10x more likely to get interview, faster process, higher starting offers",
+            "Information access: Learn about opportunities, industry trends, company culture before applying",
+            "Mentorship: Connect with experienced professionals who accelerate your learning",
+            "Support system: People who understand your field's challenges and can provide advice"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Quality beats quantity in networking. A network of 50 strong relationships where people know you and your work beats 500 LinkedIn connections who don't remember meeting you. Focus on depth: regular contact, genuine help, building trust over time. These relationships compound—your network's network becomes accessible."
+        },
+        {
+          "type": "list",
+          "title": "Building Your Network",
+          "items": [
+            "Industry events: Conferences, meetups, workshops in your field",
+            "Alumni networks: College/university alumni associations, especially in target companies",
+            "Online communities: LinkedIn groups, Slack channels, Discord servers, Reddit for your industry",
+            "Professional associations: Industry-specific organizations with networking events",
+            "Coffee chats: Request 15-30 minute informational interviews with people doing work you admire",
+            "Volunteering: Join committees, speak at events, organize meetups in your field"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Effective Networking Behaviors",
+          "items": [
+            "Give before asking: Help others first without expectation of return",
+            "Follow up: Connect on LinkedIn within 24 hours, reference conversation specifics",
+            "Stay in touch: Message quarterly with relevant articles, congratulate on promotions, share opportunities",
+            "Be specific: 'Can I pick your brain?' is vague. 'Can I ask 3 questions about transitioning to PM?' is clear",
+            "Respect time: Honor commitment to 15-minute calls, arrive prepared with questions",
+            "Add value: Share your knowledge, make introductions, promote their work"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Weak ties often provide more value than strong ties. Your close friends know the same things you know. Acquaintances in different circles provide access to new information and opportunities. This is why expanding your network across industries, functions, and experience levels matters."
+        },
+        {
+          "type": "list",
+          "title": "Networking Mistakes",
+          "items": [
+            "Only networking when you need something: Relationships take time to build",
+            "Transactional mindset: Viewing people as tools rather than humans creates superficial connections",
+            "Not following up: Meeting someone once without follow-up wastes the opportunity",
+            "Talking too much about yourself: Listen more than you speak, ask questions",
+            "Spamming connection requests: Personalize every outreach with reason for connecting",
+            "Forgetting to nurture: Strong relationships require ongoing investment"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What percentage of jobs are filled through networks before public posting?",
+          "options": [
+            "20-30%",
+            "40-50%",
+            "70-80%",
+            "90-95%"
+          ],
+          "correctIndex": 2,
+          "explanation": "70-80% of jobs are filled through networks and referrals before ever being posted publicly, making networking crucial for career success."
+        },
+        {
+          "question": "What's more valuable in networking?",
+          "options": [
+            "Having 1,000+ LinkedIn connections",
+            "Having 50 strong relationships with depth",
+            "Attending every networking event",
+            "Collecting business cards"
+          ],
+          "correctIndex": 1,
+          "explanation": "Quality beats quantity. Deep relationships where people know and trust you provide more value than large numbers of superficial connections."
+        }
+      ]
+    }
+  },
+  {
+    "id": "linkedin-mastery",
+    "title": "LinkedIn Mastery",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "LinkedIn is the most powerful professional networking platform, with over 900 million users including recruiters actively searching for candidates. An optimized LinkedIn presence opens doors: recruiters find you, connections reach out with opportunities, your content builds authority. Treat your LinkedIn profile as your always-on professional storefront."
+        },
+        {
+          "type": "list",
+          "title": "Profile Optimization",
+          "items": [
+            "Photo: Professional headshot, smiling, appropriate attire, high quality (profiles with photos get 21x more views)",
+            "Headline: Not job title—value proposition with keywords (e.g., 'Product Manager | B2B SaaS | Helping teams build products customers love')",
+            "About: Tell your story in first person, highlight achievements, include keywords, clear call-to-action",
+            "Experience: Bullet points with quantified achievements, not responsibilities",
+            "Skills: Add 20+ relevant skills, get endorsed by connections",
+            "Featured section: Portfolio work, articles, presentations, certifications"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "LinkedIn's algorithm favors engagement. Posts with comments within first hour get exponentially more reach. The secret: post when your network is active (Tuesday-Thursday, 8-10am or 12-2pm), ask questions that prompt comments, respond to every comment within first hour. Consistency beats virality—2-3 quality posts weekly beats sporadic posting."
+        },
+        {
+          "type": "list",
+          "title": "Content Strategy",
+          "items": [
+            "Share insights: Lessons learned, industry observations, helpful frameworks",
+            "Tell stories: Career challenges, project experiences, failures and what you learned",
+            "Engage with others: Comment thoughtfully on posts in your industry (boosts your visibility)",
+            "Use hooks: First line must grab attention, most only see first 2 lines without clicking 'see more'",
+            "Add value: Teach something useful, don't just self-promote or share generic motivational quotes",
+            "Consistency: 2-3 posts per week, regular schedule"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Growing Your Network",
+          "items": [
+            "Connect strategically: People in your industry, role, city, alumni, colleagues",
+            "Personalize requests: Reference mutual connection, shared interest, or why you're connecting",
+            "Engage before requesting: Comment on their posts first, then connection feels natural",
+            "Second-degree connections: Explore connections of connections, ask for intros",
+            "Recruiters: Connect with recruiters in your industry even when not job searching",
+            "Target employees: Connect with people at companies you want to work for"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Recruiters use LinkedIn Recruiter to search for candidates by skills, location, and experience. Optimization for search means: complete profile (all sections filled), relevant keywords throughout profile, active engagement (algorithm favors active users), open to work (private signal to recruiters if employed)."
+        },
+        {
+          "type": "list",
+          "title": "LinkedIn Don'ts",
+          "items": [
+            "Don't mass connect without personalization",
+            "Don't immediately pitch when someone accepts connection",
+            "Don't overshare personal drama or controversial political views",
+            "Don't copy others' viral posts word-for-word (cringe and damages credibility)",
+            "Don't ghost people who message you—brief reply > no reply",
+            "Don't only post when job searching (signals desperation)"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What should your LinkedIn headline be?",
+          "options": [
+            "Your current job title",
+            "Value proposition with relevant keywords",
+            "Your name and company",
+            "A motivational quote"
+          ],
+          "correctIndex": 1,
+          "explanation": "Headlines should communicate your value and include keywords, not just job titles. This helps you appear in searches and attract opportunities."
+        },
+        {
+          "question": "How often should you post on LinkedIn?",
+          "options": [
+            "Daily",
+            "2-3 times per week consistently",
+            "Only when job searching",
+            "Once per month"
+          ],
+          "correctIndex": 1,
+          "explanation": "Consistent posting 2-3 times weekly builds visibility and authority better than sporadic posting or only posting when desperate for a job."
+        }
+      ]
+    }
+  },
+  {
+    "id": "mentorship-sponsorship",
+    "title": "Finding Mentors & Sponsors",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Mentors give advice. Sponsors advocate for you when you're not in the room. Both accelerate careers, but sponsors have disproportionate impact on advancement to senior roles. Most people seek mentors; few understand how to find sponsors. The difference: mentors like you and help you grow; sponsors have power and use it to open doors for you."
+        },
+        {
+          "type": "list",
+          "title": "Mentor vs Sponsor",
+          "items": [
+            "Mentor: Provides advice, shares experience, helps you develop skills, outside your direct reporting line often",
+            "Sponsor: Advocates for you, nominates you for opportunities, puts their reputation on line for you",
+            "Mentor: Relationship you can ask for directly",
+            "Sponsor: Relationship earned through demonstrated performance, not asked for directly",
+            "Mentor: Anyone more experienced who's willing to help",
+            "Sponsor: Senior leader with influence and decision-making power"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Finding mentors: reach out to people 5-10 years ahead on path you want. Ask for 15-30 minute informational interview, not 'Will you be my mentor?' Build relationship over time. Most people happy to help if you're respectful of their time, come prepared, and implement advice they give."
+        },
+        {
+          "type": "list",
+          "title": "How to Find Mentors",
+          "items": [
+            "Internal: More experienced colleagues in different departments, former managers, senior ICs",
+            "External: LinkedIn connections, alumni network, industry events, online communities",
+            "Approach: 'I admire your work in X. Could I ask 3 questions about your path to Y?'",
+            "Make it easy: Propose specific time, come with prepared questions, respect time limits",
+            "Follow up: Implement advice, update them on progress, express gratitude",
+            "Multiple mentors: Different mentors for different aspects (technical skills, leadership, work-life balance)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Earning Sponsorship",
+          "items": [
+            "Deliver exceptional results: Sponsors risk reputation by advocating for you, need proof of excellence",
+            "Visibility: Senior leaders can't sponsor people they don't know exist",
+            "Make them look good: When they give you opportunities, exceed expectations",
+            "Align with their priorities: Work on projects they care about and make strategic impact",
+            "Express ambition: Let potential sponsors know your career goals so they can advocate effectively",
+            "Don't ask directly: Focus on performance and relationship, sponsorship emerges organically"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Research shows women and minorities receive more mentorship but less sponsorship than majority-group males, contributing to advancement gaps. If you belong to underrepresented groups, actively seek sponsors. Find senior leaders committed to diversity who will advocate for you in rooms where decisions happen."
+        },
+        {
+          "type": "list",
+          "title": "Mentor/Sponsor Relationships",
+          "items": [
+            "Respect time: Honor commitments, cancel with notice if needed, don't overstay meetings",
+            "Come prepared: Always have questions ready, specific challenges to discuss",
+            "Take action: Implement advice, report back on results",
+            "Give back: Share your expertise, make introductions, promote their work",
+            "Maintain contact: Check in quarterly even when not needing advice",
+            "Pay it forward: As you advance, mentor others behind you"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the main difference between a mentor and sponsor?",
+          "options": [
+            "Mentors are external, sponsors are internal",
+            "Mentors give advice, sponsors advocate for you with their influence",
+            "Sponsors are paid, mentors are free",
+            "There is no difference"
+          ],
+          "correctIndex": 1,
+          "explanation": "Mentors provide advice and guidance. Sponsors use their power and influence to actively advocate for your advancement and open doors."
+        },
+        {
+          "question": "How do you ask someone to be your mentor?",
+          "options": [
+            "Directly ask 'Will you be my mentor?'",
+            "Request informational interview, build relationship over time",
+            "Send a LinkedIn connection request",
+            "Wait for them to offer"
+          ],
+          "correctIndex": 1,
+          "explanation": "Don't ask directly. Request brief informational interviews, implement advice, follow up, and let mentorship relationship develop naturally over time."
+        }
+      ]
+    }
+  },
+  {
+    "id": "professional-relationships",
+    "title": "Building Professional Relationships",
+    "duration": "7 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Professional relationships are the foundation of career success. Your skills might get you in the door, but relationships determine how far you go. People hire, promote, and work with those they know and trust. Strong professional relationships make work more enjoyable, provide support during challenges, and create opportunities throughout your career."
+        },
+        {
+          "type": "list",
+          "title": "Building Trust at Work",
+          "items": [
+            "Reliability: Do what you say you'll do, when you say you'll do it, consistently",
+            "Communication: Keep stakeholders informed, respond promptly, be transparent about challenges",
+            "Competence: Deliver quality work, admit when you don't know something, seek help appropriately",
+            "Integrity: Tell truth even when uncomfortable, admit mistakes quickly, give credit generously",
+            "Consistency: Same person every day, predictable quality, stable demeanor under pressure"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Emotional intelligence matters more than technical skills for career advancement. EQ includes self-awareness, self-regulation, empathy, and social skills. You can learn brilliant technical skills and still hit a career ceiling if you can't navigate relationships, read social situations, or work effectively with diverse personalities."
+        },
+        {
+          "type": "list",
+          "title": "Key Relationship Skills",
+          "items": [
+            "Active listening: Focus completely, ask clarifying questions, summarize understanding",
+            "Empathy: Understand others' perspectives even when different from yours",
+            "Conflict resolution: Address disagreements directly and professionally, focus on solutions",
+            "Giving feedback: Specific, actionable, timely, delivered with respect",
+            "Receiving feedback: Listen without defensiveness, ask questions, thank giver, implement improvements",
+            "Political awareness: Understand power dynamics, who influences what, organizational culture"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Managing Up",
+          "items": [
+            "Understand boss's priorities: What are they measured on? What keeps them up at night?",
+            "Communicate proactively: Don't wait for them to ask, provide updates regularly",
+            "Bring solutions: Present problems with 2-3 potential solutions, not just problems",
+            "Make them successful: Help them achieve their goals, make them look good to their boss",
+            "Adapt to their style: Some want details, others want summaries. Some prefer email, others prefer calls",
+            "Advocate appropriately: Make your work and achievements visible without bragging"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Manage peer relationships carefully—today's peer might be tomorrow's boss or key connection at another company. Collaborate generously, share credit, help colleagues succeed. Avoid gossip, office politics drama, and burning bridges. Industries are smaller than they appear; reputations follow you."
+        },
+        {
+          "type": "list",
+          "title": "Relationship Mistakes",
+          "items": [
+            "Only networking up: Build relationships at all levels—peers and juniors matter too",
+            "Transactional relationships: Viewing people as stepping stones creates shallow connections",
+            "Poor boundaries: Being too personal too fast or maintaining zero personal connection",
+            "Burning bridges: Leaving jobs poorly, badmouthing colleagues, ghosting contacts",
+            "Taking credit: Claiming others' work damages trust permanently",
+            "Gossip participation: Even listening damages your reputation"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What matters more than technical skills for career advancement?",
+          "options": [
+            "College degree",
+            "Years of experience",
+            "Emotional intelligence and relationship skills",
+            "Working long hours"
+          ],
+          "correctIndex": 2,
+          "explanation": "While technical skills get you in the door, emotional intelligence and relationship skills largely determine advancement to leadership roles."
+        },
+        {
+          "question": "What is managing up?",
+          "options": [
+            "Manipulating your boss",
+            "Understanding boss's priorities and helping them succeed",
+            "Working extra hours",
+            "Avoiding your manager"
+          ],
+          "correctIndex": 1,
+          "explanation": "Managing up means understanding your boss's priorities, communicating proactively, and helping them achieve their goals—a key professional skill."
+        }
+      ]
+    }
+  },
+  {
+    "id": "maintaining-network",
+    "title": "Maintaining Your Network",
+    "duration": "7 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Building a network is easy. Maintaining it is where most people fail. Strong networks require ongoing nurturing—staying in touch, providing value, and genuinely caring about people beyond what they can do for you. The best networkers maintain relationships during good times, so those relationships are available during difficult times."
+        },
+        {
+          "type": "list",
+          "title": "Network Maintenance System",
+          "items": [
+            "Categorize contacts: A-list (quarterly touch), B-list (semi-annual), C-list (annual), by importance to career",
+            "Set reminders: Calendar quarterly reminders to reach out to A-list contacts",
+            "Provide value first: Share relevant article, make intro, congratulate on achievement before asking anything",
+            "Personalize outreach: Reference previous conversations, their current projects, mutual interests",
+            "Low-effort touchpoints: LinkedIn reactions, brief comments, forwarding relevant content",
+            "High-value touchpoints: Coffee chats, introducing them to helpful contacts, promoting their work"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The best time to nurture your network is when you don't need anything. If you only reach out when job searching, people notice the transactional pattern. Regular contact when you're employed makes people happy to help when you do need something."
+        },
+        {
+          "type": "list",
+          "title": "Ways to Add Value",
+          "items": [
+            "Make introductions: Connect people who could help each other",
+            "Share opportunities: Forward job postings, speaking opportunities, relevant projects",
+            "Amplify their work: Like, comment, share their posts and content",
+            "Provide expertise: Offer help in your area of expertise when relevant",
+            "Send relevant content: Articles, research, tools they'd find useful",
+            "Celebrate wins: Congratulate promotions, new jobs, achievements"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Reconnecting with Dormant Ties",
+          "items": [
+            "Acknowledge time gap: 'It's been a while since we connected...'",
+            "Reference past: Mention previous work together or mutual experience",
+            "Share what you're doing: Brief update on your current role and projects",
+            "Express interest: Ask about their current work and goals",
+            "Offer value: Share something useful without expectation of return",
+            "Suggest next step: 'Would love to catch up over coffee/call if you're open'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Quality maintenance matters more than quantity. Maintaining 50 strong relationships beats having 500 connections you never speak to. Focus your effort on relationships that are mutual, positive, and aligned with your career direction."
+        },
+        {
+          "type": "list",
+          "title": "Network Maintenance Mistakes",
+          "items": [
+            "Only reaching out when needing help (purely transactional)",
+            "Generic mass messages (everyone knows it's copy-paste)",
+            "Never following through on promises to help",
+            "Forgetting to thank people who help you",
+            "Not updating network on your wins and changes",
+            "Letting strong relationships die through neglect"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "When is the best time to nurture your network?",
+          "options": [
+            "Only when you need a job",
+            "When you don't need anything and are employed",
+            "Once per year",
+            "Never, just connect once"
+          ],
+          "correctIndex": 1,
+          "explanation": "Regular network maintenance when you don't need anything builds genuine relationships. People are more willing to help those who stay in touch consistently."
+        },
+        {
+          "question": "How often should you contact A-list network connections?",
+          "options": [
+            "Weekly",
+            "Monthly",
+            "Quarterly",
+            "Annually"
+          ],
+          "correctIndex": 2,
+          "explanation": "Quarterly touchpoints with your most important connections maintain strong relationships without being overwhelming or seeming desperate."
+        }
+      ]
+    }
+  }
+]

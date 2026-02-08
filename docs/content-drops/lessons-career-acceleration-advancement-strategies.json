@@ -1,0 +1,547 @@
+[
+  {
+    "id": "promotion-strategies",
+    "title": "Getting Promoted",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Promotions rarely happen through hard work alone. You need strategy: understanding promotion criteria, building visibility, cultivating advocates, and demonstrating readiness for the next level before you get there. Many people work hard for years without advancing because they don't understand the game. Master these principles and you'll accelerate past equally talented peers."
+        },
+        {
+          "type": "list",
+          "title": "How Promotions Actually Work",
+          "items": [
+            "Perception matters: Demonstrating impact matters more than just doing good work",
+            "Politics exist: Promotions require advocates in decision-making rooms",
+            "Timing: Budget cycles, reorganizations, your boss's goals all affect timing",
+            "Level up first: Perform at next level for 6-12 months before getting promoted",
+            "Visibility: Decision-makers must know who you are and what you've accomplished",
+            "Organizational needs: Promotions happen when company needs that role, not just because you deserve it"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Understand criteria for your target level. Get job description for next level, identify gaps between current performance and requirements, systematically close those gaps. Ask manager directly: 'What specific things do I need to demonstrate to be promoted to [level]? What does success look like?'"
+        },
+        {
+          "type": "list",
+          "title": "Building Your Promotion Case",
+          "items": [
+            "Document wins: Keep running list of achievements with metrics and impact",
+            "Exceed expectations: Consistently deliver beyond your current level's requirements",
+            "Take on stretch projects: Volunteer for work typically done at next level",
+            "Build visibility: Present at meetings, share insights, contribute to high-profile projects",
+            "Cultivate sponsors: Build relationships with senior leaders who advocate for you",
+            "Communicate progress: Regularly update manager on wins, don't wait for annual review"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Making Your Case",
+          "items": [
+            "Timing: Initiate discussion 3-6 months before review cycle",
+            "Evidence: Present documented achievements, quantified impact, testimonials",
+            "Comparison: Show how you meet or exceed next level expectations",
+            "Business case: Frame promotion as good for company, not just what you deserve",
+            "Ask directly: 'Based on my performance, I'd like to be considered for promotion to [level]. What are next steps?'",
+            "Follow up: Get clear timeline, milestones, and continue building case"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "If denied, don't accept vague feedback. Push for specific: 'What exactly would I need to demonstrate over the next 6 months to earn promotion?' Get clarity on whether path exists or if you need to look elsewhere. Sometimes the honest answer is changing companies, especially if you're at ceiling."
+        },
+        {
+          "type": "list",
+          "title": "Promotion Mistakes",
+          "items": [
+            "Waiting to be noticed: Assuming good work alone gets promoted",
+            "No documented impact: Can't remember achievements when promotion discussion happens",
+            "Surprising your manager: Manager should know you want promotion months before review",
+            "Only talking at review time: Build case continuously, not just at annual review",
+            "Emotional arguments: 'I deserve it' or 'I work hard' don't persuade, metrics do",
+            "Staying too long: Some companies have slow promotion tracks, might advance faster elsewhere"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "When to Job Hop for Promotion",
+          "items": [
+            "Company ceiling: No path to level you want at current company",
+            "Slow promotion: Company promotes slowly, you'd advance faster elsewhere",
+            "Skill plateau: Not learning anymore, need new challenges",
+            "Comp gap: Underpaid compared to market, internal raises can't close gap",
+            "Culture misalignment: Values mismatch, toxic environment, no fix in sight",
+            "Timing: Generally wait 2-3 years, but exceptions exist for above reasons"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "When should you perform at the next level?",
+          "options": [
+            "Only after getting promoted",
+            "6-12 months before promotion to demonstrate readiness",
+            "Never, just do your current job",
+            "Only if you're guaranteed promotion"
+          ],
+          "correctIndex": 1,
+          "explanation": "Perform at next level for 6-12 months before promotion to demonstrate readiness. Organizations promote people already doing the work."
+        },
+        {
+          "question": "What's essential for promotions beyond good work?",
+          "options": [
+            "Nothing else matters",
+            "Visibility with decision-makers and advocates in promotion rooms",
+            "Being best friends with boss",
+            "Working longest hours"
+          ],
+          "correctIndex": 1,
+          "explanation": "Good work is necessary but insufficient. You need visibility with decision-makers and advocates who champion you in promotion discussions."
+        }
+      ]
+    }
+  },
+  {
+    "id": "career-pivots",
+    "title": "Making Career Pivots",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Career pivots—changing roles, industries, or functions—feel risky but are increasingly common and often necessary. The average person changes careers 5-7 times over their working life. Strategic pivots leverage transferable skills to enter new fields without starting from scratch. Understanding how to pivot effectively turns scary transitions into opportunities."
+        },
+        {
+          "type": "list",
+          "title": "Types of Career Pivots",
+          "items": [
+            "Functional: Same industry, different role (engineer to product manager)",
+            "Industry: Same role, different industry (healthcare marketer to tech marketer)",
+            "Double pivot: Different role AND industry (most difficult, avoid if possible)",
+            "Level: Step back in level to enter new field (sometimes strategic)",
+            "Entrepreneurship: Employee to founder/freelancer",
+            "Gradual: Side projects build skills for eventual transition"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Successful pivots emphasize transferable skills. Don't position yourself as beginner in new field—highlight relevant experience. Marketing to product management? Emphasize customer insights, data analysis, strategic thinking. Engineer to founder? Emphasize problem-solving, building under constraints, technical advantage."
+        },
+        {
+          "type": "list",
+          "title": "Planning Your Pivot",
+          "items": [
+            "Research target field: Job descriptions, salary ranges, required skills, typical paths",
+            "Identify transferable skills: What you're good at that applies to new field",
+            "Fill skill gaps: Courses, side projects, volunteering to build missing capabilities",
+            "Build bridge: Projects that combine current and target skills",
+            "Network in target field: Informational interviews, industry events, online communities",
+            "Financial runway: Save 6-12 months expenses if pivot includes income reduction"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Executing the Pivot",
+          "items": [
+            "Internal first: Easier to pivot within company than externally",
+            "Side projects: Build portfolio demonstrating capabilities in target field",
+            "Transitional roles: Find roles that bridge current and target (hybrid positions)",
+            "Education strategically: Bootcamps, courses if they provide credibility and skills",
+            "Leverage network: Former colleagues, alumni in target industry",
+            "Tell your story: Craft narrative explaining pivot logically, not as random change"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The pivot story matters. Don't say 'I'm tired of X and want to try Y.' Frame as strategic: 'My experience in X developed skills in A, B, C which are directly applicable to Y, and I'm excited by Z opportunity in the field.' Make pivot seem natural evolution, not random jump."
+        },
+        {
+          "type": "list",
+          "title": "Pivot Mistakes",
+          "items": [
+            "No preparation: Pivoting without building any relevant skills or knowledge",
+            "Presenting as beginner: Emphasize transferable expertise, not starting from zero",
+            "Double pivot: Changing role AND industry simultaneously (very difficult)",
+            "Ignoring finances: Pivoting without savings for potential income reduction",
+            "No network: Trying to pivot without knowing anyone in target field",
+            "Unclear story: Can't explain why pivot makes sense",
+            "Burning bridges: Leaving poorly damages reputation and references"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "When to Pivot vs Stay",
+          "items": [
+            "Pivot if: Miserable, skills not valued, industry declining, better fit elsewhere",
+            "Stay if: Just bored (could be role issue), haven't given it real chance (< 2 years), grass-is-greener thinking",
+            "Consider: Pivoting internally often easier than external pivot",
+            "Reality: Some pivots require starting income lower, consider if worthwhile",
+            "Timing: Economic downturns harder for pivots, boom times easier"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the most successful type of career pivot?",
+          "options": [
+            "Changing both role and industry simultaneously",
+            "Changing role OR industry while keeping other constant",
+            "Staying in exact same role forever",
+            "Random jumps every 6 months"
+          ],
+          "correctIndex": 1,
+          "explanation": "Single pivots (changing role OR industry) are more successful than double pivots. Keep one constant while changing the other."
+        },
+        {
+          "question": "How should you frame a career pivot?",
+          "options": [
+            "As trying something completely different",
+            "As strategic evolution leveraging transferable skills",
+            "As being bored with previous work",
+            "As a random experiment"
+          ],
+          "correctIndex": 1,
+          "explanation": "Frame pivots as strategic evolution where your existing skills transfer. Make it seem like natural progression, not random change."
+        }
+      ]
+    }
+  },
+  {
+    "id": "entrepreneurship-freelancing",
+    "title": "Entrepreneurship & Freelancing",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Entrepreneurship and freelancing offer autonomy, unlimited income potential, and ability to work on what you want. They also bring uncertainty, financial risk, and responsibility for everything. Not everyone should be entrepreneur, but understanding these paths helps you make informed decisions about your career direction and leverage points."
+        },
+        {
+          "type": "list",
+          "title": "Employee vs Entrepreneur",
+          "items": [
+            "Employee: Stable income, benefits, defined hours, limited upside, working on others' vision",
+            "Entrepreneur: Variable income, no benefits initially, unlimited hours, unlimited upside, your vision",
+            "Reality: Most wealthy people are entrepreneurs, but most entrepreneurs fail",
+            "Risk tolerance: Entrepreneurship requires comfort with uncertainty and potential failure",
+            "Skills: Entrepreneurs need sales, marketing, finance, operations—not just domain expertise"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Freelancing is entrepreneurship-lite: trading time for money but with more control. Good stepping stone to understand client acquisition, pricing, self-management before full entrepreneurship. Many successful businesses started as freelancing that scaled through systems, hiring, or productization."
+        },
+        {
+          "type": "list",
+          "title": "Types of Entrepreneurship",
+          "items": [
+            "Freelancing: Selling your time and expertise (consulting, contracting)",
+            "Service business: Building team to deliver services (agency, professional services)",
+            "Product business: Creating products that scale (SaaS, apps, physical products)",
+            "Content/info products: Courses, books, memberships sharing knowledge",
+            "Investment: Using capital to build wealth (real estate, stocks, businesses)",
+            "Hybrid: Maintaining employment while building side business"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Starting While Employed",
+          "items": [
+            "Side project: Nights/weekends building while keeping job security",
+            "Validate market: Prove concept works before quitting stable income",
+            "Build runway: Save 12-24 months expenses before going full-time",
+            "Check contracts: Ensure no IP or non-compete clauses preventing side business",
+            "Test commitment: See if you actually enjoy entrepreneurship before betting everything",
+            "Grow revenue: Leave job when side income reaches 75%+ of salary"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Most successful entrepreneurs don't quit jobs to start businesses—they start businesses while employed, validate them, then transition. This reduces risk and provides cash flow during building phase. Don't romanticize the leap; de-risk it."
+        },
+        {
+          "type": "list",
+          "title": "Entrepreneurship Realities",
+          "items": [
+            "It's harder than it looks: 90% of startups fail, most businesses struggle",
+            "Income variability: Months with $0, months with $50k, no consistency early",
+            "Wearing all hats: You're CEO, janitor, salesperson, accountant, marketer",
+            "No safety net: No paid time off, no health insurance (until you succeed), no backup",
+            "Relationships strain: Long hours, financial stress, preoccupation affects personal life",
+            "You need sales: Best product doesn't win if you can't sell it"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Should You Become Entrepreneur?",
+          "items": [
+            "Yes if: High risk tolerance, self-motivated, resilient, hate taking orders, have viable idea validated",
+            "No if: Need stability, struggle with ambiguity, poor with money, no business skills or willingness to learn",
+            "Maybe: Try freelancing or side project first, test waters before full commitment",
+            "Alternative: Work at startups to get exposure without full entrepreneurship risk",
+            "Reality: Most happiness research shows employees aren't less happy than entrepreneurs"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "If You Do It",
+          "items": [
+            "Start small: Side project, freelancing, small bets before big leaps",
+            "Validate first: Paying customers before building full product",
+            "Save runway: 12-24 months expenses minimum",
+            "Learn business: Sales, marketing, finance, operations—not just domain skill",
+            "Build network: Advisors, mentors, peer entrepreneurs for support",
+            "Set shutdown criteria: Know when to cut losses vs persist"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the best way to start a business?",
+          "options": [
+            "Quit job immediately and leap",
+            "Build and validate while employed, transition when viable",
+            "Get MBA first",
+            "Wait for perfect idea"
+          ],
+          "correctIndex": 1,
+          "explanation": "Most successful entrepreneurs start while employed, validate their business, build revenue, then transition when income supports them."
+        },
+        {
+          "question": "What's the failure rate of startups?",
+          "options": [
+            "10%",
+            "30%",
+            "50%",
+            "90%"
+          ],
+          "correctIndex": 3,
+          "explanation": "Approximately 90% of startups fail. Understanding this reality helps you approach entrepreneurship with appropriate caution and preparation."
+        }
+      ]
+    }
+  },
+  {
+    "id": "leadership-development",
+    "title": "Developing Leadership Skills",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Leadership isn't just for managers. Leadership is influence—the ability to move others toward goals. Individual contributors lead through expertise, initiative, and collaboration. Formal leaders lead through position and authority. Both matter for career advancement. The higher you climb, the more leadership matters relative to technical skills."
+        },
+        {
+          "type": "list",
+          "title": "Core Leadership Skills",
+          "items": [
+            "Vision: Seeing where to go and articulating it compellingly",
+            "Communication: Conveying ideas clearly, listening actively, adapting to audience",
+            "Decision-making: Choosing under uncertainty, taking responsibility for outcomes",
+            "Delegation: Empowering others, letting go of control, developing team",
+            "Emotional intelligence: Self-awareness, empathy, managing relationships",
+            "Resilience: Staying steady under pressure, recovering from setbacks"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Leadership is learned, not innate. Everyone has leadership potential with deliberate development. Most leadership skills come from experience—seeking opportunities to lead (projects, initiatives, teams), reflecting on what worked and didn't, and iterating approach."
+        },
+        {
+          "type": "list",
+          "title": "Building Leadership Experience",
+          "items": [
+            "Lead without authority: Influence peers on cross-functional projects",
+            "Mentor junior colleagues: Develops communication, empathy, coaching skills",
+            "Own projects: Take full responsibility for outcomes, coordinate resources",
+            "Volunteer leadership: Professional associations, community groups, committees",
+            "Seek feedback: Ask team for input on your leadership effectiveness",
+            "Study great leaders: Read biographies, observe leaders you respect, learn their approaches"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Leadership vs Management",
+          "items": [
+            "Leadership: Setting direction, inspiring others, driving change",
+            "Management: Planning, organizing, coordinating, controlling execution",
+            "Both needed: Great leaders without management create chaos; great managers without leadership maintain status quo",
+            "Development: You can develop leadership before getting management role",
+            "Career: Individual contributors need leadership skills; managers need both"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Common misconception: leadership = extroversion and charisma. Introverts make excellent leaders through thoughtful decision-making, deep listening, and authentic connection. Leadership styles vary—find authentic approach that works for your personality rather than imitating others."
+        },
+        {
+          "type": "list",
+          "title": "Leadership Mistakes",
+          "items": [
+            "Micromanaging: Not trusting team, controlling every detail, preventing growth",
+            "Poor communication: Assuming others understand without clear articulation",
+            "Avoiding conflict: Letting problems fester rather than addressing directly",
+            "Taking all credit: Not recognizing team contributions damages trust",
+            "Refusing to delegate: Trying to do everything yourself limits scale",
+            "Not developing others: Hoarding knowledge rather than building team capability"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Continuous Leadership Development",
+          "items": [
+            "Read widely: Leadership books, biographies, case studies",
+            "Seek mentors: Learn from leaders you respect and admire",
+            "Get coaching: Professional coaching accelerates leadership development",
+            "Reflect regularly: What's working? What isn't? Why?",
+            "Practice deliberately: Focus on specific leadership skills, get feedback",
+            "Learn from failures: Biggest leadership lessons come from mistakes"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Can you develop leadership skills before becoming a manager?",
+          "options": [
+            "No, you need formal authority",
+            "Yes, through leading projects and influencing without authority",
+            "Only if naturally charismatic",
+            "Only through formal training"
+          ],
+          "correctIndex": 1,
+          "explanation": "Leadership skills can and should be developed before formal management roles through leading projects, mentoring, and influencing without authority."
+        },
+        {
+          "question": "What's the difference between leadership and management?",
+          "options": [
+            "They're the same thing",
+            "Leadership is setting direction and inspiring; management is planning and execution",
+            "Leadership is for executives only",
+            "Management is more important"
+          ],
+          "correctIndex": 1,
+          "explanation": "Leadership is about vision and inspiration; management is about planning and execution. Great careers need both sets of skills."
+        }
+      ]
+    }
+  },
+  {
+    "id": "long-term-career-success",
+    "title": "Long-Term Career Success",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Career success is a marathon, not a sprint. What matters in year 1 differs from year 10 or year 30. Long-term success requires balancing short-term wins with long-term positioning, maintaining health and relationships alongside ambition, and continuously adapting to changing circumstances. The goal isn't just climbing ladders—it's building a career that's sustainable, fulfilling, and impactful."
+        },
+        {
+          "type": "list",
+          "title": "Long-Term Success Principles",
+          "items": [
+            "Play long games: Build reputation, relationships, skills that compound over decades",
+            "Maintain health: Career means nothing if you destroy your health achieving it",
+            "Protect relationships: Family and friends matter more than any promotion",
+            "Build optionality: Create choices so you're never trapped in bad situations",
+            "Stay adaptable: Industries change, be ready to evolve with them",
+            "Define success yourself: Don't let others' definitions dictate your path"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Your definition of success will evolve. Early career, rapid growth and learning matter most. Mid-career, impact and compensation. Late career, meaning and legacy. There's no one definition of success—it's personal and changes with life stage. Regularly reassess whether you're pursuing what actually matters to you now."
+        },
+        {
+          "type": "list",
+          "title": "Career Phases Strategy",
+          "items": [
+            "Years 0-5: Learn aggressively, build foundational skills, take risks, optimize for growth",
+            "Years 5-15: Specialize deeply, build reputation, earn well, establish expertise",
+            "Years 15-25: Lead, mentor, leverage experience, make impact at scale",
+            "Years 25+: Share knowledge, build legacy, focus on meaning, consider encore careers",
+            "Throughout: Maintain health, relationships, financial security"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Avoiding Burnout",
+          "items": [
+            "Set boundaries: Work expands to fill available time, create limits",
+            "Take vacations: Actually disconnect, guilt-free time off recharges you",
+            "Maintain hobbies: Identity outside work prevents unhealthy obsession",
+            "Physical health: Exercise, sleep, nutrition aren't optional for sustainable performance",
+            "Relationships: Prioritize people who matter, success is hollow without them",
+            "Know warning signs: Cynicism, exhaustion, reduced performance signal approaching burnout"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Build career on your own terms. Don't follow default scripts (college → corporate → executive → retire). Question assumptions: Must you work 60-hour weeks? Must you climb every rung? Must you work until 65? Design career intentionally around your values, not societal expectations."
+        },
+        {
+          "type": "list",
+          "title": "Building Sustainable Success",
+          "items": [
+            "Financial independence: Save aggressively early, builds options later",
+            "Strong network: Relationships compound, provide opportunities across decades",
+            "Deep expertise: Being genuinely excellent at something valuable",
+            "Generosity: Helping others creates goodwill that returns multiplied",
+            "Reputation: Integrity and excellence over decades builds unshakeable credibility",
+            "Continuous learning: Never stop developing, staying curious, growing"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Common Career Regrets (Avoid These)",
+          "items": [
+            "Working too much: Sacrificing health and relationships for marginal career gains",
+            "Following money only: Ending up wealthy but unfulfilled",
+            "Not taking risks: Playing it safe and wondering 'what if' for decades",
+            "Staying too long: Remaining in wrong role/company out of comfort or fear",
+            "Ignoring values: Building career misaligned with what actually matters to you",
+            "Not enjoying journey: Deferring happiness until some future achievement"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Your Career Success Framework",
+          "items": [
+            "Define success personally: What does success actually mean to you?",
+            "Set long-term vision: Where do you want to be in 10-20 years?",
+            "Reverse engineer path: What steps get you there from here?",
+            "Balance short and long: Make choices that work now and position you well later",
+            "Review regularly: Quarterly career check-ins to assess and adjust",
+            "Stay flexible: Life changes, be ready to adapt your definition and path"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What should you optimize for in early career (0-5 years)?",
+          "options": [
+            "Highest salary possible",
+            "Prestigious company names",
+            "Aggressive learning and skill development",
+            "Work-life balance"
+          ],
+          "correctIndex": 2,
+          "explanation": "Early career should prioritize aggressive learning and skill development. These compound over decades and create foundation for long-term success."
+        },
+        {
+          "question": "What defines career success?",
+          "options": [
+            "Reaching executive level",
+            "Earning most money possible",
+            "Whatever you personally define as meaningful",
+            "What society expects"
+          ],
+          "correctIndex": 2,
+          "explanation": "Success is personal and changes over time. Define it based on your values, not external expectations. There's no universal definition of career success."
+        }
+      ]
+    }
+  }
+]
