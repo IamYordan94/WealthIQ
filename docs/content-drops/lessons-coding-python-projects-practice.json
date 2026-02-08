@@ -1,1 +1,577 @@
-[Module 4: Projects & Practice - 5 lessons continuing...]
+[
+  {
+    "id": "project-calculator",
+    "title": "Project: Simple Calculator",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Build a working calculator. This project combines everything you've learned: functions, input/output, conditionals, loops, error handling. Real project that demonstrates practical skills. Type code yourself, don't copy-paste. Breaking and fixing teaches more than perfect code."
+        },
+        {
+          "type": "list",
+          "title": "Project Requirements",
+          "items": [
+            "Operations: Add, subtract, multiply, divide",
+            "User input: Ask for two numbers and operation",
+            "Error handling: Invalid input, division by zero",
+            "Loop: Continue calculating until user quits",
+            "Clear output: Display results clearly",
+            "Functions: Separate function for each operation",
+            "Bonus: Add more operations (power, modulo, square root)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Implementation approach: Start simple. Get basic calculation working. Then add features incrementally. Add error handling. Add loop for multiple calculations. Refactor into functions. This iterative approach is how professionals work."
+        },
+        {
+          "type": "list",
+          "title": "Code Structure",
+          "items": [
+            "Functions: def add(a, b): return a + b (for each operation)",
+            "Main loop: while True: for continuous use",
+            "Input: Get numbers with error handling",
+            "Operation selection: if/elif for operation choice",
+            "Result display: Clear formatting",
+            "Exit option: Check for 'quit' command",
+            "Clean code: Descriptive names, comments where needed"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Key Concepts Applied",
+          "items": [
+            "Functions: Modular, reusable code",
+            "Input validation: Check before processing",
+            "Type conversion: str to float for calculations",
+            "Error handling: try/except for invalid input",
+            "Conditionals: Route to correct operation",
+            "Loops: Repeat until user exits",
+            "User experience: Clear prompts and output"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Debugging tips: Run frequently, test each feature before adding next. If error, read error message carefully. Print variables to see values. Use small test cases. Comment out code to isolate problems. Google error messages. Debugging is normal part of programming."
+        },
+        {
+          "type": "list",
+          "title": "Enhancements",
+          "items": [
+            "More operations: Power, square root, factorial",
+            "History: Store previous calculations",
+            "Memory: Save/recall values",
+            "Chain calculations: Use previous result",
+            "GUI: Add simple graphical interface with tkinter",
+            "Save results: Write calculations to file",
+            "Scientific: Add trigonometric functions"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Learning Takeaways",
+          "items": [
+            "Integration: Combining multiple concepts",
+            "User perspective: Think about user experience",
+            "Error prevention: Handle edge cases",
+            "Incremental development: Build piece by piece",
+            "Testing: Verify each feature works",
+            "Refactoring: Improve code structure",
+            "Real application: See how pieces fit together"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Why separate operations into functions?",
+          "options": [
+            "Looks fancy",
+            "Modular, reusable, testable code - professional practice",
+            "Required by Python",
+            "Makes code longer"
+          ],
+          "correctIndex": 1,
+          "explanation": "Functions make code modular, reusable, and testable. Easy to fix bugs, add features, reuse in other projects. Professional programming practice."
+        },
+        {
+          "question": "What's the iterative development approach?",
+          "options": [
+            "Write everything at once",
+            "Build piece by piece, test each part before adding next",
+            "Copy from internet",
+            "Never test"
+          ],
+          "correctIndex": 1,
+          "explanation": "Iterative: build piece by piece, test each part. Start simple, add features incrementally. This is how professionals work - much more effective."
+        }
+      ]
+    }
+  },
+  {
+    "id": "project-todo-list",
+    "title": "Project: To-Do List Manager",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Build a to-do list manager. Add tasks, view tasks, mark complete, delete tasks. This introduces data persistence (saving to file), list manipulation, and CRUD operations (Create, Read, Update, Delete). Fundamental pattern for most applications."
+        },
+        {
+          "type": "list",
+          "title": "Core Features",
+          "items": [
+            "Add task: Create new to-do item",
+            "View tasks: Display all tasks with numbers",
+            "Complete task: Mark task as done",
+            "Delete task: Remove task from list",
+            "Save/load: Persist tasks to file",
+            "Menu: User-friendly interface",
+            "Validation: Handle invalid input"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Data structure: Use list of dictionaries. Each task: {'task': 'description', 'done': False}. This structure easy to work with, save to JSON, and extend with more fields (priority, due date, etc.)."
+        },
+        {
+          "type": "list",
+          "title": "Implementation Steps",
+          "items": [
+            "1. Create empty task list: tasks = []",
+            "2. Build menu: Display options, get user choice",
+            "3. Add function: Append new task dict to list",
+            "4. View function: Enumerate and display tasks",
+            "5. Complete function: Toggle 'done' status",
+            "6. Delete function: Remove task by index",
+            "7. Save function: Write list to JSON file",
+            "8. Load function: Read from JSON at startup"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "File Persistence",
+          "items": [
+            "Use JSON: import json module",
+            "Save: with open('tasks.json', 'w') as f: json.dump(tasks, f)",
+            "Load: with open('tasks.json') as f: tasks = json.load(f)",
+            "At startup: Load existing tasks",
+            "After changes: Save to file",
+            "Handle missing: Check if file exists first",
+            "Benefit: Tasks persist between sessions"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "CRUD pattern: Create (add task), Read (view tasks), Update (mark complete), Delete (remove task). This pattern is everywhere in programming: databases, APIs, file systems. Master it here, apply it everywhere."
+        },
+        {
+          "type": "list",
+          "title": "Enhanced Features",
+          "items": [
+            "Priority levels: High, medium, low",
+            "Due dates: Track when tasks due",
+            "Categories: Group tasks by type",
+            "Search: Find tasks by keyword",
+            "Sort: By priority, date, or name",
+            "Statistics: Count completed, pending",
+            "Export: Save to different formats",
+            "Recurring: Tasks that repeat"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Skills Practiced",
+          "items": [
+            "Data structures: Lists and dictionaries",
+            "File I/O: Reading and writing",
+            "JSON: Structured data format",
+            "Functions: Organized, modular code",
+            "Loops: Menu system",
+            "Conditionals: Route to features",
+            "Error handling: Robust application",
+            "User experience: Intuitive interface"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Why use JSON for task storage?",
+          "options": [
+            "Only option",
+            "Human-readable, Python-friendly, handles complex data structures",
+            "Fastest",
+            "Required"
+          ],
+          "correctIndex": 1,
+          "explanation": "JSON is human-readable, easy to work with in Python (json module), and handles complex structures (lists, dicts). Perfect for config and data files."
+        },
+        {
+          "question": "What's CRUD?",
+          "options": [
+            "Create, Read, Update, Delete - fundamental data operations",
+            "Code Review Under Development",
+            "Complex Runtime User Data",
+            "Python library"
+          ],
+          "correctIndex": 0,
+          "explanation": "CRUD: Create, Read, Update, Delete. Fundamental pattern for data operations. Used everywhere: databases, APIs, file systems, applications."
+        }
+      ]
+    }
+  },
+  {
+    "id": "project-text-analyzer",
+    "title": "Project: Text Analyzer",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Analyze text files: word count, character count, most common words, reading time estimate. This project works with files, strings, dictionaries for counting. Practical tool you can use for essays, articles, code documentation. Real-world data processing."
+        },
+        {
+          "type": "list",
+          "title": "Analysis Features",
+          "items": [
+            "Character count: Total characters including spaces",
+            "Word count: Total words (split by spaces)",
+            "Line count: Number of lines",
+            "Average word length: Total chars / total words",
+            "Most common words: Top 10 frequent words",
+            "Reading time: Estimate based on average reading speed",
+            "Unique words: Count of distinct words"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Word frequency: Use dictionary to count words. Iterate text, for each word: counts[word] = counts.get(word, 0) + 1. Or use Counter from collections module: Counter(words).most_common(10). Counter makes this trivial."
+        },
+        {
+          "type": "list",
+          "title": "Implementation",
+          "items": [
+            "Read file: with open('text.txt') as f: text = f.read()",
+            "Character count: len(text)",
+            "Word list: words = text.lower().split()",
+            "Word count: len(words)",
+            "Line count: len(text.splitlines())",
+            "Frequency: Counter(words).most_common(10)",
+            "Clean text: Remove punctuation for accurate word count",
+            "Display: Format results clearly"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Text Cleaning",
+          "items": [
+            "Lowercase: text.lower() for consistent counting",
+            "Remove punctuation: import string; text.translate(str.maketrans('', '', string.punctuation))",
+            "Strip whitespace: word.strip() for each word",
+            "Remove empty: Filter out empty strings",
+            "Stop words: Optionally ignore common words (the, a, is)",
+            "Why clean: 'The' and 'the' should be same word",
+            "Balance: Clean enough for accuracy, not over-processed"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Reading time calculation: Average adult reads 200-250 words per minute. word_count / 200 gives minutes. Format nicely: minutes, seconds. This is useful real feature that blog platforms use."
+        },
+        {
+          "type": "list",
+          "title": "Advanced Features",
+          "items": [
+            "Readability score: Flesch-Kincaid or similar",
+            "Sentiment analysis: Positive/negative tone",
+            "Keyword extraction: Most significant words",
+            "Compare texts: Similarity metrics",
+            "Generate summary: Extract key sentences",
+            "Language detection: Identify text language",
+            "Export report: Save analysis to file",
+            "Visualizations: Charts with matplotlib"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Real-World Applications",
+          "items": [
+            "Content writing: Analyze blog posts, articles",
+            "SEO: Keyword density analysis",
+            "Academic: Essay analysis, citation checking",
+            "Data science: Text preprocessing",
+            "Quality control: Consistency checking",
+            "Publishing: Manuscript analysis",
+            "Learning: This is what professionals use"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Why use Counter from collections?",
+          "options": [
+            "Required",
+            "Simplifies counting - Counter(items).most_common(n) is easier than manual dict",
+            "Faster input",
+            "Makes code longer"
+          ],
+          "correctIndex": 1,
+          "explanation": "Counter simplifies counting: Counter(words).most_common(10) vs manually managing dictionary. Cleaner code, less error-prone. Standard library is your friend."
+        },
+        {
+          "question": "Why clean text before analysis?",
+          "options": [
+            "Not necessary",
+            "Ensures consistency (The = the) and accurate counting",
+            "Makes code longer",
+            "Slows down"
+          ],
+          "correctIndex": 1,
+          "explanation": "Cleaning ensures consistency: 'The' and 'the' counted as same word. Removing punctuation prevents 'word' and 'word.' being different. More accurate analysis."
+        }
+      ]
+    }
+  },
+  {
+    "id": "project-password-generator",
+    "title": "Project: Password Generator",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Generate secure passwords based on user requirements. This project uses random module, string manipulation, and user input. Practical security tool. Everyone needs strong passwords. Build this, you have useful utility and learn important concepts."
+        },
+        {
+          "type": "list",
+          "title": "Password Requirements",
+          "items": [
+            "Length: User specifies (minimum 8)",
+            "Uppercase: Include A-Z",
+            "Lowercase: Include a-z",
+            "Numbers: Include 0-9",
+            "Symbols: Include !@#$%^&*",
+            "Customizable: User chooses which to include",
+            "Generate multiple: Option to generate several"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Implementation approach: Build character pool based on requirements. Use random.choice() to select characters. Ensure at least one of each required type. Shuffle result for better randomness. This creates secure, unpredictable passwords."
+        },
+        {
+          "type": "list",
+          "title": "Code Structure",
+          "items": [
+            "Import: import random, string",
+            "Character sets: string.ascii_lowercase, string.ascii_uppercase, etc.",
+            "Build pool: Combine sets based on requirements",
+            "Generate: password = ''.join(random.choice(pool) for _ in range(length))",
+            "Ensure requirements: Check password meets all criteria",
+            "Regenerate if needed: Loop until valid",
+            "User input: Get length and requirements"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Ensuring Requirements",
+          "items": [
+            "Problem: random.choice() might not include all types",
+            "Solution: Guarantee at least one of each required type",
+            "Approach: Start with one of each, fill rest randomly",
+            "Shuffle: random.shuffle(password_list) for randomness",
+            "Validation: Function to check password meets requirements",
+            "Loop: Generate until valid (or use guarantee approach)",
+            "Best practice: Guarantee method more efficient"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Password strength: Length matters most. 8 characters minimum, 12+ recommended. Character variety helps but length is king. Show strength indicator: weak (<8), medium (8-11), strong (12-15), very strong (16+). Educate users about security."
+        },
+        {
+          "type": "list",
+          "title": "Enhanced Features",
+          "items": [
+            "Strength meter: Visual indicator of password strength",
+            "Memorable passwords: Generate pronounceable passwords",
+            "Passphrase: Random words separated by symbols",
+            "Avoid ambiguous: Exclude similar characters (0/O, 1/l/I)",
+            "Save passwords: Option to save to file",
+            "Batch generation: Generate multiple at once",
+            "Custom rules: User-defined patterns",
+            "Entropy calculation: Show bits of entropy"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Security Concepts",
+          "items": [
+            "Randomness: Use random module, not predictable patterns",
+            "Length: 12+ characters for good security",
+            "Variety: Mix character types",
+            "Uniqueness: Different password for each service",
+            "Storage: Don't store in plain text",
+            "Sharing: Never share passwords",
+            "Password managers: Recommend using one",
+            "Real learning: Understanding what makes passwords secure"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What matters most for password strength?",
+          "options": [
+            "Character variety",
+            "Length - 12+ characters recommended",
+            "Using symbols",
+            "Capitalization"
+          ],
+          "correctIndex": 1,
+          "explanation": "Length matters most. Character variety helps, but 16-character password with only lowercase is stronger than 8-character with all types. Length exponentially increases possibilities."
+        },
+        {
+          "question": "Why shuffle generated password?",
+          "options": [
+            "Looks better",
+            "Increases randomness and unpredictability",
+            "Required",
+            "Faster"
+          ],
+          "correctIndex": 1,
+          "explanation": "Shuffling increases unpredictability. If you guarantee types (uppercase first, then lowercase, etc.), password has predictable pattern. Shuffling removes pattern."
+        }
+      ]
+    }
+  },
+  {
+    "id": "next-steps",
+    "title": "Next Steps & Resources",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "You've learned Python fundamentals. This is beginning, not end. Programming is skill that improves with practice. Best way to learn: build projects. Start small, increase complexity. Read others' code. Contribute to open source. The learning never stops, that's what makes it exciting."
+        },
+        {
+          "type": "list",
+          "title": "Immediate Next Steps",
+          "items": [
+            "Build projects: Apply what you learned to real problems",
+            "Daily practice: Code for 30 minutes minimum",
+            "Read code: Study well-written Python on GitHub",
+            "Join community: Python Discord, Reddit, local meetups",
+            "Challenges: HackerRank, LeetCode, CodeWars for practice",
+            "Document learning: Blog about what you're building",
+            "Help others: Teaching reinforces your knowledge"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Project ideas: Web scraper, expense tracker, quiz game, weather app, data visualizer, automation scripts for repetitive tasks, API wrapper, simple web app with Flask, data analysis notebook, personal dashboard. Pick something you'll actually use."
+        },
+        {
+          "type": "list",
+          "title": "Python Specializations",
+          "items": [
+            "Web development: Django or Flask frameworks",
+            "Data science: Pandas, NumPy, Matplotlib, Jupyter",
+            "Machine learning: scikit-learn, TensorFlow, PyTorch",
+            "Automation: Selenium, Beautiful Soup, APIs",
+            "Desktop apps: PyQt or Tkinter for GUI",
+            "Game development: Pygame for 2D games",
+            "DevOps: Scripting, CI/CD, infrastructure automation",
+            "Testing: pytest, unittest, test automation"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Learning Resources",
+          "items": [
+            "Official docs: docs.python.org (authoritative reference)",
+            "Real Python: realpython.com (excellent tutorials)",
+            "Python Tutor: pythontutor.com (visualize code execution)",
+            "Automate the Boring Stuff: Practical Python book",
+            "YouTube: Corey Schafer, Tech With Tim, Socratica",
+            "Books: Python Crash Course, Fluent Python, Effective Python",
+            "Practice: HackerRank, LeetCode, Codewars",
+            "Open source: Contribute to projects on GitHub"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 100-day challenge: Commit to coding every day for 100 days. Tweet progress with #100DaysOfCode. Build portfolio of projects. Network with others doing same. This transforms beginners into confident developers. Consistency beats intensity."
+        },
+        {
+          "type": "list",
+          "title": "Career Path",
+          "items": [
+            "Build portfolio: GitHub with diverse projects",
+            "Contribute: Open source contributions show teamwork",
+            "Network: Twitter, LinkedIn, local Python groups",
+            "Freelance: Start with small projects on Upwork/Fiverr",
+            "Entry jobs: Junior developer, QA automation, data analyst",
+            "Continuous learning: Technology changes fast",
+            "Soft skills: Communication as important as coding",
+            "Reality: Path isn't linear; keep building and learning"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Developer Mindset",
+          "items": [
+            "Problem solver: Focus on solving problems, not memorizing syntax",
+            "Google often: Everyone googles constantly, even experts",
+            "Read errors: Error messages tell you what's wrong",
+            "Break down: Complex problems into smaller pieces",
+            "Ask for help: Community is welcoming",
+            "Embrace failure: Bugs teach more than perfect code",
+            "Stay curious: Always something new to learn",
+            "Build things: Theory is great, building is better"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Final Advice",
+          "items": [
+            "Start building: Don't wait until you know everything",
+            "Ship projects: Done is better than perfect",
+            "Read code: Learn from others' style and patterns",
+            "Write daily: Consistency compounds dramatically",
+            "Stay patient: Skill develops over months and years",
+            "Enjoy process: Find joy in creating and problem-solving",
+            "Never stop: Programming is lifelong learning journey",
+            "You can do this: Everyone starts as beginner"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the best way to improve after this course?",
+          "options": [
+            "Read more tutorials",
+            "Build projects - apply what you learned to real problems",
+            "Memorize syntax",
+            "Watch videos"
+          ],
+          "correctIndex": 1,
+          "explanation": "Build projects. Apply knowledge to real problems you care about. This solidifies learning and creates portfolio. Building beats passive consumption."
+        },
+        {
+          "question": "What's the developer mindset about googling?",
+          "options": [
+            "Never google, memorize everything",
+            "Everyone googles constantly, even experts - it's normal and smart",
+            "Only beginners google",
+            "Googling is cheating"
+          ],
+          "correctIndex": 1,
+          "explanation": "Everyone googles constantly - syntax, error messages, how-tos. Even experts. Programming is problem-solving, not memorization. Google is tool, not crutch."
+        }
+      ]
+    }
+  }
+]

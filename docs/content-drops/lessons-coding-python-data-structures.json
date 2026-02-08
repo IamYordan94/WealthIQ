@@ -1,1 +1,572 @@
-[... continued in next file due to length ...]
+[
+  {
+    "id": "dictionaries",
+    "title": "Dictionaries (Key-Value Pairs)",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Dictionaries store key-value pairs. Like real dictionary: word (key) maps to definition (value). In Python: person = {'name': 'John', 'age': 30}. Access values by key, not position. Fast lookups. Perfect for structured data. One of most-used data structures in Python."
+        },
+        {
+          "type": "list",
+          "title": "Creating Dictionaries",
+          "items": [
+            "Literal: person = {'name': 'John', 'age': 30}",
+            "Empty: empty = {} or empty = dict()",
+            "Constructor: dict(name='John', age=30)",
+            "Keys: Can be strings, numbers, tuples (immutable types)",
+            "Values: Can be anything (lists, dicts, objects)",
+            "Unordered: Order not guaranteed (Python 3.7+ maintains insertion order)",
+            "Unique keys: Duplicate keys overwrite previous value"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Accessing values: person['name'] gets value for key 'name'. If key doesn't exist, raises KeyError. Safer: person.get('name') returns None if missing. Even safer: person.get('name', 'Unknown') provides default."
+        },
+        {
+          "type": "list",
+          "title": "Dictionary Methods",
+          "items": [
+            "Get: person.get('name', 'Unknown') (safe access with default)",
+            "Keys: person.keys() (all keys)",
+            "Values: person.values() (all values)",
+            "Items: person.items() (key-value pairs)",
+            "Update: person.update({'age': 31}) (merge dictionaries)",
+            "Pop: person.pop('age') (remove and return value)",
+            "Clear: person.clear() (remove all items)",
+            "Copy: new_dict = person.copy() (shallow copy)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Modifying Dictionaries",
+          "items": [
+            "Add/update: person['city'] = 'NYC' (creates if new, updates if exists)",
+            "Delete: del person['age'] (removes key)",
+            "Check existence: if 'name' in person: (before accessing)",
+            "Multiple updates: person.update({'age': 31, 'city': 'NYC'})",
+            "SetDefault: person.setdefault('age', 0) (set only if doesn't exist)",
+            "Mutable: Can modify after creation",
+            "No duplicates: Keys must be unique"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Iterating dictionaries: for key in dict loops keys. for value in dict.values() loops values. for key, value in dict.items() loops both. Most common: items() to access both key and value."
+        },
+        {
+          "type": "list",
+          "title": "Dictionary Comprehensions",
+          "items": [
+            "Basic: {k: v for k, v in pairs}",
+            "Transform: {k: v*2 for k, v in nums.items()}",
+            "Filter: {k: v for k, v in dict.items() if v > 0}",
+            "Swap: {v: k for k, v in dict.items()} (keys become values)",
+            "From lists: {k: 0 for k in keys}",
+            "Enumerate: {i: v for i, v in enumerate(list)}",
+            "Concise: One-line dictionary creation"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Common Use Cases",
+          "items": [
+            "Configuration: settings = {'debug': True, 'port': 8000}",
+            "Counting: counts = {}; for item in list: counts[item] = counts.get(item, 0) + 1",
+            "Lookup tables: color_codes = {'red': '#FF0000', 'blue': '#0000FF'}",
+            "JSON data: API responses often dictionaries",
+            "Cache: memo = {}; memo[key] = expensive_calculation()",
+            "Grouping: groups = {}; groups.setdefault(category, []).append(item)",
+            "User data: user = {'id': 1, 'name': 'John', 'email': 'john@example.com'}"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's safer: dict['key'] or dict.get('key')?",
+          "options": [
+            "Both same",
+            "dict.get('key') - returns None if missing instead of error",
+            "dict['key'] is safer",
+            "Neither is safe"
+          ],
+          "correctIndex": 1,
+          "explanation": "dict.get('key') is safer - returns None if key missing. dict['key'] raises KeyError. dict.get('key', default) even better with default value."
+        },
+        {
+          "question": "Can dictionary keys be duplicated?",
+          "options": [
+            "Yes",
+            "No - duplicate keys overwrite previous value",
+            "Sometimes",
+            "Only numbers"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dictionary keys must be unique. If you set same key twice, second value overwrites first. Keys map to single value."
+        }
+      ]
+    }
+  },
+  {
+    "id": "tuples-sets",
+    "title": "Tuples & Sets",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Tuples: Immutable lists. Once created, can't change. Use parentheses: point = (3, 5). Sets: Unordered collections of unique items. Use curly braces: unique_nums = {1, 2, 3}. Both have specific use cases where they shine. Understanding when to use each makes you better programmer."
+        },
+        {
+          "type": "list",
+          "title": "Tuples Basics",
+          "items": [
+            "Create: point = (3, 5) or point = 3, 5",
+            "Single item: single = (1,) (comma required!)",
+            "Empty: empty = () or empty = tuple()",
+            "Immutable: Can't change after creation",
+            "Access: point[0] gets first item (like lists)",
+            "Unpack: x, y = point (assigns 3 to x, 5 to y)",
+            "Faster: Slight performance advantage over lists"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Why tuples? Immutability is feature, not limitation. Use when data shouldn't change: coordinates, RGB values, function returning multiple values. Tuples can be dictionary keys (lists can't). Signals intent: this data is fixed."
+        },
+        {
+          "type": "list",
+          "title": "Tuple Operations",
+          "items": [
+            "Concatenate: (1, 2) + (3, 4) = (1, 2, 3, 4)",
+            "Multiply: (1, 2) * 3 = (1, 2, 1, 2, 1, 2)",
+            "Length: len(tuple) returns item count",
+            "Count: tuple.count(value) counts occurrences",
+            "Index: tuple.index(value) finds position",
+            "Membership: 5 in tuple checks existence",
+            "Iterate: for item in tuple:",
+            "No methods: Can't append, remove, etc."
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Sets Basics",
+          "items": [
+            "Create: nums = {1, 2, 3} or set([1, 2, 3])",
+            "Empty: empty = set() (NOT {}, that's empty dict)",
+            "Unique: Automatically removes duplicates",
+            "Unordered: No indexing, no guaranteed order",
+            "Mutable: Can add/remove items",
+            "Fast lookups: Checking membership very fast",
+            "Use: When you need unique items or fast membership testing"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Set Operations",
+          "items": [
+            "Add: nums.add(4) adds single item",
+            "Remove: nums.remove(2) (error if missing)",
+            "Discard: nums.discard(2) (no error if missing)",
+            "Pop: nums.pop() removes arbitrary item",
+            "Clear: nums.clear() removes all",
+            "Union: set1 | set2 (all items from both)",
+            "Intersection: set1 & set2 (items in both)",
+            "Difference: set1 - set2 (in set1 but not set2)",
+            "Membership: 5 in nums (very fast)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Set mathematics: Sets support mathematical operations. Union combines. Intersection finds common elements. Difference finds unique to first. Symmetric difference finds items in either but not both. These are incredibly useful for data analysis and filtering."
+        },
+        {
+          "type": "list",
+          "title": "When to Use Each",
+          "items": [
+            "List: Ordered, allow duplicates, need indexing",
+            "Tuple: Fixed data, return multiple values, dict keys",
+            "Set: Unique items, fast membership, mathematical operations",
+            "Dict: Key-value pairs, fast lookups by key",
+            "List: Shopping list, user inputs, any sequence",
+            "Tuple: Coordinates (x,y), RGB (r,g,b), database records",
+            "Set: Unique visitors, tags, removing duplicates",
+            "Dict: User profile, settings, JSON data"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the key difference between list and tuple?",
+          "options": [
+            "No difference",
+            "Tuples are immutable (can't be changed after creation)",
+            "Lists are immutable",
+            "Tuples are faster"
+          ],
+          "correctIndex": 1,
+          "explanation": "Tuples are immutable - can't change after creation. Lists are mutable - can add, remove, modify items. Use tuples for fixed data."
+        },
+        {
+          "question": "What's the main feature of sets?",
+          "options": [
+            "Ordered collection",
+            "Automatically stores only unique items, no duplicates",
+            "Allows duplicates",
+            "Slow lookups"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sets automatically store only unique items - duplicates removed. Also unordered and have very fast membership testing (checking if item exists)."
+        }
+      ]
+    }
+  },
+  {
+    "id": "string-methods",
+    "title": "String Methods & Manipulation",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Strings are everywhere in programming. User input, file content, API responses, messages. Python provides powerful string methods for manipulation. From simple uppercase to complex parsing, these methods handle most string operations. Master these, you can process text like a pro."
+        },
+        {
+          "type": "list",
+          "title": "Case Methods",
+          "items": [
+            "upper(): 'hello'.upper() = 'HELLO'",
+            "lower(): 'HELLO'.lower() = 'hello'",
+            "capitalize(): 'hello world'.capitalize() = 'Hello world'",
+            "title(): 'hello world'.title() = 'Hello World'",
+            "swapcase(): 'HeLLo'.swapcase() = 'hEllO'",
+            "casefold(): Like lower(), more aggressive (international)",
+            "Use: Standardizing input, case-insensitive comparison"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Search and Check Methods",
+          "items": [
+            "find(): 'hello'.find('l') = 2 (first occurrence)",
+            "index(): Like find(), but raises error if not found",
+            "count(): 'hello'.count('l') = 2 (occurrences)",
+            "startswith(): 'hello'.startswith('he') = True",
+            "endswith(): 'hello'.endswith('lo') = True",
+            "in operator: 'ell' in 'hello' = True",
+            "Use: Validation, parsing, searching text"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "String immutability: Strings can't be modified. Methods return NEW string, don't change original. text = 'hello'; text.upper() creates 'HELLO' but text still 'hello'. Must assign: text = text.upper(). Important concept preventing bugs."
+        },
+        {
+          "type": "list",
+          "title": "Cleaning Methods",
+          "items": [
+            "strip(): '  hello  '.strip() = 'hello' (removes whitespace)",
+            "lstrip(): Left strip only",
+            "rstrip(): Right strip only",
+            "replace(): 'hello'.replace('l', 'x') = 'hexxo'",
+            "removeprefix(): 'hello'.removeprefix('he') = 'llo' (Python 3.9+)",
+            "removesuffix(): 'hello'.removesuffix('lo') = 'hel' (Python 3.9+)",
+            "Use: Cleaning user input, file data"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Split and Join",
+          "items": [
+            "split(): 'a,b,c'.split(',') = ['a', 'b', 'c']",
+            "split(n): 'a b c'.split(' ', 1) = ['a', 'b c'] (max splits)",
+            "rsplit(): Split from right",
+            "splitlines(): 'line1\nline2'.splitlines() = ['line1', 'line2']",
+            "join(): ','.join(['a','b','c']) = 'a,b,c'",
+            "join strings: ' '.join(words) joins with space",
+            "Use: Parsing CSV, building sentences"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Type Checking Methods",
+          "items": [
+            "isdigit(): '123'.isdigit() = True (all digits)",
+            "isalpha(): 'abc'.isalpha() = True (all letters)",
+            "isalnum(): 'abc123'.isalnum() = True (letters or digits)",
+            "isspace(): '  '.isspace() = True (all whitespace)",
+            "isupper(): 'HELLO'.isupper() = True",
+            "islower(): 'hello'.islower() = True",
+            "Use: Input validation"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Formatting and Alignment",
+          "items": [
+            "center(): 'hi'.center(10) = '    hi    '",
+            "ljust(): 'hi'.ljust(10) = 'hi        '",
+            "rjust(): 'hi'.rjust(10) = '        hi'",
+            "zfill(): '42'.zfill(5) = '00042' (zero padding)",
+            "format(): 'Hello {}'.format('World')",
+            "f-strings: f'Hello {name}' (best, Python 3.6+)",
+            "Use: Formatting output, reports, tables"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Are strings mutable in Python?",
+          "options": [
+            "Yes",
+            "No - string methods return new string, don't modify original",
+            "Sometimes",
+            "Only small strings"
+          ],
+          "correctIndex": 1,
+          "explanation": "Strings are immutable. Methods like .upper() return NEW string. Original unchanged. Must assign result: text = text.upper()."
+        },
+        {
+          "question": "What does 'a,b,c'.split(',') return?",
+          "options": [
+            "'abc'",
+            "['a', 'b', 'c'] - list of strings",
+            "'a b c'",
+            "Three strings"
+          ],
+          "correctIndex": 1,
+          "explanation": "split(',') splits string on comma, returns list: ['a', 'b', 'c']. join() is opposite: ','.join(['a','b','c']) = 'a,b,c'."
+        }
+      ]
+    }
+  },
+  {
+    "id": "file-handling",
+    "title": "File Handling",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Programs need to read and write files. Configuration files, data processing, logs, user data. Python makes file handling straightforward. Read files, write files, append to files. Handle errors gracefully. Master file I/O, you can build real-world applications."
+        },
+        {
+          "type": "list",
+          "title": "Opening Files",
+          "items": [
+            "Syntax: file = open('filename.txt', 'mode')",
+            "Read mode: 'r' (default, read only)",
+            "Write mode: 'w' (overwrites existing file)",
+            "Append mode: 'a' (adds to end of file)",
+            "Binary: Add 'b' ('rb', 'wb') for binary files",
+            "Must close: file.close() when done",
+            "Better: Use 'with' statement (auto-closes)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 'with' statement: Best practice for file handling. Automatically closes file, even if error occurs. Syntax: with open('file.txt', 'r') as file: content = file.read(). File closed when block ends. Always use this pattern."
+        },
+        {
+          "type": "list",
+          "title": "Reading Files",
+          "items": [
+            "read(): file.read() reads entire file as string",
+            "readline(): file.readline() reads one line",
+            "readlines(): file.readlines() returns list of lines",
+            "iterate: for line in file: (reads line by line, memory efficient)",
+            "Example: with open('file.txt') as f: content = f.read()",
+            "Large files: Use iteration, not read() (memory)",
+            "Handle encoding: open('file.txt', encoding='utf-8')"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Writing Files",
+          "items": [
+            "write(): file.write('text') writes string",
+            "writelines(): file.writelines(['line1', 'line2'])",
+            "print to file: print('text', file=file)",
+            "Mode 'w': Overwrites file completely",
+            "Mode 'a': Appends to end",
+            "Example: with open('file.txt', 'w') as f: f.write('Hello')",
+            "Newlines: Must add \n manually"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "File paths: Use raw strings for Windows paths: r'C:\Users\file.txt' or forward slashes: 'C:/Users/file.txt'. Better: Use pathlib module for cross-platform paths. from pathlib import Path; file = Path('file.txt')."
+        },
+        {
+          "type": "list",
+          "title": "Error Handling",
+          "items": [
+            "FileNotFoundError: File doesn't exist when reading",
+            "PermissionError: Don't have access to file",
+            "IOError: General I/O problems",
+            "Use try/except: try: file = open() except FileNotFoundError: handle()",
+            "Check existence: Path('file.txt').exists() before opening",
+            "Create directories: Path('dir').mkdir(parents=True, exist_ok=True)",
+            "Always handle: File operations can fail"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Common File Patterns",
+          "items": [
+            "Read all: with open('f.txt') as f: data = f.read()",
+            "Read lines: with open('f.txt') as f: lines = f.readlines()",
+            "Process lines: with open('f.txt') as f: for line in f: process(line)",
+            "Write: with open('f.txt', 'w') as f: f.write('text')",
+            "Append: with open('f.txt', 'a') as f: f.write('more')",
+            "Copy: with open('src') as f1, open('dst', 'w') as f2: f2.write(f1.read())",
+            "CSV: Use csv module for structured data",
+            "JSON: import json; data = json.load(file)"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Why use 'with' statement for files?",
+          "options": [
+            "Faster",
+            "Automatically closes file, even if error occurs",
+            "Required by Python",
+            "Makes code longer"
+          ],
+          "correctIndex": 1,
+          "explanation": "'with' statement automatically closes file when block ends, even if error occurs. Prevents resource leaks. Always use this pattern."
+        },
+        {
+          "question": "What's difference between 'w' and 'a' modes?",
+          "options": [
+            "No difference",
+            "'w' overwrites file; 'a' appends to end",
+            "'a' overwrites",
+            "'w' is faster"
+          ],
+          "correctIndex": 1,
+          "explanation": "'w' (write) overwrites entire file. 'a' (append) adds to end. Use 'w' for new content, 'a' to add to existing."
+        }
+      ]
+    }
+  },
+  {
+    "id": "modules-imports",
+    "title": "Modules & Imports",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Modules organize code into reusable files. Instead of everything in one file, split into logical modules. Python's standard library provides hundreds of modules: math, random, datetime, json, os, and more. Third-party packages extend functionality infinitely. Understanding imports unlocks Python's full power."
+        },
+        {
+          "type": "list",
+          "title": "Import Basics",
+          "items": [
+            "Simple: import math (imports entire module)",
+            "Use: math.sqrt(16) (access with module.function)",
+            "From: from math import sqrt (import specific item)",
+            "Use: sqrt(16) (use directly, no prefix)",
+            "Multiple: from math import sqrt, pi, cos",
+            "All: from math import * (imports everything, not recommended)",
+            "Alias: import math as m (shorter name)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Import best practices: Import at top of file. Standard library first, third-party next, your modules last. One import per line (PEP 8). Avoid 'from x import *' (namespace pollution). Use descriptive aliases for long names."
+        },
+        {
+          "type": "list",
+          "title": "Useful Standard Library Modules",
+          "items": [
+            "math: Mathematical functions (sqrt, sin, cos, pi)",
+            "random: Random numbers (random(), randint(), choice())",
+            "datetime: Dates and times (date, time, datetime, timedelta)",
+            "os: Operating system interaction (files, directories, paths)",
+            "sys: System-specific parameters (argv, exit, path)",
+            "json: JSON encoding/decoding (load, dump, loads, dumps)",
+            "re: Regular expressions (search, match, findall)",
+            "pathlib: Object-oriented file paths (Path)",
+            "collections: Specialized containers (Counter, defaultdict)",
+            "itertools: Iterator functions (combinations, permutations)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Creating Your Own Modules",
+          "items": [
+            "Simple: Any .py file is a module",
+            "Example: Create utils.py with function def greet(): ...",
+            "Import: import utils (in another file)",
+            "Use: utils.greet()",
+            "Same directory: Just import filename (no .py)",
+            "Subdirectory: from folder import module",
+            "Package: Directory with __init__.py",
+            "Organization: Group related functions in modules"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Third-party packages: Millions available via pip (package installer). Install: pip install package_name. Common packages: requests (HTTP), pandas (data analysis), flask (web), numpy (numerical), matplotlib (plotting). These extend Python dramatically."
+        },
+        {
+          "type": "list",
+          "title": "Package Management",
+          "items": [
+            "pip: Python package installer (comes with Python)",
+            "Install: pip install package-name",
+            "Uninstall: pip uninstall package-name",
+            "List: pip list (show installed packages)",
+            "Requirements: pip freeze > requirements.txt (save dependencies)",
+            "Install from req: pip install -r requirements.txt",
+            "Upgrade: pip install --upgrade package-name",
+            "Virtual environments: isolate project dependencies"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Common Import Patterns",
+          "items": [
+            "Multiple items: from module import func1, func2, Class",
+            "Alias: import numpy as np (common convention)",
+            "Submodule: from package.module import function",
+            "Conditional: if condition: import optional_module",
+            "Try import: try: import module except ImportError: fallback",
+            "Relative: from . import sibling (same package)",
+            "Parent: from .. import parent (parent package)"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's difference between 'import math' and 'from math import sqrt'?",
+          "options": [
+            "No difference",
+            "First imports module (use math.sqrt), second imports function (use sqrt directly)",
+            "Second is wrong",
+            "First is faster"
+          ],
+          "correctIndex": 1,
+          "explanation": "'import math' imports module (use math.sqrt). 'from math import sqrt' imports function directly (use sqrt). Choose based on how many items you need."
+        },
+        {
+          "question": "How to install third-party packages?",
+          "options": [
+            "Download manually",
+            "Use pip: pip install package-name",
+            "Import downloads automatically",
+            "Copy files"
+          ],
+          "correctIndex": 1,
+          "explanation": "Use pip (package installer): 'pip install package-name' in terminal. This downloads and installs package, making it importable."
+        }
+      ]
+    }
+  }
+]
