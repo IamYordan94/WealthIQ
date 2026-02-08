@@ -1,1 +1,525 @@
-[Module 2 continuing...]
+[
+  {
+    "id": "understanding-stress",
+    "title": "Understanding Stress",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Stress isn't the enemy. It's biological response preparing you for challenges. The problem: chronic activation of stress response that's meant to be temporary. Short-term stress enhances performance (acute stress). Long-term stress damages health (chronic stress). Understanding stress is first step to managing it effectively."
+        },
+        {
+          "type": "list",
+          "title": "The Stress Response (Fight-or-Flight)",
+          "items": [
+            "Activation: Brain perceives threat (real or imagined)",
+            "Hormones: Cortisol and adrenaline flood system",
+            "Physical: Heart rate up, breathing rapid, muscles tense",
+            "Mental: Hypervigilance, narrow focus, emotional reactivity",
+            "Purpose: Mobilize resources to handle threat",
+            "Problem: Response designed for physical threats, not modern stressors",
+            "Result: Chronic activation from daily stressors damages health"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Good stress vs. bad stress: Eustress (good stress) challenges you optimally, building capacity. Distress (bad stress) overwhelms you, causing damage. Same stressor can be eustress or distress depending on: your perception, your resources to handle it, duration of exposure. Reframe where possible: challenge vs. threat mindset."
+        },
+        {
+          "type": "list",
+          "title": "Common Stress Sources",
+          "items": [
+            "Work: Deadlines, workload, conflict, job insecurity",
+            "Finances: Debt, bills, income instability",
+            "Relationships: Conflict, loneliness, family issues",
+            "Health: Illness, injury, chronic conditions",
+            "Life changes: Moving, job change, loss, major transitions",
+            "Daily hassles: Traffic, technology problems, minor annoyances",
+            "Internal: Perfectionism, negative self-talk, rumination"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Signs of Chronic Stress",
+          "items": [
+            "Physical: Headaches, muscle tension, fatigue, sleep problems",
+            "Emotional: Irritability, anxiety, depression, overwhelm",
+            "Cognitive: Poor concentration, memory problems, indecision",
+            "Behavioral: Social withdrawal, appetite changes, substance use",
+            "Warning: If experiencing multiple signs, take action now",
+            "Long-term: Weakened immune system, cardiovascular disease, mental health issues"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The stress bucket analogy: Imagine bucket that fills with stressors. When full, it overflows (breakdown). Management strategies: reduce what goes in (stressor reduction), increase what flows out (coping strategies), make bucket bigger (resilience building). You need all three approaches."
+        },
+        {
+          "type": "list",
+          "title": "Stress Management Framework",
+          "items": [
+            "Awareness: Recognize when you're stressed (physical cues)",
+            "Assessment: Identify specific stressors",
+            "Action: Choose appropriate response strategy",
+            "Problem-focused: Change the situation causing stress",
+            "Emotion-focused: Change how you respond to situation",
+            "Meaning-focused: Reframe situation's significance",
+            "Prevention: Build resilience before stress hits"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the difference between acute and chronic stress?",
+          "options": [
+            "No difference",
+            "Acute is temporary and performance-enhancing; chronic is prolonged and damaging",
+            "Acute is worse",
+            "Only chronic matters"
+          ],
+          "correctIndex": 1,
+          "explanation": "Acute stress is temporary, enhancing performance. Chronic stress is prolonged activation damaging health. System designed for acute, not chronic."
+        },
+        {
+          "question": "What's eustress vs. distress?",
+          "options": [
+            "Same thing",
+            "Eustress is good stress (optimal challenge); distress is bad stress (overwhelm)",
+            "Eustress is weaker",
+            "All stress is bad"
+          ],
+          "correctIndex": 1,
+          "explanation": "Eustress is good stress that challenges optimally. Distress is bad stress that overwhelms. Same stressor can be either depending on perception and resources."
+        }
+      ]
+    }
+  },
+  {
+    "id": "stress-reduction-techniques",
+    "title": "Stress Reduction Techniques",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "You can't eliminate all stress. You can master tools to manage it. These aren't soft skills—they're evidence-based techniques that measurably reduce cortisol, lower blood pressure, improve decision-making. Navy SEALs use them. Top executives use them. You should too. Consistent practice makes them automatic when you need them most."
+        },
+        {
+          "type": "list",
+          "title": "Deep Breathing Techniques",
+          "items": [
+            "Box breathing: Inhale 4 counts, hold 4, exhale 4, hold 4",
+            "4-7-8 breathing: Inhale 4, hold 7, exhale 8 (activates parasympathetic)",
+            "Physiological sigh: Two quick inhales through nose, long exhale mouth",
+            "Why it works: Activates vagus nerve, signals safety to brain",
+            "Effect: Rapid calming, reduced anxiety in 60 seconds",
+            "Use: Before important events, during stress, before sleep",
+            "Practice: 5 minutes daily builds stronger effect"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Progressive muscle relaxation (PMR): Systematically tense and release muscle groups. This works because you can't be physiologically relaxed and psychologically stressed simultaneously. Your body influences your mind. Change body state, change mental state."
+        },
+        {
+          "type": "list",
+          "title": "PMR Practice",
+          "items": [
+            "Find quiet space, sit or lie comfortably",
+            "Tense muscle group for 5 seconds (fists, arms, shoulders, face, etc.)",
+            "Release suddenly, notice relaxation for 10 seconds",
+            "Move through all major muscle groups systematically",
+            "Total time: 10-15 minutes",
+            "Effect: Deep physical relaxation, reduced muscle tension",
+            "Best: Evening before bed, after stressful day"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Mindfulness & Meditation",
+          "items": [
+            "Definition: Non-judgmental awareness of present moment",
+            "Not: Stopping thoughts or achieving blank mind",
+            "Is: Noticing thoughts without getting caught in them",
+            "Practice: Focus on breath, notice when mind wanders, gently return",
+            "Duration: Start with 5 minutes, build to 10-20",
+            "Research: Reduces anxiety, improves focus, increases resilience",
+            "Apps: Headspace, Calm, Insight Timer for guided sessions"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Physical Stress Release",
+          "items": [
+            "Exercise: 20-30 minutes moderate activity reduces stress hormones",
+            "Walking: Simple walk outdoors powerful stress reducer",
+            "Yoga: Combines movement, breathing, mindfulness",
+            "Sports: Physical activity with social element",
+            "Dancing: Movement with music and joy",
+            "Shaking: Literally shake body to release tension",
+            "Mechanism: Burns cortisol, releases endorphins, completes stress cycle"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The stress completion cycle: Stress response prepares body for physical action. Modern stressors (emails, meetings) don't involve physical action. Result: Incomplete cycle, stored tension. Solution: Physical activity completes the cycle, discharges the energy, returns body to baseline."
+        },
+        {
+          "type": "list",
+          "title": "Cognitive Techniques",
+          "items": [
+            "Thought stopping: Notice stress thought, say 'STOP', redirect",
+            "Reframing: Find different perspective on situation",
+            "Reality testing: 'What's the evidence? How likely is worst case?'",
+            "Decatastrophizing: 'If worst happens, how would I handle it?'",
+            "Time perspective: 'Will this matter in 5 years?'",
+            "Gratitude: Focus on what's going well, not just problems",
+            "Humor: Finding appropriate humor diffuses tension"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How does deep breathing reduce stress?",
+          "options": [
+            "It distracts you",
+            "Activates vagus nerve, signals safety to brain, activates parasympathetic nervous system",
+            "Uses up oxygen",
+            "It's placebo"
+          ],
+          "correctIndex": 1,
+          "explanation": "Deep breathing activates vagus nerve, signals safety to brain, activates parasympathetic nervous system (rest and digest), measurably reducing stress."
+        },
+        {
+          "question": "Why does exercise reduce stress?",
+          "options": [
+            "Just a distraction",
+            "Burns cortisol, releases endorphins, completes stress cycle",
+            "Makes you too tired to care",
+            "Only works for athletes"
+          ],
+          "correctIndex": 1,
+          "explanation": "Exercise burns cortisol, releases endorphins, and completes stress cycle (body prepared for physical action; exercise provides that action)."
+        }
+      ]
+    }
+  },
+  {
+    "id": "time-management-boundaries",
+    "title": "Time Management & Boundaries",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Most stress comes from overcommitment. Saying yes to everything means saying no to yourself. Boundaries aren't selfish—they're self-preservation. Time is finite. Energy is finite. Every yes to something is no to something else. Effective time management and clear boundaries are stress prevention strategies."
+        },
+        {
+          "type": "list",
+          "title": "The Eisenhower Matrix",
+          "items": [
+            "Urgent + Important: Do now (crises, deadlines)",
+            "Not Urgent + Important: Schedule (planning, development, relationships)",
+            "Urgent + Not Important: Delegate (interruptions, some emails)",
+            "Not Urgent + Not Important: Eliminate (time wasters, busy work)",
+            "Most people: Live in Quadrant 1 (firefighting)",
+            "High performers: Prioritize Quadrant 2 (prevention, growth)",
+            "Result: Less crisis, more control, lower stress"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 80/20 principle applied: 20% of activities produce 80% of results. 20% of stressors cause 80% of stress. Identify high-impact activities and high-stress sources. Focus energy on former, eliminate or minimize latter. Most people work on 80% that doesn't matter."
+        },
+        {
+          "type": "list",
+          "title": "Setting Boundaries",
+          "items": [
+            "Work hours: Set clear start and end times",
+            "Availability: Not 24/7 accessible, designated response times",
+            "Requests: 'Let me check my schedule and get back to you' (not instant yes)",
+            "Saying no: 'I can't take that on right now' (no elaborate excuses needed)",
+            "Interruptions: Designated focus time, closed door/do not disturb",
+            "Digital: Email/message boundaries, no work apps on phone",
+            "Personal: Protect time for health, relationships, self"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Overcoming People-Pleasing",
+          "items": [
+            "Recognition: Saying yes when you mean no creates resentment",
+            "Cost: Your wellbeing sacrificed for others' approval",
+            "Truth: People respect boundaries more than doormat behavior",
+            "Practice: Start with low-stakes no's, build confidence",
+            "Language: 'I'd love to, but I'm not able to right now'",
+            "Reframe: Saying no to them is saying yes to yourself",
+            "Reality: You can't pour from empty cup; self-care enables service"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The priority question: Before committing to anything, ask: 'If I say yes to this, what am I saying no to?' Every commitment has opportunity cost. Saying yes to mediocre opportunity means saying no to potentially great one. Protect your time and energy for what truly matters."
+        },
+        {
+          "type": "list",
+          "title": "Time Blocking & Batching",
+          "items": [
+            "Time blocking: Assign specific time blocks to specific tasks",
+            "Deep work blocks: 2-4 hour focus sessions for important work",
+            "Batching: Group similar tasks together (all calls, all emails)",
+            "Theme days: Monday = admin, Tuesday = creation, etc.",
+            "Transition time: Buffer between tasks for mental reset",
+            "Protected time: Non-negotiable blocks for priorities",
+            "Effect: Reduced context switching, deeper focus, less stress"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the Eisenhower Matrix?",
+          "options": [
+            "Four quadrants based on urgent/important for prioritization",
+            "A scheduling app",
+            "Time tracking tool",
+            "Energy management"
+          ],
+          "correctIndex": 0,
+          "explanation": "Eisenhower Matrix: Four quadrants (urgent/important, not urgent/important, urgent/not important, neither) for prioritizing tasks effectively."
+        },
+        {
+          "question": "What does every yes mean?",
+          "options": [
+            "You're helpful",
+            "A no to something else - every commitment has opportunity cost",
+            "You're popular",
+            "Nothing else"
+          ],
+          "correctIndex": 1,
+          "explanation": "Every yes is a no to something else. Every commitment has opportunity cost. Protect time and energy for what truly matters."
+        }
+      ]
+    }
+  },
+  {
+    "id": "lifestyle-stress-management",
+    "title": "Lifestyle & Stress Management",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Your lifestyle either builds resilience or creates vulnerability. Sleep, nutrition, exercise, relationships—these aren't optional extras. They're foundation of stress management. Neglect them, you're operating on hard mode. Prioritize them, you handle everything better. Small daily choices compound into major resilience or fragility."
+        },
+        {
+          "type": "list",
+          "title": "Sleep & Stress",
+          "items": [
+            "Need: 7-9 hours for most adults",
+            "Effect: Poor sleep increases stress hormones 50%+",
+            "Impact: Everything harder with poor sleep",
+            "Priority: Sleep should be non-negotiable",
+            "Hygiene: Cool, dark room; consistent schedule; no screens 1 hour before",
+            "Wind-down: Relaxation routine signaling sleep time",
+            "Reality: Sleep deprivation = voluntary stress amplification"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The sleep-stress cycle: Stress disrupts sleep. Poor sleep increases stress. Breaking cycle requires: prioritizing sleep, stress management before bed, consistent schedule, addressing sleep disorders if needed. Best stress management strategy might be sleeping more."
+        },
+        {
+          "type": "list",
+          "title": "Nutrition & Stress",
+          "items": [
+            "Blood sugar: Stable blood sugar = stable mood",
+            "Avoid: Sugar spikes and crashes = stress spikes",
+            "Protein: Adequate protein supports neurotransmitters",
+            "Hydration: Dehydration increases cortisol",
+            "Caffeine: Moderate intake; too much mimics anxiety",
+            "Alcohol: Depressant that disrupts sleep and increases stress",
+            "Whole foods: Nutrient-dense diet supports resilience"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Exercise as Stress Management",
+          "items": [
+            "Frequency: 3-5x per week, 20-30 minutes minimum",
+            "Type: Anything you enjoy and will do consistently",
+            "Aerobic: Running, cycling, swimming reduce stress hormones",
+            "Strength: Builds confidence, improves mood",
+            "Yoga: Combines physical and mental stress relief",
+            "Nature: Outdoor exercise amplifies benefits",
+            "Consistency: Regular exercise prevents stress better than crisis intervention"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The lifestyle buffer: Think of healthy habits as stress buffer. Bigger buffer, more stress you can handle without breaking. Small buffer, minor stress breaks you. Building buffer takes time. Maintaining it requires consistency. But it's difference between thriving and barely surviving."
+        },
+        {
+          "type": "list",
+          "title": "Recreation & Recovery",
+          "items": [
+            "Hobbies: Activities purely for enjoyment, no productivity goal",
+            "Nature: Time outdoors measurably reduces stress",
+            "Social: Quality time with loved ones",
+            "Creative: Art, music, writing for expression",
+            "Play: Unstructured fun and joy",
+            "Rest: Doing nothing without guilt",
+            "Balance: Work hard, recover hard"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Digital Hygiene",
+          "items": [
+            "News diet: Limit news consumption (daily digest, not constant)",
+            "Social media: Time limits, curate feed for positivity",
+            "Notifications: Turn off all non-essential alerts",
+            "Email: Designated check times, not constant monitoring",
+            "Phone-free: Meals, first/last hour of day, quality time",
+            "Unfollow: Content that increases stress or comparison",
+            "Reality: Digital overwhelm is major modern stressor"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What happens with poor sleep?",
+          "options": [
+            "Nothing major",
+            "Stress hormones increase 50%+, everything becomes harder",
+            "You get used to it",
+            "Only affects physical health"
+          ],
+          "correctIndex": 1,
+          "explanation": "Poor sleep increases stress hormones 50%+, making everything harder. Sleep-stress cycle: stress disrupts sleep; poor sleep increases stress."
+        },
+        {
+          "question": "What's the lifestyle buffer?",
+          "options": [
+            "Free time",
+            "Healthy habits create stress buffer - bigger buffer, more stress you can handle",
+            "Savings account",
+            "Social media feed"
+          ],
+          "correctIndex": 1,
+          "explanation": "Lifestyle buffer: healthy habits (sleep, nutrition, exercise) create stress buffer. Bigger buffer = more stress you can handle before breaking."
+        }
+      ]
+    }
+  },
+  {
+    "id": "crisis-management",
+    "title": "Managing Acute Stress & Crisis",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Sometimes stress isn't manageable background noise—it's acute crisis. Job loss, death, health emergency, major failure. These require different approach than daily stress management. You need crisis toolkit: immediate techniques to stabilize, short-term strategies to cope, and understanding of when to seek professional help."
+        },
+        {
+          "type": "list",
+          "title": "Immediate Crisis Response",
+          "items": [
+            "Safety first: Ensure physical safety (yours and others')",
+            "Ground yourself: 5-4-3-2-1 technique (5 things you see, 4 hear, 3 touch, 2 smell, 1 taste)",
+            "Breathe: Use physiological sigh or box breathing",
+            "Reach out: Call trusted person, don't isolate",
+            "Basic needs: Eat something, drink water, rest if possible",
+            "Avoid: Substances, major decisions, impulsive actions",
+            "Goal: Stabilize, not solve"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 5-4-3-2-1 grounding technique: In acute anxiety or panic, your mind is in threat response. Grounding brings you to present moment and safety. Notice 5 things you see, 4 you hear, 3 you touch, 2 you smell, 1 you taste. This activates observational mode, not threat mode."
+        },
+        {
+          "type": "list",
+          "title": "Short-term Coping Strategies",
+          "items": [
+            "One day at a time: Don't project weeks/months ahead",
+            "Structure: Maintain basic routine (wake, eat, sleep times)",
+            "Small tasks: Accomplish tiny things to build sense of control",
+            "Support: Lean heavily on trusted people",
+            "Information: Get facts, avoid speculation and doomscrolling",
+            "Self-compassion: This is hard; you're doing your best",
+            "Professional: Don't hesitate to see therapist or counselor"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "When to Seek Professional Help",
+          "items": [
+            "Thoughts of self-harm or suicide (seek help immediately)",
+            "Unable to function: Can't work, care for self, do basic tasks",
+            "Substance use: Turning to drugs or alcohol to cope",
+            "Persistent symptoms: Lasting weeks without improvement",
+            "Relationships suffering: Major impact on important connections",
+            "Physical symptoms: Stress causing health problems",
+            "Remember: Therapy is strength, not weakness"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Trauma and post-traumatic stress: Some crises cause trauma requiring professional treatment. PTSD symptoms: intrusive memories, avoidance, negative mood changes, heightened reactivity. These don't just 'go away'—they need specialized treatment (EMDR, trauma-focused CBT). Seeking help early prevents chronic issues."
+        },
+        {
+          "type": "list",
+          "title": "Processing and Meaning-Making",
+          "items": [
+            "Not immediate: Don't rush to 'find the lesson'",
+            "Acknowledge pain: Let yourself grieve, feel, process",
+            "Journaling: Write about experience and feelings",
+            "Talking: Process with trusted people or therapist",
+            "Time: Healing is not linear; allow necessary time",
+            "Growth: Eventually, can find meaning or growth (but no rush)",
+            "Integration: Crisis becomes part of your story, not whole story"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Building Crisis Resilience",
+          "items": [
+            "Emergency fund: Financial buffer for crises",
+            "Support system: Strong relationships before you need them",
+            "Skills: Practice stress management before crisis",
+            "Therapist: Establish relationship proactively",
+            "Plan: Think through 'what if' scenarios",
+            "Experience: Previous challenges navigated build confidence",
+            "Philosophy: Life includes suffering; prepare mentally"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the 5-4-3-2-1 grounding technique for?",
+          "options": [
+            "Counting practice",
+            "Bringing you to present moment during acute anxiety by noticing sensory input",
+            "Memory exercise",
+            "Math skills"
+          ],
+          "correctIndex": 1,
+          "explanation": "5-4-3-2-1 grounding: Notice 5 things you see, 4 hear, 3 touch, 2 smell, 1 taste. Brings you to present moment, deactivates threat response."
+        },
+        {
+          "question": "When should you seek professional help?",
+          "options": [
+            "Only if suicidal",
+            "Any time you're struggling - therapy is strength not weakness",
+            "Never",
+            "Only after years of problems"
+          ],
+          "correctIndex": 1,
+          "explanation": "Seek help when struggling, especially with: self-harm thoughts, inability to function, persistent symptoms, or substance use. Therapy is strength, not weakness."
+        }
+      ]
+    }
+  }
+]
