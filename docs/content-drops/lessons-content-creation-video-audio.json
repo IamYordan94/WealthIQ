@@ -2,26 +2,633 @@
   {
     "id": "video-basics",
     "title": "Video Content Basics",
-    "duration": "10 min"
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Video is king of content formats. YouTube is second-largest search engine. TikTok and Instagram Reels dominate social. Video builds trust faster than text because people see you, hear you, connect with real human. Don't let fear of camera stop you. Everyone starts awkward. Consistency beats perfection. Your first videos will be rough. Make them anyway."
+        },
+        {
+          "type": "list",
+          "title": "Why Video Works",
+          "items": [
+            "Engagement: Holds attention longer than text",
+            "Trust: Face and voice build connection faster",
+            "Algorithm love: Platforms prioritize video",
+            "Retention: People remember video content better",
+            "Versatility: Repurpose into clips, quotes, blogs",
+            "Searchability: YouTube SEO drives discovery",
+            "Monetization: Multiple revenue streams",
+            "Authentic: Harder to fake, builds genuine trust"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Video formats: Long-form (YouTube, 10+ minutes), Short-form (TikTok, Reels, Shorts under 60 seconds), Live streams, Tutorials, Vlogs, Talking head, B-roll heavy. Start with one format, master it, expand. Short-form is fastest way to grow initially, long-form builds deeper loyalty."
+        },
+        {
+          "type": "list",
+          "title": "Getting Comfortable on Camera",
+          "items": [
+            "Practice daily: Record yourself, even if you don't post",
+            "Talk to one person: Imagine friend, not crowd",
+            "Script vs outline: Know points, don't memorize word-for-word",
+            "Energy up: Camera drains energy, bring 20% more",
+            "Watch yourself: Painful but necessary for improvement",
+            "Don't overthink: Authenticity beats polish",
+            "Reps matter: 100 videos in, you'll be comfortable",
+            "Everyone starts bad: Even big creators have cringe first videos"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Basic Video Structure",
+          "items": [
+            "Hook (3 seconds): Grab attention immediately",
+            "Promise (5 seconds): Tell what they'll learn",
+            "Content: Deliver on promise with value",
+            "Engagement: Ask question, create loop",
+            "Recap: Summarize key takeaway",
+            "CTA: Tell them what to do next",
+            "Keep tight: Cut fluff, respect their time",
+            "Pattern interrupt: Change angles, B-roll, keep visual interest"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "First 3 seconds decide everything. Platforms show snippet, viewers decide to watch or scroll. Start with bold statement, question, or intriguing visual. Not 'Hey guys, today I'm going to...' That's skip. Jump straight to value or hook."
+        },
+        {
+          "type": "list",
+          "title": "Lighting Basics",
+          "items": [
+            "Natural light: Face window, soft diffused light best",
+            "Golden hour: Hour after sunrise, before sunset (gorgeous)",
+            "Ring light: $30 investment, massive quality boost",
+            "Key light: Main light source on face",
+            "Avoid overhead: Creates unflattering shadows",
+            "Behind camera: Light should come from behind camera toward face",
+            "Test: Record short clips, check how you look",
+            "Consistent: Same setup creates professional look"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Common Beginner Mistakes",
+          "items": [
+            "Waiting for perfect: Perfect never comes, start now",
+            "Bad audio: Invest in mic before fancy camera",
+            "Too long: Respect attention span, cut fluff",
+            "No hook: Boring start = instant skip",
+            "Reading script: Sounds robotic, use bullet points",
+            "Dark video: Fix lighting before anything else",
+            "No editing: Raw footage rarely watchable",
+            "Inconsistent posting: Algorithm rewards consistency"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What matters most in first 3 seconds?",
+          "options": [
+            "Introducing yourself",
+            "Hook that grabs attention - viewers decide instantly",
+            "Explaining your channel",
+            "Asking them to subscribe"
+          ],
+          "correctIndex": 1,
+          "explanation": "First 3 seconds decide everything. Start with hook, bold statement, question, or intriguing visual. Jump straight to value. 'Hey guys' introductions get skipped."
+        },
+        {
+          "question": "What should beginners invest in first?",
+          "options": [
+            "Expensive camera",
+            "Good microphone - audio quality matters more",
+            "Professional lighting setup",
+            "Editing software"
+          ],
+          "correctIndex": 1,
+          "explanation": "Audio quality matters more than video. People tolerate poor video with good audio, but won't watch bad audio. $50 USB mic before expensive camera."
+        }
+      ]
+    }
   },
   {
     "id": "filming-techniques",
     "title": "Filming & Production Techniques",
-    "duration": "10 min"
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Production quality affects perceived value. You don't need Hollywood budget, but basic techniques make massive difference. Framing, angles, audio, background—small improvements compound. This lesson covers fundamentals that separate amateur from professional-looking content."
+        },
+        {
+          "type": "list",
+          "title": "Camera Framing",
+          "items": [
+            "Rule of thirds: Imagine grid, place face on intersection",
+            "Headroom: Small space above head, not too much",
+            "Eye level: Camera at eye level or slightly above",
+            "Looking room: Space in direction you're looking",
+            "Tight framing: Fill frame with your face (more intimate)",
+            "Wide shot: Show environment (use sparingly)",
+            "Horizontal: Film landscape for YouTube, vertical for TikTok/Reels",
+            "Stable: Use tripod, not shaky handheld"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Background matters: Clean, uncluttered, relevant to brand. Bookshelf says 'intellectual.' Plants say 'calm.' LED lights say 'tech.' Avoid messy rooms or distracting elements. Background should support, not distract. Simple wall works perfectly."
+        },
+        {
+          "type": "list",
+          "title": "Audio Excellence",
+          "items": [
+            "Close to mic: 6-12 inches optimal",
+            "Quiet room: Turn off AC, fans, background noise",
+            "Test recording: Check audio before full take",
+            "Consistent volume: Don't whisper or shout",
+            "Pop filter: Reduces harsh P and B sounds",
+            "Room treatment: Blankets, curtains absorb echo",
+            "Separate audio: Record audio separately for best quality",
+            "Backup recording: Phone as backup audio source"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Shooting B-Roll",
+          "items": [
+            "What it is: Supplemental footage over talking",
+            "Why use: Visual variety keeps attention",
+            "Relevant: Shows what you're talking about",
+            "Smooth movement: Slow pans, not jerky",
+            "Multiple angles: Get variety",
+            "5-10 seconds each: Short clips work best",
+            "Stock footage: Pexels, Pixabay for free B-roll",
+            "Shoot extra: Have more than you think you need"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The talking head trap: Just your face talking gets boring fast. Cut to B-roll every 10-15 seconds. Show examples of what you're discussing. Use screen recordings for tutorials. Visual variety = higher retention."
+        },
+        {
+          "type": "list",
+          "title": "Multiple Takes Strategy",
+          "items": [
+            "Don't stop: If you mess up, pause, continue recording",
+            "Mark mistakes: Clap hands (creates audio spike for editing)",
+            "Redo sections: Re-say unclear parts immediately",
+            "Energy consistency: Match energy across takes",
+            "Best parts: Compile best takes in edit",
+            "Natural: Don't over-rehearse, sounds robotic",
+            "First take magic: Often most authentic",
+            "Time boxing: Don't endlessly redo, 3-5 takes max"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Mobile Filming Tips",
+          "items": [
+            "Clean lens: Smudges ruin shots",
+            "Lock exposure: Tap and hold on face",
+            "Grid lines: Enable for rule of thirds",
+            "4K if possible: Better quality, crop in editing",
+            "Horizontal lock: Disable auto-rotate",
+            "Airplane mode: Prevent call interruptions",
+            "External mic: Dramatic audio improvement",
+            "Gimbal: Optional for smooth walking shots"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Production Workflow",
+          "items": [
+            "Plan: Know key points before filming",
+            "Setup: Test audio, lighting, framing",
+            "Record: Get full takes, don't stop for small mistakes",
+            "B-roll: Shoot supplemental footage",
+            "Backup: Save files immediately",
+            "Organize: Label files clearly",
+            "Edit: Covered in next lesson",
+            "Batch: Film multiple videos in one session"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the rule of thirds?",
+          "options": [
+            "Film for 3 minutes",
+            "Imagine grid, place subject on intersections for better framing",
+            "Record 3 takes",
+            "Use 3 cameras"
+          ],
+          "correctIndex": 1,
+          "explanation": "Rule of thirds: Imagine 3x3 grid, place face/subject on intersections. Creates more interesting, professional framing than centering everything."
+        },
+        {
+          "question": "How often should you use B-roll?",
+          "options": [
+            "Never",
+            "Every 10-15 seconds to maintain visual interest",
+            "Once per video",
+            "Constantly"
+          ],
+          "correctIndex": 1,
+          "explanation": "Cut to B-roll every 10-15 seconds. Pure talking head gets boring. Visual variety = higher retention. Show examples of what you're discussing."
+        }
+      ]
+    }
   },
   {
     "id": "video-editing",
     "title": "Video Editing Essentials",
-    "duration": "9 min"
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Editing transforms raw footage into engaging content. Cut dead space, add graphics, fix audio, create pacing. This is where you control viewer experience. Good editing can save mediocre footage. Bad editing ruins great footage. Learn basics, improve with every video. Software doesn't matter as much as understanding principles."
+        },
+        {
+          "type": "list",
+          "title": "Essential Edits",
+          "items": [
+            "Cut dead air: Remove pauses longer than 2 seconds",
+            "Remove mistakes: Cut ums, ahs, verbal stumbles",
+            "Trim fat: Delete off-topic rambling",
+            "Add B-roll: Cover cuts with relevant footage",
+            "Sound design: Background music, sound effects",
+            "Captions: Essential for accessibility and no-sound viewing",
+            "Color correction: Balance colors for consistency",
+            "Graphics: Lower thirds, text overlays for emphasis"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The jump cut: Cutting within same angle creates jump. Normal and expected in YouTube content. Don't worry about perfect continuity. Viewer prefers tight pacing over perfect transitions. Jump cuts signal energy and efficiency."
+        },
+        {
+          "type": "list",
+          "title": "Pacing Techniques",
+          "items": [
+            "Fast cuts: Keep energy high, especially at start",
+            "Slow for emphasis: Hold shot when making important point",
+            "Vary rhythm: Mix fast and slow sections",
+            "Cut on movement: More natural than static cuts",
+            "Music tempo: Match edit pace to music",
+            "Build momentum: Faster cuts as you approach climax",
+            "Breathing room: Don't cut so tight it feels rushed",
+            "Watch time matters: Keep them watching"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Adding Captions",
+          "items": [
+            "Why: 85% watch without sound on social",
+            "Auto-generate: Most platforms offer this now",
+            "Edit: Auto captions need fixing",
+            "Style: Large, easy-to-read font",
+            "Contrast: White text with black outline",
+            "Positioning: Bottom third or top (not covering face)",
+            "Word-by-word: Highlight as spoken (TikTok style)",
+            "Tools: CapCut, Descript, Veed.io"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Music matters: Sets emotional tone. Use royalty-free music (YouTube Audio Library, Epidemic Sound, Artlist). Match music to content energy. Subtle background during talking, louder during B-roll. Fade in/out, don't abruptly start/stop. Volume: -20dB to -25dB during speech."
+        },
+        {
+          "type": "list",
+          "title": "Sound Design",
+          "items": [
+            "Remove noise: Use noise reduction on ambient sound",
+            "Level audio: Consistent volume throughout",
+            "EQ: Enhance voice quality (boost mids, cut lows)",
+            "Compression: Even out quiet and loud parts",
+            "Sound effects: Whooshes for transitions, pops for text",
+            "Background music: Set mood without overpowering",
+            "Silence: Strategic pauses for emphasis",
+            "Professional: Audio quality matters more than video"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Graphics & Text",
+          "items": [
+            "Lower thirds: Name, title at bottom",
+            "Key points: Text overlay emphasizing takeaways",
+            "Arrows: Direct attention",
+            "Numbers: List items (1, 2, 3...)",
+            "Keep simple: Don't overdo effects",
+            "Brand colors: Consistent color scheme",
+            "Readable: Large font, high contrast",
+            "On-screen 3+ seconds: Give time to read"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Editing Workflow",
+          "items": [
+            "Import footage: Organize by project",
+            "First pass: Delete obvious bad takes",
+            "Rough cut: Arrange in order, cut big chunks",
+            "Fine cut: Tighten timing, remove dead space",
+            "Add B-roll: Cover cuts, add visual interest",
+            "Music & sound: Add audio elements",
+            "Graphics: Add text, captions, effects",
+            "Color grade: Final polish",
+            "Export: Correct format for platform"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Why are captions essential?",
+          "options": [
+            "They're not important",
+            "85% watch without sound + accessibility for deaf/hard-of-hearing",
+            "Only for foreign languages",
+            "Waste of time"
+          ],
+          "correctIndex": 1,
+          "explanation": "85% watch social videos without sound. Captions = more views. Plus accessibility for deaf/hard-of-hearing. Auto-generate then edit for accuracy."
+        },
+        {
+          "question": "What should you cut from footage?",
+          "options": [
+            "Everything",
+            "Dead air, mistakes, off-topic parts - keep it tight",
+            "Nothing, show everything",
+            "Only the beginning"
+          ],
+          "correctIndex": 1,
+          "explanation": "Cut dead air (pauses 2+ seconds), mistakes (ums, stumbles), off-topic rambling. Tight pacing keeps attention. Respect viewer's time."
+        }
+      ]
+    }
   },
   {
     "id": "podcast-production",
     "title": "Podcast Production & Audio Content",
-    "duration": "10 min"
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Podcasts are experiencing massive growth. Intimate format builds deep connection. People listen during commute, workout, chores—times they can't watch video. Lower barrier than video: no camera anxiety, easier editing, simpler production. Perfect for long-form conversations, storytelling, and building loyal audience."
+        },
+        {
+          "type": "list",
+          "title": "Why Podcast",
+          "items": [
+            "Intimate: Voice in ears creates connection",
+            "Convenient: Consumed during other activities",
+            "Long-form: 30-60+ minutes normal (deep conversations)",
+            "Loyal audience: Listeners are highly engaged",
+            "Less competition: Easier to stand out than video",
+            "Repurpose: Turn into blog, video, social clips",
+            "Monetization: Ads, sponsors, premium content",
+            "Growing: Market expanding rapidly"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Podcast formats: Solo (you talking), Interview (guest conversations), Co-hosted (two+ hosts), Narrative (storytelling), Panel (multiple guests). Start simple: solo or interview. Consistency matters more than complexity. Weekly minimum for growth."
+        },
+        {
+          "type": "list",
+          "title": "Essential Equipment",
+          "items": [
+            "Microphone: USB mic minimum ($50-100)",
+            "Headphones: Monitor audio quality",
+            "Recording software: Audacity (free), GarageBand, Adobe Audition",
+            "Pop filter: Reduce plosives ($10-20)",
+            "Mic stand: Table or boom stand",
+            "Quiet space: Critical for audio quality",
+            "Upgrade later: Better mic, audio interface, mixer",
+            "Start simple: Don't wait for perfect setup"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Recording Best Practices",
+          "items": [
+            "Close to mic: 6-8 inches (fist distance)",
+            "Consistent position: Don't move around",
+            "Room treatment: Blankets, curtains reduce echo",
+            "Test recording: First minute, check levels",
+            "Backup: Record on phone as safety",
+            "Eliminate noise: AC off, phone silent, close windows",
+            "Energy level: Bring enthusiasm (it shows in voice)",
+            "Natural: Conversational, not reading script"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Remote interviews: Zoom, Riverside.fm, SquadCast. Riverside gives best quality (local recording). Ask guests to use headphones, be in quiet space. Test connection before recording. Always record locally as backup. Good audio is non-negotiable."
+        },
+        {
+          "type": "list",
+          "title": "Editing Audio",
+          "items": [
+            "Remove: Long pauses, false starts, major mistakes",
+            "Keep: Small imperfections (sounds human)",
+            "Normalize: Even out volume levels",
+            "EQ: Boost voice clarity",
+            "Compression: Control dynamic range",
+            "Noise reduction: Remove background hum",
+            "Music: Intro, outro, transitions",
+            "Length: Cut ruthlessly, respect listener time"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Publishing & Distribution",
+          "items": [
+            "Host: Anchor (free), Buzzsprout, Libsyn, Transistor",
+            "Directories: Apple Podcasts, Spotify, Google Podcasts",
+            "Show notes: Episode summary, links, timestamps",
+            "Artwork: 3000x3000px, eye-catching design",
+            "Metadata: Title, description, keywords (SEO)",
+            "Consistent schedule: Same day/time weekly",
+            "Promotion: Social clips, newsletter, cross-platform",
+            "Analytics: Track downloads, completion rates"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Content Strategy",
+          "items": [
+            "Pillar topics: Core themes you consistently cover",
+            "Guest mix: Balance solo and interview episodes",
+            "Series: Multi-part deep dives",
+            "Seasonal: Plan batches ahead",
+            "Listener questions: Answer audience questions",
+            "Current events: React to news in your niche",
+            "Evergreen: Content that stays relevant",
+            "Experiment: Test different formats, find what works"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's minimum equipment to start podcast?",
+          "options": [
+            "Full studio",
+            "USB mic ($50-100), headphones, free software - start simple",
+            "Professional recording booth",
+            "$10,000+ setup"
+          ],
+          "correctIndex": 1,
+          "explanation": "Start simple: USB mic, headphones, free software (Audacity/GarageBand). Quiet room is more important than expensive gear. Upgrade as you grow."
+        },
+        {
+          "question": "How should you edit podcast audio?",
+          "options": [
+            "Don't edit anything",
+            "Remove long pauses and major mistakes, keep small imperfections",
+            "Make it absolutely perfect",
+            "Remove everything"
+          ],
+          "correctIndex": 1,
+          "explanation": "Remove long pauses, false starts, major mistakes. Keep small imperfections - sounds human. Over-editing sounds robotic. Balance polish with authenticity."
+        }
+      ]
+    }
   },
   {
     "id": "thumbnails-visuals",
     "title": "Thumbnails & Visual Assets",
-    "duration": "9 min"
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Thumbnail determines if people click. Title gets them interested, thumbnail closes the deal. On YouTube, thumbnail can double or triple views. On social, strong visual stops scroll. Spend time on thumbnails. They're as important as the content itself. Bad thumbnail = invisible content, no matter how good."
+        },
+        {
+          "type": "list",
+          "title": "Thumbnail Principles",
+          "items": [
+            "Clarity: Clear at small size (mobile test)",
+            "Contrast: Bold colors that pop",
+            "Faces: Human face with emotion performs best",
+            "Text: Large, minimal words (3-5 max)",
+            "Intrigue: Create curiosity",
+            "Brand consistent: Recognizable style",
+            "High resolution: 1280x720px minimum",
+            "Test: Show friends, ask what they expect"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The face rule: Thumbnails with expressive faces get more clicks. Emotion matters: surprised, excited, concerned. Make expression match content emotion. Close-up works better than wide shot. Eye contact (looking at camera) creates connection."
+        },
+        {
+          "type": "list",
+          "title": "Text on Thumbnails",
+          "items": [
+            "3-5 words max: Quick to read",
+            "Large font: Readable on phone",
+            "High contrast: White text, black outline",
+            "Complement title: Add context, don't repeat exactly",
+            "Bold words: Make key words stand out",
+            "Question format: Provokes curiosity",
+            "Numbers: '5 Ways' performs well",
+            "Don't overcrowd: Negative space is good"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Color Psychology",
+          "items": [
+            "Red/Orange: Excitement, urgency, energy",
+            "Blue: Trust, calm, professional",
+            "Yellow: Attention, optimism, warning",
+            "Green: Growth, money, health",
+            "Purple: Luxury, creativity, wisdom",
+            "Contrast: Use opposite colors (blue + orange)",
+            "Brand colors: Consistent with your brand",
+            "Platform: Consider background color where displayed"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Tools: Canva (easiest, templates), Photoshop (professional), Figma (free, powerful). Canva recommended for beginners: drag-and-drop, YouTube thumbnail templates, free version works great. Save brand kit with fonts, colors for consistency."
+        },
+        {
+          "type": "list",
+          "title": "Thumbnail Mistakes",
+          "items": [
+            "Too busy: Cluttered with too many elements",
+            "Tiny text: Can't read on mobile",
+            "Generic: Looks like everyone else",
+            "Misleading: Doesn't match content (clickbait)",
+            "Low contrast: Doesn't pop",
+            "No face: Missing emotional connection",
+            "Inconsistent: Every thumbnail completely different",
+            "Low quality: Pixelated or blurry"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Social Media Visuals",
+          "items": [
+            "Carousel posts: Multi-slide, high engagement",
+            "Quote graphics: Pull best lines from content",
+            "Stats/data: Visualize interesting numbers",
+            "Before/after: Show transformation",
+            "Templates: Create reusable formats",
+            "Platform sizes: Optimize for each platform",
+            "Mobile-first: Most view on phone",
+            "Batch create: Make multiple at once"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "A/B Testing",
+          "items": [
+            "Create variants: Make 2-3 different thumbnails",
+            "Test elements: Face vs no face, colors, text",
+            "Small changes: Test one variable at a time",
+            "YouTube: Can change thumbnail and track CTR",
+            "Track metrics: Click-through rate, watch time",
+            "Learn patterns: What works for your audience",
+            "Iterate: Constantly improve based on data",
+            "Swipe file: Save best-performing thumbnails"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's most important for thumbnails?",
+          "options": [
+            "Lots of text",
+            "Clear at small size, expressive face, high contrast, minimal text",
+            "Complex designs",
+            "Matching title exactly"
+          ],
+          "correctIndex": 1,
+          "explanation": "Thumbnails must be clear at phone size. Expressive face, high contrast, minimal text (3-5 words). Create curiosity. Test on mobile before publishing."
+        },
+        {
+          "question": "How much text should thumbnails have?",
+          "options": [
+            "As much as possible",
+            "3-5 words maximum - quick to read",
+            "Full sentences",
+            "None"
+          ],
+          "correctIndex": 1,
+          "explanation": "3-5 words maximum. People scroll fast, need quick read. Large, bold font. High contrast. Too much text looks cluttered and unreadable on mobile."
+        }
+      ]
+    }
   }
 ]
