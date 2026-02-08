@@ -1,1 +1,627 @@
-["Expanded lessons coming in next commit..."]
+[
+  {
+    "id": "cardio-training",
+    "title": "Cardiovascular Training",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Cardio strengthens your heart, lungs, and circulatory system. It's called cardiovascular exercise because it works your cardiovascular system. Regular cardio reduces disease risk, improves endurance, burns calories, boosts mood, and extends lifespan. You don't need to run marathons. Walking counts. This lesson shows you how to build effective cardio routine."
+        },
+        {
+          "type": "list",
+          "title": "Benefits of Cardio",
+          "items": [
+            "Heart health: Strengthens heart muscle, improves circulation",
+            "Lung capacity: Increases oxygen efficiency",
+            "Disease prevention: Reduces risk of heart disease, stroke, diabetes",
+            "Weight management: Burns calories during and after exercise",
+            "Mental health: Releases endorphins, reduces anxiety/depression",
+            "Energy: Improves mitochondrial function",
+            "Sleep quality: Helps you fall asleep faster, sleep deeper",
+            "Longevity: Strong cardio fitness = longer life"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Types of Cardio",
+          "items": [
+            "Walking: Low impact, accessible, sustainable (most underrated)",
+            "Running: Higher intensity, efficient calorie burn",
+            "Cycling: Low impact, joint-friendly, builds leg strength",
+            "Swimming: Full body, zero impact, great for injuries",
+            "Rowing: Full body, combines cardio and strength",
+            "Jump rope: High intensity, minimal equipment",
+            "Dancing: Fun, social, burns calories without feeling like work",
+            "Sports: Basketball, tennis, soccer (enjoyment drives consistency)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Intensity zones: Low (50-60% max heart rate, can talk easily), Moderate (60-70%, can talk but breathing harder), Vigorous (70-85%, difficult to talk), Maximum (85%+, can't sustain long). Most benefits come from moderate intensity. Mix zones throughout week. Don't go all-out every session."
+        },
+        {
+          "type": "list",
+          "title": "Steady State vs HIIT",
+          "items": [
+            "Steady state: Same pace throughout (30-60 min moderate)",
+            "Benefits: Sustainable, builds aerobic base, lower stress",
+            "HIIT: High Intensity Interval Training (short bursts, rest, repeat)",
+            "Benefits: Time-efficient, burns calories after workout, improves VO2 max",
+            "Example HIIT: 30 sec sprint, 90 sec walk, repeat 10x",
+            "Which is better: Both have place, depends on goals",
+            "Beginners: Start steady state, add HIIT when conditioned",
+            "Balance: 2-3 steady state, 1-2 HIIT per week"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Building Cardio Fitness",
+          "items": [
+            "Start slow: 10-15 min sessions if beginning",
+            "Progressive overload: Add 5-10% time/intensity weekly",
+            "Frequency: 3-5 sessions per week",
+            "Duration: Work up to 30-60 min moderate intensity",
+            "Variety: Mix different activities to prevent boredom",
+            "Listen to body: Some soreness okay, pain is not",
+            "Rest days: Essential for recovery and adaptation",
+            "Patience: Fitness builds over months, not days"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Common Mistakes",
+          "items": [
+            "Too much too soon: Leads to injury and burnout",
+            "Same intensity always: Body adapts, need variation",
+            "No rest days: Overtraining impairs progress",
+            "Poor form: Especially running (leads to injury)",
+            "Ignoring pain: Pain signals problem, not weakness",
+            "Cardio only: Need strength training too",
+            "Boring routine: Hating it kills consistency",
+            "All HIIT: Too much high intensity increases cortisol"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Practical Implementation",
+          "items": [
+            "Week 1-2: 3x15 min walks at comfortable pace",
+            "Week 3-4: 3x20 min, pick up pace slightly",
+            "Week 5-6: 4x25 min, add one interval session",
+            "Week 7-8: 4x30 min steady, 1x20 min HIIT",
+            "Month 3+: 3x30-45 min steady, 1-2x20-30 min HIIT",
+            "Adjust: Based on fitness level and response",
+            "Track: Monitor heart rate, distance, time",
+            "Celebrate: Every workout is progress"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the difference between steady state and HIIT cardio?",
+          "options": [
+            "No difference",
+            "Steady state is same pace throughout; HIIT alternates intense bursts with rest",
+            "HIIT is always better",
+            "Steady state is always better"
+          ],
+          "correctIndex": 1,
+          "explanation": "Steady state maintains same moderate pace (30-60 min). HIIT alternates short intense bursts with rest periods. Both valuable: steady builds base, HIIT improves capacity. Use both."
+        },
+        {
+          "question": "How should beginners start cardio training?",
+          "options": [
+            "All-out sprints daily",
+            "Start slow (10-15 min), increase 5-10% weekly",
+            "2 hours daily",
+            "Only HIIT"
+          ],
+          "correctIndex": 1,
+          "explanation": "Start slow: 10-15 min sessions, comfortable pace. Increase duration/intensity 5-10% weekly. Build gradually to prevent injury and burnout. Consistency beats intensity."
+        }
+      ]
+    }
+  },
+  {
+    "id": "strength-training-basics",
+    "title": "Strength Training Basics",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Strength training builds muscle, strengthens bones, boosts metabolism, improves body composition, and enhances functional capacity. After 30, you lose 3-5% muscle per decade without resistance training. Muscle is metabolic currency. More muscle = higher metabolism, better glucose control, stronger bones, easier fat loss. This lesson covers strength training fundamentals."
+        },
+        {
+          "type": "list",
+          "title": "Why Strength Train",
+          "items": [
+            "Muscle building: Increases lean mass, strength, power",
+            "Metabolism: Muscle burns more calories at rest",
+            "Bone density: Weight-bearing exercise strengthens bones",
+            "Injury prevention: Strong muscles protect joints",
+            "Functional capacity: Easier to carry, lift, move in daily life",
+            "Body composition: More muscle, less fat percentage",
+            "Aging: Preserves independence and quality of life",
+            "Confidence: Looking and feeling stronger"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Training Principles",
+          "items": [
+            "Progressive overload: Gradually increase weight, reps, or sets",
+            "Specificity: Train what you want to improve",
+            "Recovery: Muscle grows during rest, not during workout",
+            "Consistency: 2-4 sessions per week for results",
+            "Form first: Perfect technique before adding weight",
+            "Full range: Complete movement for full muscle development",
+            "Mind-muscle: Focus on muscle working, not just moving weight",
+            "Patience: Strength builds over months and years"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Compound vs isolation exercises: Compound movements work multiple muscle groups (squats, deadlifts, bench press, rows, overhead press). Isolation exercises target single muscle (bicep curls, leg extensions). Beginners should focus on compounds - more efficient, functional, stimulate more growth."
+        },
+        {
+          "type": "list",
+          "title": "Essential Movement Patterns",
+          "items": [
+            "Squat: Lower body push (squats, lunges, leg press)",
+            "Hinge: Hip-dominant (deadlifts, Romanian deadlifts, hip thrusts)",
+            "Push: Horizontal/vertical pressing (bench press, overhead press, push-ups)",
+            "Pull: Horizontal/vertical pulling (rows, pull-ups, lat pulldowns)",
+            "Carry: Loaded carries (farmer's walks, suitcase carries)",
+            "Core: Anti-rotation, anti-extension (planks, dead bugs, pallof press)",
+            "Program: Include all patterns weekly",
+            "Balance: Don't neglect any pattern"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Sets, Reps, and Weight",
+          "items": [
+            "Strength: 3-5 sets, 3-6 reps, heavy weight (85-95% max)",
+            "Hypertrophy (muscle growth): 3-4 sets, 8-12 reps, moderate (70-85% max)",
+            "Endurance: 2-3 sets, 15+ reps, light weight (50-70% max)",
+            "General fitness: 3 sets, 8-12 reps works well",
+            "Rest between sets: 1-2 min for hypertrophy, 3-5 min for strength",
+            "RPE (Rate of Perceived Exertion): Last 2 reps should be challenging",
+            "Progressive: Add weight when you can do max reps with good form",
+            "Start light: Focus on form first, weight comes later"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Beginner Program Example",
+          "items": [
+            "Day 1 - Full body: Squat, bench press, row, plank (3x10)",
+            "Day 2 - Rest or light cardio",
+            "Day 3 - Full body: Deadlift, overhead press, pull-up/lat pulldown, side plank (3x10)",
+            "Day 4 - Rest",
+            "Day 5 - Full body: Lunges, push-ups, dumbbell row, farmer's walk (3x10)",
+            "Day 6-7 - Rest",
+            "Duration: 45-60 min including warm-up",
+            "Progress: Add weight or reps when you can complete all sets"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Common Mistakes",
+          "items": [
+            "Ego lifting: Too much weight, poor form (leads to injury)",
+            "Skipping warm-up: Increases injury risk",
+            "Neglecting legs: Don't skip leg day",
+            "No progression: Doing same weight forever",
+            "Too much volume: More isn't always better",
+            "Poor form: Sacrificing technique for weight",
+            "Skipping rest days: Muscle grows during recovery",
+            "Comparing to others: Focus on your own progress"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What are compound exercises?",
+          "options": [
+            "Complex and difficult",
+            "Movements that work multiple muscle groups (squats, deadlifts, rows)",
+            "Single muscle isolation only",
+            "Advanced exercises only"
+          ],
+          "correctIndex": 1,
+          "explanation": "Compound exercises work multiple muscle groups simultaneously (squats, deadlifts, bench press, rows). More efficient and functional than isolation. Beginners should focus on compounds first."
+        },
+        {
+          "question": "How many reps for muscle growth (hypertrophy)?",
+          "options": [
+            "1-3 reps",
+            "8-12 reps with moderate weight (70-85% max)",
+            "30+ reps",
+            "Reps don't matter"
+          ],
+          "correctIndex": 1,
+          "explanation": "8-12 reps with moderate weight (70-85% max) is optimal for hypertrophy (muscle growth). 3-4 sets. Last 2 reps should be challenging with good form."
+        }
+      ]
+    }
+  },
+  {
+    "id": "flexibility-mobility",
+    "title": "Flexibility & Mobility",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Flexibility and mobility are different but related. Flexibility = muscle length (passive). Mobility = joint range of motion with control (active). Both matter for injury prevention, performance, and daily function. Tight muscles and restricted joints lead to compensation, poor movement patterns, and injury. This lesson shows you how to improve both."
+        },
+        {
+          "type": "list",
+          "title": "Flexibility vs Mobility",
+          "items": [
+            "Flexibility: Ability of muscle to lengthen passively",
+            "Example: Sitting and reaching toes (hamstring flexibility)",
+            "Mobility: Range of motion actively controlled by muscles",
+            "Example: Deep squat with control (hip, ankle, thoracic mobility)",
+            "Both needed: Flexible without mobile = unstable",
+            "Mobile without flexible: Limited range",
+            "Goal: Optimal combination of both",
+            "Training: Stretch for flexibility, move for mobility"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Benefits",
+          "items": [
+            "Injury prevention: Better movement reduces strain",
+            "Performance: Full range = more strength potential",
+            "Recovery: Reduces muscle soreness and tension",
+            "Posture: Corrects imbalances from sitting",
+            "Pain reduction: Especially back and joint pain",
+            "Daily function: Easier to bend, reach, move",
+            "Aging: Maintains independence longer",
+            "Stress relief: Stretching calms nervous system"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Static vs dynamic stretching: Static = hold stretch 30-60 seconds (best after workout or evening). Dynamic = moving through range of motion (best before workout). Don't do deep static stretching before strength training - can temporarily reduce power output."
+        },
+        {
+          "type": "list",
+          "title": "Essential Stretches",
+          "items": [
+            "Hip flexor: Lunge position, push hips forward (sitting shortens these)",
+            "Hamstrings: Forward fold or lying leg raise",
+            "Chest: Doorway stretch (counteracts hunched posture)",
+            "Shoulders: Cross-body arm pull, overhead reach",
+            "Lower back: Child's pose, cat-cow",
+            "Calves: Wall push, downward dog",
+            "Neck: Gentle tilts and rotations",
+            "Hold each: 30-60 seconds, breathe deeply, no bouncing"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Mobility Drills",
+          "items": [
+            "Hip circles: Large circles each direction",
+            "Leg swings: Forward/back and side-to-side",
+            "Arm circles: Small to large, both directions",
+            "Cat-cow: Spine flexion and extension",
+            "Thread the needle: Thoracic rotation",
+            "Ankle circles: Both directions, all ranges",
+            "World's greatest stretch: Hip flexor, thoracic rotation, hamstring",
+            "Do before workout: 5-10 minutes dynamic warm-up"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Daily Routine (10 minutes)",
+          "items": [
+            "Morning: Cat-cow (10x), hip circles (10 each), arm circles (10 each)",
+            "Work breaks: Stand and reach overhead (10x), neck rolls (5 each)",
+            "Evening: Hip flexor stretch (60 sec each), hamstring stretch (60 sec)",
+            "Before bed: Child's pose (2 min), lying spinal twist (90 sec each)",
+            "Consistency: Daily practice beats occasional long sessions",
+            "Gentle: Never force, stretch should feel good",
+            "Breathe: Deep breathing enhances stretch",
+            "Progress: Range improves gradually over weeks"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Common Issues & Fixes",
+          "items": [
+            "Tight hips: Daily hip flexor stretches, deep squats",
+            "Tight shoulders: Doorway chest stretch, overhead reaches",
+            "Lower back pain: Child's pose, cat-cow, strengthen core",
+            "Poor squat: Ankle mobility drills, goblet squats",
+            "Rounded shoulders: Chest stretches, upper back strengthening",
+            "Limited overhead reach: Lat stretches, thoracic extension",
+            "Forward head: Neck stretches, strengthen deep neck flexors",
+            "Consistent work: Most mobility issues from lack of movement"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the difference between flexibility and mobility?",
+          "options": [
+            "No difference",
+            "Flexibility is passive muscle length; mobility is active controlled range",
+            "Flexibility is better",
+            "Mobility doesn't matter"
+          ],
+          "correctIndex": 1,
+          "explanation": "Flexibility = passive muscle lengthening. Mobility = active controlled range of motion. Need both: flexible without mobile = unstable. Mobile without flexible = limited range."
+        },
+        {
+          "question": "When should you do static stretching?",
+          "options": [
+            "Before strength training",
+            "After workout or evening - not before strength training",
+            "Never",
+            "All the time"
+          ],
+          "correctIndex": 1,
+          "explanation": "Static stretching (holding 30-60 sec) best after workout or evening. Dynamic stretching before workout. Deep static stretching before strength training can temporarily reduce power."
+        }
+      ]
+    }
+  },
+  {
+    "id": "recovery-rest",
+    "title": "Recovery & Rest",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Training breaks down muscle. Recovery builds it back stronger. Most people overtrain and under-recover. Your body adapts and grows during rest, not during workout. Sleep, nutrition, stress management, and strategic rest days determine results as much as training. This lesson covers recovery essentials for optimal progress and injury prevention."
+        },
+        {
+          "type": "list",
+          "title": "Why Recovery Matters",
+          "items": [
+            "Muscle repair: Micro-tears from training heal stronger",
+            "Adaptation: Body supercompensates during recovery",
+            "Performance: Rested muscles perform better",
+            "Injury prevention: Overtraining increases injury risk",
+            "Hormone balance: Overtraining elevates cortisol",
+            "Immune function: Adequate rest maintains immunity",
+            "Mental freshness: Prevents burnout and maintains motivation",
+            "Progress: Gains happen during recovery, not in gym"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Sleep & Recovery",
+          "items": [
+            "7-9 hours: Non-negotiable for optimal recovery",
+            "Deep sleep: When growth hormone releases",
+            "Muscle repair: Protein synthesis peaks during sleep",
+            "Performance: Sleep deprivation reduces strength 10-20%",
+            "Injury risk: Sleep less than 6 hours = 3x injury risk",
+            "Recovery quality: Sleep quality > quantity",
+            "Consistency: Same bedtime/wake time optimizes recovery",
+            "Priority: If choosing between workout and sleep, choose sleep"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Active recovery vs complete rest: Active recovery (light movement, walking, yoga, swimming) promotes blood flow and reduces soreness without stressing body. Complete rest (no structured exercise) needed for full recovery. Mix both throughout week based on training intensity and fatigue levels."
+        },
+        {
+          "type": "list",
+          "title": "Recovery Techniques",
+          "items": [
+            "Sleep: Priority #1, nothing replaces it",
+            "Nutrition: Adequate protein (1.6-2.2g/kg), calories, micronutrients",
+            "Hydration: Half body weight in ounces daily",
+            "Foam rolling: 10-15 min on sore muscles",
+            "Stretching: 10-15 min daily reduces tightness",
+            "Cold/heat: Ice for acute injury, heat for chronic tension",
+            "Massage: Monthly professional or self-massage",
+            "Stress management: Chronic stress impairs recovery"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Signs You Need More Recovery",
+          "items": [
+            "Performance decline: Getting weaker, not stronger",
+            "Persistent fatigue: Tired despite adequate sleep",
+            "Elevated resting heart rate: 5-10 bpm above normal",
+            "Irritability: Mood changes, short temper",
+            "Sleep issues: Can't fall asleep despite being tired",
+            "Increased injuries: Nagging pains that won't heal",
+            "Loss of motivation: Don't want to train",
+            "Immune issues: Getting sick frequently"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Weekly Recovery Structure",
+          "items": [
+            "Training days: 3-5 days of structured exercise",
+            "Active recovery: 1-2 days light movement (walk, yoga, swim)",
+            "Complete rest: 1-2 days no structured exercise",
+            "Example week: Mon/Wed/Fri strength, Tue/Thu cardio, Sat active recovery, Sun rest",
+            "Listen to body: Extra rest day if feeling run down",
+            "Deload weeks: Every 4-6 weeks reduce volume 40-50%",
+            "Quality over quantity: 3 great workouts > 6 mediocre ones",
+            "Recovery is training: Treat rest days as important as workout days"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Overtraining Prevention",
+          "items": [
+            "Progressive: Don't increase volume/intensity more than 10% weekly",
+            "Variety: Mix high and low intensity throughout week",
+            "Deload: Reduce volume every 4-6 weeks",
+            "Track: Monitor performance, mood, sleep, energy",
+            "Nutrition: Fuel training with adequate calories",
+            "Stress: Manage life stress (it counts toward total stress load)",
+            "Warning signs: Take extra rest at first sign of overtraining",
+            "Remember: More training ≠ better results"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "When does muscle actually grow?",
+          "options": [
+            "During the workout",
+            "During recovery and sleep - training breaks down, rest builds up",
+            "Immediately after eating",
+            "Never"
+          ],
+          "correctIndex": 1,
+          "explanation": "Muscle grows during recovery, not during workout. Training breaks down muscle tissue, recovery (especially sleep) rebuilds it stronger. Under-recovery = no progress despite training."
+        },
+        {
+          "question": "How many complete rest days should you take per week?",
+          "options": [
+            "Zero - train every day",
+            "1-2 days with no structured exercise",
+            "Every other day",
+            "Most of the week"
+          ],
+          "correctIndex": 1,
+          "explanation": "Take 1-2 complete rest days weekly with no structured exercise. Add 1-2 active recovery days (light movement). Quality beats quantity. 3-5 good training days enough for results."
+        }
+      ]
+    }
+  },
+  {
+    "id": "exercise-programming",
+    "title": "Exercise Programming",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Random workouts don't build results. Strategic programming does. Good program balances volume, intensity, frequency, and recovery. It progresses systematically toward goals. It prevents plateaus and injury. You need structure. This lesson teaches you how to design effective training program or evaluate programs you're considering."
+        },
+        {
+          "type": "list",
+          "title": "Programming Principles",
+          "items": [
+            "Specificity: Train what you want to improve",
+            "Progressive overload: Gradually increase challenge",
+            "Variation: Change stimulus to prevent adaptation plateau",
+            "Individualization: What works for others may not work for you",
+            "Periodization: Plan training in phases",
+            "Recovery: Build in rest and deload weeks",
+            "Sustainability: Can you maintain this long-term?",
+            "Enjoyment: If you hate it, you won't stick with it"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Training Split Options",
+          "items": [
+            "Full body: Train all muscles 2-3x/week (best for beginners)",
+            "Upper/Lower: 2 days upper, 2 days lower per week",
+            "Push/Pull/Legs: 3-6 days, split by movement pattern",
+            "Body part split: Each muscle group once per week (advanced, high volume)",
+            "Beginner: Full body 3x/week",
+            "Intermediate: Upper/Lower or Push/Pull/Legs",
+            "Advanced: Any split with proper programming",
+            "Choose: Based on frequency, goals, recovery capacity"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Progressive overload strategies: (1) Add weight - increase load 2.5-5 lbs when you hit rep target, (2) Add reps - increase reps within set range, (3) Add sets - increase volume, (4) Improve form - control tempo, full range, (5) Reduce rest - same work in less time. Use one method at a time."
+        },
+        {
+          "type": "list",
+          "title": "Sample Beginner Program (Full Body 3x/week)",
+          "items": [
+            "Warm-up: 5-10 min light cardio, dynamic stretches",
+            "Day A: Squat 3x10, Bench Press 3x10, Bent Row 3x10, Plank 3x30sec",
+            "Day B: Deadlift 3x8, Overhead Press 3x10, Pull-up/Lat Pulldown 3x10, Side Plank 3x30sec",
+            "Day C: Lunge 3x10 each, Push-up 3x10-15, Dumbbell Row 3x10, Farmer's Walk 3x30sec",
+            "Schedule: Mon-A, Wed-B, Fri-C, repeat",
+            "Cardio: 20-30 min moderate intensity 2-3x/week on rest days",
+            "Progress: Add weight when you complete all sets with good form",
+            "Duration: Follow 8-12 weeks before changing"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Periodization Basics",
+          "items": [
+            "Mesocycle: 4-6 week training block with specific focus",
+            "Week 1-3: Build volume progressively",
+            "Week 4: Peak intensity (hardest week)",
+            "Week 5: Deload - reduce volume 40-50%",
+            "Week 6: Start new cycle with different focus",
+            "Example: Block 1 (strength), Block 2 (hypertrophy), Block 3 (power)",
+            "Prevents plateau: Changing stimulus drives adaptation",
+            "Long-term: Sustainable progress over years"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Evaluating a Program",
+          "items": [
+            "Clear goal: Does it align with your objective?",
+            "Progression: Is there systematic overload?",
+            "Balance: All movement patterns included?",
+            "Recovery: Built-in rest and deload weeks?",
+            "Realistic: Can you actually follow this schedule?",
+            "Time commitment: Fits your available time?",
+            "Equipment: Do you have access to what's needed?",
+            "Red flags: Extreme volume, no rest, injury-prone exercises"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Common Programming Mistakes",
+          "items": [
+            "No plan: Random workouts don't build results",
+            "Program hopping: Switching every 2 weeks (no time to adapt)",
+            "Too much volume: More isn't better past certain point",
+            "No progression: Same weights/reps forever",
+            "No deloads: Constant hard training leads to burnout",
+            "Imbalanced: Too much pushing, not enough pulling",
+            "Ignoring recovery: Training 7 days/week",
+            "Copying advanced: Programs for advanced lifters don't work for beginners"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the best training split for beginners?",
+          "options": [
+            "Body part split (chest day, back day, etc)",
+            "Full body 2-3x per week - train all muscles frequently",
+            "7 days per week training",
+            "Random workouts"
+          ],
+          "correctIndex": 1,
+          "explanation": "Full body 2-3x per week is best for beginners. Train all muscles frequently (2-3x/week better than once). More practice with movements, simpler to follow, better results."
+        },
+        {
+          "question": "What is a deload week?",
+          "options": [
+            "Complete rest",
+            "Reduce training volume 40-50% every 4-6 weeks for recovery",
+            "Train harder",
+            "Change exercises completely"
+          ],
+          "correctIndex": 1,
+          "explanation": "Deload week: reduce volume 40-50% every 4-6 weeks. Allows recovery from accumulated fatigue. Maintains movement patterns but reduces stress. Prevents burnout and enhances long-term progress."
+        }
+      ]
+    }
+  }
+]
