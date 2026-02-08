@@ -1,1 +1,542 @@
-[Module 2 will be in separate push...]
+[
+  {
+    "id": "understanding-stress",
+    "title": "Understanding Stress",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Stress isn't the enemy. It's neutral—your response determines whether it strengthens or destroys you. Same stressor, two people, completely different outcomes. One thrives, one breaks. Difference isn't the stress—it's perception and coping mechanisms. Understanding stress is first step to managing it. Stress managed well builds resilience. Stress managed poorly causes burnout."
+        },
+        {
+          "type": "list",
+          "title": "What Stress Actually Is",
+          "items": [
+            "Definition: Body's response to perceived demands or threats",
+            "Biological: Fight-or-flight response—evolved for survival",
+            "Acute stress: Short-term response to immediate threat (helpful)",
+            "Chronic stress: Persistent stress over time (harmful)",
+            "Eustress: Positive stress that motivates and energizes",
+            "Distress: Negative stress that overwhelms and depletes",
+            "Key: Not stress itself but chronicity and perception"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Stress mindset: Stanford research shows your beliefs about stress matter. People who view stress as harmful experience negative health impacts. Those who view stress as enhancing performance experience benefits. Stress can make you sick or make you stronger. Your mindset is deciding factor."
+        },
+        {
+          "type": "list",
+          "title": "Signs of Stress Overload",
+          "items": [
+            "Physical: Headaches, muscle tension, fatigue, sleep problems, digestive issues",
+            "Emotional: Anxiety, irritability, overwhelm, mood swings, feeling helpless",
+            "Cognitive: Poor concentration, racing thoughts, constant worrying, memory problems",
+            "Behavioral: Isolation, procrastination, substance use, appetite changes",
+            "Warning: If experiencing multiple consistently, stress is too high",
+            "Burnout: Chronic stress leading to exhaustion, cynicism, reduced performance"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Common Stress Sources",
+          "items": [
+            "Work: Deadlines, workload, difficult relationships, job insecurity",
+            "Financial: Debt, expenses, income instability",
+            "Relationships: Conflict, breakups, loneliness",
+            "Health: Illness, injury, chronic conditions",
+            "Major life changes: Moving, career change, loss",
+            "Daily hassles: Traffic, technology issues, minor frustrations",
+            "Internal: Perfectionism, comparison, unrealistic expectations"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The stress bucket analogy: Imagine bucket representing your stress capacity. Various stressors fill it (work, money, relationships, health). Coping mechanisms drain it (exercise, sleep, social support, hobbies). Problem occurs when input exceeds drainage. Bucket overflows: breakdown. Solution: reduce inputs and/or increase drainage."
+        },
+        {
+          "type": "list",
+          "title": "Stress Assessment",
+          "items": [
+            "List stressors: Write everything causing stress currently",
+            "Rate impact: 1-10 for each stressor",
+            "Categorize: Can I control this? (Yes/no/partially)",
+            "Controllable: Take action to reduce or eliminate",
+            "Uncontrollable: Change perception or accept",
+            "Partially controllable: Address what you can, accept rest",
+            "Review monthly: Stressors change over time"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What determines whether stress helps or harms?",
+          "options": [
+            "The stressor itself",
+            "Your perception and coping mechanisms",
+            "How much money you have",
+            "Your genetics only"
+          ],
+          "correctIndex": 1,
+          "explanation": "Your perception and coping mechanisms determine whether stress helps or harms. Same stressor, different responses lead to completely different outcomes."
+        },
+        {
+          "question": "What's the difference between eustress and distress?",
+          "options": [
+            "No difference",
+            "Eustress is positive/motivating, distress is negative/overwhelming",
+            "Eustress is worse",
+            "Only distress exists"
+          ],
+          "correctIndex": 1,
+          "explanation": "Eustress: positive stress that motivates and energizes. Distress: negative stress that overwhelms and depletes. Both are stress responses with different outcomes."
+        }
+      ]
+    }
+  },
+  {
+    "id": "stress-reduction-techniques",
+    "title": "Stress Reduction Techniques",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Knowing about stress management isn't enough—you need practical tools you'll actually use. Best technique is one you'll practice consistently. These aren't one-time fixes. They're skills requiring regular practice. Like muscle, stress management capacity strengthens with training. Start with one technique, master it, add others."
+        },
+        {
+          "type": "list",
+          "title": "Breathing Techniques",
+          "items": [
+            "Box breathing: Inhale 4 counts, hold 4, exhale 4, hold 4, repeat (Navy SEALs use this)",
+            "4-7-8 breathing: Inhale 4 counts, hold 7, exhale 8 (calming, sleep aid)",
+            "Physiological sigh: Two inhales through nose, long exhale through mouth (fastest stress relief)",
+            "Why it works: Activates parasympathetic nervous system, counters fight-or-flight",
+            "When: Feeling anxious, before stressful event, difficulty sleeping",
+            "Practice: 2-5 minutes, anywhere, anytime"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Progressive Muscle Relaxation",
+          "items": [
+            "Method: Systematically tense and release muscle groups",
+            "1. Tense muscle group (fists, arms, shoulders, face, etc.) for 5 seconds",
+            "2. Release tension completely, notice difference",
+            "3. Move through all major muscle groups",
+            "Benefit: Releases physical tension, increases body awareness",
+            "Duration: 10-15 minutes",
+            "When: Before bed, during breaks, when physically tense"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The power of movement: Exercise is most effective stress reliever. Doesn't have to be intense—walking works. Movement metabolizes stress hormones, releases endorphins, provides mental break. 20-30 minutes of movement significantly reduces stress and anxiety. Make it non-negotiable daily practice."
+        },
+        {
+          "type": "list",
+          "title": "Mindfulness & Meditation",
+          "items": [
+            "Mindfulness: Present moment awareness without judgment",
+            "Meditation: Formal practice training attention",
+            "Benefits: Reduced anxiety, better emotional regulation, increased focus",
+            "Start: 5 minutes daily, focusing on breath",
+            "Apps: Headspace, Calm, Insight Timer (guided meditations)",
+            "Throughout day: Mini-mindfulness moments (eating, walking, waiting)",
+            "Evidence: Decades of research supporting effectiveness"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Grounding Techniques",
+          "items": [
+            "5-4-3-2-1: Name 5 things you see, 4 you hear, 3 you feel, 2 you smell, 1 you taste",
+            "Cold water: Splash face, hold ice cube, cold shower (physiological reset)",
+            "Physical sensation: Press feet into ground, squeeze stress ball",
+            "Counting backwards: Count back from 100 by 7s (engages thinking brain)",
+            "Name game: Name items in categories (capitals, animals, foods)",
+            "When: Panic, overwhelm, dissociation",
+            "Purpose: Bring awareness back to present moment"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Journaling for Stress",
+          "items": [
+            "Worry dump: Write all worries, get them out of head onto paper",
+            "Stress analysis: What's actually within my control?",
+            "Gratitude: Three things you're grateful for (shifts perspective)",
+            "Brain dump: Stream of consciousness, no editing",
+            "Problem-solving: What's one small action I can take?",
+            "Duration: 5-10 minutes",
+            "Evidence: Writing about stress reduces its impact"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Quick Stress Relief (Under 5 Minutes)",
+          "items": [
+            "Breathing: 2 minutes of box breathing or physiological sighs",
+            "Walk: 5-minute walk outside",
+            "Music: Listen to calming music",
+            "Laugh: Watch funny video",
+            "Connect: Text friend",
+            "Stretch: Basic stretches at desk",
+            "Cold water: Splash face or drink glass of cold water"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the fastest stress relief breathing technique?",
+          "options": [
+            "Regular breathing",
+            "Physiological sigh (two inhales, long exhale)",
+            "Holding breath",
+            "Breathing fast"
+          ],
+          "correctIndex": 1,
+          "explanation": "Physiological sigh (two inhales through nose, long exhale through mouth) is fastest stress relief. Activates parasympathetic nervous system, countering fight-or-flight."
+        },
+        {
+          "question": "Why is exercise effective for stress?",
+          "options": [
+            "It's a distraction",
+            "Metabolizes stress hormones, releases endorphins, provides mental break",
+            "It doesn't work",
+            "Only intense exercise helps"
+          ],
+          "correctIndex": 1,
+          "explanation": "Exercise metabolizes stress hormones, releases endorphins, and provides mental break. Even walking works. 20-30 minutes significantly reduces stress and anxiety."
+        }
+      ]
+    }
+  },
+  {
+    "id": "work-life-balance",
+    "title": "Work-Life Balance & Boundaries",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Work-life balance is myth. Perfect balance doesn't exist—life is dynamic, requiring constant adjustment. Better frame: work-life integration or boundaries. Can you work hard when needed while protecting recovery time? Can you be present where you are? Burnout comes not from hard work but from work without recovery, boundary violation, and misalignment with values."
+        },
+        {
+          "type": "list",
+          "title": "Why Boundaries Matter",
+          "items": [
+            "Energy management: Protect recovery time for sustained performance",
+            "Relationship quality: Be present with people, not constantly distracted",
+            "Mental health: Prevent burnout, maintain well-being",
+            "Productivity: Rested people produce better work",
+            "Resentment prevention: Clear boundaries reduce frustration",
+            "Self-respect: Communicating needs and limits",
+            "Reality: Lack of boundaries leads to diminishing returns"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Types of Boundaries",
+          "items": [
+            "Time: Work hours, meeting times, availability",
+            "Physical: Personal space, workspace",
+            "Emotional: What you'll tolerate, what you won't",
+            "Mental: Protecting attention and focus",
+            "Digital: Email, messages, social media use",
+            "Relational: What you share, level of intimacy",
+            "Practice: Boundaries aren't selfish—they're necessary"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The boundary equation: Boundary = limit + consequence. Stating limit without enforcing consequence isn't boundary—it's suggestion. 'I don't work weekends' (limit) + actually not working weekends (consequence to yourself) + declining weekend requests (consequence to others) = boundary. Boundaries require enforcement."
+        },
+        {
+          "type": "list",
+          "title": "Setting Healthy Boundaries",
+          "items": [
+            "1. Identify need: Where are you overextended or resentful?",
+            "2. Define boundary: What's acceptable vs. not?",
+            "3. Communicate clearly: 'I [need/don't] because [reason]'",
+            "4. Be consistent: Follow through, don't make exceptions",
+            "5. Expect pushback: People benefiting from lack of boundaries resist",
+            "6. Stay firm: Guilt is common but doesn't mean you're wrong",
+            "Example: 'I don't check email after 7pm to be present with family'"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Work Boundaries",
+          "items": [
+            "Set hours: Define when you're available vs. offline",
+            "Email rules: Don't check first thing or before bed, batch process",
+            "Meeting blocks: Protect time for focused work",
+            "Say no: Decline non-essential commitments",
+            "Vacation: Actually take it, actually unplug",
+            "Separate workspace: If working from home, designated area",
+            "Phone boundaries: Turn off notifications outside work hours"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Recovery is productive: High performers prioritize recovery. World-class athletes train hard then rest hard. Same principle applies to knowledge work. Your brain needs downtime to consolidate learning, solve problems creatively, maintain performance. Working 80-hour weeks without recovery leads to burnout and diminishing returns."
+        },
+        {
+          "type": "list",
+          "title": "Quality Recovery Practices",
+          "items": [
+            "Sleep: Non-negotiable 7-9 hours",
+            "Exercise: Daily movement, stress relief",
+            "Hobbies: Activities purely for enjoyment",
+            "Social connection: Quality time with people you care about",
+            "Nature: Time outdoors, proven stress reduction",
+            "Unplugging: Regular phone-free time",
+            "Micro-breaks: Short breaks throughout workday"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the boundary equation?",
+          "options": [
+            "Boundary = saying no",
+            "Boundary = limit + consequence (enforcement)",
+            "Boundary = being mean",
+            "Boundaries don't need enforcement"
+          ],
+          "correctIndex": 1,
+          "explanation": "Boundary = limit + consequence. Stating limit without enforcing consequence isn't boundary—it's suggestion. Boundaries require consistent enforcement."
+        },
+        {
+          "question": "Why is recovery productive?",
+          "options": [
+            "It's not productive",
+            "Brain needs downtime to consolidate learning, solve problems, maintain performance",
+            "Recovery is laziness",
+            "Only weak people need recovery"
+          ],
+          "correctIndex": 1,
+          "explanation": "Recovery is productive because brain needs downtime to consolidate learning, solve problems creatively, and maintain performance. Working without recovery leads to burnout and diminishing returns."
+        }
+      ]
+    }
+  },
+  {
+    "id": "sleep-energy",
+    "title": "Sleep & Energy Management",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Sleep is foundation of mental resilience. Everything harder when you're tired: emotion regulation, decision-making, stress management, focus, memory. Chronic sleep deprivation is epidemic killing performance and well-being. You can't optimize your way around sleep need. 7-9 hours isn't suggestion—it's biological requirement. Sleep or pay the price."
+        },
+        {
+          "type": "list",
+          "title": "Why Sleep Matters",
+          "items": [
+            "Cognitive function: Memory consolidation, learning, creativity",
+            "Emotional regulation: Sleep-deprived people more reactive, less resilient",
+            "Physical health: Immune function, metabolism, recovery",
+            "Mental health: Sleep problems linked to depression, anxiety",
+            "Performance: Reaction time, decision quality, focus all decline",
+            "Safety: Drowsy driving as dangerous as drunk driving",
+            "Research: Even one night of poor sleep has measurable impacts"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Sleep Hygiene",
+          "items": [
+            "Consistent schedule: Same bedtime and wake time, even weekends",
+            "Dark room: Blackout curtains, no light sources",
+            "Cool temperature: 65-68°F optimal for most people",
+            "No screens 1 hour before bed: Blue light disrupts melatonin",
+            "No caffeine after 2pm: Half-life is 5-6 hours",
+            "No alcohol before bed: Disrupts sleep quality despite making you drowsy",
+            "Wind-down routine: Reading, stretching, calm activities"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Sleep debt compounds: Missing hour each night adds up to full night lost per week. Can't fully compensate by sleeping in weekends. Chronic sleep debt associated with obesity, diabetes, cardiovascular disease, depression, and shortened lifespan. The 'I'll sleep when I'm dead' mentality accelerates death. Sleep is investment, not expense."
+        },
+        {
+          "type": "list",
+          "title": "Energy Management",
+          "items": [
+            "Concept: Manage energy, not just time",
+            "Physical energy: Sleep, nutrition, exercise",
+            "Mental energy: Breaks, varied tasks, deep work boundaries",
+            "Emotional energy: Positive interactions, boundaries, recovery",
+            "Spiritual energy: Purpose, meaning, values alignment",
+            "Ultradian rhythms: Natural 90-minute cycles, work with them",
+            "Strategy: Match task difficulty to energy levels"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Protecting Your Energy",
+          "items": [
+            "Morning: Protect first hours for most important work (highest energy)",
+            "Afternoon dip: Normal energy decrease 2-4pm, schedule accordingly",
+            "Energy vampires: Minimize time with draining people/activities",
+            "Batch low-energy tasks: Administrative work during low-energy periods",
+            "Strategic breaks: Short breaks prevent energy depletion",
+            "Nutrition: Stable blood sugar, avoid crashes",
+            "Movement: Brief movement breaks restore mental energy"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Sleep Problems Solutions",
+          "items": [
+            "Can't fall asleep: Leave bedroom if not asleep after 20 minutes, return when sleepy",
+            "Racing thoughts: Journal before bed, brain dump worries",
+            "Waking up: Keep bedroom dark and cool, limit fluid before bed",
+            "Anxiety about sleep: Stop checking clock, creates more anxiety",
+            "Sleep apps: Track patterns to identify issues",
+            "Supplements: Magnesium, glycine can help (consult doctor)",
+            "Professional help: Persistent sleep problems need doctor/sleep specialist"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Why is sleep non-negotiable for resilience?",
+          "options": [
+            "It's not important",
+            "Everything harder when tired - emotion regulation, decisions, stress management, focus all decline",
+            "You can optimize around it",
+            "Some people don't need sleep"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sleep is foundation of resilience. Everything harder when tired: emotion regulation, decision-making, stress management, focus, memory all decline. 7-9 hours is biological requirement."
+        },
+        {
+          "question": "What's energy management?",
+          "options": [
+            "Only managing time",
+            "Managing physical, mental, emotional, and spiritual energy - matching tasks to energy levels",
+            "Drinking energy drinks",
+            "Working non-stop"
+          ],
+          "correctIndex": 1,
+          "explanation": "Energy management: managing physical, mental, emotional, and spiritual energy. Match task difficulty to energy levels. Work with natural rhythms, take strategic breaks."
+        }
+      ]
+    }
+  },
+  {
+    "id": "building-support",
+    "title": "Building Support Systems",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "You can't do it alone. Resilience isn't rugged individualism—it's built on relationships. Strong social support is one of best predictors of resilience, well-being, and longevity. During hard times, people with support systems recover faster. Isolation amplifies suffering. Connection heals. Building support system isn't weakness—it's wisdom."
+        },
+        {
+          "type": "list",
+          "title": "Why Social Support Matters",
+          "items": [
+            "Emotional regulation: Others help process difficult emotions",
+            "Perspective: External viewpoints challenge distorted thinking",
+            "Practical help: Assistance during crises",
+            "Belonging: Sense of connection, reduces isolation",
+            "Health: Strong relationships linked to better health, longer life",
+            "Buffer: Social support protects against stress impacts",
+            "Evidence: Loneliness as harmful as smoking 15 cigarettes daily"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Types of Support",
+          "items": [
+            "Emotional: Empathy, listening, comfort, validation",
+            "Practical: Help with tasks, resources, problem-solving",
+            "Informational: Advice, guidance, knowledge",
+            "Companionship: Shared activities, presence",
+            "Affirmation: Encouragement, believing in you",
+            "Note: Different people provide different types",
+            "Reciprocal: Support flows both directions"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The support audit: List people in your life. Who energizes you? Who drains you? Who can you be vulnerable with? Who supports your growth? Who pulls you down? Resilience requires honest assessment of relationships. Sometimes building support means adding new connections. Sometimes it means reducing time with toxic people."
+        },
+        {
+          "type": "list",
+          "title": "Building Your Support Network",
+          "items": [
+            "Identify needs: What type of support do you need?",
+            "Existing relationships: Deepen current connections",
+            "New connections: Join groups, classes, communities aligned with interests",
+            "Diverse network: Different people for different needs",
+            "Regular contact: Relationships require maintenance",
+            "Be supportive: Give support to receive it",
+            "Professional: Therapist, coach, mentor"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Asking for Help",
+          "items": [
+            "Common barrier: 'I don't want to burden others'",
+            "Reality: People want to help, feel honored being asked",
+            "Be specific: 'Can you help me move Saturday?' vs. 'I need help'",
+            "Accept help: When offered, say yes",
+            "Reciprocate: Balance giving and receiving",
+            "Vulnerability: Sharing struggles deepens connection",
+            "Practice: Start small, build comfort with asking"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "When to seek professional help: Therapist isn't last resort for broken people—it's proactive tool for everyone. Consider therapy when: persistent sadness/anxiety, difficulty functioning, substance use increasing, relationship problems, major life transitions, or wanting to grow. Mental health is like physical health: preventive care beats crisis intervention."
+        },
+        {
+          "type": "list",
+          "title": "Digital vs. In-Person Connection",
+          "items": [
+            "Digital: Convenient, maintains distant relationships",
+            "In-person: Deeper connection, nonverbal communication, stronger bond",
+            "Balance: Use digital to maintain, prioritize in-person for depth",
+            "Video: Better than text, not as good as in-person",
+            "Caution: Social media connection is shallow, can increase loneliness",
+            "Priority: Quality over quantity",
+            "Practice: Weekly in-person connection with someone you care about"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the impact of loneliness on health?",
+          "options": [
+            "No impact",
+            "As harmful as smoking 15 cigarettes daily",
+            "Minor impact",
+            "Only affects mood"
+          ],
+          "correctIndex": 1,
+          "explanation": "Loneliness is as harmful to health as smoking 15 cigarettes daily. Strong social support is one of best predictors of resilience, well-being, and longevity."
+        },
+        {
+          "question": "When should you seek therapy?",
+          "options": [
+            "Only when completely broken",
+            "Proactively for growth, during transitions, persistent struggles, or prevention",
+            "Never",
+            "Only if you can't function at all"
+          ],
+          "correctIndex": 1,
+          "explanation": "Therapy is proactive tool, not last resort. Consider for: persistent sadness/anxiety, transitions, growth, prevention. Mental health is like physical health: preventive care beats crisis intervention."
+        }
+      ]
+    }
+  }
+]
