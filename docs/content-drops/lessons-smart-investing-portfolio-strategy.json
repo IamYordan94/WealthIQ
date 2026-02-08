@@ -1,0 +1,468 @@
+[
+  {
+    "id": "three-fund-portfolio",
+    "title": "The Three-Fund Portfolio",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "The three-fund portfolio is one of investing's most elegant solutions: complete global diversification with just three holdings. Developed by Bogleheads (followers of Vanguard founder John Bogle), this approach provides exposure to US stocks, international stocks, and bonds with minimal complexity and cost. It's simple enough for beginners yet sophisticated enough that many wealthy investors use variations of it."
+        },
+        {
+          "type": "list",
+          "title": "The Three Funds",
+          "items": [
+            "Fund 1: Total US Stock Market Index (VTI, FSKAX, SWTSX) - Owns ~4,000 US companies",
+            "Fund 2: Total International Stock Market Index (VXUS, FTIHX, SWISX) - Owns ~8,000 non-US companies",
+            "Fund 3: Total Bond Market Index (BND, FXNAX, SWAGX) - Owns ~10,000 US bonds",
+            "Combined: Global diversification across 20,000+ holdings with three purchases"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Asset allocation determines your portfolio's character. A 25-year-old might use 60% US stocks, 30% international stocks, 10% bonds (aggressive growth). A 55-year-old might use 40% US stocks, 20% international stocks, 40% bonds (moderate balanced). The beauty is flexibility—adjust allocations based on age, risk tolerance, and goals."
+        },
+        {
+          "type": "list",
+          "title": "Sample Three-Fund Allocations by Age",
+          "items": [
+            "Age 25: 60% US / 30% Int'l / 10% Bonds (90% stocks, aggressive)",
+            "Age 35: 55% US / 25% Int'l / 20% Bonds (80% stocks, growth)",
+            "Age 45: 50% US / 20% Int'l / 30% Bonds (70% stocks, moderate)",
+            "Age 55: 40% US / 20% Int'l / 40% Bonds (60% stocks, balanced)",
+            "Age 65: 30% US / 15% Int'l / 55% Bonds (45% stocks, conservative)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Why It Works",
+          "items": [
+            "Complete diversification: Exposure to virtually every publicly traded stock and bond",
+            "Low cost: Total expense ratios under 0.10% across all three funds",
+            "Simple management: Review annually, rebalance when allocations drift 5%+",
+            "Tax-efficient: Index funds minimize taxable distributions",
+            "Proven results: Matches market returns, beats most actively managed portfolios",
+            "Scalable: Works with $1,000 or $10,000,000"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "You can add a fourth fund (REIT index for real estate exposure) or simplify to two funds (target-date fund that combines all three), but three funds hit the sweet spot of simplicity and comprehensiveness. More funds rarely improve returns and complicate rebalancing. Keep it simple."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What are the three funds in a three-fund portfolio?",
+          "options": [
+            "Three different stock picking funds",
+            "Total US stock, total international stock, total bond index",
+            "Large-cap, mid-cap, and small-cap funds",
+            "Three different target-date funds"
+          ],
+          "correctIndex": 1,
+          "explanation": "The three-fund portfolio consists of total US stock market, total international stock market, and total bond market index funds."
+        },
+        {
+          "question": "How many individual holdings does a three-fund portfolio provide exposure to?",
+          "options": [
+            "About 100",
+            "About 1,000",
+            "About 5,000",
+            "Over 20,000"
+          ],
+          "correctIndex": 3,
+          "explanation": "Combined, the three funds provide exposure to approximately 20,000+ individual stocks and bonds across global markets."
+        }
+      ]
+    }
+  },
+  {
+    "id": "target-date-funds",
+    "title": "Target-Date Funds Explained",
+    "duration": "7 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Target-date funds are the ultimate set-it-and-forget-it investment. Pick a fund with a date near your expected retirement (2050, 2055, 2060), invest consistently, and let professionals handle everything else. The fund automatically owns stocks and bonds in appropriate ratios, gradually becoming more conservative as the target date approaches. For hands-off investors, it's a complete portfolio in one fund."
+        },
+        {
+          "type": "list",
+          "title": "How Target-Date Funds Work",
+          "items": [
+            "Name indicates retirement year: 2055 fund for someone retiring around 2055",
+            "Young funds are aggressive: 90-95% stocks when 30+ years from target",
+            "Automatic glide path: Gradually shifts to bonds as target date nears",
+            "At target date: Typically 50-60% stocks, 40-50% bonds",
+            "After target: Continues becoming more conservative for 20+ years",
+            "All-in-one: Contains US stocks, international stocks, and bonds automatically"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The beauty of target-date funds is behavioral. They prevent tinkering, chasing performance, or panic selling because everything is automated. Research shows investor behavior costs more returns than fees or market timing. Target-date funds remove bad behavior from the equation by making investing boring—and boring works."
+        },
+        {
+          "type": "list",
+          "title": "Pros and Cons",
+          "items": [
+            "Pros: Ultimate simplicity, automatic rebalancing, behavioral protection, built-in diversification",
+            "Pros: Can't make allocation mistakes, perfect for beginners or those who don't want to manage investments",
+            "Cons: Slightly higher fees than building yourself (0.12-0.15% vs 0.05%)",
+            "Cons: One-size-fits-all allocation may not match your specific risk tolerance",
+            "Cons: Can't customize holdings or tax-loss harvest easily"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Choosing a Target-Date Fund",
+          "items": [
+            "Vanguard Target Retirement (VTTSX, VTTVX, etc.): 0.08% expense ratio, conservative glide path",
+            "Fidelity Freedom Index (FDKLX, FNILX, etc.): 0.12% expense ratio, moderate glide path",
+            "Schwab Target Index (SWYNX, SWYHX, etc.): 0.08% expense ratio, moderate glide path",
+            "Choose the fund closest to your retirement year (round to nearest 5-year increment)",
+            "All work well—pick based on where you have account, not minor differences"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Target-date funds versus three-fund portfolios is a false debate. Both work excellently. Choose target-date for simplicity and automation, or three-fund for maximum control and minimal fees. Either approach beats trying to pick individual stocks or timing the market. The best portfolio is the one you'll maintain for 30+ years."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What does the date in a target-date fund represent?",
+          "options": [
+            "When the fund was created",
+            "When you must withdraw money",
+            "Your approximate retirement year",
+            "When the fund closes"
+          ],
+          "correctIndex": 2,
+          "explanation": "The target date represents your expected retirement year, helping the fund automatically adjust allocation appropriately as that date approaches."
+        },
+        {
+          "question": "What is the main advantage of target-date funds?",
+          "options": [
+            "Highest possible returns",
+            "Complete automation and behavioral protection",
+            "No fees",
+            "Guaranteed profits"
+          ],
+          "correctIndex": 1,
+          "explanation": "Target-date funds provide complete automation, removing the need for rebalancing and preventing behavioral mistakes like panic selling."
+        }
+      ]
+    }
+  },
+  {
+    "id": "rebalancing-strategy",
+    "title": "Rebalancing Your Portfolio",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Rebalancing is selling winners and buying losers to maintain your target allocation. It sounds counterintuitive but forces disciplined 'buy low, sell high' behavior. If your target is 70% stocks / 30% bonds and stocks soar to 80%, you sell some stocks and buy bonds. When stocks crash back to 60%, you sell bonds and buy stocks. This systematic approach outperforms emotional decision-making."
+        },
+        {
+          "type": "list",
+          "title": "Why Rebalance?",
+          "items": [
+            "Maintain target risk level: Without rebalancing, portfolio becomes riskier over time as stocks grow",
+            "Force buy low, sell high: Systematically takes profits from winners, invests in lagging assets",
+            "Improve risk-adjusted returns: Studies show rebalancing improves returns relative to risk taken",
+            "Prevent portfolio drift: 70/30 portfolio can become 85/15 after bull market, exposing you to more risk than intended"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "There's no perfect rebalancing frequency. Annual rebalancing works for most investors—check once per year, rebalance if any asset class drifted 5%+ from target. Some prefer calendar-based (December 31st annually), others threshold-based (rebalance whenever drift exceeds 5%). Both work; choose whatever you'll maintain consistently."
+        },
+        {
+          "type": "list",
+          "title": "Rebalancing Methods",
+          "items": [
+            "Sell and buy: Sell overweight assets, buy underweight assets (creates taxable events in taxable accounts)",
+            "Direct contributions: Use new money to buy only underweight assets until balanced",
+            "Combination: Direct new money to underweight assets, sell/buy if drift exceeds 10%",
+            "Best approach: In tax-advantaged accounts, sell/buy freely. In taxable accounts, prioritize new contributions to rebalance"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Step-by-Step Rebalancing",
+          "items": [
+            "1. Review current allocation (most brokers show this automatically)",
+            "2. Compare to target allocation (e.g., target: 70/20/10, current: 75/18/7)",
+            "3. Calculate needed adjustments (need to move 5% from stocks to bonds/international)",
+            "4. Execute trades or direct new contributions to underweight assets",
+            "5. Record new balances and set calendar reminder for next year"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "During major market moves, rebalancing can feel wrong—you're selling assets that have been rising and buying assets that have been falling. This discomfort is precisely why it works. Markets mean-revert over time. Today's winners become tomorrow's laggards, and vice versa. Rebalancing systematically captures this cycle."
+        },
+        {
+          "type": "list",
+          "title": "Rebalancing Don'ts",
+          "items": [
+            "Don't rebalance too frequently (quarterly or more creates unnecessary trading costs and taxes)",
+            "Don't change target allocation during rebalancing (that's market timing, not rebalancing)",
+            "Don't skip rebalancing because 'stocks are doing so well' (that's the point—take profits)",
+            "Don't rebalance in taxable accounts if it creates large capital gains (use new contributions instead)",
+            "Don't rebalance before understanding your target allocation and why you chose it"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is rebalancing?",
+          "options": [
+            "Checking your account balance regularly",
+            "Selling winners and buying losers to maintain target allocation",
+            "Moving all money to cash during crashes",
+            "Increasing contributions"
+          ],
+          "correctIndex": 1,
+          "explanation": "Rebalancing means adjusting your portfolio back to target allocation by selling overweighted assets and buying underweighted ones."
+        },
+        {
+          "question": "How often should most investors rebalance?",
+          "options": [
+            "Daily",
+            "Monthly",
+            "Annually or when drift exceeds 5%",
+            "Never"
+          ],
+          "correctIndex": 2,
+          "explanation": "Most investors benefit from annual rebalancing or rebalancing when any asset class drifts more than 5% from target."
+        },
+        {
+          "question": "What's the best way to rebalance in a taxable account?",
+          "options": [
+            "Sell and buy to get perfect allocation immediately",
+            "Direct new contributions to underweight assets",
+            "Never rebalance in taxable accounts",
+            "Move money to tax-advantaged accounts first"
+          ],
+          "correctIndex": 1,
+          "explanation": "In taxable accounts, directing new money to underweight assets avoids creating taxable events from selling appreciated assets."
+        }
+      ]
+    }
+  },
+  {
+    "id": "tax-efficient-investing",
+    "title": "Tax-Efficient Investing",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Taxes can erode investment returns by 1-2% annually if you're not strategic. It's not what you earn but what you keep after taxes that matters. Understanding tax-efficient investing helps you keep more of your gains through asset location (which accounts hold which assets), tax-loss harvesting, and minimizing taxable events. These strategies compound to hundreds of thousands over decades."
+        },
+        {
+          "type": "list",
+          "title": "Account Types and Tax Treatment",
+          "items": [
+            "Tax-deferred (Traditional IRA, 401k): Contributions deductible now, all withdrawals taxed as ordinary income",
+            "Tax-free (Roth IRA, Roth 401k): After-tax contributions, all qualified withdrawals completely tax-free",
+            "Taxable brokerage: No contribution limits, capital gains and dividends taxed annually, but long-term gains taxed at lower rates",
+            "HSA: Triple tax advantage if used for medical: deductible contributions, tax-free growth, tax-free withdrawals for medical"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Asset location is placing tax-inefficient investments in tax-advantaged accounts and tax-efficient investments in taxable accounts. Bonds and REITs generate ordinary income taxed at high rates—put them in tax-deferred accounts. Total stock market index funds are tax-efficient—they can go in taxable accounts with minimal tax drag."
+        },
+        {
+          "type": "list",
+          "title": "Optimal Asset Location",
+          "items": [
+            "Tax-advantaged accounts (IRA, 401k): Bonds, REITs, actively managed funds, high-turnover funds, international stocks (foreign tax credit lost in these accounts)",
+            "Taxable accounts: Total market index funds, tax-managed funds, municipal bonds (if high tax bracket), buy-and-hold stocks",
+            "Priority order: Max tax-advantaged accounts first, then add taxable investments using tax-efficient assets"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Tax-Loss Harvesting",
+          "items": [
+            "Sell investments at a loss to offset capital gains or up to $3,000 of ordinary income",
+            "Immediately buy similar (but not identical) investment to maintain market exposure",
+            "Example: Sell total market fund at loss, immediately buy S&P 500 fund (similar exposure, satisfies wash sale rule)",
+            "After 31 days, can sell S&P 500 and buy back original total market fund",
+            "Only worthwhile in taxable accounts (no tax benefit in IRA/401k)",
+            "Most valuable during market drops when losses are available"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Capital gains tax rates favor long-term investing. Hold investments over one year and gains are taxed at 0-20% depending on income (most people pay 15%). Sell before one year and gains are taxed as ordinary income at your marginal rate (possibly 22-37%). This alone is a powerful incentive for buy-and-hold investing."
+        },
+        {
+          "type": "list",
+          "title": "Tax-Efficient Investment Behaviors",
+          "items": [
+            "Maximize tax-advantaged accounts before taxable accounts",
+            "Hold investments at least one year before selling (long-term capital gains rates)",
+            "Use index funds in taxable accounts (minimal distributions)",
+            "Donate appreciated stocks to charity (avoid capital gains, get full deduction)",
+            "Avoid frequent trading (creates short-term gains taxed at high rates)",
+            "Consider municipal bonds if in high tax bracket (interest is tax-free)"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is asset location?",
+          "options": [
+            "Where you physically keep your money",
+            "Placing tax-inefficient investments in tax-advantaged accounts",
+            "Only investing in US stocks",
+            "Your asset allocation percentages"
+          ],
+          "correctIndex": 1,
+          "explanation": "Asset location is strategically placing tax-inefficient investments (bonds, REITs) in tax-advantaged accounts and tax-efficient investments in taxable accounts."
+        },
+        {
+          "question": "How long must you hold an investment for long-term capital gains treatment?",
+          "options": [
+            "6 months",
+            "Over 1 year",
+            "2 years",
+            "5 years"
+          ],
+          "correctIndex": 1,
+          "explanation": "You must hold an investment for more than one year to qualify for long-term capital gains tax rates (0-20%), which are lower than ordinary income rates."
+        },
+        {
+          "question": "What is tax-loss harvesting?",
+          "options": [
+            "Avoiding all investment losses",
+            "Selling investments at a loss to offset gains while maintaining market exposure",
+            "Only investing in tax-free bonds",
+            "Deferring taxes indefinitely"
+          ],
+          "correctIndex": 1,
+          "explanation": "Tax-loss harvesting is selling investments at a loss to offset capital gains or income, then immediately buying similar investments to stay invested."
+        }
+      ]
+    }
+  },
+  {
+    "id": "investment-mistakes",
+    "title": "Avoiding Common Investment Mistakes",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Most investment failures come from behavior, not knowledge. Brilliant people make terrible investors by letting emotions drive decisions, chasing trends, or overcomplicating simple strategies. Understanding common mistakes helps you avoid them. The difference between successful and failed investors isn't intelligence or starting capital—it's discipline and avoiding these pitfalls."
+        },
+        {
+          "type": "list",
+          "title": "Timing Mistakes",
+          "items": [
+            "Trying to time the market: 'I'll invest when stocks are lower' leads to sitting out gains indefinitely",
+            "Waiting for perfect moment: Costs more than imperfect immediate action",
+            "Panic selling during crashes: Locks in losses, misses recovery",
+            "Revenge trading: Trying to make back losses quickly leads to bigger losses",
+            "Reality: Time in the market beats timing the market, always start now"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Selection Mistakes",
+          "items": [
+            "Stock picking without expertise: 80-90% of professional stock pickers underperform indexes",
+            "Chasing hot stocks: Investing after gains already happened, often buying at peaks",
+            "Overconcentration: Putting too much in single stocks or sectors increases risk dramatically",
+            "Ignoring fees: 1% fees compound to hundreds of thousands over decades",
+            "Solution: Low-cost diversified index funds beat most alternatives"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Recency bias destroys returns. After stocks soar, people over-invest at peaks thinking growth continues forever. After crashes, people under-invest or sell, missing recoveries. Whatever is happening now feels permanent. Fight this by maintaining consistent contributions regardless of recent performance. Your brain is wired for short-term survival, not long-term investing."
+        },
+        {
+          "type": "list",
+          "title": "Behavioral Mistakes",
+          "items": [
+            "Checking too frequently: Daily checking increases anxiety, leads to emotional decisions",
+            "Following market news obsessively: Financial media profits from fear, not from your success",
+            "Comparing to others: Your coworker's crypto gains ignore their losses; focus on your plan",
+            "Changing strategy mid-course: Abandoning good plans during normal volatility",
+            "Overconfidence after wins: Early luck convinces people they have skill, leading to bigger bets"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Planning Mistakes",
+          "items": [
+            "Investing without emergency fund: Forced to sell at worst times during emergencies",
+            "No written investment policy: Without plan, decisions become emotional reactions",
+            "Ignoring taxes: Not using tax-advantaged accounts first costs thousands annually",
+            "Forgetting inflation: 'Safe' cash loses 2-3% purchasing power yearly",
+            "No beneficiary designations: Creates legal complications, taxes, delays for heirs"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The investing 'experts' on social media showing their gains rarely show their losses. Survivorship bias makes it seem like stock picking and crypto trading work—you see winners, not the 95% who lost money. Don't confuse luck in a bull market with skill. Boring index investing works in all markets, for all decades, for all skill levels."
+        },
+        {
+          "type": "list",
+          "title": "How to Avoid Mistakes",
+          "items": [
+            "Write an investment policy statement: Document goals, allocation, rebalancing rules before emotions hit",
+            "Automate everything: Contributions, rebalancing reminders remove decisions from emotional moments",
+            "Check accounts quarterly maximum: Daily checking increases mistakes exponentially",
+            "Keep it simple: Three-fund portfolio or target-date fund, nothing complex",
+            "Find accountability: Share goals with financially disciplined friend or advisor",
+            "Learn from others' mistakes: Reading about common pitfalls prepares you to avoid them"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the most common investment mistake?",
+          "options": [
+            "Starting with too little money",
+            "Letting emotions drive decisions like panic selling",
+            "Not understanding complex derivatives",
+            "Using index funds instead of picking stocks"
+          ],
+          "correctIndex": 1,
+          "explanation": "Emotional decision-making, especially panic selling during drops, causes more investment failures than any other factor."
+        },
+        {
+          "question": "What is recency bias?",
+          "options": [
+            "Only buying recently launched stocks",
+            "Believing recent market trends will continue indefinitely",
+            "Forgetting about old investments",
+            "Checking your account too recently"
+          ],
+          "correctIndex": 1,
+          "explanation": "Recency bias is the tendency to believe whatever is happening now (bull market or bear market) will continue, leading to poor timing decisions."
+        },
+        {
+          "question": "How often should you check your investment accounts?",
+          "options": [
+            "Multiple times daily",
+            "Daily",
+            "Weekly",
+            "Monthly to quarterly"
+          ],
+          "correctIndex": 3,
+          "explanation": "Checking monthly to quarterly provides adequate oversight without increasing anxiety and emotional decision-making that frequent checking causes."
+        }
+      ]
+    }
+  }
+]
