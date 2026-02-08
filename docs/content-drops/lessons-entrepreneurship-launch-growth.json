@@ -1,1 +1,487 @@
-[Continuing in next push...]
+[
+  {
+    "id": "first-customers",
+    "title": "Getting Your First Customers",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "First customers are hardest. No social proof, no reviews, no brand. You're asking people to trust complete unknown. But first customers don't need to come from ads or SEO—they come from your network, hustle, and direct outreach. Launch to your world first. Friends, family, colleagues, social media connections. Then leverage those initial customers to reach next wave."
+        },
+        {
+          "type": "list",
+          "title": "First Customer Channels",
+          "items": [
+            "Personal network: Email everyone you know, post on social",
+            "Direct outreach: Email/DM ideal customers directly",
+            "Communities: Reddit, Facebook groups, Slack communities, forums",
+            "Content: Blog posts, videos solving their problems",
+            "Partnerships: Collaborate with complementary businesses",
+            "Events: Industry events, meetups, conferences",
+            "Cold calls: Old school but works for some businesses"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Do things that don't scale: Personally recruit every early customer. Hand-written emails. Custom onboarding. Over-deliver on service. This doesn't scale to 10,000 customers. But it gets you to 10. Those 10 become testimonials, case studies, referrals that get you next 100. Then you build scalable systems."
+        },
+        {
+          "type": "list",
+          "title": "The Founder Sales Approach",
+          "items": [
+            "Personal: You're the founder, that's powerful",
+            "Story: Share why you built this, your vision",
+            "Listen: Understand their specific situation",
+            "Customize: Tailor solution to their needs",
+            "Relationship: Building partnership, not just transaction",
+            "Learn: Every conversation teaches you about market",
+            "Feedback: Ask what would make it perfect for them"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Early Customer Incentives",
+          "items": [
+            "Founder's discount: Significantly lower price for early adopters",
+            "Lifetime deal: Pay once, use forever",
+            "Beta access: Exclusive early access",
+            "Influence: Their feedback shapes product",
+            "Recognition: Feature them as founding customers",
+            "Custom features: Build what they specifically need",
+            "Trade: Their testimonial/case study for discount"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 10-100-1000 rule: First 10 customers from personal hustle. Next 100 from those 10 (referrals, testimonials, case studies). Next 1000 from scalable channels (content, ads, SEO). Don't try to jump to 1000 without doing work to get 10. Each stage teaches you what you need for next."
+        },
+        {
+          "type": "list",
+          "title": "Conversion Tactics",
+          "items": [
+            "Free trial: Let them experience value first",
+            "Demo: Show don't tell, personalized walkthrough",
+            "Case studies: Proof others succeeded",
+            "Testimonials: Social proof from similar customers",
+            "Guarantee: Money-back guarantee removes risk",
+            "Urgency: Limited spots or limited-time pricing",
+            "Make it easy: Frictionless signup and payment"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Where do first customers come from?",
+          "options": [
+            "Expensive ads",
+            "Personal network, hustle, and direct outreach",
+            "SEO only",
+            "Viral growth"
+          ],
+          "correctIndex": 1,
+          "explanation": "First customers come from personal network, hustle, and direct outreach. Launch to your world first. Ads and SEO come after proving product."
+        },
+        {
+          "question": "What's the 10-100-1000 rule?",
+          "options": [
+            "Revenue targets",
+            "First 10 from hustle, next 100 from referrals, next 1000 from scalable channels",
+            "Time to success",
+            "Team size"
+          ],
+          "correctIndex": 1,
+          "explanation": "10-100-1000: First 10 from hustle, next 100 from those 10 (referrals), next 1000 from scalable channels. Each stage teaches what's needed for next."
+        }
+      ]
+    }
+  },
+  {
+    "id": "sales-fundamentals",
+    "title": "Sales Fundamentals for Founders",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Sales is serving, not manipulating. You're helping people solve problems, not tricking them into buying. This mindset shift removes guilt and makes sales natural. If you truly believe your product helps, your ethical obligation is to sell it. Not selling means letting people suffer with problem you can solve. Sales = service."
+        },
+        {
+          "type": "list",
+          "title": "Sales Fundamentals",
+          "items": [
+            "Listen first: Understand their problem deeply",
+            "Qualify: Are they good fit? Do they have problem you solve?",
+            "Value: Communicate value, not features",
+            "Handle objections: Address concerns honestly",
+            "Ask for sale: Explicitly ask them to buy",
+            "Follow up: Most sales happen after multiple touches",
+            "Service: Focus on helping, not closing"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The sales conversation framework: 1) Build rapport, 2) Understand their situation and problem, 3) Present solution tailored to them, 4) Handle objections, 5) Close with clear ask. Most founders skip #2—they pitch too early. Diagnose before prescribing. The more they talk, the more likely they buy."
+        },
+        {
+          "type": "list",
+          "title": "Key Sales Questions",
+          "items": [
+            "'What's your biggest challenge with [area]?'",
+            "'How are you currently handling this?'",
+            "'What happens if you don't solve this?'",
+            "'What would ideal solution look like?'",
+            "'What's preventing you from solving this?'",
+            "'If I could solve this for you, would that be valuable?'",
+            "Then present: 'Based on what you shared, here's how we can help...'"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Handling Objections",
+          "items": [
+            "'Too expensive': 'What's it costing you to not solve this?' (ROI focus)",
+            "'Need to think about it': 'What specifically do you need to think about?' (uncover real objection)",
+            "'Not now': 'What would need to change for it to be right time?' (timing clarity)",
+            "'Competition is cheaper': 'What makes their solution different?' (value comparison)",
+            "'Need to ask boss': 'Can we schedule call with them?' (reach decision maker)",
+            "Welcome objections: Means they're engaged and considering"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Closing techniques: Trial close ('Does this make sense so far?'), assumptive close ('Should I send contract to this email?'), direct close ('Are you ready to move forward?'), urgency close ('This rate expires Friday'). Most important: Actually ask for the sale. Many founders present but never ask."
+        },
+        {
+          "type": "list",
+          "title": "Follow-Up Strategy",
+          "items": [
+            "Timing: Follow up within 24 hours",
+            "Persistence: 5-7 touches before most sales",
+            "Value: Each follow-up adds value, not just 'checking in'",
+            "Multiple channels: Email, phone, social media",
+            "Content: Share relevant article, case study, insight",
+            "Calendar: Set reminders, use CRM to track",
+            "Don't give up: 'No' often means 'not now'"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the right sales mindset?",
+          "options": [
+            "Manipulating people",
+            "Serving and helping solve problems",
+            "Tricking customers",
+            "Pushing products"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sales is serving, not manipulating. Helping people solve problems. If you believe product helps, ethical obligation is to sell it. Sales = service."
+        },
+        {
+          "question": "How many touches before most sales?",
+          "options": [
+            "1",
+            "5-7 touches",
+            "2",
+            "No follow-up needed"
+          ],
+          "correctIndex": 1,
+          "explanation": "5-7 touches before most sales. Persistence matters. Each follow-up should add value, not just 'checking in.' Don't give up after one 'no.'"
+        }
+      ]
+    }
+  },
+  {
+    "id": "growth-marketing",
+    "title": "Growth Marketing Basics",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Growth marketing isn't just marketing—it's systematic approach to growing business through experimentation. Traditional marketing: run campaigns, hope they work. Growth marketing: hypothesize, test, measure, optimize, repeat. It's scientific method applied to customer acquisition. Small businesses can compete with big companies by being smarter, faster, more experimental."
+        },
+        {
+          "type": "list",
+          "title": "Growth Channels",
+          "items": [
+            "Content marketing: SEO, blog, YouTube, podcast",
+            "Social media: Organic and paid on relevant platforms",
+            "Email marketing: Newsletter, nurture sequences",
+            "Paid ads: Google, Facebook, LinkedIn ads",
+            "Partnerships: Affiliates, co-marketing, integrations",
+            "Referrals: Customer referral programs",
+            "Community: Build or participate in communities",
+            "Start: Pick 1-2 channels where your customers are"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The bullseye framework: List all possible channels. Test cheaply (spend $1000 and a week testing each). Identify top 1-2 channels with best results. Double down on winners. Most founders spread thin across channels. Winners focus deeply on 1-2 channels that work."
+        },
+        {
+          "type": "list",
+          "title": "Growth Experiments",
+          "items": [
+            "Hypothesis: 'If we do X, then Y will happen because Z'",
+            "Metrics: What will you measure? (signups, revenue, engagement)",
+            "Test design: How will you run experiment?",
+            "Duration: Usually 1-2 weeks",
+            "Analysis: What happened? Why?",
+            "Action: Keep winner, kill loser, iterate",
+            "Velocity: Run 1-2 experiments weekly"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Key Growth Metrics",
+          "items": [
+            "CAC: Customer acquisition cost per channel",
+            "LTV: Lifetime value of customer",
+            "Conversion rate: % of visitors who become customers",
+            "Activation: % who have 'aha moment'",
+            "Retention: % who stay/return",
+            "Referral rate: % who refer others",
+            "Payback period: How long to recover CAC"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The pirate metrics (AARRR): Acquisition (how do they find you?), Activation (do they have good first experience?), Retention (do they come back?), Revenue (do they pay?), Referral (do they tell others?). Optimize in order. No point optimizing referrals if you can't activate or retain customers."
+        },
+        {
+          "type": "list",
+          "title": "Quick Wins",
+          "items": [
+            "Landing page optimization: Test headlines, CTAs, images",
+            "Email capture: Pop-up, lead magnet, exit intent",
+            "Social proof: Add testimonials, reviews, customer count",
+            "Free trial: Remove friction with trial vs. immediate payment",
+            "Onboarding: Guide to 'aha moment' quickly",
+            "Re-engagement: Email inactive users",
+            "Referrals: Ask happy customers to refer"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the bullseye framework?",
+          "options": [
+            "Marketing strategy",
+            "Test all channels cheaply, double down on 1-2 winners",
+            "Target market selection",
+            "Pricing model"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bullseye framework: Test all channels cheaply. Identify top 1-2 with best results. Double down on winners. Focus beats spreading thin."
+        },
+        {
+          "question": "What are the pirate metrics (AARRR)?",
+          "options": [
+            "Acquisition, Activation, Retention, Revenue, Referral",
+            "Revenue metrics only",
+            "Customer satisfaction",
+            "Product features"
+          ],
+          "correctIndex": 0,
+          "explanation": "AARRR: Acquisition, Activation, Retention, Revenue, Referral. Optimize in this order. Framework for understanding and optimizing growth funnel."
+        }
+      ]
+    }
+  },
+  {
+    "id": "customer-retention",
+    "title": "Customer Retention & Satisfaction",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Acquiring customer is expensive. Keeping customer is cheap. 5x more expensive to acquire new customer than retain existing one. Plus, retained customers buy more over time. Yet most businesses obsess over acquisition, neglect retention. Leaky bucket problem: pouring in new customers while old ones leave. Fix retention first, then scale acquisition."
+        },
+        {
+          "type": "list",
+          "title": "Why Customers Leave",
+          "items": [
+            "Poor onboarding: Never experienced value",
+            "Not using product: Didn't form habit",
+            "Expectations mismatch: Product didn't deliver promise",
+            "Better alternative: Competitor offered more value",
+            "Price: Can't afford or doesn't justify cost",
+            "Change in needs: Problem solved or changed",
+            "Bad experience: Customer service issue"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The retention equation: Retention = (Getting value) - (Friction + Alternatives). Increase value, decrease friction and alternatives. Value: does product deliver on promise? Friction: how hard is it to use? Alternatives: why should they choose you? Address all three."
+        },
+        {
+          "type": "list",
+          "title": "Improving Retention",
+          "items": [
+            "Onboarding: Guide to quick win within first session",
+            "Activation: Get them to 'aha moment' fast",
+            "Habit formation: Encourage regular usage through triggers",
+            "Value reminders: Show impact and progress",
+            "Engagement: Regular communication with value",
+            "Support: Proactive help before they struggle",
+            "Feedback: Ask for input, implement suggestions"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "The 'Aha Moment'",
+          "items": [
+            "Definition: Moment customer experiences core value",
+            "Facebook: Adding 7 friends in 10 days (connections = value)",
+            "Slack: Team sending 2,000 messages (communication flowing)",
+            "Your business: What action correlates with retention?",
+            "Identify: Analyze retained vs. churned customers",
+            "Optimize: Get new users to aha moment fast",
+            "Goal: Aha moment in first session if possible"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Measuring satisfaction: NPS (Net Promoter Score) asks 'How likely would you recommend us?' on 0-10 scale. 9-10 = Promoters. 7-8 = Passives. 0-6 = Detractors. NPS = % Promoters - % Detractors. Above 0 = okay. Above 50 = excellent. Survey quarterly and track trend."
+        },
+        {
+          "type": "list",
+          "title": "Preventing Churn",
+          "items": [
+            "Identify at-risk: Monitor usage patterns (declining engagement = risk)",
+            "Intervene early: Reach out before they decide to leave",
+            "Win-back campaigns: Special offers for churned customers",
+            "Exit interviews: Ask why they're leaving, learn",
+            "Address feedback: Fix common complaints",
+            "Annual plans: Lock in commitment with discount",
+            "Community: Belonging keeps people engaged"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How much more expensive is acquiring vs. retaining?",
+          "options": [
+            "Same cost",
+            "5x more expensive to acquire than retain",
+            "Retention is more expensive",
+            "2x more"
+          ],
+          "correctIndex": 1,
+          "explanation": "5x more expensive to acquire new customer than retain existing one. Plus retained customers buy more over time. Fix retention before scaling acquisition."
+        },
+        {
+          "question": "What's the 'aha moment'?",
+          "options": [
+            "First purchase",
+            "Moment customer experiences core value",
+            "Product launch",
+            "Marketing campaign"
+          ],
+          "correctIndex": 1,
+          "explanation": "Aha moment: when customer experiences core value. Correlates with retention. Goal: get new users to aha moment in first session if possible."
+        }
+      ]
+    }
+  },
+  {
+    "id": "financial-management",
+    "title": "Financial Management for Founders",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Profitable businesses fail from cash flow problems. Revenue isn't profit. Profit isn't cash. You can be profitable on paper and out of cash in bank. Understanding basics of financial management isn't optional—it's survival skill. You don't need to be accountant, but you need to understand: revenue, expenses, profit, cash flow, runway."
+        },
+        {
+          "type": "list",
+          "title": "Key Financial Concepts",
+          "items": [
+            "Revenue: Money coming in from sales",
+            "Cost of Goods Sold (COGS): Direct costs to deliver product/service",
+            "Gross Profit: Revenue - COGS",
+            "Operating Expenses: Rent, salaries, marketing, software, etc.",
+            "Net Profit: Gross Profit - Operating Expenses",
+            "Cash Flow: Actual money in and out of bank",
+            "Runway: Months until money runs out"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The unit economics: Understand profitability per customer. CAC (Customer Acquisition Cost) vs. LTV (Lifetime Value). If CAC = $100 and LTV = $300, you make $200 per customer. Scale this. If CAC > LTV, every customer loses money. Fix before scaling or you'll just lose money faster."
+        },
+        {
+          "type": "list",
+          "title": "Essential Metrics",
+          "items": [
+            "Monthly Recurring Revenue (MRR): Predictable monthly revenue",
+            "Burn rate: How much cash you spend monthly",
+            "Runway: Months of cash left at current burn rate",
+            "Gross margin: (Revenue - COGS) / Revenue",
+            "CAC payback period: Months to recover customer acquisition cost",
+            "LTV:CAC ratio: Should be 3:1 or better",
+            "Cash conversion cycle: Time from spending to collecting"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Managing Cash Flow",
+          "items": [
+            "Invoice promptly: Send invoices immediately",
+            "Payment terms: Net 15 or prepayment when possible",
+            "Follow up: Chase late payments",
+            "Reserve: 3-6 months expenses in bank",
+            "Forecast: Project cash flow 3-6 months ahead",
+            "Delay expenses: Pay on last day terms allow",
+            "Line of credit: Safety net for gaps"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The profit-first method: When revenue comes in, immediately allocate percentages to different accounts: Profit (5-10%), Owner's Pay (40-50%), Taxes (15%), Operating Expenses (remainder). This ensures you pay yourself and save profit before expenses consume everything."
+        },
+        {
+          "type": "list",
+          "title": "Financial Planning",
+          "items": [
+            "Budget: Plan expenses and revenue monthly",
+            "Track: Record all transactions (accounting software)",
+            "Review: Check financials weekly",
+            "Benchmark: Compare to industry standards",
+            "Forecast: Project future based on trends",
+            "Scenarios: Model best, expected, worst case",
+            "Professional help: Accountant once revenue $100K+"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the difference between profit and cash flow?",
+          "options": [
+            "No difference",
+            "Profit is on paper (revenue - expenses); cash flow is actual money in/out of bank",
+            "Profit is more important",
+            "Cash flow is for large companies only"
+          ],
+          "correctIndex": 1,
+          "explanation": "Profit = revenue - expenses on paper. Cash flow = actual money in/out of bank. Can be profitable but out of cash. Both matter for survival."
+        },
+        {
+          "question": "What should LTV:CAC ratio be?",
+          "options": [
+            "1:1",
+            "3:1 or better",
+            "1:3",
+            "Doesn't matter"
+          ],
+          "correctIndex": 1,
+          "explanation": "LTV:CAC should be 3:1 or better. Customer lifetime value should be at least 3x acquisition cost. Below this, unit economics don't work."
+        }
+      ]
+    }
+  }
+]
