@@ -1,0 +1,440 @@
+[
+  {
+    "id": "investment-mindset",
+    "title": "The Long-Term Investment Mindset",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Successful investing requires a fundamental mindset shift from instant gratification to delayed gratification. The stock market rewards patience and punishes impatience. While get-rich-quick schemes fail 99% of the time, get-rich-slowly through consistent investing succeeds remarkably often. Time in the market beats timing the market."
+        },
+        {
+          "type": "list",
+          "title": "Key Investment Principles",
+          "items": [
+            "Think in decades, not days: Short-term volatility is noise; long-term trends are signal",
+            "Volatility is opportunity: Market drops let you buy more shares at discount prices",
+            "Compound growth is exponential: Early years feel slow, later years accelerate dramatically",
+            "Behavior beats strategy: Staying invested during downturns outperforms perfect timing with panic selling",
+            "Diversification reduces risk: Don't bet everything on single stocks or sectors"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Historical data proves the power of staying invested. The S&P 500 has averaged 10% annual returns over 100+ years despite world wars, pandemics, recessions, and countless crises. Missing just the 10 best market days over 20 years cuts returns in half. You can't time these days, so you must stay invested."
+        },
+        {
+          "type": "list",
+          "title": "Common Investing Mistakes to Avoid",
+          "items": [
+            "Panic selling during market drops (locks in losses, misses recovery)",
+            "Chasing hot stocks or trends (usually arrives after gains already made)",
+            "Trying to time the market (even professionals fail consistently)",
+            "Investing without emergency fund (forced to sell at worst times)",
+            "Letting emotions drive decisions (fear and greed are wealth destroyers)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Your investment success depends more on your behavior than your knowledge. A simple strategy followed consistently for 30 years will outperform a complex strategy abandoned during the first market crash. Develop the discipline to invest regularly, ignore market noise, and never sell in panic."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What has the S&P 500 averaged over 100+ years?",
+          "options": [
+            "5% annual returns",
+            "10% annual returns",
+            "15% annual returns",
+            "20% annual returns"
+          ],
+          "correctIndex": 1,
+          "explanation": "Despite countless crises, the S&P 500 has averaged approximately 10% annual returns over its history, demonstrating the power of long-term investing."
+        },
+        {
+          "question": "What is the most important factor in investment success?",
+          "options": [
+            "Picking the best individual stocks",
+            "Perfect market timing",
+            "Staying invested and not panic selling",
+            "Trading frequently"
+          ],
+          "correctIndex": 2,
+          "explanation": "Research shows that staying invested through volatility and avoiding panic selling is more important than stock selection or timing."
+        }
+      ]
+    }
+  },
+  {
+    "id": "risk-return-relationship",
+    "title": "Understanding Risk and Return",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Risk and return are inseparable in investing. Higher potential returns always come with higher risk of loss. There's no free lunch—any investment promising high returns with low risk is either a lie or a scam. Understanding this fundamental relationship helps you make informed decisions aligned with your goals and comfort level."
+        },
+        {
+          "type": "list",
+          "title": "Investment Risk Spectrum (Low to High)",
+          "items": [
+            "Cash/Savings: Near zero risk, 0-2% return, loses to inflation",
+            "Government bonds: Very low risk, 2-4% return, stable but modest",
+            "Corporate bonds: Low-medium risk, 3-6% return, depends on company quality",
+            "Large-cap stocks: Medium risk, 8-12% historical return, established companies",
+            "Small-cap stocks: Medium-high risk, 10-15% potential return, higher volatility",
+            "Individual stocks: High risk, -100% to +1000%+, concentrated risk",
+            "Cryptocurrencies: Very high risk, extreme volatility, speculative"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Risk tolerance depends on both ability and willingness to take risk. Ability comes from time horizon (young investors can handle more risk) and financial stability (solid emergency fund allows more risk). Willingness is psychological—can you sleep at night if your portfolio drops 30%? Be honest with yourself."
+        },
+        {
+          "type": "list",
+          "title": "Types of Investment Risk",
+          "items": [
+            "Market risk: Overall market declines affect all stocks",
+            "Company risk: Individual business failures or underperformance",
+            "Inflation risk: Returns don't keep pace with rising prices",
+            "Liquidity risk: Difficulty selling investment quickly without loss",
+            "Currency risk: Exchange rate changes affect international investments"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Diversification is the only free lunch in investing. By spreading money across hundreds or thousands of investments, you eliminate company-specific risk while maintaining market returns. This is why index funds are so powerful—you get market returns with far less risk than individual stock picking."
+        },
+        {
+          "type": "list",
+          "title": "Assessing Your Risk Tolerance",
+          "items": [
+            "Time horizon: 30+ years until retirement = high risk tolerance appropriate",
+            "Financial stability: 6+ months emergency fund = can handle more volatility",
+            "Sleep test: If 30% portfolio drop causes panic, reduce risk exposure",
+            "Recovery capacity: Younger with income growth = can recover from losses",
+            "Other assets: Pension or real estate provides stability for riskier portfolio"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the relationship between risk and return?",
+          "options": [
+            "They are unrelated",
+            "Higher potential returns require accepting higher risk",
+            "Higher risk always means higher returns",
+            "Lower risk provides higher returns"
+          ],
+          "correctIndex": 1,
+          "explanation": "Higher potential returns always come with higher risk. There's no guaranteed high return without accepting the possibility of loss."
+        },
+        {
+          "question": "What is the main benefit of diversification?",
+          "options": [
+            "It guarantees profits",
+            "It eliminates all investment risk",
+            "It reduces company-specific risk while maintaining market returns",
+            "It allows perfect market timing"
+          ],
+          "correctIndex": 2,
+          "explanation": "Diversification eliminates company-specific risk by spreading investments across many holdings, reducing overall portfolio risk without sacrificing returns."
+        },
+        {
+          "question": "Which factor increases your ability to take investment risk?",
+          "options": [
+            "Short time horizon (need money in 2 years)",
+            "No emergency fund",
+            "Long time horizon (30+ years until retirement)",
+            "High existing debt"
+          ],
+          "correctIndex": 2,
+          "explanation": "A long time horizon gives you the ability to ride out market volatility and recover from temporary losses, increasing appropriate risk tolerance."
+        }
+      ]
+    }
+  },
+  {
+    "id": "brokerage-accounts",
+    "title": "Opening Your First Brokerage Account",
+    "duration": "7 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "A brokerage account is where you buy and sell investments. Think of it as a specialized bank account for stocks, bonds, and funds instead of just cash. Opening one is straightforward, usually takes 15-30 minutes online, and requires no minimum investment at many brokers. This is your gateway to building wealth through investing."
+        },
+        {
+          "type": "list",
+          "title": "Types of Brokerage Accounts",
+          "items": [
+            "Taxable brokerage: No contribution limits or withdrawal restrictions, gains taxed annually",
+            "IRA (Individual Retirement Account): Tax advantages, $7,000 annual limit, penalties before 59.5",
+            "Roth IRA: After-tax contributions, tax-free growth and withdrawals, best for most people",
+            "401(k): Employer-sponsored, higher limits ($23,500), often with company match"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Choosing a Brokerage",
+          "items": [
+            "Fidelity: Excellent research tools, great customer service, no account minimums",
+            "Vanguard: Lowest-cost index funds, investor-owned structure, straightforward platform",
+            "Charles Schwab: Strong all-around, excellent customer service, good for beginners",
+            "Interactive Brokers: Advanced tools, international access, better for experienced investors",
+            "Avoid: High-fee brokers, platforms encouraging frequent trading, anything requiring financial advisor"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "All major brokers now offer commission-free stock and ETF trading. The real differences are platform usability, research tools, customer service, and fund selection. For beginners, any of the big three (Fidelity, Vanguard, Schwab) works excellently. Pick one and get started rather than over-researching."
+        },
+        {
+          "type": "list",
+          "title": "Opening Account Steps",
+          "items": [
+            "Choose broker and account type (start with Roth IRA if eligible)",
+            "Provide personal information: Name, address, SSN, employment, income",
+            "Link bank account for transfers",
+            "Make initial deposit (even $50 is fine to start)",
+            "Select investments (index funds recommended for beginners)",
+            "Set up automatic contributions (even $50-100 monthly builds wealth)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Don't let perfection paralysis prevent action. You don't need to understand everything before opening an account. Start with a Roth IRA if eligible, deposit whatever you can afford, buy a target-date fund or total market index fund, and commit to learning as you go. Taking action beats endless research."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is a brokerage account?",
+          "options": [
+            "A savings account at a bank",
+            "An account for buying and selling investments like stocks and funds",
+            "A retirement pension plan",
+            "A credit card for purchasing goods"
+          ],
+          "correctIndex": 1,
+          "explanation": "A brokerage account is a specialized account that allows you to buy and sell investments like stocks, bonds, and funds."
+        },
+        {
+          "question": "Which brokerage account type offers tax-free withdrawals in retirement?",
+          "options": [
+            "Taxable brokerage account",
+            "Traditional IRA",
+            "Roth IRA",
+            "Regular savings account"
+          ],
+          "correctIndex": 2,
+          "explanation": "Roth IRAs offer tax-free growth and withdrawals in retirement since contributions are made with after-tax dollars."
+        }
+      ]
+    }
+  },
+  {
+    "id": "index-funds-explained",
+    "title": "Index Funds: The Smart Investor's Choice",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Index funds are the closest thing to a perfect investment for most people. They own hundreds or thousands of companies, charge minimal fees, require no active management, and historically beat 80-90% of professional fund managers over 15+ years. Warren Buffett recommends them for most investors, and data overwhelmingly supports this advice."
+        },
+        {
+          "type": "list",
+          "title": "What Are Index Funds?",
+          "items": [
+            "Funds that track a market index (like S&P 500) by owning all companies in that index",
+            "Passive management: No stock picking, just mirrors the index composition",
+            "Instant diversification: One purchase owns hundreds of companies",
+            "Low costs: Expense ratios typically 0.03-0.20% vs 1%+ for active funds",
+            "Available as mutual funds or ETFs (exchange-traded funds)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The math is simple but powerful. If actively managed funds charge 1% fees and index funds charge 0.05%, that's 0.95% more you keep annually. Over 30 years, this compounds to hundreds of thousands of dollars. Plus, most active managers underperform their benchmarks anyway, so you're paying more for worse results."
+        },
+        {
+          "type": "list",
+          "title": "Popular Index Funds",
+          "items": [
+            "S&P 500 index: 500 largest US companies (VOO, FXAIX, SWPPX)",
+            "Total US stock market: All US public companies, ~4,000 stocks (VTI, FSKAX, SWTSX)",
+            "Total international: Non-US developed and emerging markets (VXUS, FTIHX, SWISX)",
+            "Total bond market: Broad US bond exposure (BND, FXNAX, SWAGX)",
+            "Target-date funds: Automated mix adjusting to retirement date (VTTVX, FDKLX)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Index Funds vs Individual Stocks",
+          "items": [
+            "Diversification: Index fund failure impossible; individual company can go to zero",
+            "Time required: Index funds need minutes monthly; stock picking requires hours weekly",
+            "Expertise needed: Index funds none; stock picking requires deep analysis",
+            "Returns: Index funds match market; stock picking usually underperforms after time/mistakes",
+            "Stress: Index funds low; individual stocks emotionally draining during volatility"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "A simple three-fund portfolio beats most complex strategies: Total US stock index (60%), Total international stock index (30%), Total bond index (10%). Adjust bond allocation by age. This provides complete global diversification with three holdings. Rebalance annually. That's it—boring, simple, and historically successful."
+        },
+        {
+          "type": "list",
+          "title": "Expense Ratios Matter",
+          "items": [
+            "Expense ratio: Annual fee as percentage of investment",
+            "0.03-0.10%: Excellent, typical for best index funds",
+            "0.50-1.00%: High, typical for actively managed funds",
+            "1.00%+: Very high, avoid unless exceptional reason",
+            "$10,000 invested over 30 years at 8% return: 0.05% fee = $98,000 final value; 1% fee = $76,000 (you paid $22,000 in fees!)"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is an index fund?",
+          "options": [
+            "A fund that picks the best performing stocks",
+            "A fund that tracks a market index by owning all companies in that index",
+            "A fund only for institutional investors",
+            "A savings account with higher interest"
+          ],
+          "correctIndex": 1,
+          "explanation": "Index funds passively track market indexes by owning all (or representative samples) of companies in that index."
+        },
+        {
+          "question": "What percentage of active fund managers are beaten by index funds over 15+ years?",
+          "options": [
+            "20-30%",
+            "40-50%",
+            "60-70%",
+            "80-90%"
+          ],
+          "correctIndex": 3,
+          "explanation": "Studies consistently show that 80-90% of actively managed funds underperform their benchmark indexes over 15+ year periods."
+        },
+        {
+          "question": "What is a good expense ratio for an index fund?",
+          "options": [
+            "2-3%",
+            "1-2%",
+            "0.5-1%",
+            "0.03-0.10%"
+          ],
+          "correctIndex": 3,
+          "explanation": "Excellent index funds typically charge 0.03-0.10% expense ratios. Anything above 0.20% is high for a passive index fund."
+        }
+      ]
+    }
+  },
+  {
+    "id": "starting-to-invest",
+    "title": "Taking Your First Investment Steps",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "The hardest part of investing is starting. Analysis paralysis keeps many people on the sidelines for years while markets climb. You don't need perfect knowledge, perfect timing, or perfect amounts. You need to start, stay consistent, and let time work its magic. Even $50 monthly invested from age 25-65 at 10% becomes $316,000."
+        },
+        {
+          "type": "list",
+          "title": "Your First Investment Steps",
+          "items": [
+            "Step 1: Verify emergency fund exists (3-6 months expenses)",
+            "Step 2: Ensure high-interest debt paid off (anything over 7-8% APR)",
+            "Step 3: Open Roth IRA if eligible (income limits apply) or taxable brokerage",
+            "Step 4: Deposit whatever you can afford to invest (even $50 starts the habit)",
+            "Step 5: Buy a target-date fund or total market index fund",
+            "Step 6: Set up automatic monthly contributions"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "For absolute beginners, a target-date fund is the simplest complete portfolio. Choose the fund with a date closest to when you'll retire (2060 fund if you're 25, 2050 fund if you're 35). It automatically owns stocks and bonds in appropriate ratios and gradually becomes more conservative as retirement approaches. One fund, complete diversification."
+        },
+        {
+          "type": "list",
+          "title": "How Much to Invest",
+          "items": [
+            "Ideal: 15-20% of gross income for retirement",
+            "Minimum: Enough to get full employer 401(k) match (free money)",
+            "Starting out: Whatever doesn't hurt your emergency fund or debt payoff",
+            "Starting is more important than amount—$25 monthly beats $0 monthly",
+            "Increase contributions with every raise by at least 50% of raise amount"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "First Month Checklist",
+          "items": [
+            "Account opened and funded",
+            "First investment purchased (target-date or total market index fund)",
+            "Automatic monthly contributions scheduled",
+            "Account login credentials saved securely",
+            "Beneficiaries designated on account",
+            "Calendar reminder set for annual rebalancing/review"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Resist the urge to check your account daily. Market volatility will drive you crazy if you watch every fluctuation. Check quarterly or monthly at most. Focus on your contribution consistency, not day-to-day values. The first decade feels slow because numbers are small—this is normal. By decade three, compound growth accelerates dramatically."
+        },
+        {
+          "type": "list",
+          "title": "What to Expect",
+          "items": [
+            "Year 1: Learning experience, small balances, lots of questions",
+            "Years 2-5: Contributions exceed gains, feels slow, stay consistent",
+            "Years 5-10: Gains start matching contributions, compound effect visible",
+            "Years 10-20: Gains often exceed contributions, exponential growth begins",
+            "Years 20+: Wealth builds itself, compound interest does heavy lifting"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What should you do before investing?",
+          "options": [
+            "Wait until you have $10,000 saved",
+            "Build emergency fund and pay off high-interest debt",
+            "Buy a house first",
+            "Wait for a market crash"
+          ],
+          "correctIndex": 1,
+          "explanation": "Before investing, establish an emergency fund and eliminate high-interest debt to avoid forced selling during emergencies."
+        },
+        {
+          "question": "What's the simplest complete portfolio for beginners?",
+          "options": [
+            "10 individual stocks",
+            "A target-date fund",
+            "Bitcoin",
+            "Individual bonds"
+          ],
+          "correctIndex": 1,
+          "explanation": "A target-date fund provides complete diversification across stocks and bonds with automatic rebalancing as you age."
+        },
+        {
+          "question": "How often should you check your investment account?",
+          "options": [
+            "Multiple times daily",
+            "Daily",
+            "Weekly",
+            "Monthly to quarterly"
+          ],
+          "correctIndex": 3,
+          "explanation": "Checking monthly to quarterly is sufficient. Daily monitoring increases anxiety without improving results and can lead to emotional decisions."
+        }
+      ]
+    }
+  }
+]
