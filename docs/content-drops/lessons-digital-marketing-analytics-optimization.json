@@ -1,1 +1,528 @@
-[Final module...]
+[
+  {
+    "id": "marketing-analytics",
+    "title": "Marketing Analytics Fundamentals",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "You can't improve what you don't measure. Marketing analytics transforms guessing into science. Track what works, double down on it. Identify what doesn't, eliminate it. This data-driven approach separates successful marketers from those burning money hoping for results. Analytics isn't about tracking everything—it's about tracking metrics that matter to your goals."
+        },
+        {
+          "type": "list",
+          "title": "Key Marketing Metrics",
+          "items": [
+            "Traffic: Website visitors, sources (organic, social, paid, direct)",
+            "Conversion rate: % visitors who complete goal (signup, purchase)",
+            "Customer Acquisition Cost (CAC): Total marketing spend ÷ new customers",
+            "Customer Lifetime Value (LTV): Average revenue per customer over lifetime",
+            "ROI: (Revenue - Cost) ÷ Cost × 100%",
+            "Engagement: Time on site, pages per session, bounce rate",
+            "Email metrics: Open rate, click rate, unsubscribe rate"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The LTV:CAC ratio is critical. If Customer Lifetime Value is $1000 and acquisition cost is $200, ratio is 5:1. Healthy ratio: 3:1 or better. Below 3:1: need to increase LTV or decrease CAC. This determines if your marketing is sustainable and profitable long-term."
+        },
+        {
+          "type": "list",
+          "title": "Essential Analytics Tools",
+          "items": [
+            "Google Analytics (GA4): Free website analytics, traffic sources, user behavior",
+            "Google Search Console: SEO performance, search queries, indexing issues",
+            "Social media analytics: Built-in insights on each platform",
+            "Email platform analytics: Opens, clicks, conversions (Mailchimp, ConvertKit)",
+            "Heatmaps: See where users click, scroll (Hotjar, Crazy Egg)",
+            "Attribution tools: Track customer journey (what touchpoints led to conversion)",
+            "Start: Google Analytics + Google Search Console (both free)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Google Analytics 4 Basics",
+          "items": [
+            "Setup: Install tracking code on website",
+            "Acquisition: Where traffic comes from (organic, social, email, paid)",
+            "Engagement: What users do (pages viewed, time on site, events)",
+            "Conversions: Track goals (purchases, signups, downloads)",
+            "Audience: Demographics, interests, device, location",
+            "Real-time: See current visitors and activity",
+            "Reports: Custom reports for metrics you care about"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Attribution challenge: Customer touches multiple channels before buying. Saw social post, visited via Google, signed up for email, clicked email to buy. Which channel gets credit? Last-click (email) oversimplifies. Multi-touch attribution distributes credit. Understanding customer journey improves resource allocation."
+        },
+        {
+          "type": "list",
+          "title": "Creating Marketing Dashboard",
+          "items": [
+            "Purpose: At-a-glance view of key metrics",
+            "Choose metrics: 5-10 most important to your goals",
+            "Tools: Google Data Studio (free), Excel/Sheets, specialized dashboards",
+            "Update frequency: Real-time for ads, weekly for organic, monthly for trends",
+            "Visuals: Graphs and charts easier to digest than tables",
+            "Comparisons: Current vs. previous period, actual vs. goals",
+            "Share: Make accessible to team for alignment"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's a healthy LTV:CAC ratio?",
+          "options": [
+            "1:1",
+            "3:1 or better",
+            "1:3",
+            "Doesn't matter"
+          ],
+          "correctIndex": 1,
+          "explanation": "Healthy LTV:CAC ratio is 3:1 or better. This means customer lifetime value is at least 3x acquisition cost, ensuring profitable, sustainable growth."
+        },
+        {
+          "question": "What's the most important analytics principle?",
+          "options": [
+            "Track everything possible",
+            "Track metrics that matter to your specific goals",
+            "Only track traffic",
+            "Analytics wastes time"
+          ],
+          "correctIndex": 1,
+          "explanation": "Track metrics that matter to your goals, not everything. Focus on metrics that drive decisions and align with business objectives."
+        }
+      ]
+    }
+  },
+  {
+    "id": "conversion-optimization",
+    "title": "Conversion Rate Optimization (CRO)",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Conversion Rate Optimization (CRO) is increasing percentage of visitors who complete desired action. Getting more traffic is expensive; converting existing traffic better is free money. Improving conversion rate from 2% to 3% means 50% more customers from same traffic. CRO isn't guessing—it's systematic testing and improvement based on data and psychology."
+        },
+        {
+          "type": "list",
+          "title": "Conversion Fundamentals",
+          "items": [
+            "Clarity: Immediately obvious what you offer and why it matters",
+            "Value proposition: Compelling reason to choose you",
+            "Trust signals: Social proof, testimonials, guarantees, security badges",
+            "Friction: Remove obstacles between visitor and conversion",
+            "Clear CTA: One primary action, visually prominent, action-oriented",
+            "Mobile optimized: 50%+ traffic is mobile",
+            "Page speed: Every second delay = 7% fewer conversions"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The conversion funnel: Awareness → Interest → Desire → Action. Each stage loses people. Optimize each stage: Strong headline (awareness), compelling copy (interest), proof and benefits (desire), easy checkout (action). Fix biggest leak first—where are most people dropping off?"
+        },
+        {
+          "type": "list",
+          "title": "Landing Page Optimization",
+          "items": [
+            "Headline: Clear benefit, addresses pain point or desire",
+            "Hero image/video: Shows product/result, high quality",
+            "Value proposition: 2-3 sentences explaining unique value",
+            "Social proof: Testimonials, ratings, customer logos, user count",
+            "Benefits: Focus on outcomes, not features",
+            "CTA: Above fold and at bottom, contrasting color, action verb",
+            "Remove distractions: No navigation menu on conversion pages",
+            "Forms: Minimum fields required (each field reduces conversions)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Trust & Credibility",
+          "items": [
+            "Testimonials: Real customers, photos, specific results",
+            "Case studies: Detailed success stories with data",
+            "Social proof: 'Join 10,000+ customers', media mentions",
+            "Guarantees: Money-back guarantee, free trial, no credit card",
+            "Security: SSL certificate, trust badges, secure payment icons",
+            "About page: Real team photos, authentic story",
+            "Contact: Easy to reach you (chat, phone, email)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Reducing friction: Every extra step, required field, or moment of confusion loses conversions. Examples: guest checkout option, save payment info, autofill addresses, clear error messages, progress indicators. Amazon's 1-click ordering exists because every click costs conversions."
+        },
+        {
+          "type": "list",
+          "title": "CTA Optimization",
+          "items": [
+            "Placement: Above fold, repeated throughout long pages",
+            "Color: High contrast with background (often orange, green, red)",
+            "Size: Big enough to notice, not overwhelming",
+            "Copy: Action-oriented ('Start Free Trial' not 'Submit')",
+            "Specific: 'Get My Free Ebook' > 'Download'",
+            "Urgency: 'Limited Spots' or 'Sale Ends Tonight' (use ethically)",
+            "Test: Try different colors, copy, placement"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Mobile Optimization",
+          "items": [
+            "Responsive design: Adapts to screen size",
+            "Fast loading: Compress images, minimize code",
+            "Thumb-friendly: Buttons large enough, important elements in reach",
+            "Simplified forms: Fewer fields, appropriate keyboards",
+            "Click-to-call: Phone numbers that dial when tapped",
+            "No pop-ups: Google penalizes intrusive mobile pop-ups",
+            "Test: Actually use your site on mobile device"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's more cost-effective than getting more traffic?",
+          "options": [
+            "Nothing",
+            "Converting existing traffic better through CRO",
+            "Lowering prices",
+            "More ads"
+          ],
+          "correctIndex": 1,
+          "explanation": "Converting existing traffic better is 'free money'—no ad costs. Improving 2% to 3% conversion = 50% more customers from same traffic."
+        },
+        {
+          "question": "What reduces conversions most?",
+          "options": [
+            "Too much color",
+            "Friction - extra steps, fields, confusion",
+            "Low prices",
+            "Contact information"
+          ],
+          "correctIndex": 1,
+          "explanation": "Friction (extra steps, required fields, confusion) kills conversions. Every obstacle between visitor and action loses customers."
+        }
+      ]
+    }
+  },
+  {
+    "id": "ab-testing",
+    "title": "A/B Testing & Experimentation",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "A/B testing (split testing) compares two versions to see which performs better. Version A (control) vs. Version B (variant). Traffic splits 50/50, measure which converts more. This eliminates guessing and opinions—data decides. Small improvements compound: 1% better conversion weekly = 68% improvement yearly. A/B testing is how top companies continuously improve."
+        },
+        {
+          "type": "list",
+          "title": "What to A/B Test",
+          "items": [
+            "Headlines: Different value propositions, lengths, formats",
+            "CTA: Button color, text, placement, size",
+            "Images: Hero images, product photos, backgrounds",
+            "Copy: Short vs. long, different messaging angles",
+            "Layout: Element positioning, page structure",
+            "Forms: Number of fields, field order, labels",
+            "Pricing: Display format, anchor pricing, framing",
+            "Start: Test elements with biggest potential impact"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Test one variable at a time. Testing headline AND image AND CTA simultaneously won't tell you what caused the difference. Isolate variables. Headline test: same page, only headline changes. This pinpoints what works. After finding winner, test next element."
+        },
+        {
+          "type": "list",
+          "title": "A/B Testing Process",
+          "items": [
+            "1. Hypothesis: What do you think will improve conversion and why?",
+            "2. Create variations: Control (original) vs. variant (new version)",
+            "3. Split traffic: 50% see A, 50% see B (randomized)",
+            "4. Run test: Until statistical significance reached",
+            "5. Analyze: Which version won? By how much?",
+            "6. Implement: Make winner the new control",
+            "7. Repeat: Test next element, continuous improvement"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Statistical Significance",
+          "items": [
+            "Concept: Confidence that result isn't random luck",
+            "95% confidence: Standard threshold (could still be wrong 5% of time)",
+            "Sample size: Need enough traffic for reliable results (minimum 100 conversions per variant)",
+            "Duration: Run until significance reached (usually 1-4 weeks)",
+            "Don't stop early: Stopping when you like the result = false conclusions",
+            "Calculators: Use A/B test calculator to determine significance",
+            "Tools: Google Optimize (free), Optimizely, VWO"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Common mistakes: Testing too many things simultaneously, stopping test too early, insufficient traffic (test never reaches significance), ignoring statistical significance, not documenting tests, testing cosmetics over substance. Focus on high-impact tests first."
+        },
+        {
+          "type": "list",
+          "title": "Testing Prioritization",
+          "items": [
+            "Impact: How much could this improve conversions?",
+            "Confidence: How sure are you this will work?",
+            "Ease: How difficult to implement?",
+            "ICE score: Impact × Confidence × Ease",
+            "Test highest ICE scores first",
+            "Quick wins: High impact, easy tests give fast results",
+            "Document: Record all tests and results for learning"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Why test one variable at a time?",
+          "options": [
+            "Faster testing",
+            "To know exactly what caused the difference",
+            "It's not necessary",
+            "To confuse visitors"
+          ],
+          "correctIndex": 1,
+          "explanation": "Test one variable at a time to know exactly what caused the difference. Testing multiple changes simultaneously doesn't pinpoint what worked."
+        },
+        {
+          "question": "When should you stop an A/B test?",
+          "options": [
+            "When you like one result",
+            "After one day",
+            "When statistical significance is reached",
+            "Never"
+          ],
+          "correctIndex": 2,
+          "explanation": "Stop test when statistical significance is reached (95% confidence). Stopping early based on preferred result leads to false conclusions."
+        }
+      ]
+    }
+  },
+  {
+    "id": "customer-journey",
+    "title": "Understanding the Customer Journey",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Customers rarely buy immediately. They go through journey: awareness (learn you exist), consideration (research options), decision (choose you), retention (continue using), advocacy (recommend others). Understanding this journey lets you create right content and messaging for each stage. Marketing at wrong stage wastes resources and annoys customers."
+        },
+        {
+          "type": "list",
+          "title": "Customer Journey Stages",
+          "items": [
+            "Awareness: Customer realizes they have problem/need",
+            "Consideration: Research solutions, compare options",
+            "Decision: Choose solution, ready to purchase",
+            "Retention: Use product, evaluate satisfaction",
+            "Advocacy: Recommend to others, repeat purchase",
+            "Each stage needs different marketing approach"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Stage-appropriate marketing: Awareness stage needs educational content (blog posts, videos). Don't pitch hard sale—they don't know you yet. Consideration stage needs comparison content, case studies, detailed product info. Decision stage needs testimonials, guarantees, strong offers. Wrong message at wrong stage fails."
+        },
+        {
+          "type": "list",
+          "title": "Awareness Stage Marketing",
+          "items": [
+            "Goal: Be discovered by people with relevant problems",
+            "Content: Educational blog posts, videos, social media",
+            "Topics: Problem-focused, not product-focused",
+            "SEO: Rank for problem-related keywords",
+            "Social: Share valuable insights, build audience",
+            "Ads: Broad targeting, educational content",
+            "CTA: 'Learn more', 'Download guide'"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Consideration Stage Marketing",
+          "items": [
+            "Goal: Position as best solution",
+            "Content: Comparison guides, case studies, webinars, product demos",
+            "Focus: How you solve problem better than alternatives",
+            "Lead magnets: Detailed guides, tools, assessments",
+            "Email nurture: Sequence educating on solution",
+            "Retargeting: Show ads to website visitors",
+            "CTA: 'Compare options', 'See how it works'"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Decision Stage Marketing",
+          "items": [
+            "Goal: Convert to customer",
+            "Content: Testimonials, guarantees, ROI calculators, free trials",
+            "Trust signals: Social proof, case studies with results",
+            "Urgency: Limited-time offers, scarcity (ethical)",
+            "Remove friction: Easy checkout, money-back guarantee",
+            "Sales engagement: Consultations, demos, answer questions",
+            "CTA: 'Start free trial', 'Buy now', 'Get started'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Post-purchase journey matters too. Retention: Onboarding emails, customer success, product updates keep customers happy and reduce churn. Advocacy: Request reviews, referral programs, community building turn customers into promoters. Acquiring customer is just beginning of relationship."
+        },
+        {
+          "type": "list",
+          "title": "Mapping Your Customer Journey",
+          "items": [
+            "Identify touchpoints: Where do customers interact with you?",
+            "Define stages: What does journey look like for your business?",
+            "Content audit: What content exists for each stage?",
+            "Gap analysis: What stages lack content?",
+            "Create content plan: Fill gaps with appropriate content",
+            "Measure: Track movement through stages",
+            "Optimize: Improve conversion at each transition"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What happens if you market to wrong stage?",
+          "options": [
+            "Nothing",
+            "Better results",
+            "Waste resources and annoy customers",
+            "Faster conversions"
+          ],
+          "correctIndex": 2,
+          "explanation": "Marketing at wrong stage wastes resources and annoys customers. Hard sales pitch to awareness stage or educational content to decision stage both fail."
+        },
+        {
+          "question": "What content works for awareness stage?",
+          "options": [
+            "Testimonials and guarantees",
+            "Educational, problem-focused content",
+            "Hard sales pitches",
+            "Pricing comparisons"
+          ],
+          "correctIndex": 1,
+          "explanation": "Awareness stage needs educational, problem-focused content. Customers don't know you yet—teach and provide value before pitching."
+        }
+      ]
+    }
+  },
+  {
+    "id": "marketing-scaling",
+    "title": "Scaling Your Marketing",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Scaling means growing efficiently—more customers without proportionally more resources. Small business might manually handle marketing. Scaling requires systems, automation, delegation. The goal: increase output (customers) while marginal cost decreases. Build once, benefit repeatedly. Systematize what works before scaling what doesn't."
+        },
+        {
+          "type": "list",
+          "title": "When to Scale",
+          "items": [
+            "Product-market fit: Product people want, positive retention",
+            "Profitable unit economics: LTV > 3× CAC",
+            "Repeatable process: You know what works, can replicate it",
+            "Infrastructure ready: Can handle increased volume",
+            "Team capacity: People or systems to manage growth",
+            "Don't scale too early: Fix fundamentals first",
+            "Scale winners: Double down on what's working"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The scaling paradox: What got you here won't get you there. Manual outreach works initially but doesn't scale. Content marketing scales. Founder-led sales works early but not at 1000 customers. Systems and team scale. Successful scaling means replacing yourself with systems."
+        },
+        {
+          "type": "list",
+          "title": "Marketing Automation",
+          "items": [
+            "Email sequences: Automated welcome, nurture, onboarding series",
+            "Chatbots: Answer common questions 24/7",
+            "Social scheduling: Schedule posts in advance",
+            "Lead scoring: Automatically prioritize hot leads",
+            "Retargeting: Automated ads to past visitors",
+            "Reporting: Automated dashboards and reports",
+            "Tools: Zapier, HubSpot, ActiveCampaign connect tools"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Scaling Content Production",
+          "items": [
+            "Templates: Reusable formats for consistent content",
+            "Repurposing: One piece → multiple formats",
+            "Outsourcing: Hire writers, designers, editors",
+            "AI assistance: Use AI for drafts, ideas, editing",
+            "Content calendar: Plan quarters ahead",
+            "Systems: Documented processes for content creation",
+            "Quality control: Maintain standards as volume increases"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Scaling paid ads: Start small, test, find winners. Once you have profitable campaigns (ROAS > 3:1), scale by: increasing budget gradually (20% weekly), expanding to similar audiences, testing new ad platforms, creating more winning creative. Don't scale losing campaigns hoping they'll improve."
+        },
+        {
+          "type": "list",
+          "title": "Building Marketing Team",
+          "items": [
+            "First hires: Contractors/freelancers for specific tasks",
+            "Core roles: Content creator, designer, ads manager, analyst",
+            "Specialists vs. generalists: Early: generalists; Scale: specialists",
+            "Training: Document processes before hiring",
+            "Tools: Invest in tools that multiply team effectiveness",
+            "Culture: Hire for alignment with values and customer obsession",
+            "Start: Outsource before hiring full-time"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Scaling Checklist",
+          "items": [
+            "Systems documented: Can others replicate your success?",
+            "Metrics tracked: Know what's working, what's not?",
+            "Automation in place: Reduce manual work",
+            "Budget allocated: Money to invest in growth",
+            "Team/partners: People to execute increased volume",
+            "Infrastructure ready: Website, systems handle traffic",
+            "Customer success: Can you deliver at scale?",
+            "Growth plan: Clear roadmap for next stage"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "When should you scale marketing?",
+          "options": [
+            "Immediately",
+            "When you have product-market fit and profitable unit economics",
+            "Never",
+            "After one sale"
+          ],
+          "correctIndex": 1,
+          "explanation": "Scale when you have product-market fit, profitable unit economics (LTV > 3× CAC), and repeatable processes. Fix fundamentals before scaling."
+        },
+        {
+          "question": "What's the goal of scaling?",
+          "options": [
+            "Work more hours",
+            "Increase output while marginal cost decreases",
+            "Hire more people",
+            "Spend more money"
+          ],
+          "correctIndex": 1,
+          "explanation": "Scaling means increasing output (customers) while marginal cost decreases through systems, automation, and efficient processes."
+        }
+      ]
+    }
+  }
+]
