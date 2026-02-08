@@ -2,52 +2,114 @@
   {
     "id": "sleep-fundamentals",
     "title": "Sleep Fundamentals",
-    "duration": "8 min",
+    "duration": "10 min",
     "content": {
       "sections": [
         {
           "type": "text",
-          "content": "Sleep is the foundation of health, affecting everything from cognitive function to immune system strength. Quality sleep allows your body to repair tissue, consolidate memories, and regulate hormones that control hunger, stress, and mood."
+          "content": "Sleep is non-negotiable for health. It's when your body repairs tissues, consolidates memories, regulates hormones, and clears metabolic waste from your brain. Chronic sleep deprivation increases risk of obesity, diabetes, heart disease, depression, and cognitive decline. Yet 1 in 3 adults don't get enough sleep. This lesson shows you how to optimize sleep for better health, energy, and performance."
         },
         {
           "type": "list",
-          "title": "Why sleep matters",
+          "title": "Why Sleep Matters",
           "items": [
-            "Enhances memory and learning capacity",
-            "Strengthens immune system function",
-            "Regulates appetite and metabolism",
-            "Reduces risk of chronic diseases",
-            "Improves emotional regulation and mental health"
+            "Brain function: Memory consolidation, learning, creativity",
+            "Physical repair: Muscle growth, tissue repair, immune function",
+            "Hormone regulation: Growth hormone, cortisol, leptin, ghrelin",
+            "Metabolic health: Blood sugar control, appetite regulation",
+            "Mental health: Emotional regulation, stress resilience",
+            "Disease prevention: Lower risk of chronic diseases",
+            "Longevity: Sleep deprivation shortens lifespan",
+            "Performance: Athletic and cognitive performance depend on sleep"
           ]
         },
         {
           "type": "text",
-          "content": "Most adults need 7-9 hours of sleep per night for optimal health. Sleep quality matters as much as quantity—deep and REM sleep stages are essential for physical and mental restoration."
+          "content": "Sleep cycles: 90-minute cycles of light sleep → deep sleep → REM sleep. Deep sleep is physical restoration. REM sleep is mental restoration (dreaming, memory processing). You need 4-6 complete cycles (7-9 hours) for optimal function. Cutting sleep short robs you of crucial late-cycle REM sleep."
         },
         {
           "type": "list",
-          "title": "Keys to better sleep",
+          "title": "Sleep Architecture",
           "items": [
-            "Maintain a consistent sleep schedule, even on weekends",
-            "Create a dark, cool, and quiet sleeping environment",
-            "Limit screen exposure 1-2 hours before bed",
-            "Avoid caffeine after 2 PM",
-            "Exercise regularly, but not within 3 hours of bedtime"
+            "Stage 1: Light sleep, transition (5% of night)",
+            "Stage 2: Light sleep, temperature drops (50% of night)",
+            "Stage 3: Deep sleep, physical restoration (20% of night)",
+            "REM sleep: Dreaming, mental restoration (25% of night)",
+            "Cycle repeats: 4-6 times per night",
+            "First half: More deep sleep",
+            "Second half: More REM sleep",
+            "Wake naturally: End of cycle feels best"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Sleep Hygiene Essentials",
+          "items": [
+            "Consistent schedule: Same bedtime/wake time daily (including weekends)",
+            "Dark room: Blackout curtains, cover LED lights",
+            "Cool temperature: 65-68°F (18-20°C) optimal",
+            "Quiet: White noise machine if needed",
+            "Comfortable: Good mattress, pillows, bedding",
+            "No screens: 1-2 hours before bed (blue light disrupts melatonin)",
+            "Wind-down routine: 30-60 min relaxation before bed",
+            "Bedroom = sleep only: Train your brain"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Timing matters: Your body follows circadian rhythm controlled by light. Morning sunlight sets your internal clock. Evening darkness triggers melatonin production. Get 10-30 minutes of morning sunlight. Dim lights 2 hours before bed. This aligns your rhythm for better sleep."
+        },
+        {
+          "type": "list",
+          "title": "What Disrupts Sleep",
+          "items": [
+            "Caffeine: 6-hour half-life, avoid after 2 PM",
+            "Alcohol: Disrupts deep and REM sleep",
+            "Large meals: Within 3 hours of bed",
+            "Exercise: Within 3 hours of bed (too stimulating)",
+            "Stress: Elevated cortisol prevents sleep onset",
+            "Irregular schedule: Confuses circadian rhythm",
+            "Blue light: Suppresses melatonin production",
+            "Warm room: Body needs to cool to sleep"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Better Sleep Strategies",
+          "items": [
+            "Morning: Sunlight within 30 min of waking",
+            "Afternoon: Stop caffeine by 2 PM",
+            "Evening: Dim lights, no screens 2 hours before bed",
+            "Bedtime routine: Same sequence signals sleep time",
+            "Can't sleep: Get up after 20 min, return when sleepy",
+            "Supplements: Magnesium, melatonin (short-term), L-theanine",
+            "Meditation: Calm mind before bed",
+            "Track sleep: Understand your patterns"
           ]
         }
       ],
       "quiz": [
         {
-          "question": "How many hours of sleep do most adults need per night?",
-          "options": ["5-6 hours", "7-9 hours", "10-12 hours"],
+          "question": "How many hours of sleep do most adults need?",
+          "options": [
+            "5-6 hours",
+            "7-9 hours for optimal health",
+            "10-12 hours",
+            "It doesn't matter"
+          ],
           "correctIndex": 1,
-          "explanation": "Most adults need 7-9 hours of sleep for optimal physical and mental health."
+          "explanation": "Most adults need 7-9 hours (4-6 complete sleep cycles) for optimal physical and mental health. Less than 7 hours chronically increases disease risk and impairs function."
         },
         {
-          "question": "What is one key factor for improving sleep quality?",
-          "options": ["Exercising right before bed", "Drinking coffee in the evening", "Maintaining a consistent sleep schedule"],
-          "correctIndex": 2,
-          "explanation": "Keeping a consistent sleep schedule helps regulate your body's circadian rhythm, improving sleep quality."
+          "question": "What's the ideal bedroom temperature for sleep?",
+          "options": [
+            "75-80°F (warm)",
+            "65-68°F (cool) - body needs to cool for deep sleep",
+            "50-55°F (cold)",
+            "Temperature doesn't matter"
+          ],
+          "correctIndex": 1,
+          "explanation": "65-68°F (18-20°C) is optimal. Your body temperature needs to drop for deep sleep. Cool room facilitates this natural process."
         }
       ]
     }
@@ -55,52 +117,113 @@
   {
     "id": "hydration-basics",
     "title": "The Power of Hydration",
-    "duration": "6 min",
+    "duration": "9 min",
     "content": {
       "sections": [
         {
           "type": "text",
-          "content": "Water makes up about 60% of your body weight and plays a vital role in nearly every bodily function. Proper hydration supports digestion, nutrient absorption, temperature regulation, joint lubrication, and cognitive performance."
+          "content": "Water is life. Your body is 60% water. Every cell, tissue, and organ needs water to function. Hydration affects energy, cognition, physical performance, digestion, skin health, and more. Even mild dehydration (2% body weight loss) impairs performance and mood. Yet most people walk around chronically dehydrated. Simple fix, massive impact."
         },
         {
           "type": "list",
-          "title": "Signs of dehydration",
+          "title": "What Water Does",
           "items": [
-            "Dark yellow urine",
-            "Fatigue and low energy",
-            "Headaches",
-            "Difficulty concentrating",
-            "Dry skin and lips"
+            "Temperature regulation: Sweating and respiration",
+            "Nutrient transport: Delivers nutrients to cells",
+            "Waste removal: Flushes toxins through kidneys",
+            "Joint lubrication: Cushions joints and spine",
+            "Digestion: Breaks down food, prevents constipation",
+            "Brain function: 75% of brain is water",
+            "Energy production: Needed for cellular energy",
+            "Skin health: Hydrated skin looks and feels better"
           ]
         },
         {
           "type": "text",
-          "content": "General guidelines suggest 8-10 cups (2-2.5 liters) of water daily, but individual needs vary based on activity level, climate, and body size. A simple rule: drink enough so your urine is pale yellow."
+          "content": "How much water: General rule is 8-10 cups (2-2.5 liters) daily, but needs vary. Better guideline: half your body weight in ounces. Example: 160 lbs = 80 oz (2.4 liters). More if you exercise, in hot climate, or sweat heavily. Simple check: pale yellow urine = hydrated."
         },
         {
           "type": "list",
-          "title": "Hydration strategies",
+          "title": "Dehydration Signs",
           "items": [
-            "Start your day with a glass of water",
-            "Carry a reusable water bottle",
-            "Drink water before, during, and after exercise",
-            "Eat water-rich foods like fruits and vegetables",
-            "Set reminders if you forget to drink regularly"
+            "Dark yellow urine: Most obvious indicator",
+            "Fatigue: Energy drops without water",
+            "Headaches: Often dehydration, not caffeine withdrawal",
+            "Dry mouth: Obvious but late sign",
+            "Dizziness: Especially when standing",
+            "Difficulty concentrating: Brain needs water",
+            "Constipation: Colon pulls water from stool",
+            "Dry skin: Chronic dehydration shows in skin"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Hydration Strategies",
+          "items": [
+            "Morning: 16 oz upon waking (rehydrate from sleep)",
+            "Carry bottle: Reusable water bottle everywhere",
+            "Before meals: Glass before eating",
+            "During exercise: Sip throughout, 16-20 oz per hour",
+            "After exercise: 16-24 oz per pound lost",
+            "Set reminders: Phone alerts if you forget",
+            "Flavor it: Add lemon, cucumber, mint if plain is boring",
+            "Track intake: Apps or marked bottle"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Electrolytes matter: Water alone isn't enough during intense exercise or heat. You lose sodium, potassium, magnesium through sweat. Add pinch of salt to water, eat potassium-rich foods (bananas, potatoes), or use electrolyte drinks for activities over 60 minutes or heavy sweating."
+        },
+        {
+          "type": "list",
+          "title": "Hydration Myths",
+          "items": [
+            "'8 glasses exactly': Guideline, not rule. Needs vary",
+            "'Coffee dehydrates': Mild diuretic but still hydrating",
+            "'Clear urine is best': Pale yellow is optimal, clear means overhydrated",
+            "'Thirst is enough': Often delayed signal",
+            "'Only water counts': Tea, coffee, milk count too",
+            "'Drink constantly': Spread throughout day, not all at once",
+            "'More is always better': Overhydration possible (rare but dangerous)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Water-Rich Foods",
+          "items": [
+            "Cucumber: 96% water",
+            "Watermelon: 92% water",
+            "Strawberries: 91% water",
+            "Lettuce: 96% water",
+            "Celery: 95% water",
+            "Tomatoes: 94% water",
+            "Zucchini: 95% water",
+            "Bonus: Also provide vitamins, minerals, fiber"
           ]
         }
       ],
       "quiz": [
         {
-          "question": "What percentage of your body weight is water?",
-          "options": ["About 30%", "About 60%", "About 90%"],
+          "question": "What's a good daily water intake guideline?",
+          "options": [
+            "Exactly 8 glasses always",
+            "Half your body weight in ounces (e.g., 160 lbs = 80 oz)",
+            "As little as possible",
+            "Only when very thirsty"
+          ],
           "correctIndex": 1,
-          "explanation": "Water makes up approximately 60% of your body weight and is essential for all bodily functions."
+          "explanation": "Half your body weight in ounces is a good personalized guideline. Adjust for activity, climate, and sweat rate. Urine color is best indicator."
         },
         {
-          "question": "What color should your urine be if you're well-hydrated?",
-          "options": ["Dark yellow", "Pale yellow", "Completely clear"],
+          "question": "What color should your urine be if well-hydrated?",
+          "options": [
+            "Dark yellow",
+            "Pale yellow - indicates good hydration",
+            "Completely clear",
+            "Brown"
+          ],
           "correctIndex": 1,
-          "explanation": "Pale yellow urine indicates good hydration, while dark yellow suggests you need more water."
+          "explanation": "Pale yellow indicates good hydration. Dark yellow means drink more. Completely clear means overhydrated (rare but possible)."
         }
       ]
     }
@@ -108,52 +231,114 @@
   {
     "id": "stress-management-intro",
     "title": "Understanding Stress",
-    "duration": "7 min",
+    "duration": "10 min",
     "content": {
       "sections": [
         {
           "type": "text",
-          "content": "Stress is your body's natural response to challenges and demands. While short-term stress can be motivating, chronic stress negatively impacts both physical and mental health, contributing to conditions like heart disease, anxiety, and weakened immunity."
+          "content": "Stress is epidemic in modern life. Chronic stress literally makes you sick: weakens immune system, increases inflammation, raises blood pressure, disrupts hormones, impairs digestion, and accelerates aging. The good news: manageable with right tools. This lesson explains stress biology and practical strategies to manage it effectively."
         },
         {
           "type": "list",
-          "title": "Common stress symptoms",
+          "title": "How Stress Works",
           "items": [
-            "Physical: headaches, muscle tension, fatigue",
-            "Emotional: irritability, anxiety, feeling overwhelmed",
-            "Behavioral: changes in appetite, sleep problems, social withdrawal",
-            "Cognitive: difficulty concentrating, racing thoughts, constant worry"
+            "Acute stress: Short-term (good - motivating, focused)",
+            "Chronic stress: Long-term (bad - damaging, depleting)",
+            "Fight-or-flight: Sympathetic nervous system activated",
+            "Cortisol release: Stress hormone floods system",
+            "Body changes: Heart rate up, digestion down, immune suppressed",
+            "Designed for survival: Run from tiger, not for daily deadlines",
+            "Modern problem: Constant low-level stress, never shut off",
+            "Cumulative damage: Small stressors add up over time"
           ]
         },
         {
           "type": "text",
-          "content": "Managing stress effectively requires a multi-faceted approach. The key is developing a toolkit of strategies that work for you and practicing them consistently, not just when stress peaks."
+          "content": "Physical symptoms of chronic stress: Headaches, muscle tension (especially neck/shoulders), fatigue, digestive issues, sleep problems, weakened immunity (getting sick often), weight gain (especially belly), high blood pressure. Your body is signaling overload."
         },
         {
           "type": "list",
-          "title": "Effective stress management techniques",
+          "title": "Mental & Emotional Signs",
           "items": [
-            "Practice deep breathing exercises daily",
-            "Engage in regular physical activity",
-            "Set boundaries and learn to say no",
-            "Connect with supportive friends and family",
-            "Make time for hobbies and activities you enjoy",
-            "Consider meditation or mindfulness practices"
+            "Anxiety: Constant worry, racing thoughts",
+            "Irritability: Short fuse, snapping at people",
+            "Overwhelm: Can't handle normal tasks",
+            "Poor concentration: Difficulty focusing",
+            "Memory issues: Forgetting things",
+            "Depression: Low mood, hopelessness",
+            "Social withdrawal: Isolating from others",
+            "Loss of motivation: Everything feels hard"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Behavioral Changes",
+          "items": [
+            "Appetite changes: Overeating or loss of appetite",
+            "Sleep disruption: Can't fall asleep or stay asleep",
+            "Substance use: Alcohol, drugs, caffeine to cope",
+            "Procrastination: Avoiding tasks",
+            "Nervous habits: Nail biting, pacing, fidgeting",
+            "Neglecting self-care: Skipping meals, hygiene, exercise",
+            "Relationship problems: Conflicts increase",
+            "Work issues: Performance drops"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Stress management is skill, not personality trait. You can learn to handle stress better. Key is having toolkit of strategies and using them consistently, not just in crisis. Prevention beats reaction. Build resilience before you need it."
+        },
+        {
+          "type": "list",
+          "title": "Immediate Stress Relief",
+          "items": [
+            "Deep breathing: 4-7-8 technique (inhale 4, hold 7, exhale 8)",
+            "Progressive muscle relaxation: Tense then release muscle groups",
+            "Cold water: Splash face, activates vagus nerve",
+            "Movement: Walk, stretch, shake it out",
+            "Grounding: 5-4-3-2-1 sensory technique",
+            "Talk it out: Vent to trusted person",
+            "Change environment: Step outside, new room",
+            "Humor: Watch something funny, laughter helps"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Long-Term Stress Management",
+          "items": [
+            "Regular exercise: Burns stress hormones",
+            "Sleep priority: 7-9 hours non-negotiable",
+            "Meditation: Daily practice builds resilience",
+            "Social connection: Support system essential",
+            "Boundaries: Learn to say no",
+            "Time management: Reduce overwhelm",
+            "Nature time: Proven stress reducer",
+            "Therapy: Professional help when needed"
           ]
         }
       ],
       "quiz": [
         {
-          "question": "Which of these is NOT a common symptom of chronic stress?",
-          "options": ["Headaches and muscle tension", "Improved concentration", "Changes in appetite"],
+          "question": "What's the difference between acute and chronic stress?",
+          "options": [
+            "No difference",
+            "Acute is short-term/motivating; chronic is long-term/damaging",
+            "Acute is worse",
+            "Chronic is always good"
+          ],
           "correctIndex": 1,
-          "explanation": "Chronic stress typically impairs concentration rather than improving it. Difficulty focusing is a common cognitive symptom of stress."
+          "explanation": "Acute stress is short-term and can be motivating (deadline focus). Chronic stress is long-term and damaging (constant overwhelm). Body designed for acute, not chronic."
         },
         {
-          "question": "What is the best approach to managing stress?",
-          "options": ["Wait until you feel overwhelmed to take action", "Develop a consistent toolkit of stress management strategies", "Ignore stress and hope it goes away"],
+          "question": "When should you practice stress management?",
+          "options": [
+            "Only in crisis",
+            "Consistently, before you need it - build resilience",
+            "Never",
+            "Once a year"
+          ],
           "correctIndex": 1,
-          "explanation": "Effective stress management requires consistent practice of multiple strategies, not waiting until stress becomes overwhelming."
+          "explanation": "Practice stress management consistently, not just in crisis. Build resilience before you need it. Prevention beats reaction. Daily practice compounds."
         }
       ]
     }
@@ -161,54 +346,115 @@
   {
     "id": "movement-basics",
     "title": "Introduction to Movement",
-    "duration": "7 min",
+    "duration": "10 min",
     "content": {
       "sections": [
         {
           "type": "text",
-          "content": "Regular physical movement is one of the most powerful tools for improving overall health. Exercise strengthens your cardiovascular system, builds muscle and bone density, improves mood through endorphin release, and enhances longevity."
+          "content": "Sitting is the new smoking. Your body is designed to move. Regular movement prevents chronic diseases, improves mental health, boosts energy, enhances cognitive function, and extends lifespan. You don't need gym membership or fancy equipment. You need consistency. This lesson shows you how to build sustainable movement practice that fits your life."
         },
         {
           "type": "list",
-          "title": "Benefits of regular movement",
+          "title": "Benefits of Regular Movement",
           "items": [
-            "Reduces risk of heart disease, diabetes, and some cancers",
-            "Improves mental health and reduces symptoms of depression",
-            "Enhances cognitive function and memory",
-            "Increases energy levels throughout the day",
-            "Promotes better sleep quality",
-            "Supports healthy weight management"
+            "Heart health: Reduces cardiovascular disease risk by 30-40%",
+            "Weight management: Burns calories, builds muscle",
+            "Mental health: Reduces depression and anxiety symptoms",
+            "Brain function: Improves memory, focus, cognitive performance",
+            "Bone density: Weight-bearing exercise strengthens bones",
+            "Sleep quality: Better sleep onset and depth",
+            "Energy levels: Paradox - expending energy creates energy",
+            "Disease prevention: Lower risk of diabetes, cancer, dementia",
+            "Longevity: Regular movers live longer, healthier lives"
           ]
         },
         {
           "type": "text",
-          "content": "The World Health Organization recommends at least 150 minutes of moderate-intensity aerobic activity per week, plus muscle-strengthening activities twice weekly. The good news: you can break this into smaller chunks throughout your day."
+          "content": "WHO recommendations: 150 minutes moderate-intensity aerobic activity per week (30 min x 5 days) OR 75 minutes vigorous-intensity, PLUS muscle-strengthening 2+ days per week. Sounds like a lot? Break it down: three 10-minute walks daily = 30 minutes. Very achievable."
         },
         {
           "type": "list",
-          "title": "Getting started with movement",
+          "title": "Types of Movement",
           "items": [
-            "Start small: even 10-minute walks count",
-            "Choose activities you enjoy to build consistency",
-            "Mix cardio, strength training, and flexibility work",
-            "Schedule movement like any important appointment",
-            "Build gradually to avoid injury and burnout",
-            "Find an accountability partner or join a group"
+            "Cardio: Elevates heart rate (walking, running, cycling, swimming)",
+            "Strength: Builds muscle (weights, bodyweight, resistance bands)",
+            "Flexibility: Improves range of motion (yoga, stretching)",
+            "Balance: Prevents falls (tai chi, single-leg exercises)",
+            "Daily activity: NEAT - non-exercise activity (stairs, cleaning, fidgeting)",
+            "Sport/recreation: Fun activities (tennis, dancing, hiking)",
+            "Ideal: Mix of all types throughout week",
+            "Start where you are: Any movement beats none"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Starting From Zero",
+          "items": [
+            "Week 1-2: 10-minute daily walks",
+            "Week 3-4: 15-minute walks + light stretching",
+            "Week 5-6: 20-minute walks + bodyweight exercises (2x/week)",
+            "Week 7-8: 30-minute walks + strength (2x/week)",
+            "Month 3+: Increase intensity gradually",
+            "Listen to body: Some soreness okay, pain is not",
+            "Rest days: Essential for recovery",
+            "Progressive overload: Gradually increase challenge"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The best exercise is the one you'll actually do. Hate running? Don't run. Love dancing? Dance. Enjoy hiking? Hike. Movement should feel good, not punishment. Find activities you enjoy, you'll stick with them long-term."
+        },
+        {
+          "type": "list",
+          "title": "Building the Habit",
+          "items": [
+            "Same time daily: Morning often works best",
+            "Anchor to routine: After coffee, before shower",
+            "Prepare ahead: Lay out clothes night before",
+            "Start small: 5 minutes better than zero",
+            "Track progress: App, journal, calendar",
+            "Accountability: Workout partner, class, trainer",
+            "Celebrate wins: Acknowledge every workout",
+            "Forgive misses: One missed day doesn't erase progress"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Common Barriers & Solutions",
+          "items": [
+            "'No time': Wake 30 min earlier or break into 3x10 min",
+            "'Too tired': Exercise actually increases energy",
+            "'Too expensive': Bodyweight exercises, YouTube workouts free",
+            "'Bad weather': Indoor alternatives, mall walking",
+            "'Self-conscious': Home workouts, early morning, private gyms",
+            "'Don't know what to do': Follow simple program, hire trainer",
+            "'Boring': Try new activities, vary routine, music/podcasts",
+            "'Too out of shape': Everyone starts somewhere, modify exercises"
           ]
         }
       ],
       "quiz": [
         {
-          "question": "How many minutes of moderate-intensity aerobic activity does WHO recommend per week?",
-          "options": ["60 minutes", "150 minutes", "300 minutes"],
+          "question": "How much moderate exercise does WHO recommend weekly?",
+          "options": [
+            "30 minutes total",
+            "150 minutes (e.g., 30 min x 5 days)",
+            "500 minutes",
+            "Exercise isn't necessary"
+          ],
           "correctIndex": 1,
-          "explanation": "The WHO recommends at least 150 minutes (2.5 hours) of moderate-intensity aerobic activity weekly for adults."
+          "explanation": "WHO recommends 150 minutes moderate-intensity aerobic activity per week (30 min x 5 days) PLUS strength training 2+ days. Break into manageable chunks."
         },
         {
-          "question": "What is a key strategy for building a sustainable movement practice?",
-          "options": ["Start with intense workouts immediately", "Choose activities you enjoy", "Exercise only when you feel motivated"],
+          "question": "What's the best type of exercise?",
+          "options": [
+            "Running only",
+            "The one you'll actually do consistently - find what you enjoy",
+            "Doesn't matter",
+            "Expensive gym membership"
+          ],
           "correctIndex": 1,
-          "explanation": "Choosing enjoyable activities increases adherence and makes movement sustainable long-term."
+          "explanation": "Best exercise is one you'll do consistently. Enjoyment drives adherence. Hate running? Don't run. Love dancing? Dance. Find your movement."
         }
       ]
     }
@@ -216,51 +462,114 @@
   {
     "id": "nutrition-overview",
     "title": "Nutrition Overview",
-    "duration": "8 min",
+    "duration": "10 min",
     "content": {
       "sections": [
         {
           "type": "text",
-          "content": "Nutrition is the cornerstone of health, providing the energy and nutrients your body needs to function optimally. What you eat affects your energy levels, disease risk, mood, cognitive performance, and longevity."
+          "content": "You are what you eat. Literally. Every cell in your body is built from nutrients you consume. Food is information—it tells your genes how to express, your hormones how to regulate, your immune system how to respond. Quality nutrition prevents disease, optimizes energy, improves mood, enhances performance. Yet most people eat terribly. This lesson gives you foundational nutrition principles that work."
         },
         {
           "type": "list",
-          "title": "Macronutrients explained",
+          "title": "What Food Does",
           "items": [
-            "Carbohydrates: primary energy source (whole grains, fruits, vegetables)",
-            "Proteins: building blocks for muscles, tissues, enzymes (lean meats, fish, legumes, nuts)",
-            "Fats: essential for hormone production and nutrient absorption (avocados, olive oil, fatty fish)"
+            "Energy: Calories fuel every bodily function",
+            "Building blocks: Protein builds muscles, tissues, enzymes",
+            "Regulation: Vitamins and minerals control processes",
+            "Communication: Nutrients signal hormones and genes",
+            "Protection: Antioxidants fight disease",
+            "Gut health: Fiber feeds beneficial bacteria",
+            "Brain function: Fats build brain structure",
+            "Disease prevention: Quality food prevents chronic illness"
           ]
         },
         {
           "type": "text",
-          "content": "Micronutrients—vitamins and minerals—play crucial roles in immune function, bone health, and disease prevention. A varied, colorful diet rich in whole foods typically provides all the micronutrients you need."
+          "content": "Macronutrients vs micronutrients: Macros (carbs, proteins, fats) you need in large amounts for energy and structure. Micros (vitamins, minerals) you need in small amounts for regulation and function. Both essential. Can't neglect either."
         },
         {
           "type": "list",
-          "title": "Principles of healthy eating",
+          "title": "Macronutrients Quick Guide",
           "items": [
-            "Prioritize whole, minimally processed foods",
-            "Eat a variety of colorful fruits and vegetables",
-            "Include lean proteins with each meal",
-            "Choose whole grains over refined grains",
-            "Limit added sugars and highly processed foods",
-            "Practice mindful eating and pay attention to hunger cues"
+            "Carbohydrates: Energy source (whole grains, fruits, vegetables)",
+            "Proteins: Building/repair (meat, fish, eggs, legumes, dairy)",
+            "Fats: Hormones, brain health, absorption (nuts, avocado, olive oil, fish)",
+            "Each serves different purpose: Need all three",
+            "Quality matters: Whole foods beat processed",
+            "Ratio depends: On goals, activity, individual response",
+            "Start balanced: 40% carbs, 30% protein, 30% fat",
+            "Adjust: Based on how you feel and results"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Principles of Healthy Eating",
+          "items": [
+            "Whole foods: Minimally processed, recognize ingredients",
+            "Variety: Different colors, different nutrients",
+            "Vegetables: Half your plate, multiple servings daily",
+            "Protein each meal: 20-30g per meal optimal",
+            "Healthy fats: Every meal for satiety and hormones",
+            "Limit sugar: Added sugars drive inflammation",
+            "Hydrate: Water with every meal",
+            "Mindful eating: Slow down, chew thoroughly, enjoy food"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The plate method (simple visual guide): Fill half your plate with non-starchy vegetables (broccoli, leafy greens), quarter with lean protein (palm-sized), quarter with complex carbs (fist-sized), add thumb-sized healthy fat. Works for most people, most meals. Adjusts automatically to plate size."
+        },
+        {
+          "type": "list",
+          "title": "What to Limit",
+          "items": [
+            "Processed foods: Most packaged items with long ingredient lists",
+            "Added sugars: Sodas, candy, baked goods, hidden in sauces",
+            "Refined grains: White bread, white rice, pastries",
+            "Trans fats: Partially hydrogenated oils, fried foods",
+            "Excessive alcohol: Disrupts sleep, hormones, empty calories",
+            "High sodium: Processed meats, canned foods, restaurant meals",
+            "Artificial ingredients: Dyes, sweeteners, preservatives",
+            "80/20 rule: Eat well 80% of time, flexible 20%"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Nutrition Myths Debunked",
+          "items": [
+            "'Carbs are bad': Wrong. Refined carbs problematic, whole carbs healthy",
+            "'Fat makes you fat': Wrong. Healthy fats essential, excess calories make you fat",
+            "'Eating late causes weight gain': Wrong. Total calories matter, not timing",
+            "'Organic is always better': Sometimes. Prioritize organic for dirty dozen",
+            "'You need supplements': Maybe. Whole foods first, supplement gaps",
+            "'One superfood fixes everything': Wrong. Variety and consistency matter",
+            "'Detox diets work': Wrong. Your liver and kidneys detox naturally",
+            "Focus: Simple, sustainable eating habits"
           ]
         }
       ],
       "quiz": [
         {
-          "question": "Which macronutrient is the primary energy source for your body?",
-          "options": ["Protein", "Carbohydrates", "Fats"],
+          "question": "What's the 'plate method' for balanced meals?",
+          "options": [
+            "All protein",
+            "½ vegetables, ¼ protein, ¼ complex carbs, add healthy fat",
+            "Only carbs",
+            "Random amounts"
+          ],
           "correctIndex": 1,
-          "explanation": "Carbohydrates are the body's primary and most efficient source of energy, especially for brain and muscle function."
+          "explanation": "Plate method: Half vegetables, quarter protein (palm-sized), quarter carbs (fist-sized), plus healthy fat (thumb-sized). Simple, visual, works for most people."
         },
         {
-          "question": "What is a key principle of healthy eating?",
-          "options": ["Eliminate all fats from your diet", "Focus on whole, minimally processed foods", "Only eat one type of food group"],
+          "question": "Which statement about nutrition is TRUE?",
+          "options": [
+            "Carbs are always bad",
+            "Quality matters - whole foods beat processed, need variety",
+            "One superfood fixes everything",
+            "Timing is more important than total intake"
+          ],
           "correctIndex": 1,
-          "explanation": "Prioritizing whole, minimally processed foods ensures you get essential nutrients while avoiding excess additives and empty calories."
+          "explanation": "Quality and variety matter most. Whole foods provide nutrients processed foods lack. No single food is magic. Consistency and balance drive results."
         }
       ]
     }
