@@ -1,0 +1,489 @@
+[
+  {
+    "id": "productivity-fundamentals",
+    "title": "Productivity Fundamentals",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Productivity isn't about doing more—it's about doing what matters. Working 12-hour days on wrong things produces nothing valuable. Working 4 focused hours on right things changes everything. True productivity = (Time × Focus × Energy) on High-Impact Activities. Most people optimize time, ignore focus and energy, and never identify high-impact activities. This is why they're busy but not productive."
+        },
+        {
+          "type": "list",
+          "title": "The Productivity Equation",
+          "items": [
+            "Time: Hours available (limited, can't create more)",
+            "Focus: Attention quality (highly variable, trainable)",
+            "Energy: Mental and physical capacity (manageable, predictable)",
+            "High-Impact Activities: 20% of work driving 80% of results",
+            "Multiplication: Zero any variable = zero output",
+            "Optimization: Most gains come from focus, energy, and prioritization, not time"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The biggest productivity killer: doing low-value work efficiently. Answering emails faster doesn't matter if email isn't moving needle. Productivity culture glorifies 'busy' over 'effective.' Meetings, messages, shallow tasks create illusion of productivity while preventing actual progress on what matters."
+        },
+        {
+          "type": "list",
+          "title": "High vs. Low Value Work",
+          "items": [
+            "High-value: Strategic thinking, deep work, skill building, relationship building, revenue-generating",
+            "Low-value: Most meetings, most emails, busy work, tasks others could do, fake urgencies",
+            "Question: Will this matter in a month? A year? If no, it's probably low-value",
+            "Delegate: Low-value but necessary tasks",
+            "Eliminate: Low-value and unnecessary tasks",
+            "Focus: 80% of time on high-value work"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Common Productivity Myths",
+          "items": [
+            "Myth: More hours = more output (False: Focus and energy matter more)",
+            "Myth: Multitasking is efficient (False: Task switching kills productivity)",
+            "Myth: Checking email frequently is necessary (False: Scheduled checks suffice)",
+            "Myth: Being busy means being productive (False: Activity ≠ Results)",
+            "Myth: You need motivation (False: Systems beat motivation)",
+            "Myth: Productivity requires sacrifice (False: Sustainable practices work better)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Energy management beats time management. You have same 24 hours as everyone else. Difference is how much energy you bring to those hours. Two hours of deep work with high energy accomplishes more than eight hours of distracted work with low energy. Manage energy, not just time."
+        },
+        {
+          "type": "list",
+          "title": "Productivity Principles",
+          "items": [
+            "Pareto (80/20): 20% activities drive 80% results—identify and focus on these",
+            "Parkinson's Law: Work expands to fill time available—set tight deadlines",
+            "Attention residue: Switching tasks leaves residue, reducing focus—batch similar tasks",
+            "Decision fatigue: Decisions drain energy—reduce trivial decisions",
+            "Ultradian rhythms: Natural 90-minute focus cycles—work with them, not against",
+            "Compound effect: Small improvements compound to massive gains"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the productivity equation?",
+          "options": [
+            "Time only",
+            "Time × Focus × Energy on High-Impact Activities",
+            "Hours worked",
+            "Tasks completed"
+          ],
+          "correctIndex": 1,
+          "explanation": "Productivity = (Time × Focus × Energy) on High-Impact Activities. Optimizing only time while ignoring focus, energy, or impact is ineffective."
+        },
+        {
+          "question": "What's the biggest productivity killer?",
+          "options": [
+            "Not enough time",
+            "Doing low-value work efficiently",
+            "Taking breaks",
+            "Using tools"
+          ],
+          "correctIndex": 1,
+          "explanation": "Doing low-value work efficiently is the biggest killer. Being busy on wrong things produces nothing valuable. Focus on high-impact activities."
+        }
+      ]
+    }
+  },
+  {
+    "id": "priority-management",
+    "title": "Priority Management",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Everything feels urgent. Everything feels important. But if everything is a priority, nothing is a priority. Priority management is choosing what NOT to do as much as choosing what to do. The word 'priority' was singular for 500 years—we pluralized it recently and created chaos. Return to singular priority: What's THE most important thing right now?"
+        },
+        {
+          "type": "list",
+          "title": "Eisenhower Matrix",
+          "items": [
+            "Urgent + Important: Do first (crises, deadlines, emergencies)",
+            "Not Urgent + Important: Schedule (strategic work, planning, skill building, relationships)",
+            "Urgent + Not Important: Delegate (interruptions, some emails, some meetings)",
+            "Not Urgent + Not Important: Eliminate (time wasters, busywork, distractions)",
+            "Key insight: Most people live in Urgent quadrants, successful people focus on Not Urgent + Important",
+            "Goal: Spend 60-80% time on Not Urgent + Important"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The ONE Thing: At any moment, what's the ONE thing I can do such that by doing it, everything else becomes easier or unnecessary? This question cuts through noise. One strategic decision eliminates hundred tactical decisions. One key hire eliminates thousand small tasks. Find your ONE thing daily."
+        },
+        {
+          "type": "list",
+          "title": "Priority Setting Framework",
+          "items": [
+            "1. Brain dump: List everything you could do",
+            "2. Impact assessment: Rate potential impact (1-10) of each",
+            "3. Effort assessment: Rate required effort (1-10) of each",
+            "4. Priority score: Impact ÷ Effort",
+            "5. Focus: Do high-score items first",
+            "6. Review: Reassess priorities weekly",
+            "Quick wins: High impact, low effort—do these immediately"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "The Not-To-Do List",
+          "items": [
+            "Concept: What you WON'T do is as important as what you will do",
+            "Examples: No meetings before 10am, no social media before noon, no email after 6pm",
+            "Commitments: Say no to opportunities that don't align with priorities",
+            "Distractions: Identify and eliminate recurring distractions",
+            "Bad habits: List and systematically eliminate",
+            "Power of no: Every 'no' to wrong thing is 'yes' to right thing"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Warren Buffett's 25/5 rule: List your top 25 goals. Circle top 5. The other 20? Avoid at all costs. They're distractions disguised as priorities. Focusing on everything means focusing on nothing. Choose your few vital priorities and protect them fiercely."
+        },
+        {
+          "type": "list",
+          "title": "Daily Priority System",
+          "items": [
+            "Evening before: Identify tomorrow's top 3 priorities",
+            "Morning: Review and confirm (adjust if context changed)",
+            "Focus first: Complete most important task first (Eat the Frog)",
+            "Protect: Block time for priorities before other commitments",
+            "Say no: Decline requests that compete with priorities",
+            "Review: End of day—did you complete priorities? Why or why not?",
+            "Success metric: Days you complete top priority"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Where should you spend most time?",
+          "options": [
+            "Urgent + Important",
+            "Not Urgent + Important (strategic work)",
+            "Urgent + Not Important",
+            "Not Urgent + Not Important"
+          ],
+          "correctIndex": 1,
+          "explanation": "Spend 60-80% time on Not Urgent + Important (strategic work, planning, skill building). This is where high-impact work happens."
+        },
+        {
+          "question": "What's the ONE Thing question?",
+          "options": [
+            "What can I do fastest?",
+            "What's the ONE thing such that by doing it, everything else becomes easier or unnecessary?",
+            "What's most urgent?",
+            "What's easiest?"
+          ],
+          "correctIndex": 1,
+          "explanation": "The ONE Thing: What's the ONE thing I can do such that by doing it, everything else becomes easier or unnecessary? This cuts through noise."
+        }
+      ]
+    }
+  },
+  {
+    "id": "energy-management",
+    "title": "Energy Management",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "You can't manage time but you can manage energy. Work four hours with high energy accomplishes more than eight hours depleted. Energy has four dimensions: physical, mental, emotional, and spiritual (purpose). Optimize all four for peak productivity. Most people drain energy then wonder why they're unproductive."
+        },
+        {
+          "type": "list",
+          "title": "Physical Energy",
+          "items": [
+            "Sleep: 7-9 hours non-negotiable (most important productivity factor)",
+            "Exercise: 30 minutes daily boosts energy all day",
+            "Nutrition: Stable blood sugar (protein, healthy fats, complex carbs) prevents crashes",
+            "Hydration: Dehydration kills focus—drink water regularly",
+            "Movement: Stand, walk, stretch every 90 minutes",
+            "Rest: Strategic breaks recharge energy",
+            "Reality: Can't out-productivity bad sleep and nutrition"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Ultradian rhythms: Your brain naturally cycles through 90-minute periods of high focus followed by need for rest. Fighting this creates exhaustion. Working with it creates sustained high performance. Work intensely 90 minutes, rest 10-20 minutes. Four cycles = 6 hours of high-quality work beats 10 hours of distracted work."
+        },
+        {
+          "type": "list",
+          "title": "Mental Energy",
+          "items": [
+            "Peak hours: Identify when you're sharpest (morning for most)",
+            "Protect peak: Schedule hardest work during peak mental energy",
+            "Decision batching: Make decisions in batches, not constantly",
+            "Context switching: Minimize—every switch drains energy",
+            "Cognitive load: Reduce trivial decisions (automate, routines)",
+            "Mental rest: Breaks, walks, meditation restore mental energy",
+            "Input quality: What you consume affects mental state"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Emotional Energy",
+          "items": [
+            "Positive relationships: Energy-giving vs. energy-draining people",
+            "Boundaries: Protect yourself from emotional vampires",
+            "Stress management: Chronic stress depletes all energy",
+            "Enjoyment: Work you enjoy sustains energy; work you hate drains it",
+            "Celebration: Acknowledge wins to maintain positive emotion",
+            "Recovery: Emotional energy needs deliberate restoration",
+            "Environment: Optimize workspace for positive emotional state"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Energy audit: Track your energy levels hourly for one week. When are you highest energy? Lowest? What activities boost energy? What drains it? Which people energize you? Which deplete you? This data reveals patterns. Optimize your schedule around your energy reality, not ideal."
+        },
+        {
+          "type": "list",
+          "title": "Spiritual Energy (Purpose)",
+          "items": [
+            "Purpose: Why does your work matter? Clear purpose sustains energy",
+            "Meaning: Connect daily tasks to larger mission",
+            "Values: Work aligned with values energizes; misalignment drains",
+            "Contribution: Sense of making difference fuels energy",
+            "Growth: Progress and learning generate energy",
+            "Reflection: Regular reflection on purpose maintains spiritual energy"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Energy Recovery Strategies",
+          "items": [
+            "Micro-breaks: 5 minutes every hour (walk, stretch, breathe)",
+            "Macro-breaks: 10-20 minutes every 90 minutes (full disengage)",
+            "Power naps: 10-20 minutes (refreshes, doesn't cause grogginess)",
+            "Nature: Time outside restores attention",
+            "Social: Quality time with energizing people",
+            "Hobbies: Activities purely for enjoyment",
+            "Weekly: One day with no work (complete disconnect)"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the most important productivity factor?",
+          "options": [
+            "Perfect schedule",
+            "Sleep (7-9 hours)",
+            "More hours worked",
+            "Expensive tools"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sleep (7-9 hours) is the most important productivity factor. Can't out-productivity bad sleep. It affects all energy dimensions."
+        },
+        {
+          "question": "What are ultradian rhythms?",
+          "options": [
+            "Daily sleep patterns",
+            "90-minute cycles of focus followed by need for rest",
+            "Monthly energy patterns",
+            "Random energy fluctuations"
+          ],
+          "correctIndex": 1,
+          "explanation": "Ultradian rhythms: natural 90-minute focus cycles. Work with them (intense 90 min, rest 10-20 min) for sustained high performance."
+        }
+      ]
+    }
+  },
+  {
+    "id": "environment-optimization",
+    "title": "Environment Optimization",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Your environment shapes behavior more than willpower. Trying to be productive in distraction-filled environment is fighting uphill battle. Smart people design environments that make productivity default, not exception. Willpower is limited; environment works 24/7. Change environment, change results."
+        },
+        {
+          "type": "list",
+          "title": "Physical Workspace",
+          "items": [
+            "Dedicated space: Separate work area (even corner of room) signals 'work mode'",
+            "Ergonomics: Proper chair, desk height, monitor position prevent fatigue",
+            "Lighting: Natural light best; bright artificial light if natural unavailable",
+            "Temperature: Slightly cool (68-70°F) optimal for focus",
+            "Clutter: Clean, organized space reduces mental load",
+            "Personalization: Make space pleasant without distracting",
+            "Tools: Everything you need within reach"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Digital environment matters as much as physical. Notifications are productivity poison—every ping breaks flow. Average person checks phone 96 times daily. Each check fragments attention. Digital minimalism: ruthlessly eliminate unnecessary digital distractions."
+        },
+        {
+          "type": "list",
+          "title": "Digital Environment",
+          "items": [
+            "Notifications: Turn off everything except critical alerts",
+            "Phone: Different room during deep work, or use app blockers",
+            "Browser: Close unnecessary tabs (tab explosion kills focus)",
+            "Desktop: Clean, organized, not overwhelming",
+            "Email: Close when not actively processing (check on schedule)",
+            "Apps: Remove distracting apps from phone",
+            "Focus tools: Use Freedom, Cold Turkey, or Forest to block distractions"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Social Environment",
+          "items": [
+            "Communicate: Let others know your focus times",
+            "Boundaries: 'Do not disturb' signals (headphones, closed door, status)",
+            "Co-working: Sometimes working alongside focused people boosts productivity",
+            "Accountability: Partner or group for mutual accountability",
+            "Energy-givers: Spend time with productive, positive people",
+            "Limit vampires: Reduce time with energy-draining, negative people"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Friction design: Make good behaviors easy, bad behaviors hard. Want to read more? Keep book on pillow. Want to exercise? Sleep in workout clothes. Want to avoid social media? Delete apps, use website blockers. Want to focus? Phone in another room. Design environment that defaults to desired behaviors."
+        },
+        {
+          "type": "list",
+          "title": "Context Switching",
+          "items": [
+            "Separate spaces: Different spaces for different work types",
+            "Visual cues: Environment signals what mode you're in",
+            "Rituals: Consistent actions that trigger focus mode",
+            "Example: Desk for deep work, couch for creative thinking, coffee shop for admin",
+            "Brain associates: Place with activity—use this to your advantage",
+            "Work from home: Create distinct zones even in small space"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What matters more for productivity?",
+          "options": [
+            "Willpower",
+            "Environment design",
+            "Motivation",
+            "Personality"
+          ],
+          "correctIndex": 1,
+          "explanation": "Environment shapes behavior more than willpower. Willpower is limited; environment works 24/7. Design environment that makes productivity default."
+        },
+        {
+          "question": "What should you do with notifications?",
+          "options": [
+            "Check immediately",
+            "Turn off everything except critical alerts",
+            "Leave all on",
+            "Check hourly"
+          ],
+          "correctIndex": 1,
+          "explanation": "Turn off notifications except critical alerts. Each notification breaks flow. Most aren't urgent and can be batched."
+        }
+      ]
+    }
+  },
+  {
+    "id": "battling-procrastination",
+    "title": "Battling Procrastination",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Procrastination isn't laziness or poor time management—it's emotion regulation. We procrastinate to avoid negative emotions: anxiety, boredom, uncertainty, fear of failure. The task triggers discomfort, procrastination provides temporary relief. Understanding this changes how you fight it. You're not lazy; you're human avoiding discomfort."
+        },
+        {
+          "type": "list",
+          "title": "Why We Procrastinate",
+          "items": [
+            "Anxiety: Task feels overwhelming or uncertain",
+            "Perfectionism: Fear of not doing it perfectly",
+            "Lack of structure: Don't know where to start",
+            "Low interest: Task is boring or meaningless",
+            "Instant gratification: Immediate pleasures more tempting than delayed rewards",
+            "Fear of failure: What if I can't do it well?",
+            "Energy mismatch: Task requires energy you don't currently have"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 2-minute rule: If task takes less than 2 minutes, do it immediately. For larger tasks, commit to just 2 minutes. Starting is hardest part. Once started, momentum carries you forward. 'I'll just write one sentence' becomes 'I wrote for an hour.' Trick your brain past the starting resistance."
+        },
+        {
+          "type": "list",
+          "title": "Anti-Procrastination Strategies",
+          "items": [
+            "Break it down: Overwhelming task into tiny, manageable steps",
+            "Start small: Commit to smallest possible start (open document, write one line)",
+            "Set timer: Work 10 minutes, reevaluate (usually you continue)",
+            "Implementation intentions: 'When X happens, I will do Y'",
+            "Remove barriers: Make starting as easy as possible",
+            "Accountability: Tell someone your deadline, work with partner",
+            "Temptation bundling: Pair unpleasant task with something you enjoy"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Overcoming Perfectionism",
+          "items": [
+            "Done is better than perfect: Shipped imperfect beats unshipped perfect",
+            "First draft doesn't count: Give yourself permission to suck initially",
+            "Time boxing: Allocate fixed time, ship whatever you have",
+            "Good enough: Define 'good enough' before starting",
+            "Iterate: V1 → V2 → V3 beats waiting for perfect V1",
+            "Reframe: Learning opportunity, not final judgment"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Eat the Frog: Do your most dreaded task first thing. Morning energy is highest. Getting it done removes mental burden for entire day. Everything else feels easy by comparison. Consistently doing hardest thing first builds confidence and eliminates chronic procrastination."
+        },
+        {
+          "type": "list",
+          "title": "Implementation Intentions",
+          "items": [
+            "Format: 'When [situation], I will [behavior]'",
+            "Example: 'When I sit at desk with coffee, I will write for 30 minutes'",
+            "Power: Pre-decides behavior, eliminates decision fatigue",
+            "If-then planning: 'If I feel like procrastinating, then I will work for just 2 minutes'",
+            "Cue-based: Ties behavior to specific cue",
+            "Success rate: Dramatically higher than vague intentions"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is procrastination really about?",
+          "options": [
+            "Laziness",
+            "Emotion regulation - avoiding discomfort",
+            "Poor time management",
+            "Lack of discipline"
+          ],
+          "correctIndex": 1,
+          "explanation": "Procrastination is emotion regulation—avoiding discomfort (anxiety, boredom, uncertainty, fear). Understanding this helps you address root cause."
+        },
+        {
+          "question": "What's the 2-minute rule?",
+          "options": [
+            "Only work for 2 minutes",
+            "If task takes <2 min do it now; for larger tasks, commit to just 2 min to start",
+            "Take 2-minute breaks",
+            "Think for 2 minutes"
+          ],
+          "correctIndex": 1,
+          "explanation": "2-minute rule: Tasks <2 min, do immediately. Larger tasks, commit to just 2 min. Starting is hardest; momentum carries you forward."
+        }
+      ]
+    }
+  }
+]
