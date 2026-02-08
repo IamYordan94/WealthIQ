@@ -1,0 +1,442 @@
+[
+  {
+    "id": "how-stocks-work",
+    "title": "How Stocks Really Work",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "When you buy stock, you're buying actual ownership in a company. If Apple has 16 billion shares and you own 100 shares, you own 0.00000062% of Apple—including its cash, products, intellectual property, and future profits. Stock prices rise when investors believe future profits will grow. This is fundamentally different from gambling; you're investing in business value."
+        },
+        {
+          "type": "list",
+          "title": "How Companies Create Shareholder Value",
+          "items": [
+            "Revenue growth: Selling more products/services increases company value",
+            "Profit margins: Earning more per dollar of revenue through efficiency",
+            "Dividends: Distributing cash profits directly to shareholders quarterly",
+            "Stock buybacks: Company buys its own shares, increasing remaining shares' value",
+            "Innovation: New products, markets, or technologies expand growth potential"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Stock prices fluctuate based on expectations, not just current reality. A company can announce record profits but see its stock fall if those profits missed Wall Street's expectations. Conversely, unprofitable startups can have high valuations based on growth potential. Short-term prices are a voting machine (sentiment); long-term prices are a weighing machine (fundamentals)."
+        },
+        {
+          "type": "list",
+          "title": "Stock Market Basics",
+          "items": [
+            "Stock exchanges: NYSE and NASDAQ are primary US markets where stocks trade",
+            "Ticker symbols: Abbreviated codes (AAPL for Apple, MSFT for Microsoft)",
+            "Market cap: Total company value (share price × shares outstanding)",
+            "Trading hours: 9:30 AM - 4:00 PM ET on business days",
+            "Market orders: Buy/sell immediately at current price",
+            "Limit orders: Buy/sell only at specified price or better"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Stock Categories",
+          "items": [
+            "Large-cap: Companies worth $10B+, more stable (Apple, Microsoft, Johnson & Johnson)",
+            "Mid-cap: $2B-10B, balance of growth and stability",
+            "Small-cap: Under $2B, higher growth potential but more volatile",
+            "Growth stocks: Focus on revenue growth, often tech, reinvest vs pay dividends",
+            "Value stocks: Mature companies, stable earnings, pay dividends, lower volatility",
+            "Dividend stocks: Companies sharing profits via regular dividend payments"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "For most investors, owning individual stocks is unnecessary and adds risk without added return. Index funds provide exposure to hundreds or thousands of companies, eliminating the risk of any single company failing. Even professional stock pickers rarely beat the market after fees. Unless you're prepared to deeply research companies and can handle concentrated risk, stick with diversified funds."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What do you own when you buy a company's stock?",
+          "options": [
+            "A loan to the company",
+            "Actual ownership shares in the company",
+            "The company's products",
+            "The right to work there"
+          ],
+          "correctIndex": 1,
+          "explanation": "Stock represents actual ownership in a company. Each share is a fractional ownership claim on the company's assets and future profits."
+        },
+        {
+          "question": "What is market capitalization?",
+          "options": [
+            "The company's annual revenue",
+            "Total value of company (share price × shares outstanding)",
+            "The company's profit",
+            "Amount of capital raised at IPO"
+          ],
+          "correctIndex": 1,
+          "explanation": "Market cap is the total value of all outstanding shares (share price multiplied by number of shares), representing the company's total market value."
+        }
+      ]
+    }
+  },
+  {
+    "id": "understanding-bonds",
+    "title": "Understanding Bonds",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Bonds are loans you make to governments or corporations. Unlike stocks where you're an owner, with bonds you're a lender. The borrower pays you regular interest (usually semi-annually) and returns your principal at maturity. Bonds provide stability and income, serving as portfolio ballast when stocks drop. They're less exciting than stocks but essential for balanced portfolios."
+        },
+        {
+          "type": "list",
+          "title": "Bond Basics",
+          "items": [
+            "Face value (par): Amount you'll receive at maturity, typically $1,000",
+            "Coupon rate: Annual interest percentage (5% coupon on $1,000 bond = $50 yearly)",
+            "Maturity date: When principal is returned (bonds can be short-term months or long-term 30 years)",
+            "Market price: Current trading price, fluctuates with interest rates",
+            "Yield: Actual return based on current price, differs from coupon if price isn't par"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Bond prices move inversely to interest rates. If you own a 3% bond and new bonds issue at 5%, your bond becomes less valuable—who wants 3% when 5% is available? Conversely, if rates drop to 2%, your 3% bond becomes more valuable. This relationship means bonds aren't risk-free despite being safer than stocks."
+        },
+        {
+          "type": "list",
+          "title": "Types of Bonds",
+          "items": [
+            "US Treasury bonds: Backed by federal government, virtually no default risk, lower yields",
+            "Municipal bonds: Issued by states/cities, often tax-free interest, moderate risk",
+            "Investment-grade corporate: Strong companies, moderate yields, low default risk",
+            "High-yield (junk) bonds: Weaker companies, higher yields, significant default risk",
+            "International bonds: Foreign government/corporate debt, adds currency risk"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Why Hold Bonds?",
+          "items": [
+            "Stability: Less volatile than stocks, cushion during stock market crashes",
+            "Income: Regular interest payments provide cash flow",
+            "Capital preservation: Principal returned at maturity (if held to maturity)",
+            "Diversification: Often move differently than stocks, reducing portfolio volatility",
+            "Rebalancing opportunity: Sell bonds to buy stocks when stocks crash"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "For most investors, owning individual bonds is impractical. Bond funds (especially total bond market index funds) provide instant diversification across thousands of bonds, professional management, and easy liquidity. A simple total bond market index fund gives you exposure to government and corporate bonds with minimal effort and fees."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is a bond?",
+          "options": [
+            "Ownership shares in a company",
+            "A loan you make to a government or corporation",
+            "A type of savings account",
+            "A commodity like gold"
+          ],
+          "correctIndex": 1,
+          "explanation": "A bond is a loan you make to an entity (government or corporation) that pays you interest and returns your principal at maturity."
+        },
+        {
+          "question": "What happens to bond prices when interest rates rise?",
+          "options": [
+            "Bond prices rise",
+            "Bond prices fall",
+            "Bond prices are unaffected",
+            "Bonds stop paying interest"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bond prices and interest rates move inversely. When rates rise, existing bonds with lower rates become less valuable, causing prices to fall."
+        },
+        {
+          "question": "What is the main purpose of bonds in a portfolio?",
+          "options": [
+            "Maximum growth potential",
+            "Stability and reduced volatility",
+            "Currency diversification",
+            "Tax avoidance"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bonds provide stability and income, cushioning portfolio volatility when stocks decline. They're the stabilizing component of a balanced portfolio."
+        }
+      ]
+    }
+  },
+  {
+    "id": "etfs-vs-mutual-funds",
+    "title": "ETFs vs. Mutual Funds",
+    "duration": "7 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "ETFs (Exchange-Traded Funds) and mutual funds both offer diversified investment baskets, but they trade differently and have distinct characteristics. Both can be excellent investment vehicles—understanding the differences helps you choose what fits your situation. For buy-and-hold investors in tax-advantaged accounts, the differences matter less than low fees and broad diversification."
+        },
+        {
+          "type": "list",
+          "title": "Mutual Funds",
+          "items": [
+            "Trade once daily after market close at NAV (net asset value)",
+            "Buy/sell directly from fund company",
+            "Can set up automatic investments easily ($50 monthly, for example)",
+            "Often have minimum initial investments ($1,000-3,000 typical)",
+            "May have purchase/redemption fees depending on fund",
+            "Less tax-efficient in taxable accounts (capital gains distributions)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "ETFs (Exchange-Traded Funds)",
+          "items": [
+            "Trade throughout the day like stocks at market prices",
+            "Buy/sell through brokerage with stock-like orders",
+            "No minimum investment beyond share price ($50-500 per share typical)",
+            "Slightly more tax-efficient structure in taxable accounts",
+            "Cannot automatically invest fractional shares at most brokers",
+            "Commission-free at major brokers (Fidelity, Vanguard, Schwab)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "For retirement accounts (IRA, 401k), tax differences don't matter. Choose based on convenience and fees. Mutual funds excel for automatic investing—set up $500 monthly and forget it. ETFs work great for lump sum investing and have slightly lower expense ratios. Both accomplish the same goal: diversified, low-cost index investing."
+        },
+        {
+          "type": "list",
+          "title": "Comparing Popular Options",
+          "items": [
+            "Vanguard Total Stock Market: VTSAX (mutual fund) or VTI (ETF) - 0.04% expense ratio",
+            "Fidelity Total Market: FSKAX (mutual fund) - 0.015% expense ratio",
+            "Schwab Total Market: SWTSX (mutual fund) or SCHB (ETF) - 0.03% expense ratio",
+            "All track same index with similar holdings, minor differences in execution",
+            "Choose based on where you have account, not minor expense ratio differences"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Don't overthink ETF vs mutual fund for the same index. A 0.01% expense ratio difference on $10,000 is $1 annually. Focus on what matters: picking the right asset allocation, staying invested during volatility, and maximizing contribution consistency. The vehicle matters far less than the behavior."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How do mutual funds trade?",
+          "options": [
+            "Throughout the day like stocks",
+            "Once daily after market close at NAV",
+            "Only once per week",
+            "Only at the beginning of each month"
+          ],
+          "correctIndex": 1,
+          "explanation": "Mutual funds trade once daily after market close at the net asset value (NAV), calculated based on closing prices of all holdings."
+        },
+        {
+          "question": "What is a key advantage of mutual funds for beginners?",
+          "options": [
+            "They guarantee returns",
+            "They can be automatically invested in small amounts monthly",
+            "They never lose value",
+            "They require no fees"
+          ],
+          "correctIndex": 1,
+          "explanation": "Mutual funds excel at automated investing, allowing you to set up recurring investments of any amount, making consistent contributions effortless."
+        }
+      ]
+    }
+  },
+  {
+    "id": "dividends-explained",
+    "title": "Understanding Dividends",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Dividends are cash payments companies distribute to shareholders, typically quarterly, from their profits. Think of them as your share of the company's earnings. A company with $10 billion profit might pay $4 billion in dividends to shareholders and reinvest $6 billion in growth. Dividends provide tangible returns regardless of stock price fluctuations."
+        },
+        {
+          "type": "list",
+          "title": "Dividend Basics",
+          "items": [
+            "Dividend yield: Annual dividend as percentage of stock price (4% yield = $4 per $100 invested)",
+            "Ex-dividend date: Must own stock before this date to receive next dividend",
+            "Payment date: When dividend cash hits your account",
+            "Qualified dividends: Held 60+ days, taxed at lower capital gains rates",
+            "Dividend reinvestment (DRIP): Automatically use dividends to buy more shares"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "High dividend yields aren't always good. A 10% yield might signal a struggling company whose stock price fell, inflating the yield percentage. Sustainable yields of 2-4% from healthy companies are better than 8%+ yields from companies that might cut dividends. Dividend cuts cause stock prices to plummet, hurting you twice."
+        },
+        {
+          "type": "list",
+          "title": "Growth vs. Dividend Stocks",
+          "items": [
+            "Growth stocks: Reinvest profits into expansion, rarely pay dividends (Amazon, Google, Tesla)",
+            "Dividend stocks: Mature companies sharing profits with shareholders (Coca-Cola, Procter & Gamble, AT&T)",
+            "Growth: Higher potential returns, higher volatility, better for tax-advantaged accounts",
+            "Dividend: Lower volatility, steady income, attractive for retirees or conservative investors",
+            "Total return matters most: Price appreciation + dividends, not dividend yield alone"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Dividend Investing Strategy",
+          "items": [
+            "Don't chase high yields—focus on sustainable, growing dividends",
+            "Look for dividend aristocrats: Companies increasing dividends for 25+ consecutive years",
+            "Reinvest dividends during accumulation phase for compound growth",
+            "Diversified dividend funds easier than picking individual dividend stocks",
+            "In retirement, dividends provide income without selling shares"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "For most young investors, dividends are nice but not necessary. Total return matters more than how that return is delivered. A total market index fund includes both dividend and growth stocks, providing balanced exposure. Don't build a dividend-heavy portfolio just because dividends feel tangible—focus on total return and appropriate diversification."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is a dividend?",
+          "options": [
+            "Interest paid on bonds",
+            "Cash payment from company profits distributed to shareholders",
+            "The profit from selling stock",
+            "A type of investment fee"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dividends are cash distributions from a company's profits paid to shareholders, typically quarterly."
+        },
+        {
+          "question": "Is a 10% dividend yield always good?",
+          "options": [
+            "Yes, higher yields are always better",
+            "No, it might signal a struggling company whose stock price fell",
+            "Yes, it means guaranteed high returns",
+            "No, the maximum good yield is 5%"
+          ],
+          "correctIndex": 1,
+          "explanation": "Very high yields can indicate a falling stock price or unsustainable dividend. Sustainable 2-4% yields from healthy companies are often better."
+        },
+        {
+          "question": "What is DRIP?",
+          "options": [
+            "A type of high-yield bond",
+            "Dividend reinvestment plan - automatically using dividends to buy more shares",
+            "A penalty for early withdrawal",
+            "A type of savings account"
+          ],
+          "correctIndex": 1,
+          "explanation": "DRIP (Dividend Reinvestment Plan) automatically uses dividend payments to purchase additional shares, accelerating compound growth."
+        }
+      ]
+    }
+  },
+  {
+    "id": "market-volatility",
+    "title": "Embracing Market Volatility",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Market volatility—the ups and downs of stock prices—is not a bug, it's a feature. It's the price you pay for long-term returns that beat bonds and cash. Stocks have averaged 10% annually precisely because they're volatile. If they were guaranteed, everyone would buy them and returns would fall to bond levels. Understanding and embracing volatility separates successful investors from those who panic sell."
+        },
+        {
+          "type": "list",
+          "title": "Historical Market Drops",
+          "items": [
+            "2020 COVID crash: -34% in weeks, recovered to new highs in 5 months",
+            "2008 Financial Crisis: -57% over 18 months, recovered fully by 2013, then continued climbing",
+            "2000 Dot-com bubble: -49% over 2 years, recovered by 2007",
+            "1987 Black Monday: -22% in one day, recovered within 2 years",
+            "Pattern: Markets always crashed, always recovered, always reached new highs eventually"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The S&P 500 experiences a 10%+ correction about once per year on average. A 20%+ bear market occurs roughly every 3-5 years. A 30%+ crash happens every decade or two. If you're investing for 30+ years, you'll experience multiple crashes. This is normal. Those who stay invested through volatility build wealth; those who panic sell lock in losses."
+        },
+        {
+          "type": "list",
+          "title": "How to Handle Market Drops",
+          "items": [
+            "Don't check your account during crashes—ignorance is bliss when you can't act rationally",
+            "Remember drops are temporary; every historical crash recovered",
+            "Continue regular contributions—you're buying shares on sale",
+            "Rebalance if target allocation is off—forces buying low",
+            "Think in decades, not days: 30-year returns almost always positive",
+            "Never sell in panic—it locks in losses and misses the recovery"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Volatility vs. Risk",
+          "items": [
+            "Volatility: Price fluctuations, scary but temporary",
+            "Risk: Permanent loss of capital",
+            "Stocks: High volatility, low long-term risk (if diversified)",
+            "Individual stocks: High volatility, high risk (any company can fail)",
+            "Index funds: Moderate volatility, minimal long-term risk",
+            "Selling during crashes: Converts temporary volatility into permanent loss"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Your emotional response to volatility predicts your investment success better than your intelligence or knowledge. If you sell during crashes, you'll underperform. If you stay invested or buy more, you'll succeed. Practice viewing red portfolio days as 'shares on sale' rather than losses. This mindset shift is worth millions over a lifetime."
+        },
+        {
+          "type": "list",
+          "title": "Reducing Volatility Impact",
+          "items": [
+            "Appropriate asset allocation: More bonds = less volatility (but lower returns)",
+            "Don't invest money needed within 5 years: Short-term needs should stay in cash",
+            "Automate contributions: Takes emotion out, guarantees dollar-cost averaging",
+            "Have emergency fund: Never forced to sell investments at bad times",
+            "Focus on goals, not portfolio value: You're building a 30-year plan, not a daily scoreboard"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How often does the S&P 500 typically experience a 10%+ correction?",
+          "options": [
+            "Every 10 years",
+            "Every 5 years",
+            "About once per year on average",
+            "Once per decade"
+          ],
+          "correctIndex": 2,
+          "explanation": "The S&P 500 experiences 10%+ corrections about once per year on average. This is normal market behavior, not a crisis."
+        },
+        {
+          "question": "What should you do during a market crash?",
+          "options": [
+            "Sell everything and wait for recovery",
+            "Stop making contributions until markets recover",
+            "Continue investing and view it as shares on sale",
+            "Move all money to individual stocks"
+          ],
+          "correctIndex": 2,
+          "explanation": "Continuing to invest during crashes means buying shares at lower prices. Every historical crash has recovered, rewarding those who stayed invested."
+        },
+        {
+          "question": "What's the difference between volatility and risk?",
+          "options": [
+            "They're the same thing",
+            "Volatility is temporary price fluctuation; risk is permanent capital loss",
+            "Volatility only affects bonds",
+            "Risk is good, volatility is bad"
+          ],
+          "correctIndex": 1,
+          "explanation": "Volatility refers to temporary price swings that recover over time. Risk is the potential for permanent loss of capital, which diversified long-term investing minimizes."
+        }
+      ]
+    }
+  }
+]
