@@ -7,100 +7,117 @@
       "sections": [
         {
           "type": "text",
-          "content": "Programs need to make decisions. If statements let your code choose different paths based on conditions. Like a fork in the road: if condition is True, go this way; otherwise, go that way. This is foundation of program logic and enables dynamic, intelligent behavior."
+          "content": "Programs need to make decisions. If user is logged in, show dashboard. If password is wrong, show error. If account balance is positive, allow withdrawal. Conditional statements (if/elif/else) give programs decision-making ability. This is where code becomes intelligent."
         },
         {
           "type": "list",
-          "title": "Basic If Statement",
+          "title": "If Statement Basics",
           "items": [
             "Syntax: if condition:",
-            "Indentation required: Code inside if must be indented",
+            "Indent: Code to execute must be indented",
             "Example: if age >= 18: print('Adult')",
-            "Condition must be True/False: Uses comparison operators",
-            "Multiple lines: All indented code runs if True",
-            "if temperature > 30:",
-            "    print('Hot day!')",
-            "    print('Stay hydrated')"
+            "Condition: Must evaluate to True or False",
+            "Executes: Only if condition is True",
+            "Skips: If condition is False, code skipped",
+            "Colon required: Don't forget : after condition"
           ]
         },
         {
           "type": "text",
-          "content": "If-else: Handles both cases. If condition True, run first block. If False, run else block. One or the other always runs, never both. Pattern: Check condition, execute appropriate code block."
+          "content": "Indentation matters: Python uses indentation to define code blocks. Everything indented after 'if' belongs to that if statement. First line at original indentation level ends the if block. Use 4 spaces (standard) or tab consistently."
         },
         {
           "type": "list",
-          "title": "If-Else Structure",
+          "title": "Else Clause",
           "items": [
-            "if condition:",
-            "    # Code if True",
-            "else:",
-            "    # Code if False",
-            "Example:",
-            "if age >= 18:",
-            "    print('Can vote')",
-            "else:",
-            "    print('Too young to vote')",
-            "Use: Binary choices (yes/no, pass/fail, valid/invalid)"
+            "Purpose: Handles case when condition is False",
+            "Syntax: else:",
+            "Example: if age >= 18: print('Adult') else: print('Minor')",
+            "No condition: else has no condition, catches everything else",
+            "Optional: Don't need else if you don't need it",
+            "Must follow if: Can't have else without if",
+            "One or the other: Either if executes OR else, never both"
           ]
         },
         {
           "type": "list",
-          "title": "Elif (Multiple Conditions)",
+          "title": "Elif (Else If)",
           "items": [
-            "elif = 'else if'",
-            "Checks multiple conditions in order",
-            "First True condition runs, rest skipped",
-            "Example:",
-            "if score >= 90:",
-            "    grade = 'A'",
-            "elif score >= 80:",
-            "    grade = 'B'",
-            "elif score >= 70:",
-            "    grade = 'C'",
-            "else:",
-            "    grade = 'F'",
-            "Use: Multiple categories or ranges"
+            "Purpose: Check multiple conditions",
+            "Syntax: elif condition:",
+            "Example: if score >= 90: grade = 'A' elif score >= 80: grade = 'B'",
+            "Order matters: Checks from top to bottom, stops at first True",
+            "Multiple elif: Can have as many as needed",
+            "With else: Can end with else to catch remaining cases",
+            "Only one executes: First True condition runs, rest skipped"
           ]
         },
         {
           "type": "text",
-          "content": "Nested conditionals: If statements inside if statements. Checks multiple layers of conditions. Use sparingly—deep nesting gets confusing. Alternative: Use 'and' to combine conditions when possible."
+          "content": "The if-elif-else chain: Checks conditions in order. First True condition executes its block, then entire chain is done. Remaining conditions not checked. This is efficient but requires careful ordering. Put most specific conditions first, most general last."
         },
         {
           "type": "list",
-          "title": "Practical Examples",
+          "title": "Nested Conditionals",
           "items": [
-            "Age verification: if age >= 21: print('Can drink')",
-            "Password check: if password == correct_password: login()",
-            "Range check: if 0 <= score <= 100: valid_score = True",
-            "Discount logic: if total > 100: discount = 0.1",
-            "User input: if choice == 'y': continue_program()",
-            "Form validation: if len(password) < 8: print('Password too short')"
+            "Concept: if statements inside if statements",
+            "Example: if logged_in: if is_admin: show_admin_panel()",
+            "Indentation: Each level indented further",
+            "Use sparingly: Deep nesting hard to read",
+            "Alternative: Combine with 'and': if logged_in and is_admin:",
+            "Best practice: Keep nesting shallow (2-3 levels max)",
+            "Refactor: Complex nesting might need functions"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Common Patterns",
+          "items": [
+            "Validation: if email and '@' in email: (check input)",
+            "Range checking: if 0 <= score <= 100: (valid score)",
+            "Multiple conditions: if x > 0 and y > 0: (both positive)",
+            "Either/or: if day == 'Sat' or day == 'Sun': (weekend)",
+            "Negation: if not is_expired: (still valid)",
+            "Existence: if username: (not empty)",
+            "Type checking: if isinstance(x, int): (is integer)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Common Mistakes",
+          "items": [
+            "Missing colon: 'if x > 5' missing : at end",
+            "Wrong indentation: Code must be indented under if",
+            "Using = instead of ==: if x = 5 (wrong) vs if x == 5 (right)",
+            "Comparing wrong types: '5' != 5 (string vs int)",
+            "Unreachable code: Conditions that can never be True",
+            "Not handling all cases: Forgetting edge cases",
+            "Too complex: Breaking into functions improves readability"
           ]
         }
       ],
       "quiz": [
         {
-          "question": "What's required for if statement code?",
+          "question": "What happens if the condition is False and there's no else?",
           "options": [
-            "Nothing special",
-            "Indentation (code inside must be indented)",
-            "Semicolons",
-            "Curly braces"
+            "Error occurs",
+            "Code under if is skipped, program continues",
+            "Program stops",
+            "Code runs anyway"
           ],
           "correctIndex": 1,
-          "explanation": "Python uses indentation to define code blocks. Code inside if statement must be indented (usually 4 spaces). No indentation = syntax error."
+          "explanation": "If condition is False and there's no else, the code under if is simply skipped and program continues with next line. else is optional."
         },
         {
-          "question": "In if-elif-else, what happens?",
+          "question": "In if-elif-else chain, how many blocks can execute?",
           "options": [
-            "All conditions check",
-            "First True condition runs, rest skipped",
-            "All True conditions run",
-            "Random selection"
+            "All of them",
+            "Only one - first True condition",
+            "All True conditions",
+            "None"
           ],
           "correctIndex": 1,
-          "explanation": "If-elif-else checks conditions in order. First True runs, rest skipped. If none True, else runs (if present). Only one block executes."
+          "explanation": "Only ONE block executes: the first True condition. Once a condition is True, its block runs and entire chain is done. Remaining conditions not checked."
         }
       ]
     }
@@ -113,104 +130,104 @@
       "sections": [
         {
           "type": "text",
-          "content": "Loops repeat code multiple times. While loops repeat AS LONG AS condition is True. Like 'while hungry, keep eating.' Check condition, run code, check again, run again, until condition becomes False. Powerful but dangerous—infinite loops are real!"
+          "content": "Loops repeat code. While loops repeat as long as condition is True. Need to ask user for input until valid? While loop. Need to process items until list is empty? While loop. While loops are for situations where you don't know ahead of time how many iterations you need."
         },
         {
           "type": "list",
           "title": "While Loop Basics",
           "items": [
             "Syntax: while condition:",
-            "Repeats while condition is True",
-            "Stops when condition becomes False",
-            "Example:",
-            "count = 0",
-            "while count < 5:",
-            "    print(count)",
-            "    count += 1  # CRITICAL: Update to eventually become False",
-            "Danger: Forget to update → infinite loop!"
+            "Repeats: As long as condition is True",
+            "Example: while count < 5: print(count); count += 1",
+            "Check first: Condition checked before each iteration",
+            "Might not run: If initially False, never executes",
+            "Must change: Something must eventually make condition False",
+            "Infinite loop: If condition never False, runs forever"
           ]
         },
         {
           "type": "text",
-          "content": "Infinite loops: Loop that never stops. Happens when condition never becomes False. Example: while True: print('Forever!'). Your program hangs. Solution: Ensure condition can become False, or use break statement to exit."
+          "content": "The infinite loop danger: If condition never becomes False, loop runs forever. Example: while True: print('Forever') never stops. Always ensure something in loop eventually makes condition False. Infinite loops freeze programs."
         },
         {
           "type": "list",
-          "title": "Loop Control",
+          "title": "Loop Control: Break",
           "items": [
             "break: Exits loop immediately",
-            "continue: Skips rest of current iteration, starts next",
-            "Example with break:",
-            "while True:",
-            "    response = input('Continue? (y/n): ')",
-            "    if response == 'n':",
-            "        break  # Exit loop",
-            "Example with continue:",
-            "count = 0",
-            "while count < 10:",
-            "    count += 1",
-            "    if count % 2 == 0:",
-            "        continue  # Skip even numbers",
-            "    print(count)  # Only prints odd"
+            "Use: When you need to stop loop early",
+            "Example: while True: if condition: break",
+            "Common pattern: Input validation loops",
+            "Exits only innermost loop: In nested loops",
+            "After break: Code after loop continues normally",
+            "Clean exit: Better than infinite loop with break than complex condition"
           ]
+        },
+        {
+          "type": "list",
+          "title": "Loop Control: Continue",
+          "items": [
+            "continue: Skips rest of current iteration",
+            "Use: When you want to skip specific items",
+            "Example: if number % 2 == 0: continue (skip even numbers)",
+            "Goes back: Jumps to start of loop, checks condition",
+            "Doesn't exit: Loop continues, just skips this iteration",
+            "Useful for: Filtering, skipping invalid data",
+            "Don't overuse: Can make logic confusing"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "While True pattern: Common idiom is 'while True:' with 'break' for exit. This makes exit condition clear in middle of loop. Better than complex condition that's hard to read. Always have clear break condition."
         },
         {
           "type": "list",
           "title": "Common While Loop Patterns",
           "items": [
-            "Counter: count = 0; while count < limit: ... count += 1",
-            "User input validation: while invalid_input: get_input()",
-            "Game loop: while game_running: play_turn()",
-            "Menu system: while choice != 'quit': show_menu()",
-            "Accumulator: total = 0; while more_items: total += item",
-            "Search: while not_found and more_to_search: check_next()"
+            "Counter: count = 0; while count < 10: count += 1",
+            "User input: while True: answer = input(); if valid: break",
+            "Sentinel value: while data != 'quit': process(data)",
+            "Condition checking: while not ready: prepare()",
+            "Processing list: while items: item = items.pop(); process(item)",
+            "Waiting: while not condition_met(): wait()",
+            "Game loop: while game_running: update(); render()"
           ]
         },
         {
-          "type": "text",
-          "content": "When to use while loops: When you don't know how many iterations needed. Examples: waiting for user input, processing until condition met, game loops, retry logic. If you know iteration count, use for loop (next lesson)."
-        },
-        {
           "type": "list",
-          "title": "Practical Examples",
+          "title": "While vs For",
           "items": [
-            "Password retry:",
-            "attempts = 0",
-            "while attempts < 3:",
-            "    password = input('Password: ')",
-            "    if password == correct:",
-            "        break",
-            "    attempts += 1",
-            "Number guessing game:",
-            "guess = 0",
-            "while guess != secret:",
-            "    guess = int(input('Guess: '))",
-            "print('Correct!')"
+            "While: Unknown iterations, condition-based",
+            "For: Known iterations, iterate over sequence",
+            "While: User input until valid",
+            "For: Process each item in list",
+            "While: More flexible",
+            "For: Cleaner for collections",
+            "Use for when possible: Usually clearer and safer"
           ]
         }
       ],
       "quiz": [
         {
-          "question": "What makes while loop stop?",
+          "question": "What happens with 'while True:' without break?",
           "options": [
-            "After 10 iterations",
-            "When condition becomes False (or break statement)",
-            "Automatically",
-            "Never stops"
+            "Runs once",
+            "Infinite loop - runs forever",
+            "Error",
+            "Doesn't run"
           ],
           "correctIndex": 1,
-          "explanation": "While loop stops when condition becomes False (or break executes). Critical: ensure condition can become False to avoid infinite loops!"
+          "explanation": "'while True:' creates infinite loop because True is always True. Must have 'break' statement to exit. Without break, freezes program."
         },
         {
-          "question": "What does break do?",
+          "question": "What does 'break' do?",
           "options": [
             "Breaks the program",
             "Exits the loop immediately",
-            "Restarts loop",
-            "Skips one iteration"
+            "Skips one iteration",
+            "Pauses the loop"
           ],
           "correctIndex": 1,
-          "explanation": "break exits loop immediately, regardless of condition. Useful for exit conditions inside loop. continue skips current iteration, continues with next."
+          "explanation": "'break' exits loop immediately. Code after loop continues normally. 'continue' skips current iteration but stays in loop."
         }
       ]
     }
@@ -223,73 +240,93 @@
       "sections": [
         {
           "type": "text",
-          "content": "For loops iterate over sequences. 'For each item in this collection, do something.' Know exactly how many iterations. Safer than while (can't accidentally be infinite). Most common loop type. Master this and you'll write much more efficient code."
+          "content": "For loops iterate over sequences. Process each item in list, each character in string, each number in range. For loops are cleaner and safer than while loops when you're working with collections. Most common loop type in Python. Master this, you can process any data structure."
         },
         {
           "type": "list",
-          "title": "For Loop with range()",
+          "title": "For Loop Basics",
           "items": [
-            "Syntax: for variable in range(n):",
-            "range(5): gives 0, 1, 2, 3, 4 (5 numbers starting at 0)",
-            "Example:",
-            "for i in range(5):",
-            "    print(i)  # Prints 0, 1, 2, 3, 4",
-            "range(start, stop): range(2, 7) gives 2, 3, 4, 5, 6",
-            "range(start, stop, step): range(0, 10, 2) gives 0, 2, 4, 6, 8",
-            "Use: Known number of repetitions"
+            "Syntax: for item in sequence:",
+            "Example: for num in [1,2,3]: print(num)",
+            "Each iteration: item gets next value from sequence",
+            "Automatic: No need to manage counter",
+            "Safer: Can't create infinite loop",
+            "Iterates once: Per item in sequence",
+            "Variable: 'item' can be any name (descriptive is best)"
           ]
         },
         {
           "type": "text",
-          "content": "Iterating over collections: For loops shine when processing lists, strings, or any sequence. Automatically gets each item. No manual indexing needed. Clean and readable."
+          "content": "The range() function: Generates sequence of numbers. range(5) gives 0,1,2,3,4 (5 numbers starting at 0). range(1, 6) gives 1,2,3,4,5 (start, stop). range(0, 10, 2) gives 0,2,4,6,8 (start, stop, step). Most common way to repeat code specific number of times."
         },
         {
           "type": "list",
-          "title": "Iterating Over Data",
+          "title": "Range Function Details",
           "items": [
-            "List: for name in names: print(name)",
-            "String: for char in 'Hello': print(char)",
-            "Example:",
-            "fruits = ['apple', 'banana', 'orange']",
-            "for fruit in fruits:",
-            "    print(f'I like {fruit}')",
-            "With index:",
-            "for i, fruit in enumerate(fruits):",
-            "    print(f'{i}: {fruit}')  # 0: apple, 1: banana..."
+            "range(n): 0 to n-1 (n numbers)",
+            "range(start, stop): start to stop-1",
+            "range(start, stop, step): custom increment",
+            "Example: range(5) = 0,1,2,3,4",
+            "Example: range(1, 6) = 1,2,3,4,5",
+            "Example: range(0, 10, 2) = 0,2,4,6,8",
+            "Example: range(10, 0, -1) = 10,9,8...1 (countdown)",
+            "Efficient: Doesn't create list in memory, generates on demand"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Iterating Collections",
+          "items": [
+            "Lists: for item in my_list: print(item)",
+            "Strings: for char in 'hello': print(char)",
+            "Dictionaries: for key in my_dict: print(key)",
+            "With index: for i, item in enumerate(my_list):",
+            "Two lists: for x, y in zip(list1, list2):",
+            "Dictionary items: for key, value in my_dict.items():",
+            "Comprehensions: [x*2 for x in numbers] (covered later)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Enumerate() for index: Often need both item and its index. enumerate() provides both. for i, item in enumerate(items): gives index (i) and item. First iteration: i=0, item=items[0]. Second: i=1, item=items[1], etc."
+        },
+        {
+          "type": "list",
+          "title": "Nested For Loops",
+          "items": [
+            "Concept: Loop inside loop",
+            "Example: for i in range(3): for j in range(3): print(i,j)",
+            "Executes: Inner loop runs completely for each outer iteration",
+            "Output: (0,0), (0,1), (0,2), (1,0), (1,1)...",
+            "Use cases: 2D grids, combinations, matrix operations",
+            "Performance: n*m iterations (multiply)",
+            "Careful: Can get slow with large numbers"
           ]
         },
         {
           "type": "list",
           "title": "Common For Loop Patterns",
           "items": [
-            "Counting: for i in range(10): total += i",
-            "Processing list: for item in items: process(item)",
-            "Building list: results = []; for x in data: results.append(transform(x))",
-            "Printing table: for row in table: print(row)",
-            "String processing: for char in text: if char.isdigit(): count += 1",
-            "Nested loops (careful): for i in range(3): for j in range(3): print(i, j)"
+            "Process list: for item in items: process(item)",
+            "Count times: for i in range(10): do_something()",
+            "Build new list: new = []; for x in old: new.append(x*2)",
+            "Sum values: total = 0; for num in numbers: total += num",
+            "Find item: for item in items: if item == target: found = item",
+            "String iteration: for char in text: if char.isdigit(): ...",
+            "Index access: for i in range(len(items)): items[i] *= 2"
           ]
         },
         {
-          "type": "text",
-          "content": "For vs While: Use for when you know iterations (process list, repeat N times). Use while when you don't (wait for condition, user input until valid). For is safer (no infinite loops) and cleaner for definite iteration."
-        },
-        {
           "type": "list",
-          "title": "Practical Examples",
+          "title": "Break and Continue in For Loops",
           "items": [
-            "Sum numbers:",
-            "total = 0",
-            "for num in [1, 2, 3, 4, 5]:",
-            "    total += num",
-            "Multiplication table:",
-            "for i in range(1, 11):",
-            "    print(f'5 x {i} = {5 * i}')",
-            "Count vowels:",
-            "count = 0",
-            "for char in 'Hello World':",
-            "    if char.lower() in 'aeiou':",
-            "        count += 1"
+            "break: Exit loop early",
+            "Example: for item in items: if found: break",
+            "continue: Skip to next iteration",
+            "Example: for num in numbers: if num < 0: continue",
+            "else clause: for...else executes if no break occurred",
+            "Example: for item in items: if match: break else: print('Not found')",
+            "Useful: Clean exit vs. flag variable"
           ]
         }
       ],
@@ -298,244 +335,244 @@
           "question": "What does range(5) produce?",
           "options": [
             "1, 2, 3, 4, 5",
-            "0, 1, 2, 3, 4",
-            "1, 2, 3, 4",
+            "0, 1, 2, 3, 4 (starts at 0, 5 numbers)",
+            "5",
             "0, 1, 2, 3, 4, 5"
           ],
           "correctIndex": 1,
-          "explanation": "range(5) produces 0, 1, 2, 3, 4 (5 numbers starting at 0). Python uses 0-indexing. To get 1-5, use range(1, 6)."
+          "explanation": "range(5) produces 0,1,2,3,4. Five numbers starting at 0. Range is start-inclusive, end-exclusive. range(1,6) would give 1,2,3,4,5."
         },
         {
-          "question": "When to use for vs while?",
+          "question": "What does enumerate() provide?",
           "options": [
-            "Always use for",
-            "For: known iterations; While: unknown iterations (condition-based)",
-            "Always use while",
-            "No difference"
+            "Just items",
+            "Both index and item for each iteration",
+            "Just indices",
+            "Item count"
           ],
           "correctIndex": 1,
-          "explanation": "For: known iterations (process list, repeat N times). While: unknown iterations (until condition met). For is safer for definite iteration."
+          "explanation": "enumerate() provides both index and item. for i, item in enumerate(items): gives you index (i) and value (item) for each iteration."
         }
       ]
     }
   },
   {
-    "id": "functions-basics",
-    "title": "Functions - The Basics",
-    "duration": "10 min",
-    "content": {
-      "sections": [
-        {
-          "type": "text",
-          "content": "Functions are reusable code blocks. Instead of writing same code repeatedly, write once as function, use anywhere. Takes inputs (parameters), does something, returns output. Like a machine: put ingredients in, get product out. Functions make code cleaner, more organized, easier to debug."
-        },
-        {
-          "type": "list",
-          "title": "Creating Functions",
-          "items": [
-            "Syntax: def function_name(parameters):",
-            "def = define",
-            "Example:",
-            "def greet(name):",
-            "    return f'Hello {name}!'",
-            "Calling: result = greet('Alice')",
-            "return: Sends value back to caller",
-            "Without return: Function returns None"
-          ]
-        },
-        {
-          "type": "text",
-          "content": "Parameters vs Arguments: Parameters are variables in function definition. Arguments are actual values passed when calling. Example: def add(a, b) - a and b are parameters. add(3, 5) - 3 and 5 are arguments."
-        },
-        {
-          "type": "list",
-          "title": "Function Parameters",
-          "items": [
-            "No parameters: def hello(): return 'Hi'",
-            "One parameter: def square(x): return x ** 2",
-            "Multiple: def add(a, b): return a + b",
-            "Default values: def greet(name='User'): return f'Hi {name}'",
-            "Calling with defaults: greet() returns 'Hi User'",
-            "Override default: greet('Alice') returns 'Hi Alice'",
-            "Order matters: Arguments match parameters by position"
-          ]
-        },
-        {
-          "type": "list",
-          "title": "Return Values",
-          "items": [
-            "return sends value back",
-            "Example: def double(x): return x * 2",
-            "Use: result = double(5)  # result is 10",
-            "Multiple returns: return x, y (returns tuple)",
-            "Early return: return exits function immediately",
-            "No return: Function returns None",
-            "Print vs return: print displays, return sends value"
-          ]
-        },
-        {
-          "type": "text",
-          "content": "Why use functions: DRY principle (Don't Repeat Yourself). Write logic once, reuse everywhere. Changes in one place apply everywhere. Easier testing. Better organization. Enables collaboration. Professional code heavily uses functions."
-        },
-        {
-          "type": "list",
-          "title": "Practical Examples",
-          "items": [
-            "Calculator:",
-            "def calculate_total(price, quantity, tax_rate=0.1):",
-            "    subtotal = price * quantity",
-            "    tax = subtotal * tax_rate",
-            "    return subtotal + tax",
-            "Temperature converter:",
-            "def celsius_to_fahrenheit(celsius):",
-            "    return (celsius * 9/5) + 32",
-            "Validation:",
-            "def is_valid_email(email):",
-            "    return '@' in email and '.' in email"
-          ]
-        }
-      ],
-      "quiz": [
-        {
-          "question": "What does return do?",
-          "options": [
-            "Prints value",
-            "Sends value back to caller and exits function",
-            "Restarts function",
-            "Nothing"
-          ],
-          "correctIndex": 1,
-          "explanation": "return sends value back to caller and exits function. Without return, function returns None. Print displays; return provides value."
-        },
-        {
-          "question": "What's a parameter vs argument?",
-          "options": [
-            "Same thing",
-            "Parameter: variable in definition; Argument: actual value when calling",
-            "Opposite",
-            "Unrelated"
-          ],
-          "correctIndex": 1,
-          "explanation": "Parameter: variable in function definition (def func(x)). Argument: actual value passed when calling (func(5)). x is parameter, 5 is argument."
-        }
-      ]
-    }
-  },
-  {
-    "id": "functions-advanced",
-    "title": "Functions - Advanced Concepts",
+    "id": "list-comprehensions",
+    "title": "List Comprehensions",
     "duration": "9 min",
     "content": {
       "sections": [
         {
           "type": "text",
-          "content": "Beyond basics: scope, lambda functions, and function best practices. These concepts separate beginner from intermediate Python. Understanding scope prevents bugs. Lambda functions enable concise code. Best practices make your functions professional-grade."
+          "content": "List comprehensions create lists in single line. Instead of for loop with append(), write transformation directly. More concise, often faster, very Pythonic. Pattern: [expression for item in sequence if condition]. This is one of Python's most powerful features. Learn it, your code becomes cleaner and more professional."
         },
         {
           "type": "list",
-          "title": "Variable Scope",
+          "title": "Basic Syntax",
           "items": [
-            "Local: Variables inside function, only accessible inside",
-            "Global: Variables outside functions, accessible everywhere",
-            "Example:",
-            "x = 10  # Global",
-            "def func():",
-            "    y = 5  # Local to func",
-            "    print(x)  # Can access global",
-            "print(y)  # ERROR: y doesn't exist outside func",
-            "Best practice: Minimize global variables, use parameters"
+            "Pattern: [expression for item in sequence]",
+            "Example: [x*2 for x in range(5)] creates [0,2,4,6,8]",
+            "Equivalent loop: result = []; for x in range(5): result.append(x*2)",
+            "Shorter: One line instead of three",
+            "Faster: Optimized internally",
+            "Readable: Once you know pattern",
+            "Returns list: Always creates new list"
           ]
         },
         {
           "type": "text",
-          "content": "Lambda functions: Small anonymous functions. One-line, no name needed. Syntax: lambda parameters: expression. Use for simple operations. Example: double = lambda x: x * 2. Often used with map, filter, sorted."
+          "content": "Reading comprehensions: Read from right to left. [x*2 for x in numbers] means 'for each x in numbers, multiply by 2'. [x*2 for x in numbers if x > 0] means 'for each x in numbers, if x is positive, multiply by 2'."
         },
         {
           "type": "list",
-          "title": "Lambda Functions",
+          "title": "With Conditionals",
           "items": [
-            "Syntax: lambda args: expression",
-            "Example: square = lambda x: x ** 2",
-            "Multiple args: add = lambda a, b: a + b",
-            "Use with sorted: sorted(names, key=lambda x: len(x))",
-            "Use with map: list(map(lambda x: x * 2, numbers))",
-            "Use with filter: list(filter(lambda x: x > 0, numbers))",
-            "When to use: Simple, one-line operations",
-            "When not: Complex logic (use regular function)"
+            "Filter: [x for x in numbers if x > 0] (only positive)",
+            "Transform filtered: [x*2 for x in numbers if x > 0]",
+            "If-else: [x if x > 0 else 0 for x in numbers]",
+            "Multiple conditions: [x for x in nums if x > 0 if x < 100]",
+            "Complex: Can get hard to read, use regular loop instead",
+            "Placement: Filter (if) goes at end, if-else goes before for",
+            "Remember: Keep simple for readability"
           ]
         },
         {
           "type": "list",
-          "title": "Function Best Practices",
+          "title": "Common Use Cases",
           "items": [
-            "One task: Each function does one thing well",
-            "Descriptive names: calculate_total not ct",
-            "Document: Add docstring explaining purpose",
-            "Short: If too long, split into smaller functions",
-            "Avoid side effects: Don't modify global state",
-            "Return, don't print: Return values, let caller print if needed",
-            "Consistent: Similar functions should work similarly"
+            "Transform: [x.upper() for x in words] (uppercase all)",
+            "Filter: [x for x in numbers if x % 2 == 0] (evens only)",
+            "Extract: [item['name'] for item in items]",
+            "Flatten: [item for sublist in matrix for item in sublist]",
+            "Squares: [x**2 for x in range(10)]",
+            "Parse: [int(x) for x in string_numbers]",
+            "Clean: [x.strip() for x in lines if x.strip()]"
           ]
         },
         {
           "type": "text",
-          "content": "Docstrings: Documentation inside function. First line after def. Triple quotes. Explains what function does, parameters, and return value. Example: def add(a, b): '''Add two numbers and return result''' return a + b"
+          "content": "When NOT to use: If transformation is complex (multiple lines), use regular loop. If readability suffers, use regular loop. Comprehensions should make code clearer, not more cryptic. Prioritize readability over cleverness."
         },
         {
           "type": "list",
-          "title": "Common Function Patterns",
+          "title": "Other Comprehensions",
           "items": [
-            "Validator: Returns True/False",
-            "def is_valid(data): return check_conditions(data)",
-            "Transformer: Takes input, returns modified version",
-            "def clean_text(text): return text.strip().lower()",
-            "Calculator: Takes inputs, returns computed value",
-            "def calculate_interest(principal, rate, time): return principal * rate * time",
-            "Generator: Creates and returns new data",
-            "def create_user(name, email): return {'name': name, 'email': email}"
+            "Set: {x*2 for x in numbers} (unique values)",
+            "Dict: {x: x**2 for x in range(5)} (key-value pairs)",
+            "Generator: (x*2 for x in range(1000000)) (memory efficient)",
+            "Syntax: Curly braces for set/dict, parentheses for generator",
+            "Generator: Doesn't create list, generates values on demand",
+            "Use generator: When working with large sequences",
+            "Can iterate: All work with for loops"
           ]
         },
         {
           "type": "list",
-          "title": "Practical Examples",
+          "title": "Nested Comprehensions",
           "items": [
-            "Filter even numbers:",
-            "numbers = [1, 2, 3, 4, 5, 6]",
-            "evens = list(filter(lambda x: x % 2 == 0, numbers))",
-            "Sort by length:",
-            "words = ['apple', 'pie', 'banana']",
-            "sorted_words = sorted(words, key=lambda x: len(x))",
-            "Data processor:",
-            "def process_score(score):",
-            "    '''Convert score to letter grade'''",
-            "    if score >= 90: return 'A'",
-            "    elif score >= 80: return 'B'",
-            "    else: return 'C'"
+            "2D: [[cell for cell in row] for row in matrix]",
+            "Flatten: [item for row in matrix for item in row]",
+            "Read right-to-left: Outer loop first, then inner",
+            "Equivalent: for row in matrix: for item in row: result.append(item)",
+            "Careful: Hard to read when too nested",
+            "Limit: Usually 2 levels maximum",
+            "Alternative: Regular loops for complex cases"
           ]
         }
       ],
       "quiz": [
         {
-          "question": "What's variable scope?",
+          "question": "What does [x*2 for x in range(3)] create?",
           "options": [
-            "Variable size",
-            "Where variable can be accessed (local inside function, global everywhere)",
-            "Variable type",
-            "Variable name"
+            "[0, 2, 4]",
+            "[0, 2, 4] - doubles 0, 1, 2",
+            "[2, 4, 6]",
+            "[1, 2, 3]"
           ],
           "correctIndex": 1,
-          "explanation": "Scope determines where variable can be accessed. Local: inside function only. Global: everywhere. Variables inside function can't be accessed outside."
+          "explanation": "[x*2 for x in range(3)] iterates 0,1,2 and doubles each: 0*2=0, 1*2=2, 2*2=4. Result: [0,2,4]."
         },
         {
-          "question": "When to use lambda functions?",
+          "question": "Where does filtering condition go?",
           "options": [
-            "Always",
-            "For simple, one-line operations (especially with map, filter, sorted)",
-            "Never",
-            "For complex logic"
+            "Before for",
+            "At the end: [x for x in nums if condition]",
+            "In middle",
+            "Doesn't matter"
           ],
           "correctIndex": 1,
-          "explanation": "Lambda for simple, one-line operations, often with map/filter/sorted. For complex logic, use regular function with proper name and documentation."
+          "explanation": "Filtering 'if' goes at end: [x for x in nums if x > 0]. If-else goes before for: [x if x > 0 else 0 for x in nums]."
+        }
+      ]
+    }
+  },
+  {
+    "id": "error-handling",
+    "title": "Error Handling (Try/Except)",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Errors happen. User enters text instead of number. File doesn't exist. Network fails. Professional code handles errors gracefully instead of crashing. Try/except blocks catch errors, allowing you to respond appropriately. Difference between amateur and professional code: how it handles things going wrong."
+        },
+        {
+          "type": "list",
+          "title": "Try/Except Basics",
+          "items": [
+            "try: Code that might cause error",
+            "except: Code to run if error occurs",
+            "Example: try: x = int(input()) except: print('Invalid number')",
+            "Prevents crash: Error caught and handled",
+            "Program continues: Doesn't stop execution",
+            "Required: Both try and except needed",
+            "Indentation: Both blocks must be indented"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "LBYL vs EAFP: 'Look Before You Leap' checks condition first. 'Easier to Ask Forgiveness than Permission' tries and handles errors. Python prefers EAFP (try/except). More Pythonic and often faster. Don't check if file exists, try to open and handle error."
+        },
+        {
+          "type": "list",
+          "title": "Specific Exceptions",
+          "items": [
+            "Catch specific: except ValueError: (only value errors)",
+            "Multiple: except (ValueError, TypeError): (either error)",
+            "Multiple handlers: except ValueError: ... except TypeError: ...",
+            "Common types: ValueError, TypeError, FileNotFoundError, KeyError, IndexError",
+            "Generic: except Exception: (catches most errors)",
+            "Bare except: Just 'except:' catches everything (not recommended)",
+            "Best practice: Catch specific errors you expect"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Else and Finally",
+          "items": [
+            "else: Runs if no exception occurred",
+            "finally: Always runs, whether error or not",
+            "Example: try: file = open() except: error() else: success() finally: cleanup()",
+            "Use else: For code that should only run if try succeeded",
+            "Use finally: For cleanup (closing files, connections)",
+            "Order: try, except, else (optional), finally (optional)",
+            "Finally: Runs even if return in try or except"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Getting error details: 'except Exception as e:' captures error in variable e. Then can print(e) or log it. Useful for debugging. Example: except ValueError as e: print(f'Error: {e}'). Shows what went wrong."
+        },
+        {
+          "type": "list",
+          "title": "Common Error Scenarios",
+          "items": [
+            "Type conversion: int('abc') raises ValueError",
+            "Division: x / 0 raises ZeroDivisionError",
+            "List access: list[100] raises IndexError",
+            "Dict access: dict['missing'] raises KeyError",
+            "File: open('missing.txt') raises FileNotFoundError",
+            "Attribute: obj.missing_method() raises AttributeError",
+            "Import: import missing_module raises ImportError"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Best Practices",
+          "items": [
+            "Specific exceptions: Catch only errors you expect",
+            "Small try blocks: Only code that might error",
+            "Don't hide errors: Log or handle appropriately",
+            "User-friendly messages: Explain what went wrong",
+            "Fail gracefully: Degrade functionality vs. crash",
+            "Cleanup: Use finally for resource cleanup",
+            "Don't catch everything: Let unexpected errors surface",
+            "Validate input: Prevent errors when possible"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What happens if exception is not caught?",
+          "options": [
+            "Nothing",
+            "Program crashes with error message",
+            "Program continues normally",
+            "Error is ignored"
+          ],
+          "correctIndex": 1,
+          "explanation": "Uncaught exceptions crash the program with error message. try/except catches exceptions so program can handle them gracefully instead of crashing."
+        },
+        {
+          "question": "What does 'finally' do?",
+          "options": [
+            "Only runs if error",
+            "Always runs, whether error occurred or not (cleanup code)",
+            "Only runs if no error",
+            "Stops the program"
+          ],
+          "correctIndex": 1,
+          "explanation": "'finally' always runs, whether exception occurred or not. Used for cleanup code (closing files, connections). 'else' only runs if no exception."
         }
       ]
     }

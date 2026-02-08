@@ -1,96 +1,98 @@
 [
   {
-    "id": "why-python",
-    "title": "Why Learn Python?",
-    "duration": "8 min",
+    "id": "intro-to-python",
+    "title": "Introduction to Python",
+    "duration": "10 min",
     "content": {
       "sections": [
         {
           "type": "text",
-          "content": "Python is the most beginner-friendly programming language with massive real-world applications. It's used by Google, Netflix, NASA, and millions of developers worldwide. Whether you want to automate tasks, analyze data, build websites, or create AI applications, Python does it all. Learning to code isn't just for programmers—it's superpower for anyone wanting to work smarter."
+          "content": "Python is one of the most popular programming languages in the world. Why? It's readable, versatile, powerful, and beginner-friendly. Used by Google, Netflix, NASA, and millions of developers. You can build websites, analyze data, automate tasks, create AI models, and more. Python isn't just for programmers—it's tool for anyone who wants to work smarter."
         },
         {
           "type": "list",
-          "title": "Why Python?",
+          "title": "Why Learn Python?",
           "items": [
-            "Readable: Syntax is close to plain English",
-            "Versatile: Web development, data science, automation, AI, scripting",
-            "In-demand: Top 3 most-wanted programming skill",
-            "Beginner-friendly: Easiest language to learn first",
-            "Powerful: Despite simplicity, handles complex tasks",
-            "Free: Open-source with huge community support",
-            "Career boost: Coding skills increase earning potential 20-40%"
+            "Beginner-friendly: Reads almost like English",
+            "Versatile: Web dev, data science, automation, AI, more",
+            "In-demand: Top skill employers want",
+            "Productive: Build more with less code",
+            "Community: Massive support and resources",
+            "Free: Open source, no licensing costs",
+            "Career boost: Python skills increase earning potential"
           ]
         },
         {
           "type": "text",
-          "content": "What you can build with Python: Automate repetitive tasks (saving hours weekly), analyze data and create visualizations, build web applications and APIs, create machine learning models, scrape websites for data, automate social media and marketing, build financial tools and calculators. The possibilities are endless."
+          "content": "Python philosophy: 'There should be one obvious way to do it.' Code should be explicit, readable, and simple. This makes Python easier to learn and maintain than many languages. The Zen of Python emphasizes: beautiful is better than ugly, explicit is better than implicit, simple is better than complex."
         },
         {
           "type": "list",
-          "title": "Real-World Python Applications",
+          "title": "What You Can Build with Python",
           "items": [
-            "Data analysis: Pandas for spreadsheet-like operations",
-            "Automation: Selenium for web automation",
-            "Web development: Django and Flask frameworks",
-            "Machine learning: TensorFlow, scikit-learn",
-            "Finance: Quantitative analysis, trading bots",
-            "Marketing: Social media bots, email automation",
-            "Personal: Budget trackers, habit trackers, schedulers"
+            "Web applications: Django, Flask frameworks",
+            "Data analysis: Pandas, NumPy for data manipulation",
+            "Machine learning: TensorFlow, scikit-learn for AI",
+            "Automation scripts: Automate repetitive tasks",
+            "APIs: Build services other apps can use",
+            "Games: Pygame for game development",
+            "Desktop apps: GUI applications with Tkinter",
+            "Scrapers: Extract data from websites"
           ]
         },
         {
           "type": "list",
-          "title": "Learning Path Overview",
+          "title": "Setting Up Python",
           "items": [
-            "Module 1: Python basics (variables, data types, basic operations)",
-            "Module 2: Control structures (if statements, loops, functions)",
-            "Module 3: Data structures (lists, dictionaries, working with data)",
-            "Module 4: Projects (real applications putting it all together)",
-            "Timeline: 20-40 hours to solid foundation",
-            "Practice: Daily coding beats occasional marathons"
+            "Download: python.org - get latest version (3.11+)",
+            "Install: Follow installer instructions for your OS",
+            "Verify: Open terminal, type 'python --version'",
+            "IDE options: VS Code (recommended), PyCharm, Jupyter",
+            "VS Code: Free, powerful, great extensions",
+            "Python extension: Install Python extension in VS Code",
+            "First program: Create file 'hello.py', write code, run it"
           ]
         },
         {
           "type": "text",
-          "content": "The mindset for learning coding: Expect confusion—it's normal. Google everything—professionals do it constantly. Debug patiently—errors teach you. Build projects—theory alone doesn't work. Start small—complexity comes later. Be consistent—20 minutes daily beats 3 hours weekly. Everyone who codes started exactly where you are."
+          "content": "Your first Python program: Open text editor, type 'print(\"Hello, World!\")' and save as hello.py. Run it: open terminal, navigate to file location, type 'python hello.py'. You just wrote and executed Python code. That's it. From here, we build."
         },
         {
           "type": "list",
-          "title": "Getting Started",
+          "title": "Learning Approach",
           "items": [
-            "Install Python: python.org (latest version)",
-            "Code editor: VS Code (free, powerful) or Replit (browser-based)",
-            "First program: Print 'Hello World' (tradition!)",
-            "Practice platform: Replit, Codecademy, or local computer",
-            "Community: Python Discord, Reddit r/learnpython",
-            "Documentation: python.org/docs (your new best friend)",
-            "Start now: Don't wait to feel ready—begin immediately"
+            "Type code: Don't just read, actually write it",
+            "Experiment: Change things, break things, learn",
+            "Practice daily: 30 minutes beats occasional 3-hour sessions",
+            "Build projects: Apply concepts to real problems",
+            "Debug: Errors are learning opportunities",
+            "Google: Every programmer googles constantly",
+            "Patience: Programming is learnable skill, not talent"
           ]
         }
       ],
       "quiz": [
         {
-          "question": "Why is Python good for beginners?",
+          "question": "Why is Python popular?",
           "options": [
-            "It's the easiest",
-            "Readable syntax close to English, versatile, huge community support",
-            "It's the fastest",
-            "It's the newest"
+            "It's the oldest language",
+            "Readable, versatile, beginner-friendly, and widely used",
+            "It's the only programming language",
+            "It's the hardest language"
           ],
           "correctIndex": 1,
-          "explanation": "Python is beginner-friendly because: readable syntax (close to English), versatile (many applications), huge community, and powerful despite simplicity."
+          "explanation": "Python is popular because it's readable (almost like English), versatile (many uses), beginner-friendly, and widely used by major companies."
         },
         {
-          "question": "What's the best learning approach?",
+          "question": "What's the first step to learning Python?",
           "options": [
-            "Read everything first",
-            "Daily practice, build projects, embrace errors as learning",
-            "Memorize syntax",
-            "Watch videos only"
+            "Memorize all syntax",
+            "Download and install Python, then start writing code",
+            "Read entire documentation",
+            "Buy expensive courses"
           ],
           "correctIndex": 1,
-          "explanation": "Best approach: Daily practice (consistency), build projects (application), embrace errors (they teach). Theory alone doesn't work—you learn by doing."
+          "explanation": "Start by downloading Python from python.org, install it, verify installation, set up an editor (like VS Code), and start writing simple code."
         }
       ]
     }
@@ -103,281 +105,192 @@
       "sections": [
         {
           "type": "text",
-          "content": "Variables are containers that store data. Think of them as labeled boxes: you give them a name and put something inside. Python is dynamically typed—you don't declare types explicitly, Python figures it out. This makes it easier to write but requires understanding what types you're working with."
+          "content": "Variables store data. That's it. They're containers holding information your program uses. Data types define what kind of information: numbers, text, true/false values, etc. Understanding variables and data types is foundation of all programming. Master these, everything else makes sense."
         },
         {
           "type": "list",
           "title": "Creating Variables",
           "items": [
             "Syntax: variable_name = value",
-            "Example: age = 25 (stores number 25 in variable 'age')",
-            "Example: name = 'John' (stores text 'John' in variable 'name')",
-            "Naming rules: Letters, numbers, underscores; can't start with number",
-            "Convention: use_lowercase_with_underscores",
-            "Case-sensitive: age and Age are different variables",
-            "Descriptive names: user_count better than x"
+            "Example: age = 25",
+            "Example: name = 'John'",
+            "No declaration needed: Python figures out type automatically",
+            "Naming rules: Letters, numbers, underscores only",
+            "Can't start with number: '2cool' is invalid, 'cool2' is valid",
+            "Case-sensitive: 'Name' and 'name' are different variables",
+            "Convention: use_lowercase_with_underscores"
           ]
         },
         {
           "type": "text",
-          "content": "Main data types in Python: Integers (whole numbers like 42), Floats (decimal numbers like 3.14), Strings (text like 'Hello'), Booleans (True or False), None (represents absence of value). Understanding types matters because different operations work on different types."
+          "content": "Dynamic typing: Python variables can change type. 'x = 5' (integer), then 'x = \"hello\"' (string) is valid. Some languages don't allow this. Python's flexibility makes it easier but requires awareness of what type variable currently holds."
+        },
+        {
+          "type": "list",
+          "title": "Basic Data Types",
+          "items": [
+            "int: Whole numbers (5, -10, 1000)",
+            "float: Decimal numbers (3.14, -0.5, 2.0)",
+            "str: Text/strings ('hello', \"Python\", 'a')",
+            "bool: True or False (boolean logic)",
+            "NoneType: None (represents absence of value)",
+            "Check type: type(variable) shows data type",
+            "Example: type(5) returns <class 'int'>"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Working with Strings",
+          "items": [
+            "Single or double quotes: 'hello' or \"hello\" (both work)",
+            "Concatenation: 'Hello' + ' ' + 'World' = 'Hello World'",
+            "F-strings: f'My age is {age}' (insert variables)",
+            "Methods: .upper(), .lower(), .strip(), .split()",
+            "Example: name = 'john'; name.upper() returns 'JOHN'",
+            "Indexing: name[0] gets first character",
+            "Slicing: name[0:2] gets first two characters"
+          ]
         },
         {
           "type": "list",
           "title": "Working with Numbers",
           "items": [
-            "Integers: whole numbers (age = 25, year = 2024)",
-            "Floats: decimals (price = 19.99, temperature = 72.5)",
-            "Arithmetic: + (add), - (subtract), * (multiply), / (divide)",
-            "Exponents: ** (2**3 = 8)",
-            "Modulo: % (remainder, 10 % 3 = 1)",
-            "Order: Follows PEMDAS (parentheses, exponents, multiply/divide, add/subtract)",
-            "Example: total = price * quantity + tax"
+            "Addition: 5 + 3 = 8",
+            "Subtraction: 10 - 4 = 6",
+            "Multiplication: 7 * 3 = 21",
+            "Division: 10 / 2 = 5.0 (always returns float)",
+            "Integer division: 10 // 3 = 3 (drops remainder)",
+            "Modulo: 10 % 3 = 1 (remainder only)",
+            "Exponent: 2 ** 3 = 8 (2 to power of 3)",
+            "Order: PEMDAS (Parentheses, Exponents, Multiplication/Division, Addition/Subtraction)"
           ]
         },
         {
           "type": "list",
-          "title": "Working with Strings (Text)",
+          "title": "Type Conversion",
           "items": [
-            "Single or double quotes: 'Hello' or \"Hello\" (both work)",
-            "Concatenation: first_name + ' ' + last_name",
-            "f-strings (best): f'Hello {name}, you are {age} years old'",
-            "Methods: upper(), lower(), strip(), replace()",
-            "Length: len(text) returns character count",
-            "Indexing: text[0] is first character (0-indexed)",
-            "Example: greeting = f'Hi {user_name}!'"
+            "int(): Convert to integer - int('5') = 5",
+            "float(): Convert to float - float('3.14') = 3.14",
+            "str(): Convert to string - str(42) = '42'",
+            "bool(): Convert to boolean - bool(1) = True",
+            "When needed: Adding number and string requires conversion",
+            "Example: age = 25; print('I am ' + str(age)) works",
+            "Without conversion: print('I am ' + 25) causes error"
           ]
         },
         {
           "type": "text",
-          "content": "Type conversion: Sometimes you need to change types. int() converts to integer, float() to decimal, str() to text. Example: Converting user input (always string) to number for calculations. Common pattern: age = int(input('Enter age: '))"
-        },
-        {
-          "type": "list",
-          "title": "Practical Examples",
-          "items": [
-            "Calculator: price = 29.99; quantity = 3; total = price * quantity",
-            "Greeting: name = 'Alice'; print(f'Hello {name}!')",
-            "Age in months: age_years = 25; age_months = age_years * 12",
-            "Temperature conversion: celsius = (fahrenheit - 32) * 5/9",
-            "Discount: original = 100; discount = 0.2; final = original * (1 - discount)",
-            "Practice: Try each example in your code editor"
-          ]
-        },
-        {
-          "type": "list",
-          "title": "Common Beginner Mistakes",
-          "items": [
-            "Forgetting quotes: name = John (error) vs name = 'John' (correct)",
-            "Type mixing: '5' + 5 (error, can't add string and number)",
-            "Case sensitivity: Name vs name are different",
-            "Undefined variables: Using variable before creating it",
-            "Overwriting: Using same variable name for different data",
-            "Solution: Read error messages—they tell you what's wrong"
-          ]
+          "content": "Input from users: input() function gets user input. Always returns string, even if they type number. Example: name = input('What is your name? ') stores their response. For numbers: age = int(input('Enter age: ')) converts string to integer."
         }
       ],
       "quiz": [
         {
-          "question": "What's correct variable assignment?",
+          "question": "What does 'age = 25' do?",
           "options": [
-            "25 = age",
-            "age = 25",
-            "age == 25",
-            "var age = 25"
+            "Prints 25",
+            "Creates variable named 'age' storing value 25",
+            "Asks user for age",
+            "Calculates age"
           ],
           "correctIndex": 1,
-          "explanation": "Correct: age = 25 (variable name on left, value on right). Common mistake: putting value first or using == (equality check, not assignment)."
+          "explanation": "'age = 25' creates a variable named 'age' and stores the value 25 in it. Variables are containers that hold data."
         },
         {
-          "question": "What does f'Hi {name}' do?",
+          "question": "What type is returned by input()?",
           "options": [
-            "Nothing",
-            "Inserts the value of variable 'name' into the string",
-            "Creates error",
-            "Multiplies"
+            "Integer",
+            "String (always, even if user types number)",
+            "Float",
+            "Boolean"
           ],
           "correctIndex": 1,
-          "explanation": "f-strings (f'...{variable}...') insert variable values into strings. Most readable way to create dynamic text in Python."
+          "explanation": "input() always returns a string, even if the user types a number. Use int() or float() to convert if you need a number."
         }
       ]
     }
   },
   {
-    "id": "input-output",
-    "title": "Input & Output",
-    "duration": "8 min",
-    "content": {
-      "sections": [
-        {
-          "type": "text",
-          "content": "Programs need to communicate with users: take input and show output. Input gets data from user. Output displays results. These are fundamental to any interactive program. Every calculator, form, or application uses these concepts. Let's master the basics."
-        },
-        {
-          "type": "list",
-          "title": "The print() Function",
-          "items": [
-            "Basic: print('Hello World')",
-            "Variables: print(age) or print(name)",
-            "Multiple: print('Name:', name, 'Age:', age)",
-            "f-strings: print(f'{name} is {age} years old') — cleanest approach",
-            "Newlines: print('Line 1\nLine 2') — \n creates new line",
-            "Separators: print('A', 'B', 'C', sep='-') outputs 'A-B-C'",
-            "Debug: Use print() to see variable values"
-          ]
-        },
-        {
-          "type": "text",
-          "content": "The input() function: Gets text from user. Always returns a string, even if user types numbers. Pattern: variable = input('Prompt message'). User sees prompt, types response, response stored in variable. Critical: Remember to convert to number if doing math!"
-        },
-        {
-          "type": "list",
-          "title": "Getting User Input",
-          "items": [
-            "Basic: name = input('Enter your name: ')",
-            "Numbers: age = int(input('Enter age: ')) — convert to integer",
-            "Floats: price = float(input('Enter price: '))",
-            "Multiple inputs: Get each separately",
-            "Example: first = input('First name: '); last = input('Last name: ')",
-            "Validation: Check if input is valid (covered later)",
-            "Always include clear prompts—tell user what to enter"
-          ]
-        },
-        {
-          "type": "list",
-          "title": "Complete Program Example",
-          "items": [
-            "# Simple calculator",
-            "num1 = float(input('Enter first number: '))",
-            "num2 = float(input('Enter second number: '))",
-            "result = num1 + num2",
-            "print(f'{num1} + {num2} = {result}')",
-            "Try it: Copy and run this code",
-            "Experiment: Change + to -, *, or /"
-          ]
-        },
-        {
-          "type": "text",
-          "content": "Common input/output patterns: Greeting program (get name, print greeting), Calculator (get numbers, compute, show result), Converter (get value, convert, display), Form (collect multiple inputs, process, confirm). Every interactive program follows this pattern: input → process → output."
-        },
-        {
-          "type": "list",
-          "title": "Formatting Output",
-          "items": [
-            "Decimals: print(f'{price:.2f}') — 2 decimal places",
-            "Thousands: print(f'{amount:,}') — adds commas",
-            "Percentage: print(f'{rate:.1%}') — shows as percentage",
-            "Alignment: print(f'{name:>20}') — right-aligned in 20 chars",
-            "Multiple: print(f'Total: ${total:,.2f}') — combines formatting",
-            "Practice: Make your outputs look professional"
-          ]
-        }
-      ],
-      "quiz": [
-        {
-          "question": "What does input() always return?",
-          "options": [
-            "A number",
-            "A string (text), even if user types numbers",
-            "An integer",
-            "Whatever user types"
-          ],
-          "correctIndex": 1,
-          "explanation": "input() always returns string. If you need number, convert with int() or float(). Common mistake: forgetting conversion causes type errors."
-        },
-        {
-          "question": "How to get number from user for math?",
-          "options": [
-            "num = input('Number: ')",
-            "num = int(input('Number: ')) or float(input('Number: '))",
-            "num = number(input('Number: '))",
-            "input('Number: ')"
-          ],
-          "correctIndex": 1,
-          "explanation": "Convert input to number: int(input(...)) for whole numbers, float(input(...)) for decimals. Without conversion, can't do math operations."
-        }
-      ]
-    }
-  },
-  {
-    "id": "basic-operations",
-    "title": "Basic Operations & Operators",
+    "id": "operators-expressions",
+    "title": "Operators & Expressions",
     "duration": "9 min",
     "content": {
       "sections": [
         {
           "type": "text",
-          "content": "Operators are symbols that perform operations on values. You've seen arithmetic operators (+, -, *, /). Python has comparison operators (checking relationships), logical operators (combining conditions), and assignment operators (storing values efficiently). Mastering operators unlocks powerful data manipulation."
+          "content": "Operators perform operations on values. Expressions combine values and operators to produce results. This is how programs make decisions, calculate, and manipulate data. Master operators, you can build complex logic from simple building blocks."
         },
         {
           "type": "list",
-          "title": "Arithmetic Operators",
+          "title": "Comparison Operators",
           "items": [
-            "Addition: 5 + 3 = 8",
-            "Subtraction: 5 - 3 = 2",
-            "Multiplication: 5 * 3 = 15",
-            "Division: 5 / 2 = 2.5 (always returns float)",
-            "Floor division: 5 // 2 = 2 (rounds down to integer)",
-            "Modulo: 5 % 2 = 1 (remainder)",
-            "Exponent: 5 ** 2 = 25 (5 squared)",
-            "Use cases: Calculations, data processing, algorithm implementation"
-          ]
-        },
-        {
-          "type": "list",
-          "title": "Comparison Operators (Return True/False)",
-          "items": [
-            "Equal: 5 == 5 is True (note double ==)",
-            "Not equal: 5 != 3 is True",
-            "Greater than: 5 > 3 is True",
-            "Less than: 5 < 3 is False",
-            "Greater or equal: 5 >= 5 is True",
-            "Less or equal: 5 <= 3 is False",
-            "Use: Checking conditions (if statements, filters)",
+            "== : Equal to (5 == 5 is True)",
+            "!= : Not equal to (5 != 3 is True)",
+            "> : Greater than (10 > 5 is True)",
+            "< : Less than (3 < 7 is True)",
+            ">= : Greater than or equal (5 >= 5 is True)",
+            "<= : Less than or equal (4 <= 6 is True)",
+            "Result: Always returns True or False (boolean)",
             "Common mistake: Using = instead of == for comparison"
           ]
+        },
+        {
+          "type": "text",
+          "content": "Single = vs double ==: Single equals (=) assigns value. Double equals (==) compares values. 'x = 5' means set x to 5. 'x == 5' means check if x equals 5. Confusing these is extremely common mistake. Be careful."
         },
         {
           "type": "list",
           "title": "Logical Operators",
           "items": [
-            "and: Both must be True. True and True = True",
-            "or: At least one True. True or False = True",
-            "not: Flips value. not True = False",
-            "Example: age >= 18 and has_license (can drive?)",
-            "Example: is_weekend or is_holiday (day off?)",
-            "Example: not is_raining (good weather?)",
-            "Combining: (age >= 18 and age < 65) or is_student"
+            "and: Both must be True (True and True = True)",
+            "or: At least one must be True (True or False = True)",
+            "not: Reverses boolean (not True = False)",
+            "Example: age > 18 and age < 65 (between 18 and 65)",
+            "Example: day == 'Saturday' or day == 'Sunday' (weekend)",
+            "Example: not is_weekend (checks if NOT weekend)",
+            "Combine: Use parentheses for complex conditions"
           ]
-        },
-        {
-          "type": "text",
-          "content": "Assignment operators shorthand: Instead of x = x + 5, write x += 5. Both do same thing, but shorthand is cleaner. Works with all arithmetic: +=, -=, *=, /=, //=, **=, %=. Common in loops and counters."
         },
         {
           "type": "list",
           "title": "Assignment Operators",
           "items": [
-            "Basic: x = 5 (assign 5 to x)",
-            "Add and assign: x += 3 (same as x = x + 3)",
-            "Subtract: x -= 2 (same as x = x - 2)",
-            "Multiply: x *= 4 (same as x = x * 4)",
-            "Divide: x /= 2 (same as x = x / 2)",
-            "Use case: Updating counters, accumulating totals",
-            "Example: total_price += item_price (adding to running total)"
+            "= : Basic assignment (x = 5)",
+            "+= : Add and assign (x += 3 means x = x + 3)",
+            "-= : Subtract and assign (x -= 2 means x = x - 2)",
+            "*= : Multiply and assign (x *= 4 means x = x * 4)",
+            "/= : Divide and assign (x /= 2 means x = x / 2)",
+            "Shorthand: Cleaner code, common in loops",
+            "Example: score += 10 adds 10 to current score"
           ]
+        },
+        {
+          "type": "list",
+          "title": "Membership Operators",
+          "items": [
+            "in: Checks if value exists in sequence",
+            "not in: Checks if value doesn't exist",
+            "Example: 'a' in 'apple' returns True",
+            "Example: 5 in [1, 2, 3, 4, 5] returns True",
+            "Example: 'z' not in 'hello' returns True",
+            "Use: Checking if item exists before using it",
+            "Very useful with strings, lists, dictionaries"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Operator precedence: Operations execute in specific order. Parentheses first, then exponents, then multiplication/division, then addition/subtraction. When in doubt, use parentheses to make order explicit. '2 + 3 * 4' = 14 (multiply first). '(2 + 3) * 4' = 20 (add first)."
         },
         {
           "type": "list",
           "title": "Practical Examples",
           "items": [
-            "Even/odd: number % 2 == 0 (True if even)",
-            "Range check: score >= 60 and score <= 100",
-            "Accumulator: total += purchase (running total)",
-            "Counter: count += 1 (incrementing)",
-            "Discount: final_price = original * (1 - discount_rate)",
-            "Average: average = total / count",
-            "Compound interest: amount *= (1 + rate) ** years"
+            "Checking age range: age >= 13 and age <= 19 (teenager)",
+            "Validating input: len(password) >= 8 (password long enough)",
+            "Discount eligibility: is_member or purchase > 100",
+            "Access control: is_admin and not is_banned",
+            "Data validation: email != '' and '@' in email",
+            "Counter: count += 1 (increment counter)",
+            "Combining: Complex logic from simple operators"
           ]
         }
       ],
@@ -386,121 +299,246 @@
           "question": "What's the difference between = and ==?",
           "options": [
             "No difference",
-            "= assigns value; == checks equality",
-            "== assigns value; = checks equality",
+            "= assigns value, == compares values",
+            "= compares, == assigns",
             "Both assign values"
           ],
           "correctIndex": 1,
-          "explanation": "= assigns (age = 25 stores value). == checks equality (age == 25 returns True/False). Common beginner mistake: using = for comparison."
+          "explanation": "Single = assigns value (x = 5 sets x to 5). Double == compares values (x == 5 checks if x equals 5). Very important distinction!"
         },
         {
-          "question": "What does x += 5 mean?",
+          "question": "What does 'and' require?",
           "options": [
-            "x equals 5",
-            "Add 5 to x and store result in x (same as x = x + 5)",
-            "Compare x to 5",
-            "Multiply x by 5"
+            "Only left side True",
+            "Both sides must be True",
+            "At least one side True",
+            "Neither side True"
           ],
           "correctIndex": 1,
-          "explanation": "x += 5 is shorthand for x = x + 5. Adds 5 to current value of x. Cleaner syntax, especially in loops and updates."
+          "explanation": "'and' requires BOTH conditions to be True. 'or' requires at least ONE to be True. 'not' reverses the boolean value."
         }
       ]
     }
   },
   {
-    "id": "comments-debugging",
-    "title": "Comments & Basic Debugging",
-    "duration": "7 min",
+    "id": "functions-basics",
+    "title": "Functions Basics",
+    "duration": "10 min",
     "content": {
       "sections": [
         {
           "type": "text",
-          "content": "Comments are notes in your code that Python ignores. They explain what code does for humans (including future you). Good comments save massive time. Debugging is finding and fixing errors. Every programmer debugs constantly—it's normal part of coding. Learning to debug effectively is as important as writing code."
+          "content": "Functions are reusable blocks of code. Instead of writing same code repeatedly, write it once in function, then call function whenever needed. Functions make code: cleaner, easier to maintain, easier to test, easier to understand. Professional code is function-heavy. Learn this well."
         },
         {
           "type": "list",
-          "title": "Writing Comments",
+          "title": "Creating Functions",
           "items": [
-            "Single line: # This is a comment",
-            "Above code: # Calculate total price",
-            "End of line: total = price * quantity  # multiply price by quantity",
-            "Multi-line: Use ''' or \"\"\" for multiple lines",
-            "What to comment: WHY, not WHAT (code shows what)",
-            "Bad: # Add 5 to x (obvious)",
-            "Good: # Apply 5% loyalty discount (explains purpose)"
+            "Syntax: def function_name():",
+            "Indent: Code inside function must be indented",
+            "Example: def greet(): print('Hello!')",
+            "Calling: greet() executes the function",
+            "Naming: Use descriptive names (calculate_total, not func1)",
+            "Convention: lowercase_with_underscores",
+            "Docstring: Optional description of what function does"
           ]
         },
         {
           "type": "text",
-          "content": "Three types of errors: Syntax errors (code written incorrectly, won't run at all), Runtime errors (code runs but crashes during execution), Logic errors (code runs but produces wrong results). Each needs different debugging approach."
+          "content": "DRY principle: Don't Repeat Yourself. If you're copying and pasting code, you probably need a function. Each time you need that logic, call the function. Update once, changes apply everywhere. This is professional programming."
         },
         {
           "type": "list",
-          "title": "Common Syntax Errors",
+          "title": "Parameters and Arguments",
           "items": [
-            "Missing quotes: print(Hello) → print('Hello')",
-            "Misspelled keywords: pring('Hi') → print('Hi')",
-            "Wrong indentation: Python is indentation-sensitive",
-            "Unclosed parentheses: print('Hi' → print('Hi')",
-            "Missing colon: if age > 18 → if age > 18:",
-            "Python tells you: Read error message, it shows line and problem",
-            "Fix: Carefully read error message, check that line"
+            "Parameters: Variables in function definition",
+            "Arguments: Actual values passed when calling",
+            "Example: def greet(name): print(f'Hello {name}')",
+            "Calling: greet('John') passes 'John' as argument",
+            "Multiple parameters: def add(a, b): return a + b",
+            "Default values: def greet(name='Guest'): ...",
+            "If no argument provided, default value used"
           ]
         },
         {
           "type": "list",
-          "title": "Debugging Strategies",
+          "title": "Return Values",
           "items": [
-            "Read error message: It tells you exactly what's wrong",
-            "print() debugging: Add print statements to see variable values",
-            "Check types: print(type(variable)) to see data type",
-            "Isolate problem: Comment out code sections to find issue",
-            "Check spelling: Variable names, function names",
-            "Google the error: Copy error message, search it",
-            "Rubber duck: Explain code line-by-line (often spots error)",
-            "Take breaks: Fresh eyes catch what tired ones miss"
+            "return: Sends value back to caller",
+            "Example: def add(a, b): return a + b",
+            "Using: result = add(5, 3) stores 8 in result",
+            "No return: Function returns None by default",
+            "Multiple returns: return x, y returns tuple",
+            "Early return: Can return before end of function",
+            "Return stops execution: Code after return doesn't run"
           ]
         },
         {
           "type": "text",
-          "content": "Debugging mindset: Errors are feedback, not failure. Every error teaches you something. Professional developers debug constantly. Getting good at debugging makes you a better programmer than avoiding errors. Embrace errors as part of learning process."
+          "content": "Function scope: Variables created inside function only exist inside function. Can't access them from outside. Variables from outside can be read inside but not modified (without 'global'). This prevents accidental changes and keeps code organized."
+        },
+        {
+          "type": "list",
+          "title": "Built-in Functions",
+          "items": [
+            "print(): Display output",
+            "len(): Get length of sequence",
+            "type(): Check data type",
+            "int(), str(), float(): Convert types",
+            "input(): Get user input",
+            "range(): Generate number sequence",
+            "sum(): Add numbers in sequence",
+            "max(), min(): Find largest/smallest value",
+            "abs(): Absolute value",
+            "round(): Round number"
+          ]
         },
         {
           "type": "list",
           "title": "Best Practices",
           "items": [
-            "Comment complex logic: Help your future self",
-            "Use descriptive names: user_age better than x",
-            "One task per line: Easier to debug",
-            "Test frequently: Run code after small changes",
-            "Save versions: Backup before major changes",
-            "Ask for help: Stack Overflow, Reddit, Discord",
-            "Learn from errors: Keep notes on common mistakes"
+            "One purpose: Function should do one thing well",
+            "Descriptive names: Name should explain what function does",
+            "Keep short: If too long, break into smaller functions",
+            "Document: Add docstring explaining purpose",
+            "Return, don't print: Return values for flexibility",
+            "Consistent: Similar operations should use similar patterns",
+            "Test: Test functions with different inputs"
           ]
         }
       ],
       "quiz": [
         {
-          "question": "What should comments explain?",
+          "question": "What's the DRY principle?",
           "options": [
-            "Every single line",
-            "WHY code does something, not WHAT it does (purpose, not mechanics)",
-            "Only WHAT code does",
-            "Nothing—comments are useless"
+            "Don't Run Yesterday",
+            "Don't Repeat Yourself - use functions for reusable code",
+            "Do Repeat Yourself",
+            "Don't Read Yours"
           ],
           "correctIndex": 1,
-          "explanation": "Comment WHY, not WHAT. Code shows what it does; comments explain purpose and reasoning. 'Calculate discount' bad; 'Apply 10% discount for loyalty members' good."
+          "explanation": "DRY: Don't Repeat Yourself. If you're copying code, create a function instead. Write once, use many times. Professional programming practice."
         },
         {
-          "question": "Best debugging approach?",
+          "question": "What does 'return' do?",
           "options": [
-            "Give up",
-            "Read error message, use print() to check values, isolate problem, Google error",
-            "Rewrite everything",
-            "Ignore errors"
+            "Prints value",
+            "Sends value back to caller and stops function execution",
+            "Creates variable",
+            "Deletes function"
           ],
           "correctIndex": 1,
-          "explanation": "Debug systematically: read error message, print variable values, isolate problem, Google. Errors are normal—good debugging skills separate great from average programmers."
+          "explanation": "'return' sends value back to whoever called the function and stops execution. Code after return doesn't run. Functions without return give None."
+        }
+      ]
+    }
+  },
+  {
+    "id": "lists-basics",
+    "title": "Working with Lists",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Lists store multiple values in single variable. Instead of score1, score2, score3... you have scores = [85, 92, 78]. Lists are ordered, changeable, and allow duplicates. One of most used data structures in Python. Master lists, you can handle most data manipulation tasks."
+        },
+        {
+          "type": "list",
+          "title": "Creating and Accessing Lists",
+          "items": [
+            "Create: numbers = [1, 2, 3, 4, 5]",
+            "Mixed types: mixed = [1, 'hello', 3.14, True]",
+            "Empty list: empty = [] or empty = list()",
+            "Indexing: numbers[0] gets first item (starts at 0!)",
+            "Negative indexing: numbers[-1] gets last item",
+            "Length: len(numbers) returns number of items",
+            "First item is index 0, not 1 (common mistake)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Zero-based indexing: Python counts from 0, not 1. First item is index 0, second is index 1, etc. This trips up beginners but becomes natural. Negative indices count from end: -1 is last, -2 is second-to-last."
+        },
+        {
+          "type": "list",
+          "title": "Modifying Lists",
+          "items": [
+            "Append: numbers.append(6) adds to end",
+            "Insert: numbers.insert(0, 99) adds at specific position",
+            "Remove: numbers.remove(3) removes first occurrence of value",
+            "Pop: numbers.pop() removes and returns last item",
+            "Pop index: numbers.pop(0) removes item at index 0",
+            "Change: numbers[0] = 100 changes first item",
+            "Clear: numbers.clear() removes all items"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "List Slicing",
+          "items": [
+            "Syntax: list[start:end:step]",
+            "Example: numbers[1:4] gets items at index 1, 2, 3 (not 4!)",
+            "From start: numbers[:3] gets first 3 items",
+            "To end: numbers[2:] gets from index 2 to end",
+            "Copy: numbers[:] creates copy of entire list",
+            "Reverse: numbers[::-1] reverses list",
+            "Step: numbers[::2] gets every 2nd item"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Lists are mutable: You can change them after creation. This differs from strings (immutable). Mutability is powerful but requires awareness: if you pass list to function and function modifies it, original list changes. Sometimes you want copy instead."
+        },
+        {
+          "type": "list",
+          "title": "List Methods",
+          "items": [
+            "sort(): numbers.sort() sorts in place (modifies original)",
+            "sorted(): sorted(numbers) returns sorted copy (original unchanged)",
+            "reverse(): numbers.reverse() reverses in place",
+            "count(): numbers.count(5) counts occurrences of 5",
+            "index(): numbers.index(3) finds position of first 3",
+            "extend(): numbers.extend([6,7,8]) adds multiple items",
+            "in operator: 5 in numbers checks if 5 exists in list"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Common List Patterns",
+          "items": [
+            "Iterate: for item in numbers: print(item)",
+            "Check existence: if 5 in numbers:",
+            "Sum: total = sum(numbers)",
+            "Max/min: highest = max(numbers), lowest = min(numbers)",
+            "Concatenate: list1 + list2 combines lists",
+            "Multiply: [0] * 5 creates [0, 0, 0, 0, 0]",
+            "List comprehension: [x*2 for x in numbers] (covered later)"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What index is the first item in a list?",
+          "options": [
+            "1",
+            "0 (Python uses zero-based indexing)",
+            "-1",
+            "First"
+          ],
+          "correctIndex": 1,
+          "explanation": "Python uses zero-based indexing. First item is index 0, second is index 1, etc. This is standard in most programming languages."
+        },
+        {
+          "question": "What does numbers.append(5) do?",
+          "options": [
+            "Adds 5 to each item",
+            "Adds 5 to the end of the list",
+            "Removes 5 from list",
+            "Creates new list"
+          ],
+          "correctIndex": 1,
+          "explanation": "append() adds item to END of list. To add at specific position, use insert(). To add multiple items, use extend()."
         }
       ]
     }
