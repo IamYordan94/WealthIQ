@@ -1,1 +1,497 @@
-[Final module will be in separate push...]
+[
+  {
+    "id": "habit-fundamentals",
+    "title": "Habit Formation Fundamentals",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Habits are behaviors on autopilot. About 40% of daily actions are habits, not decisions. This means you can automate success or automate failure. Good habits make success inevitable. Bad habits make failure inevitable. The secret: design default behaviors. Most productivity advice focuses on motivation and willpower. Both unreliable. Habits work whether you feel motivated or not."
+        },
+        {
+          "type": "list",
+          "title": "The Habit Loop",
+          "items": [
+            "Cue: Trigger that initiates behavior (time, location, emotion, preceding action)",
+            "Craving: Desire activated by cue",
+            "Response: The actual habit or behavior",
+            "Reward: Benefit that satisfies craving and reinforces loop",
+            "Example: Alarm (cue) → Want alertness (craving) → Coffee (response) → Energy (reward)",
+            "Understanding: Change habits by modifying any loop component"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Building vs. breaking habits uses opposite strategies. Building good habits: Make cue obvious, craving attractive, response easy, reward satisfying. Breaking bad habits: Make cue invisible, craving unattractive, response difficult, reward unsatisfying. Simple framework, powerful results."
+        },
+        {
+          "type": "list",
+          "title": "The Four Laws of Behavior Change",
+          "items": [
+            "Law 1 - Make it obvious: Design environment to make cues visible",
+            "Law 2 - Make it attractive: Pair habit with something you enjoy",
+            "Law 3 - Make it easy: Reduce friction, make starting effortless",
+            "Law 4 - Make it satisfying: Immediate reward reinforces behavior",
+            "Inverse for bad habits: invisible, unattractive, difficult, unsatisfying",
+            "Apply all four: Dramatically increases success rate"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Implementation Intention",
+          "items": [
+            "Format: 'I will [BEHAVIOR] at [TIME] in [LOCATION]'",
+            "Example: 'I will exercise for 30 minutes at 7am in my home gym'",
+            "Specificity: Removes ambiguity and decision fatigue",
+            "Success rate: 2-3x higher than vague intentions",
+            "Habit stacking: 'After [CURRENT HABIT], I will [NEW HABIT]'",
+            "Stack example: 'After I pour morning coffee, I will write for 10 minutes'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The plateau of latent potential: Habits take time. You won't see results immediately. This is why people quit. Results lag behind effort. Keep going through the valley of disappointment. Breakthrough comes suddenly after consistent action. 21 days is myth—real habits take 2-3 months average."
+        },
+        {
+          "type": "list",
+          "title": "Starting New Habits",
+          "items": [
+            "Start tiny: Embarrassingly small (2 pushups, 1 page, 5 minutes)",
+            "Make it easy: Remove all friction to starting",
+            "Stack it: Attach to existing habit",
+            "Optimize timing: Choose when you have most energy/time",
+            "Track it: Mark completion somehow (journal, app, calendar)",
+            "Never miss twice: One miss is life; two is new pattern",
+            "Patience: Focus on showing up, not results"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What percentage of daily actions are habits?",
+          "options": [
+            "10%",
+            "About 40%",
+            "60%",
+            "100%"
+          ],
+          "correctIndex": 1,
+          "explanation": "About 40% of daily actions are habits, not conscious decisions. This means you can automate success through habit design."
+        },
+        {
+          "question": "How long do habits really take to form?",
+          "options": [
+            "21 days",
+            "2-3 months average (varies by habit)",
+            "1 week",
+            "1 year"
+          ],
+          "correctIndex": 1,
+          "explanation": "Habits take 2-3 months average to form (varies by complexity). 21 days is a myth. Be patient through the valley of disappointment."
+        }
+      ]
+    }
+  },
+  {
+    "id": "building-systems",
+    "title": "Building Productivity Systems",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "You don't rise to level of goals; you fall to level of systems. Goals are destinations. Systems are vehicles. Everyone has same goal: be successful, healthy, happy. Different results come from different systems. Winners and losers have same goals. Difference is systems. Build systems that make success default outcome."
+        },
+        {
+          "type": "list",
+          "title": "Goals vs. Systems",
+          "items": [
+            "Goal: Finish project by Friday",
+            "System: 2 hours deep work daily at 9am",
+            "Goal: Lose 20 pounds",
+            "System: Walk 10k steps daily, eat protein at every meal",
+            "Goal: Write a book",
+            "System: Write 500 words every morning",
+            "Truth: Systems deliver goals; goals without systems are dreams"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Problems with goals: Temporary motivation, all-or-nothing thinking, delayed satisfaction, no direction after achievement. Problems with lack of systems: Inconsistent action, relying on willpower, easily derailed, no compound effect. Solution: Set goals for direction, build systems for progress."
+        },
+        {
+          "type": "list",
+          "title": "Designing Your System",
+          "items": [
+            "1. Identify outcome: What do you want to achieve?",
+            "2. Find inputs: What actions lead to that outcome?",
+            "3. Make repeatable: How do you do this consistently?",
+            "4. Remove friction: How do you make it easier?",
+            "5. Add accountability: How do you ensure you do it?",
+            "6. Track metrics: How do you know it's working?",
+            "7. Iterate: Adjust based on what works"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Personal Operating System",
+          "items": [
+            "Morning routine: Start day intentionally (exercise, review priorities, deep work)",
+            "Work system: How you approach tasks (time blocking, priority matrix, focus sessions)",
+            "Communication system: When and how you handle emails, messages, meetings",
+            "Decision system: Framework for making choices quickly",
+            "Review system: Weekly and monthly reviews of progress",
+            "Evening routine: End day intentionally (shutdown ritual, planning, rest)",
+            "Benefit: Automates productivity, removes guesswork"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The compound effect of systems: 1% better daily = 37x better in a year. 1% worse daily = nearly zero in a year. Small improvements compound geometrically. This is why systems beat goals. Goals are episodic. Systems compound continuously. Focus on trajectory, not position."
+        },
+        {
+          "type": "list",
+          "title": "System Optimization",
+          "items": [
+            "Identify bottlenecks: What slows you down most?",
+            "Eliminate waste: What activities provide no value?",
+            "Automate repetitive: What can machines/tools handle?",
+            "Delegate: What can others do?",
+            "Batch similar: What can be grouped?",
+            "Simplify complex: What can be made easier?",
+            "Continuous improvement: Small optimizations compound"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the key difference between goals and systems?",
+          "options": [
+            "No difference",
+            "Goals are outcomes you want; systems are processes that deliver them",
+            "Goals are better",
+            "Systems are temporary"
+          ],
+          "correctIndex": 1,
+          "explanation": "Goals are outcomes (destination); systems are processes that deliver them (vehicle). You fall to level of systems, not rise to level of goals."
+        },
+        {
+          "question": "What's the compound effect of 1% daily improvement?",
+          "options": [
+            "1% better in a year",
+            "37x better in a year",
+            "No change",
+            "10x better"
+          ],
+          "correctIndex": 1,
+          "explanation": "1% better daily = 37x better in a year through compound effect. Small improvements compound geometrically over time."
+        }
+      ]
+    }
+  },
+  {
+    "id": "morning-routines",
+    "title": "Morning Routines & Rituals",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "How you start day determines how you live day. Morning routine sets tone, energy, and trajectory. Most people react: alarm → phone → email → already behind. High performers are proactive: prepare → energize → prioritize → execute. First hours are most valuable. Protect them fiercely. Win the morning, win the day."
+        },
+        {
+          "type": "list",
+          "title": "Morning Routine Benefits",
+          "items": [
+            "Consistent energy: Know you'll start well regardless of circumstances",
+            "Mental clarity: Mind is freshest in morning",
+            "Momentum: Early wins create positive momentum",
+            "Control: You control morning before others make demands",
+            "Compound effect: Good morning daily = transformational yearly",
+            "Identity: 'I'm someone who...'",
+            "Proactive: You set agenda, not reacting to others"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 5am myth: Waking early isn't magic. What matters is: adequate sleep (7-9 hours), intentional morning, protecting best hours for priorities. If you're night owl, design routine that works for you. Early rising with sleep deprivation destroys productivity."
+        },
+        {
+          "type": "list",
+          "title": "Essential Morning Elements",
+          "items": [
+            "Hydration: Water first thing (body is dehydrated)",
+            "Movement: Exercise, stretching, or walking (boosts energy)",
+            "Mindfulness: Meditation, journaling, or breathing (centers mind)",
+            "Nutrition: Protein-rich breakfast (stable energy)",
+            "Planning: Review priorities for day (provides direction)",
+            "Learning: Reading or course (compounds knowledge)",
+            "No phone: Delay checking email/social at least 1 hour"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Sample Morning Routines",
+          "items": [
+            "Minimal (30 min): Water, 10 min exercise, review priorities, deep work",
+            "Standard (60 min): Water, 20 min exercise, 10 min meditation, breakfast, review day",
+            "Extended (90 min): Water, 30 min exercise, shower, 15 min meditation, breakfast, 15 min reading, plan day",
+            "Adapt: Choose elements that work for YOUR life",
+            "Non-negotiables: Sleep, hydration, movement, planning",
+            "Experiment: Try 30 days, adjust what doesn't work"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Evening routine enables morning routine. Morning starts night before. Evening: set clothes out, prepare breakfast, review tomorrow, set phone on airplane mode, get to bed on time. Remove morning decisions and friction. Make good morning default, not achievement."
+        },
+        {
+          "type": "list",
+          "title": "Implementation Strategy",
+          "items": [
+            "Start small: Add one element, master it, add next",
+            "Consistency: Same time, same sequence daily",
+            "Prepare: Evening prep removes morning friction",
+            "Protect: Wake 30 min earlier, or eliminate something else",
+            "No exceptions: Weekends too (consistency builds habit)",
+            "Adjust: Refine based on what works",
+            "Commit: 30-day trial minimum before judging"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What matters more than waking at 5am?",
+          "options": [
+            "Nothing - 5am is essential",
+            "Adequate sleep + intentional morning + protecting best hours",
+            "Working longer",
+            "Skipping breakfast"
+          ],
+          "correctIndex": 1,
+          "explanation": "Adequate sleep, intentional morning, and protecting best hours matter more than specific wake time. Early with sleep deprivation destroys productivity."
+        },
+        {
+          "question": "When does morning routine actually start?",
+          "options": [
+            "When alarm goes off",
+            "Night before (evening prep enables morning success)",
+            "Doesn't matter",
+            "At breakfast"
+          ],
+          "correctIndex": 1,
+          "explanation": "Morning routine starts night before. Evening prep (set clothes, prepare food, review tomorrow) removes friction and makes good morning default."
+        }
+      ]
+    }
+  },
+  {
+    "id": "tracking-metrics",
+    "title": "Tracking & Measuring Progress",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "What gets measured gets managed. What gets tracked gets done. Without measurement, you're operating blind. With measurement, you have data to optimize. Tracking isn't about perfection—it's about awareness. When you measure something, you automatically improve it. The act of tracking changes behavior. Simple metrics compound into massive improvements."
+        },
+        {
+          "type": "list",
+          "title": "Why Track",
+          "items": [
+            "Awareness: See reality, not perception",
+            "Motivation: Visual progress motivates continued action",
+            "Accountability: Knowing you'll track changes behavior",
+            "Optimization: Data reveals what works, what doesn't",
+            "Proof: Evidence of progress when you can't feel it yet",
+            "Patterns: Identify trends and correlations",
+            "Adjustment: Make informed changes, not guesses"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The tracking paradox: Track too much, tracking becomes burden and fails. Track too little, you lack actionable data. Sweet spot: 3-5 key metrics that matter most. These should be: easy to track, within your control, leading indicators of results you want."
+        },
+        {
+          "type": "list",
+          "title": "What to Track",
+          "items": [
+            "Time: Deep work hours daily (most important productivity metric)",
+            "Completion: Daily priority completion rate",
+            "Health: Sleep hours, exercise, steps",
+            "Energy: Rate your energy levels (1-10) at different times",
+            "Habits: Streak of consecutive days",
+            "Output: Words written, code shipped, sales made",
+            "Weekly wins: Top 3 accomplishments each week"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Tracking Methods",
+          "items": [
+            "Habit tracker: Simple grid, mark X for completion",
+            "Journal: Daily log of metrics and reflections",
+            "Apps: Productive, Streaks, HabitBull, Notion",
+            "Spreadsheet: Custom tracking system",
+            "Paper calendar: X marking on physical calendar",
+            "Time tracking: RescueTime, Toggl for automatic tracking",
+            "Choose: Method you'll actually use consistently"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The streak effect: Tracking creates streaks. Streaks create motivation to not break them. 'Don't break the chain' becomes powerful motivator. After 30-day streak, you'll do the habit just to maintain streak. This is how tracking transforms behavior. Visual progress creates momentum."
+        },
+        {
+          "type": "list",
+          "title": "Weekly Review",
+          "items": [
+            "When: Same time weekly (Friday afternoon or Sunday)",
+            "Review metrics: What does data show?",
+            "Celebrate wins: Acknowledge progress",
+            "Identify patterns: What worked well? What didn't?",
+            "Adjust: What will you change next week?",
+            "Plan: Set priorities for coming week",
+            "Duration: 15-30 minutes",
+            "Benefit: Continuous improvement through reflection"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the sweet spot for tracking?",
+          "options": [
+            "Track everything possible",
+            "3-5 key metrics that matter most",
+            "Don't track anything",
+            "One metric only"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sweet spot: 3-5 key metrics. Easy to track, within your control, leading indicators. Too many = burden and failure; too few = insufficient data."
+        },
+        {
+          "question": "What's the streak effect?",
+          "options": [
+            "Unimportant concept",
+            "Tracking creates streaks that motivate maintaining them",
+            "Only works for athletes",
+            "Requires special apps"
+          ],
+          "correctIndex": 1,
+          "explanation": "Streak effect: Tracking creates visible streaks that become self-motivating. 'Don't break the chain' drives continued action. Visual progress builds momentum."
+        }
+      ]
+    }
+  },
+  {
+    "id": "continuous-improvement",
+    "title": "Continuous Improvement",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Productivity isn't destination—it's ongoing practice. Your optimal system today won't be optimal tomorrow. Life changes, goals shift, new tools emerge. High performers continuously iterate. They experiment, measure, adjust, repeat. 1% improvement weekly = 67% improvement yearly. This compounds over career. Continuous improvement isn't about perfection—it's about direction."
+        },
+        {
+          "type": "list",
+          "title": "The Kaizen Philosophy",
+          "items": [
+            "Meaning: Japanese for 'continuous improvement'",
+            "Principle: Small, incremental changes compound to major improvements",
+            "Mindset: Always ask 'How can this be slightly better?'",
+            "Practice: Make one small improvement daily or weekly",
+            "Sustainability: Small changes sustainable; massive overhauls fail",
+            "Compound effect: 1% better daily = 37x better yearly",
+            "Apply everywhere: Work, health, relationships, skills"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The improvement cycle: Experiment → Measure → Analyze → Adjust → Repeat. Try something new for 30 days. Measure results. Analyze what worked and what didn't. Adjust approach. Try again. This cycle never ends. Your productivity system at year 5 should look nothing like year 1."
+        },
+        {
+          "type": "list",
+          "title": "What to Optimize",
+          "items": [
+            "Biggest bottleneck: Where do you lose most time?",
+            "Repetitive tasks: What do you do frequently?",
+            "High-friction activities: What's unnecessarily difficult?",
+            "Low-energy periods: When is productivity lowest?",
+            "Procrastination triggers: What do you consistently avoid?",
+            "Tool inefficiencies: What software/tools slow you down?",
+            "Start: Identify single biggest pain point, solve it"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Monthly Productivity Audit",
+          "items": [
+            "Time analysis: Where did time actually go? (RescueTime reveals truth)",
+            "Energy analysis: When was energy highest? Lowest?",
+            "Win analysis: What were biggest accomplishments?",
+            "Failure analysis: What didn't get done? Why?",
+            "Habit analysis: What habits served you? Which didn't?",
+            "System analysis: What systems worked? What broke down?",
+            "Action: One thing to improve next month"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 80/20 review: 20% of your activities produce 80% of results. Monthly, identify: What 20% of activities produced most value? Do more of those. What 80% produced little value? Eliminate or delegate those. This focuses energy on highest-leverage activities."
+        },
+        {
+          "type": "list",
+          "title": "Learning & Development",
+          "items": [
+            "Read: Books on productivity, focus, habits (30 min daily)",
+            "Courses: Structured learning on relevant skills",
+            "Experiment: Try techniques from others, keep what works",
+            "Community: Learn from high performers",
+            "Mentors: People ahead of you who can guide",
+            "Self-study: Analyze your own data for insights",
+            "Share: Teaching others deepens your understanding"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Long-term Mindset",
+          "items": [
+            "Marathon, not sprint: Sustainable practices win",
+            "Patience: Results take time to manifest",
+            "Consistency: Daily small actions compound",
+            "Iteration: Version 2 better than version 1, version 100 unrecognizable",
+            "Flexibility: Adjust as life and goals change",
+            "Self-compassion: Progress over perfection",
+            "Vision: Where will these habits take you in 5 years?"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What does Kaizen mean?",
+          "options": [
+            "Perfect system",
+            "Continuous improvement through small changes",
+            "Japanese food",
+            "Working harder"
+          ],
+          "correctIndex": 1,
+          "explanation": "Kaizen: continuous improvement through small, incremental changes. 1% better daily compounds to 37x better yearly. Sustainable and powerful."
+        },
+        {
+          "question": "What's the improvement cycle?",
+          "options": [
+            "Set goal and forget",
+            "Experiment → Measure → Analyze → Adjust → Repeat",
+            "Work harder",
+            "Follow others exactly"
+          ],
+          "correctIndex": 1,
+          "explanation": "Improvement cycle: Experiment → Measure → Analyze → Adjust → Repeat. This continuous cycle drives ongoing optimization."
+        }
+      ]
+    }
+  }
+]
