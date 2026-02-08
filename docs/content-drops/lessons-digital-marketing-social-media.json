@@ -1,1 +1,499 @@
-[Continuing in next file...]
+[
+  {
+    "id": "social-media-strategy",
+    "title": "Social Media Marketing Strategy",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Social media marketing builds audience, brand awareness, and drives traffic. It's not posting randomly hoping something works—it's strategic content on right platforms reaching right people. Different platforms serve different purposes and audiences. Success requires understanding platform dynamics, audience behavior, and consistent valuable content. Social media is marathon, not sprint."
+        },
+        {
+          "type": "list",
+          "title": "Major Platforms Overview",
+          "items": [
+            "LinkedIn: B2B, professionals, thought leadership, networking (2 billion users)",
+            "Instagram: Visual, lifestyle, influencers, younger demographics (2 billion users)",
+            "Twitter/X: News, real-time, tech, public figures (500M users)",
+            "Facebook: Broad demographics, groups, local business (3 billion users)",
+            "TikTok: Short video, Gen Z, entertainment, trends (1 billion users)",
+            "YouTube: Long-form video, tutorials, entertainment (2.5 billion users)",
+            "Reddit: Communities, discussions, specific interests (500M users)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Platform selection: Don't be everywhere. Choose 1-2 platforms where your audience spends time. B2B? LinkedIn + Twitter. E-commerce fashion? Instagram + TikTok. Education? YouTube + LinkedIn. Master one platform before expanding. Better to dominate one than be mediocre on five."
+        },
+        {
+          "type": "list",
+          "title": "Social Media Strategy Framework",
+          "items": [
+            "Goals: What are you trying to achieve? (brand awareness, traffic, leads, sales)",
+            "Audience: Who specifically are you targeting on this platform?",
+            "Content pillars: 3-5 consistent themes you'll post about",
+            "Content mix: 80% value/entertainment, 20% promotion",
+            "Posting frequency: Consistent schedule (daily, 3x week, etc.)",
+            "Engagement strategy: How will you interact with audience?",
+            "Measurement: What metrics indicate success?"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Content Types That Work",
+          "items": [
+            "Educational: How-tos, tips, tutorials that teach something valuable",
+            "Entertaining: Humor, storytelling, memes (depending on brand)",
+            "Inspiring: Success stories, motivational content, aspirational posts",
+            "Behind-the-scenes: Company culture, process, personal stories",
+            "User-generated: Customer content, testimonials, reviews",
+            "Trending: Timely content related to current events or platform trends",
+            "Mix: Variety keeps audience engaged, not bored"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Algorithm understanding: Each platform has algorithm determining what content gets shown. Generally rewarded: engagement (likes, comments, shares), watch time/dwell time, saves/bookmarks, consistency, native content (not just links out). Create content the algorithm loves."
+        },
+        {
+          "type": "list",
+          "title": "Growth Strategies",
+          "items": [
+            "Consistent posting: Algorithm rewards consistency",
+            "Engagement: Reply to every comment, engage with others' content",
+            "Hashtags: Relevant hashtags increase discoverability (research best ones)",
+            "Collaborations: Partner with complementary accounts",
+            "Value first: Help people, entertainment, don't just promote",
+            "Cross-promotion: Promote social on other channels (email, website)",
+            "Paid boost: Amplify best-performing content with ads"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the best platform strategy?",
+          "options": [
+            "Be active on every platform",
+            "Master 1-2 platforms where your audience is",
+            "Only use the most popular platform",
+            "Switch platforms frequently"
+          ],
+          "correctIndex": 1,
+          "explanation": "Master 1-2 platforms where your specific audience spends time. Better to dominate one than be mediocre on five."
+        },
+        {
+          "question": "What content mix is recommended?",
+          "options": [
+            "100% promotional",
+            "50% promotional, 50% value",
+            "80% value/entertainment, 20% promotional",
+            "Never promote"
+          ],
+          "correctIndex": 2,
+          "explanation": "80% value/entertainment, 20% promotional maintains audience engagement while achieving business goals. Too much promotion drives people away."
+        }
+      ]
+    }
+  },
+  {
+    "id": "content-creation",
+    "title": "Creating Engaging Social Content",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Great social content stops the scroll. Users scroll fast—you have 1-2 seconds to grab attention. Your content must be immediately visually appealing, clearly valuable, or emotionally engaging. This isn't about perfection; it's about connection. Authenticity beats polish. Value beats production quality. Consistency beats occasional viral posts."
+        },
+        {
+          "type": "list",
+          "title": "Hook Techniques",
+          "items": [
+            "Strong visual: Eye-catching image, contrasting colors, faces",
+            "Surprising statement: Challenge assumptions, counterintuitive claim",
+            "Question: Trigger curiosity ('Are you making this mistake?')",
+            "Number: 'X ways to...', 'X mistakes...'",
+            "Story opening: 'Last year I was broke. Today...' ",
+            "Pattern interrupt: Something unexpected that breaks scroll",
+            "First 3 words: Most important—make them count"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The content formula: Hook (grab attention) + Value (teach/entertain/inspire) + Call-to-action (what to do next). Every post should have clear purpose. Not just 'engagement'—specific desired action: visit link, comment, share, follow, save."
+        },
+        {
+          "type": "list",
+          "title": "Platform-Specific Tips",
+          "items": [
+            "LinkedIn: Professional insights, longer-form (1300 chars optimal), native docs/carousels perform well",
+            "Instagram: Visual aesthetics matter, Stories for engagement, Reels for reach",
+            "Twitter/X: Concise (280 chars), threads for depth, engage in conversations",
+            "TikTok: Vertical video, trends, first 3 seconds critical, authentic over polished",
+            "Facebook: Groups > Pages, longer content works, video performs well",
+            "YouTube: Titles and thumbnails critical, first 30 seconds retain viewers"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Visual Content",
+          "items": [
+            "Quality matters: Clear, well-lit, in-focus (phone camera is fine)",
+            "Consistent style: Color palette, filters, layout (brand recognition)",
+            "Text on images: Key message visible even without reading caption",
+            "Faces: Images with people get 38% more engagement",
+            "Tools: Canva (design), CapCut (video editing), Unsplash (stock photos)",
+            "Templates: Create templates for consistent, fast content creation",
+            "Video: Outperforms static images on most platforms"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Storytelling structure: Problem (relatable situation) → Agitation (make them feel it) → Solution (your insight/product). Example: 'Spending hours on social media with zero results? [Problem] It's frustrating watching competitors grow while you stagnate. [Agitation] Here's the 3-post framework that changed everything... [Solution]'"
+        },
+        {
+          "type": "list",
+          "title": "Content Creation System",
+          "items": [
+            "Batch creation: Create multiple posts in one session",
+            "Content bank: Save ideas as they come (notes app, Notion)",
+            "Repurpose: One blog post → 10 social posts",
+            "User-generated: Share customer content (with permission)",
+            "Scheduling: Use tools (Buffer, Hootsuite, Later) for consistency",
+            "Templates: Save high-performing post structures",
+            "Review: Analyze what works, create more of that"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How long do you have to grab attention?",
+          "options": [
+            "10 seconds",
+            "1-2 seconds",
+            "30 seconds",
+            "No time limit"
+          ],
+          "correctIndex": 1,
+          "explanation": "You have 1-2 seconds to grab attention as users scroll. Strong hook (visual, headline, opening) is critical to stop the scroll."
+        },
+        {
+          "question": "What beats production quality?",
+          "options": [
+            "Nothing",
+            "Authenticity and value",
+            "Frequency",
+            "Professional equipment"
+          ],
+          "correctIndex": 1,
+          "explanation": "Authenticity and value beat production quality. Audiences connect with genuine, valuable content over perfectly polished but hollow content."
+        }
+      ]
+    }
+  },
+  {
+    "id": "community-engagement",
+    "title": "Community Building & Engagement",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Social media is social. It's not broadcasting—it's conversation. Engagement is what separates successful accounts from forgotten ones. Algorithms reward engagement (comments, shares, saves). But more importantly, engagement builds relationships, trust, and community. People don't follow brands; they follow people who provide value and connection."
+        },
+        {
+          "type": "list",
+          "title": "Engagement Strategies",
+          "items": [
+            "Reply to every comment: First hour after posting is critical for algorithm",
+            "Ask questions: End posts with engagement question",
+            "Respond thoughtfully: Not just 'thanks'—add value in replies",
+            "Engage with others: Comment on audience's and peers' content",
+            "DMs: Build relationships through direct messages",
+            "Show up consistently: Regular presence, not just when posting",
+            "Be authentic: Real personality beats corporate speak"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 60-30-10 rule for time allocation: 60% creating content, 30% engaging with others' content, 10% promoting your stuff. Most people do 90% creation, 10% engagement. Flipping this dramatically improves growth and community building."
+        },
+        {
+          "type": "list",
+          "title": "Building Community",
+          "items": [
+            "Know your audience: Understand their challenges, interests, language",
+            "Create inside jokes: Shared references build community identity",
+            "Highlight members: Feature customers, share their wins",
+            "Behind the scenes: Share personal stories, failures, process",
+            "Exclusive content: Reward loyal followers with special access",
+            "Events: Lives, AMAs, virtual meetups create connection",
+            "Groups: Create Facebook/LinkedIn groups for deeper engagement"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Driving Engagement",
+          "items": [
+            "Questions: 'What's your biggest challenge with X?'",
+            "Polls: Easy way for audience to participate",
+            "Fill in blank: 'My favorite _____ is _____'",
+            "This or that: Force choice between two options",
+            "Controversy: Take stand on divisive topic (carefully)",
+            "Story requests: 'Share your experience with...'",
+            "Challenges: Create hashtag challenge for audience participation"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Handling negative comments: Respond professionally to genuine criticism (shows you care). Delete/hide spam and abusive comments. Don't argue publicly. Some negative comments are opportunities—addressing concerns shows transparency and builds trust with lurkers watching."
+        },
+        {
+          "type": "list",
+          "title": "Community Management",
+          "items": [
+            "Response time: Faster response = better engagement and customer service",
+            "Set boundaries: Clear about what's acceptable in your community",
+            "Moderate: Remove spam, toxicity that harms community",
+            "Recognize superfans: Acknowledge and appreciate most engaged followers",
+            "Consistent voice: Whether you or team, maintain consistent tone",
+            "Tools: Use social media management tools to track mentions and comments",
+            "Time blocking: Dedicate specific times for engagement (morning, evening)"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the 60-30-10 rule?",
+          "options": [
+            "60% promotion, 30% content, 10% engagement",
+            "60% content creation, 30% engaging with others, 10% promotion",
+            "60% videos, 30% images, 10% text",
+            "Post times"
+          ],
+          "correctIndex": 1,
+          "explanation": "60% creating content, 30% engaging with others' content, 10% promotion. Most people create too much and engage too little."
+        },
+        {
+          "question": "Why reply to comments?",
+          "options": [
+            "Only for politeness",
+            "Algorithm rewards it and builds relationships",
+            "Wastes time",
+            "Not necessary"
+          ],
+          "correctIndex": 1,
+          "explanation": "Replying to comments signals algorithm your post is valuable (more reach) and builds relationships with audience (loyalty and trust)."
+        }
+      ]
+    }
+  },
+  {
+    "id": "paid-social-ads",
+    "title": "Paid Social Media Advertising",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Organic reach is limited and slow. Paid ads accelerate growth by showing your content to precisely targeted audiences. Social ads work because: advanced targeting, measurable results, scalable (spend more = reach more), faster than organic. Start with small budget, test, scale what works. Ads aren't 'set and forget'—continuous testing and optimization required."
+        },
+        {
+          "type": "list",
+          "title": "Why Paid Social Advertising",
+          "items": [
+            "Targeting precision: Demographics, interests, behaviors, custom audiences",
+            "Accelerated growth: Reach thousands immediately vs. months organically",
+            "Retargeting: Show ads to website visitors or video watchers",
+            "Testing: Quickly test messaging, offers, audiences",
+            "Measurable: Track every dollar to conversion",
+            "Scalable: Increase budget when ROI is positive",
+            "Algorithm bypass: Paid ads guarantee visibility"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Platform selection: Facebook/Instagram Ads (broad audience, visual products), LinkedIn Ads (B2B, expensive but high-quality leads), TikTok Ads (younger audience, creative-driven), Twitter Ads (tech, news, events). Start where your audience is and competition is reasonable."
+        },
+        {
+          "type": "list",
+          "title": "Facebook/Instagram Ads Basics",
+          "items": [
+            "Campaign objective: Awareness, traffic, engagement, leads, or sales",
+            "Targeting: Location, age, gender, interests, behaviors, lookalike audiences",
+            "Ad formats: Image, video, carousel, collection, Stories",
+            "Budget: Start with $5-10/day for testing",
+            "Placements: Feed, Stories, Reels, Audience Network (start with auto)",
+            "Pixel: Install Facebook Pixel on website to track conversions",
+            "Creative: Strong image/video + clear headline + compelling CTA"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Ad Campaign Structure",
+          "items": [
+            "Campaign: Overall objective (Traffic, Conversions, Engagement)",
+            "Ad Set: Audience, budget, schedule, placements",
+            "Ad: Creative (image/video), copy, headline, CTA",
+            "Testing: Run 3-5 ad variations per ad set",
+            "Variables: Test one element at a time (image, headline, audience)",
+            "Duration: Run tests minimum 3-7 days before deciding",
+            "Scale: Double budget on winners, kill losers"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Retargeting is gold: Most people don't buy first visit. Retargeting shows ads to people who visited your website, watched videos, or engaged with content. Warm audience converts 2-10x better than cold. Install pixel, build audience, retarget with relevant offers."
+        },
+        {
+          "type": "list",
+          "title": "Ad Creative Best Practices",
+          "items": [
+            "Stop the scroll: Bright colors, faces, movement, bold text",
+            "Clear value: Immediately obvious what you're offering",
+            "Social proof: Testimonials, ratings, user count",
+            "Urgency: Limited time, scarcity (use ethically)",
+            "CTA: Clear next step (Shop Now, Learn More, Sign Up)",
+            "Mobile-first: 90%+ see ads on mobile",
+            "Short copy: People don't read paragraphs in ads",
+            "Test: Different images, headlines, CTAs"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Measuring Ad Performance",
+          "items": [
+            "CTR (Click-Through Rate): % who click (1-2% is average)",
+            "CPC (Cost Per Click): What you pay per click (varies by industry)",
+            "Conversion rate: % of clicks that convert to goal",
+            "CPA (Cost Per Acquisition): Cost to acquire customer",
+            "ROAS (Return on Ad Spend): Revenue ÷ Ad spend (3:1 minimum target)",
+            "Frequency: Times same person sees ad (under 3 ideal)",
+            "Goal: Profitable ROAS, then scale"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the benefit of retargeting?",
+          "options": [
+            "Cheaper ads",
+            "Warm audience converts 2-10x better than cold audience",
+            "No benefit",
+            "Reaches more people"
+          ],
+          "correctIndex": 1,
+          "explanation": "Retargeting shows ads to people already familiar with you (visited site, watched video). Warm audience converts 2-10x better than cold."
+        },
+        {
+          "question": "What's a good starting budget for testing?",
+          "options": [
+            "$1,000/day",
+            "$5-10/day",
+            "$100/day minimum",
+            "No budget needed"
+          ],
+          "correctIndex": 1,
+          "explanation": "Start with $5-10/day for testing. Small budget to test audiences and creative before scaling. Increase budget when ROI is positive."
+        }
+      ]
+    }
+  },
+  {
+    "id": "influencer-marketing",
+    "title": "Influencer Marketing",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Influencer marketing leverages others' audiences to reach your target market. Instead of building audience from zero, you partner with people who already have attention of your ideal customers. Works because: trust (followers trust influencers), targeted (niche influencers have specific audiences), authentic (endorsement feels genuine not like ad)."
+        },
+        {
+          "type": "list",
+          "title": "Influencer Tiers",
+          "items": [
+            "Nano (1K-10K): High engagement, authentic, affordable, niche",
+            "Micro (10K-100K): Good engagement, targeted audiences, reasonable cost",
+            "Mid (100K-500K): Broader reach, established, moderate cost",
+            "Macro (500K-1M): Wide reach, expensive, professional",
+            "Mega (1M+): Celebrity status, very expensive, mass reach",
+            "Best ROI: Often micro and nano influencers (high engagement, lower cost)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Finding right influencers: Look for alignment not just follower count. Relevant audience (who are their followers?), authentic engagement (likes/comments ratio), brand fit (values, aesthetic, tone), content quality, past partnerships (do they promote everything?). One perfect micro-influencer beats ten misaligned macro-influencers."
+        },
+        {
+          "type": "list",
+          "title": "Partnership Models",
+          "items": [
+            "Sponsored posts: Pay for dedicated post about your product",
+            "Gifting: Send free product for review (no guaranteed post)",
+            "Affiliate: Commission on sales they drive (tracked with unique codes)",
+            "Brand ambassador: Ongoing relationship, multiple posts over time",
+            "Content creation: Pay for content you can use on your channels",
+            "Events: Invite to event for coverage",
+            "Start: Gifting for nano/micro, paid for larger influencers"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Outreach Strategy",
+          "items": [
+            "Research: Understand their content, audience, past partnerships",
+            "Personalize: Reference specific content, explain why good fit",
+            "Clear offer: What are you proposing? (gift, payment, commission)",
+            "Make it easy: Provide product details, talking points, hashtags",
+            "Creative freedom: Best content comes when influencers have creative control",
+            "Professional: Contract with deliverables, timeline, payment terms",
+            "Follow up: Politely follow up if no response"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Red flags: Fake followers (sudden growth spikes, low engagement relative to followers), engagement pods (same accounts commenting), bought engagement, promotes everything (no selectivity), follower demographics don't match yours. Tools: HypeAuditor, Social Blade check authenticity."
+        },
+        {
+          "type": "list",
+          "title": "Measuring Influencer ROI",
+          "items": [
+            "Reach: How many people saw the content?",
+            "Engagement: Likes, comments, shares, saves",
+            "Traffic: Website visitors from influencer (use tracking links)",
+            "Conversions: Sales/signups from influencer (unique discount codes)",
+            "Cost: Payment + product cost",
+            "ROI: (Revenue - Cost) ÷ Cost",
+            "Long-term: Brand awareness and trust (harder to measure but valuable)"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which influencer tier often provides best ROI?",
+          "options": [
+            "Mega influencers only",
+            "Micro and nano influencers",
+            "No influencers work",
+            "Only celebrities"
+          ],
+          "correctIndex": 1,
+          "explanation": "Micro and nano influencers often provide best ROI: high engagement, targeted audiences, affordable cost, authentic relationships with followers."
+        },
+        {
+          "question": "What matters more than follower count?",
+          "options": [
+            "Profile picture",
+            "Audience alignment and authentic engagement",
+            "Number of posts",
+            "Blue checkmark"
+          ],
+          "correctIndex": 1,
+          "explanation": "Audience alignment and authentic engagement matter more than follower count. Right 10K followers beats wrong 100K followers."
+        }
+      ]
+    }
+  }
+]
