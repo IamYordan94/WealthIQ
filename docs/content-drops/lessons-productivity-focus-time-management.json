@@ -1,1 +1,499 @@
-[Continuing with Time Management module...]
+[
+  {
+    "id": "calendar-management",
+    "title": "Calendar & Schedule Management",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Your calendar is your life in visual form. How you spend time determines results. Most people are reactive: calendar filled by others' priorities. High performers are proactive: design calendar around their priorities. If it's not on calendar, it doesn't exist. Calendar management isn't administrative—it's strategic."
+        },
+        {
+          "type": "list",
+          "title": "Time Blocking",
+          "items": [
+            "Concept: Assign specific time blocks to specific activities",
+            "Deep work: Block 2-4 hour chunks for focused work (protect fiercely)",
+            "Shallow work: Batch meetings, email, admin in dedicated blocks",
+            "Personal: Block time for exercise, family, rest (non-negotiable)",
+            "Buffer: 20% buffer between blocks for overflow",
+            "Theme days: Monday for strategy, Tuesday for creation, etc.",
+            "Example: 9-11am deep work, 11-12pm email/admin, 2-4pm meetings"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The ideal week: Design your ideal week as template. Block time for priorities first: deep work, strategic thinking, exercise, learning, relationships. Then fit other obligations around these blocks. Most people do reverse: fill with obligations, hope to find time for priorities. That time never comes."
+        },
+        {
+          "type": "list",
+          "title": "Meeting Management",
+          "items": [
+            "Default no: Decline meetings without clear agenda and desired outcome",
+            "Time limits: 25 or 50 minutes (not 30 or 60—build in buffer)",
+            "Standing: Some meetings should be standing (faster, more focused)",
+            "Async first: Could this be email or document? If yes, don't meet",
+            "Batching: Stack meetings together, protect deep work blocks",
+            "Late arrivals: Start on time regardless of who's missing",
+            "Meeting-free: Block meeting-free days or half-days weekly"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Calendar Optimization",
+          "items": [
+            "Color coding: Visual distinction for different activity types",
+            "Travel time: Block travel time between commitments",
+            "Preparation: Block prep time before important meetings/events",
+            "Recovery: Block recovery time after intense work",
+            "Review: Sunday evening review and adjust upcoming week",
+            "Protect boundaries: No meetings before X, after Y, or during lunch",
+            "Say no: Politely decline commitments that don't align with priorities"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Energy-based scheduling: Match task energy requirements with your energy levels. Hard thinking during peak hours (morning for most). Meetings and admin during afternoon slump. Creative work when mind is fresh. Exercise to boost afternoon energy. This isn't time management—it's energy optimization."
+        },
+        {
+          "type": "list",
+          "title": "Common Calendar Mistakes",
+          "items": [
+            "Back-to-back: No buffer between commitments causes stress",
+            "Overcommitment: Saying yes to everything",
+            "No prioritization: Every commitment treated equally",
+            "Reactive: Calendar controlled by others",
+            "No personal time: All calendar for work",
+            "No flexibility: Scheduled too tightly to handle unexpected",
+            "No review: Never evaluating how time actually spent"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What should you schedule first?",
+          "options": [
+            "Meetings others request",
+            "Your priorities: deep work, strategic thinking, exercise, etc.",
+            "Easy tasks",
+            "Whatever comes up"
+          ],
+          "correctIndex": 1,
+          "explanation": "Schedule YOUR priorities first (deep work, strategic thinking, exercise, relationships), then fit other obligations around them."
+        },
+        {
+          "question": "What's energy-based scheduling?",
+          "options": [
+            "Working when you have energy",
+            "Matching task energy requirements with your natural energy levels",
+            "Random scheduling",
+            "Working all day"
+          ],
+          "correctIndex": 1,
+          "explanation": "Energy-based scheduling matches tasks with your energy levels: hard thinking during peak hours, meetings/admin during lower energy times."
+        }
+      ]
+    }
+  },
+  {
+    "id": "task-management",
+    "title": "Task & Project Management",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Brain isn't for storing tasks—it's for processing them. Trying to remember everything creates mental clutter and anxiety. External system captures tasks, tracks progress, and ensures nothing falls through cracks. Great task management system is simple, reliable, and always accessible. Complex systems fail because you won't use them."
+        },
+        {
+          "type": "list",
+          "title": "Getting Things Done (GTD) Basics",
+          "items": [
+            "Capture: Write down everything (brain dump)",
+            "Clarify: Is it actionable? If yes, what's next action?",
+            "Organize: Put in appropriate list (now, later, someday, waiting)",
+            "Reflect: Weekly review of all lists",
+            "Engage: Do the work based on context, time, energy",
+            "Benefit: Mental clarity, nothing forgotten, reduced anxiety"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Next action thinking: Don't write 'Plan marketing campaign.' Write 'Draft 3 campaign ideas in Google Doc.' First is vague, creates resistance. Second is specific, actionable, clear. Always define concrete next physical action. This eliminates procrastination caused by unclear tasks."
+        },
+        {
+          "type": "list",
+          "title": "Task Organization Systems",
+          "items": [
+            "Today: Maximum 3 must-do tasks (realistic, not wishful)",
+            "This week: 5-7 important tasks to complete",
+            "Next: Tasks you'll do soon but not this week",
+            "Someday: Ideas and tasks for future consideration",
+            "Waiting: Tasks dependent on others",
+            "Projects: Multi-step outcomes with subtasks",
+            "Tools: Todoist, Things, TickTick, Notion, or paper"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Project Planning",
+          "items": [
+            "Outcome: What does done look like specifically?",
+            "Brainstorm: All tasks that might be needed",
+            "Sequence: Order tasks by dependencies",
+            "Estimate: How long each task takes",
+            "Milestones: Key checkpoints along the way",
+            "First action: Identify immediate next step",
+            "Review: Weekly check on progress and adjust"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 1-3-5 rule: Daily capacity is 1 big task, 3 medium tasks, 5 small tasks. Planning more sets you up for failure and frustration. Consistently completing 1-3-5 beats aspirational 15-task list you never finish. Adjust based on your reality, not fantasy."
+        },
+        {
+          "type": "list",
+          "title": "Weekly Review",
+          "items": [
+            "When: Same time weekly (Friday afternoon or Sunday evening)",
+            "Process inbox: Get everything captured to zero",
+            "Review lists: Update tasks, projects, someday items",
+            "Check calendar: Upcoming week and month",
+            "Reflect: What worked? What didn't? Adjust.",
+            "Plan: Identify next week's priorities",
+            "Duration: 30-60 minutes",
+            "Benefit: Control, clarity, reduced anxiety"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's 'next action thinking'?",
+          "options": [
+            "Thinking about future",
+            "Defining specific, concrete next physical action for each task",
+            "Rushing through tasks",
+            "Skipping planning"
+          ],
+          "correctIndex": 1,
+          "explanation": "Next action thinking defines specific, concrete next physical action. 'Draft 3 ideas in Google Doc' vs. vague 'Plan campaign'. Eliminates procrastination."
+        },
+        {
+          "question": "What's a realistic daily capacity?",
+          "options": [
+            "15-20 tasks",
+            "1 big, 3 medium, 5 small tasks (1-3-5 rule)",
+            "As many as possible",
+            "2 tasks maximum"
+          ],
+          "correctIndex": 1,
+          "explanation": "1-3-5 rule: 1 big, 3 medium, 5 small tasks daily. Realistic capacity beats aspirational lists that create failure and frustration."
+        }
+      ]
+    }
+  },
+  {
+    "id": "batching-automation",
+    "title": "Batching & Automation",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Context switching is productivity poison. Every time you switch tasks, your brain needs time to refocus. Batching groups similar tasks together, minimizing switches. Checking email 30 times = 30 context switches. Checking twice = 2 switches. Same tasks, dramatically different cognitive cost. Automation handles recurring tasks without your involvement."
+        },
+        {
+          "type": "list",
+          "title": "Batching Strategies",
+          "items": [
+            "Email: Check 2-3 times daily at set times (not constantly)",
+            "Meetings: Stack on same days, protect other days",
+            "Admin: Batch bills, expenses, paperwork weekly",
+            "Content creation: Write multiple posts in one sitting",
+            "Phone calls: Make all calls in one batch",
+            "Errands: Combine into single trip",
+            "Decision-making: Batch similar decisions"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The attention residue problem: When you switch from Task A to Task B, attention lingers on Task A. This residue reduces performance on Task B. Batching keeps attention fully on one type of work, eliminating residue. This is why focused 2-hour block beats six 20-minute scattered sessions."
+        },
+        {
+          "type": "list",
+          "title": "What to Automate",
+          "items": [
+            "Repetitive digital tasks: Email filters, automated responses",
+            "Scheduling: Calendly for appointment booking",
+            "Bill payments: Auto-pay for recurring bills",
+            "Savings: Automatic transfers to savings/investment",
+            "Reminders: Automated for recurring tasks",
+            "Backups: Automated cloud backups",
+            "Reports: Automated dashboards and reports"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Automation Tools",
+          "items": [
+            "Zapier/IFTTT: Connect apps, automate workflows",
+            "Email rules: Auto-sort, auto-archive, auto-respond",
+            "Text expander: Type shortcuts, expand to full text",
+            "Keyboard shortcuts: Master shortcuts for common actions",
+            "Templates: Email, document, content templates",
+            "Scheduling tools: Calendly, Doodle eliminate back-and-forth",
+            "AI: Use ChatGPT/Claude for drafting, summarizing, analyzing"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 2-hour rule for automation: If you do something repeatedly and automating it takes less than 2 hours, automate it. Even if it saves just 5 minutes weekly, that's 4+ hours yearly. Automation compounds: one weekend automating recurring tasks yields hours saved weekly forever."
+        },
+        {
+          "type": "list",
+          "title": "Delegation vs. Automation",
+          "items": [
+            "Delegate: Tasks requiring human judgment",
+            "Automate: Repetitive, rule-based tasks",
+            "Eliminate: Tasks that don't need doing at all",
+            "Framework: Can it be eliminated? Can it be automated? Can it be delegated? Only then: Do it yourself",
+            "Value of time: If your time worth $50/hr, delegate tasks others do for <$50/hr",
+            "Start: Identify your top 5 time-consuming recurring tasks"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Why is batching effective?",
+          "options": [
+            "Looks organized",
+            "Minimizes context switching and attention residue",
+            "Saves money",
+            "Impresses others"
+          ],
+          "correctIndex": 1,
+          "explanation": "Batching minimizes context switching and attention residue. Switching tasks drains cognitive energy; batching keeps attention focused on one type of work."
+        },
+        {
+          "question": "What's the 2-hour rule for automation?",
+          "options": [
+            "Work 2 hours before automating",
+            "If automating takes <2 hours and saves time repeatedly, automate it",
+            "Automate everything in 2 hours",
+            "Check automation every 2 hours"
+          ],
+          "correctIndex": 1,
+          "explanation": "If automation takes <2 hours and saves time repeatedly, do it. Even 5 min/week saved = 4+ hours/year. Automation compounds forever."
+        }
+      ]
+    }
+  },
+  {
+    "id": "saying-no",
+    "title": "The Art of Saying No",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Every 'yes' to one thing is 'no' to something else. Say yes to mediocre opportunity means saying no to excellent opportunity that might come. Your time and attention are your most valuable assets. Protect them fiercely. Inability to say no is why most people are overwhelmed, overcommitted, and underperforming on what actually matters."
+        },
+        {
+          "type": "list",
+          "title": "Why We Can't Say No",
+          "items": [
+            "Fear of disappointing: Don't want to let people down",
+            "FOMO: Fear of missing opportunities",
+            "People-pleasing: Conditioned to be accommodating",
+            "Guilt: Feel obligated or indebted",
+            "Optimism bias: Overestimate capacity and underestimate time",
+            "Lack of priorities: Without clear priorities, everything seems important",
+            "Conflict avoidance: Easier to say yes than explain no"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The opportunity cost of yes: When you say yes to good but not great opportunity, you're implicitly saying no to great opportunity that requires that same time. High performers are selective because they understand this. 'Good' is the enemy of 'great.' Say no to good so you can say yes to great."
+        },
+        {
+          "type": "list",
+          "title": "Decision Framework",
+          "items": [
+            "Hell yeah or no: If it's not 'hell yeah!', it's 'no' (Derek Sivers)",
+            "Alignment: Does this align with my priorities?",
+            "Opportunity cost: What am I saying no to by saying yes to this?",
+            "Energy: Will this energize or drain me?",
+            "Time: Do I actually have capacity for this?",
+            "Default: When in doubt, say no (can always say yes later)",
+            "Test: If this required doing it tomorrow, would I say yes? If no, then decline"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "How to Say No Gracefully",
+          "items": [
+            "Appreciate: 'Thanks for thinking of me...'",
+            "Decline clearly: 'I can't commit to this right now'",
+            "Brief reason: 'I'm focused on X projects' (don't over-explain)",
+            "No apology: Don't apologize for protecting your time",
+            "Offer alternative: Suggest someone else if appropriate",
+            "Stay firm: Don't let pushback make you cave",
+            "Example: 'I appreciate you thinking of me, but I'm at capacity with current commitments. I recommend talking to [Name].'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The soft no: When you want to decline but keep door open. 'I'm swamped now, but reach out again in Q3.' Or: 'Not right fit for me, but I know someone who'd be perfect.' This maintains relationship while protecting your time. Use sparingly and genuinely."
+        },
+        {
+          "type": "list",
+          "title": "Protecting Your Time",
+          "items": [
+            "Buffer: Schedule less than theoretical capacity",
+            "Default no: To new commitments",
+            "Boundaries: Communicate your working hours, focus times",
+            "Remove easy yes: Make saying yes require effort (no instant booking)",
+            "Annual review: Review commitments, eliminate what's not working",
+            "Permission: Give yourself permission to prioritize your goals",
+            "Remember: People will be fine—they'll find alternatives"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the Hell Yeah or No principle?",
+          "options": [
+            "Always say yes enthusiastically",
+            "If it's not 'hell yeah!', say no",
+            "Never commit to anything",
+            "Be negative about everything"
+          ],
+          "correctIndex": 1,
+          "explanation": "Hell Yeah or No: If opportunity isn't 'hell yeah!' exciting, say no. This protects capacity for truly great opportunities. Good is enemy of great."
+        },
+        {
+          "question": "What's the opportunity cost of yes?",
+          "options": [
+            "The money you spend",
+            "What you're saying no to by saying yes to this",
+            "The risk involved",
+            "Nothing"
+          ],
+          "correctIndex": 1,
+          "explanation": "Opportunity cost: what you're saying no to by saying yes. Every yes to good opportunity is no to potential great opportunity requiring same time."
+        }
+      ]
+    }
+  },
+  {
+    "id": "digital-minimalism",
+    "title": "Digital Minimalism",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Technology is tool, not master. Most people are slaves to devices: checking phone 96 times daily, instant responding to notifications, endless scrolling. This fragments attention, destroys deep work, and creates anxiety. Digital minimalism: intentional relationship with technology. Use tools that serve your goals. Ignore rest."
+        },
+        {
+          "type": "list",
+          "title": "The Cost of Digital Distraction",
+          "items": [
+            "Fragmented attention: Can't achieve deep focus",
+            "Reduced productivity: 23 minutes to refocus after interruption",
+            "Increased anxiety: Constant connectivity creates stress",
+            "Sleep disruption: Blue light and stimulation before bed",
+            "Shallow relationships: Present physically, absent mentally",
+            "Time waste: Hours daily on low-value activities",
+            "Dopamine addiction: Constant novelty seeking"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The smartphone addiction: Average person spends 3-4 hours daily on phone. That's 1,200+ hours yearly. 50 full days annually scrolling. What could you achieve with 50 extra days? Phone serves legitimate purposes, but most usage is compulsive, not intentional. Take back control."
+        },
+        {
+          "type": "list",
+          "title": "Digital Minimalism Principles",
+          "items": [
+            "Intentionality: Use technology purposefully, not habitually",
+            "Optimization: Use tools that provide maximum value",
+            "Elimination: Remove low-value apps and services",
+            "Boundaries: Rules for when, where, how you use devices",
+            "Analog alternatives: Paper books, notebooks, conversations",
+            "Boredom tolerance: Embrace moments of nothing",
+            "Regular detox: Periodic breaks from devices"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Practical Implementation",
+          "items": [
+            "Phone-free zones: Bedroom, dining table, bathrooms",
+            "Phone-free times: First hour morning, during work blocks, after 8pm",
+            "Delete apps: Social media, news, games (use browser if needed)",
+            "Turn off notifications: Everything except calls, messages from key people",
+            "Grayscale mode: Makes phone less appealing",
+            "App limits: Use Screen Time (iOS) or Digital Wellbeing (Android)",
+            "Dumb phone hours: Consider dumb phone for evenings/weekends"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 30-day digital declutter: Remove all optional technologies for 30 days. Social media, news sites, YouTube, streaming, games. Keep only essential work tools. After 30 days, reintroduce only what genuinely added value. Most find they don't miss 90% of what they removed."
+        },
+        {
+          "type": "list",
+          "title": "Email Management",
+          "items": [
+            "Check schedule: 2-3 times daily at set times",
+            "Inbox zero: Process all email, get inbox to zero",
+            "2-minute rule: If takes <2 min, do immediately",
+            "Archive liberally: Most emails don't need filing",
+            "Unsubscribe: Ruthlessly unsubscribe from newsletters",
+            "Templates: Save common responses",
+            "Close when not using: Don't leave email open"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Social Media Strategy",
+          "items": [
+            "Delete apps: Use browser only (creates friction)",
+            "Time limits: 30 minutes daily maximum",
+            "Scheduled use: Only during designated times",
+            "Curate feed: Unfollow anyone who doesn't add value",
+            "Consumption vs. creation: If using for business, focus on creation",
+            "Consider: Do you need this platform at all?",
+            "Reality: FOMO is false—you're missing nothing important"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How much time does average person spend on phone?",
+          "options": [
+            "30 minutes daily",
+            "3-4 hours daily (1,200+ hours yearly)",
+            "1 hour daily",
+            "8 hours daily"
+          ],
+          "correctIndex": 1,
+          "explanation": "Average: 3-4 hours daily on phone = 1,200+ hours yearly = 50 full days. Imagine what you could achieve with 50 extra days of focused time."
+        },
+        {
+          "question": "What's the 30-day digital declutter?",
+          "options": [
+            "Delete all apps",
+            "Remove optional tech for 30 days, then reintroduce only what added value",
+            "Buy new phone",
+            "Work less"
+          ],
+          "correctIndex": 1,
+          "explanation": "30-day declutter: Remove all optional technologies for 30 days, then reintroduce only what genuinely added value. Most don't miss 90% of it."
+        }
+      ]
+    }
+  }
+]
