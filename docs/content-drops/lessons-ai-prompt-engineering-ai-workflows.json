@@ -1,1 +1,519 @@
-[Will complete in final message due to length...]
+[
+  {
+    "id": "content-creation-workflow",
+    "title": "AI-Powered Content Creation Workflow",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Content creation—articles, social posts, videos, newsletters—can be 10x faster with AI workflows. Instead of staring at blank page, you orchestrate AI through systematic process: research, outline, draft, edit, optimize. This workflow applies to any content type. The key: each step builds on previous, human judgment guides process, AI handles heavy lifting."
+        },
+        {
+          "type": "list",
+          "title": "Article Writing Workflow",
+          "items": [
+            "1. Topic research: 'Generate 10 article angles on [topic] for [audience]'",
+            "2. Outline: 'Create detailed outline for article about [selected angle], include: hook, main points, examples, conclusion'",
+            "3. Research depth: 'For each main point, provide: key facts, statistics, expert quotes (mark as needing verification)'",
+            "4. Draft sections: 'Write introduction based on outline', then each section",
+            "5. Edit: 'Review for: clarity, flow, engagement. Suggest improvements'",
+            "6. Optimize: 'Create: compelling headline (5 options), meta description, 5 social media posts promoting article'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Time transformation: Traditional article writing: 4-6 hours. AI-assisted workflow: 1-2 hours producing better quality. Savings: 3-4 hours per article. Weekly content creator: saves 12-16 hours weekly, reclaiming nearly 2 full workdays."
+        },
+        {
+          "type": "list",
+          "title": "Social Media Content Workflow",
+          "items": [
+            "1. Content calendar: 'Create 30-day content calendar for [topic/brand], themes for each week'",
+            "2. Batch creation: 'For Week 1 theme, generate 7 post ideas with hooks'",
+            "3. Full posts: 'Write complete post for idea 1: hook, value, engagement question'",
+            "4. Variations: 'Adapt this post for: Twitter (thread), LinkedIn (professional), Instagram (casual with emoji)'",
+            "5. Visual prompts: 'Suggest image concepts for each post'",
+            "6. Engagement responses: 'Create 10 thoughtful responses to potential comments'"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Video Script Workflow",
+          "items": [
+            "1. Concept: 'Generate 10 video ideas on [topic], include: title, hook, key points, call-to-action'",
+            "2. Structure: 'Create video structure for [selected idea]: sections with timing'",
+            "3. Script: 'Write script for [section], conversational tone, include: what to say, what to show on screen'",
+            "4. Hooks: 'Write 5 different opening hooks for this video (first 10 seconds)'",
+            "5. B-roll: 'Suggest B-roll footage for each section'",
+            "6. Optimization: 'Create: YouTube title, description with timestamps, tags, thumbnail text ideas'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Repurposing workflow: Create once, publish everywhere. Long-form content becomes: social posts, email newsletter, video script, infographic outline, podcast talking points. Prompt: 'Take this article and create: 5 LinkedIn posts, 10 tweets, email newsletter, video script outline.' One piece → 20+ assets."
+        },
+        {
+          "type": "list",
+          "title": "Content Workflow Best Practices",
+          "items": [
+            "Templates: Save successful prompts for each workflow step",
+            "Batch work: Process multiple pieces through same step",
+            "Quality check: Always review and add your voice",
+            "Iterate: First draft is starting point, refine to your standards",
+            "Brand voice: Train AI on your style with examples",
+            "Fact-check: Verify claims, statistics, quotes AI includes",
+            "Human touch: Add personal anecdotes, original insights"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the key to AI content workflows?",
+          "options": [
+            "AI does everything automatically",
+            "Systematic process where each step builds on previous, human guides",
+            "Random AI generation",
+            "No workflow needed"
+          ],
+          "correctIndex": 1,
+          "explanation": "Effective workflows use systematic process (research, outline, draft, edit, optimize) where each step builds on previous and human judgment guides."
+        },
+        {
+          "question": "How much time can AI content workflows save?",
+          "options": [
+            "A few minutes",
+            "50-70% time savings with better quality",
+            "No time savings",
+            "100% - AI does everything"
+          ],
+          "correctIndex": 1,
+          "explanation": "AI workflows typically save 50-70% of content creation time while maintaining or improving quality through systematic assistance."
+        }
+      ]
+    }
+  },
+  {
+    "id": "research-analysis-workflow",
+    "title": "Research & Analysis Workflow",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Research and analysis are time-consuming bottlenecks. AI accelerates both dramatically: gathering information, synthesizing findings, identifying patterns, generating insights. The workflow combines AI's processing power with human critical thinking. AI handles volume; you handle judgment. Result: research that would take days happens in hours."
+        },
+        {
+          "type": "list",
+          "title": "Market Research Workflow",
+          "items": [
+            "1. Landscape: 'Summarize current state of [market/industry], key players, major trends'",
+            "2. Deep dive: 'Analyze top 5 companies: business model, competitive advantages, weaknesses'",
+            "3. Trends: 'Identify 10 emerging trends with evidence and implications'",
+            "4. Opportunities: 'Based on this analysis, identify 5 market opportunities'",
+            "5. Threats: 'What disruptions or challenges could impact this market?'",
+            "6. Synthesis: 'Create executive summary: current state, trends, opportunities, recommendations'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Competitive analysis workflow: Instead of manually visiting 20 competitor websites, describe competitors and ask: 'Compare these companies on: pricing, features, target market, positioning, strengths, weaknesses. Create comparison matrix.' Then: 'Identify competitive gaps and opportunities for differentiation.'"
+        },
+        {
+          "type": "list",
+          "title": "Document Analysis Workflow",
+          "items": [
+            "1. Upload: Provide document or paste text",
+            "2. Summary: 'Summarize key points in 5 bullets'",
+            "3. Deep extraction: 'Extract: main arguments, supporting evidence, conclusions'",
+            "4. Critical analysis: 'Analyze: logical consistency, unsupported claims, missing perspectives'",
+            "5. Comparison: (if multiple docs) 'Compare these documents: agreements, disagreements, unique insights'",
+            "6. Synthesis: 'Based on these documents, what are: consensus points, open questions, recommended actions?'"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Data Analysis Workflow",
+          "items": [
+            "1. Data upload: Provide CSV, spreadsheet, or paste data",
+            "2. Overview: 'Describe this dataset: what it contains, time period, key variables'",
+            "3. Patterns: 'Identify trends, anomalies, correlations'",
+            "4. Segmentation: 'Break down analysis by [segments]'",
+            "5. Visualization: 'Suggest visualizations that would best show [insights]'",
+            "6. Insights: 'What are 5 actionable insights from this analysis?'",
+            "7. Recommendations: 'Based on findings, recommend next steps'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Literature review workflow for academic/professional research: 'I'm researching [topic]. Provide: overview of field, key theories/frameworks, major findings, current debates, gaps in knowledge, suggested research directions.' Then drill into specific areas with follow-up prompts."
+        },
+        {
+          "type": "list",
+          "title": "Research Workflow Best Practices",
+          "items": [
+            "Verify everything: AI can hallucinate facts, always check important claims",
+            "Multiple sources: Cross-reference AI findings with actual sources",
+            "Iterative refinement: Start broad, drill into specific areas",
+            "Document sources: Ask AI to mark what should be verified",
+            "Save intermediates: Copy important analysis steps",
+            "Bias check: Ask AI about potential biases in analysis",
+            "Human expertise: Apply domain knowledge AI lacks"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's critical in AI research workflows?",
+          "options": [
+            "Trust everything AI generates",
+            "Verify important facts and cross-reference findings",
+            "Never use AI for research",
+            "Only use AI for research"
+          ],
+          "correctIndex": 1,
+          "explanation": "Always verify important facts and cross-reference AI findings with actual sources. AI can hallucinate, especially with specific facts."
+        },
+        {
+          "question": "How does AI accelerate research?",
+          "options": [
+            "It doesn't",
+            "Handles volume and processing, human handles judgment and verification",
+            "Replaces all human research",
+            "Only writes reports"
+          ],
+          "correctIndex": 1,
+          "explanation": "AI accelerates research by handling volume and processing (synthesis, pattern identification) while human provides judgment and verification."
+        }
+      ]
+    }
+  },
+  {
+    "id": "learning-development-workflow",
+    "title": "Learning & Skill Development Workflow",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "AI is an exceptional learning tool: patient tutor available 24/7, adapts explanations to your level, provides unlimited practice, creates personalized study materials. The learning workflow combines AI's infinite patience and adaptability with your active engagement. This isn't passive learning—it's interactive, personalized education at scale."
+        },
+        {
+          "type": "list",
+          "title": "New Skill Learning Workflow",
+          "items": [
+            "1. Learning path: 'Create 30-day plan to learn [skill] from beginner to intermediate, daily lessons'",
+            "2. Prerequisites: 'What should I know before starting? Assess my readiness.'",
+            "3. Concept introduction: 'Explain [concept] simply, use analogies, provide examples'",
+            "4. Check understanding: 'Quiz me on what we covered, explain my mistakes'",
+            "5. Practice: 'Give me 5 practice problems, increasing difficulty'",
+            "6. Apply: 'Guide me through real project using this skill'",
+            "7. Resources: 'Recommend: best tutorials, books, projects for continued learning'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Socratic learning method: Instead of just getting answers, AI asks questions guiding you to understanding. 'Don't tell me the answer. Ask me questions that help me figure it out.' This active learning creates deeper understanding than passive consumption."
+        },
+        {
+          "type": "list",
+          "title": "Study Aid Workflow",
+          "items": [
+            "1. Summarize: 'Summarize this chapter/lecture in outline form'",
+            "2. Key concepts: 'List and explain 10 most important concepts'",
+            "3. Study guide: 'Create study guide: key terms, concepts, important examples'",
+            "4. Practice questions: 'Generate 20 multiple choice questions, varied difficulty'",
+            "5. Essay questions: 'Create 5 essay questions requiring synthesis'",
+            "6. Flashcards: 'Create flashcard deck (Q&A format) for key concepts'",
+            "7. Test: 'Quiz me, provide feedback on answers, explain mistakes'"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Problem-Solving Tutor Workflow",
+          "items": [
+            "1. Problem: Share problem you're stuck on",
+            "2. Understanding check: 'What parts do I understand? What's confusing?'",
+            "3. Guided solution: 'Don't solve it. Ask me questions helping me solve it.'",
+            "4. Hints: 'Give me progressive hints, each more specific'",
+            "5. Similar examples: 'Show similar problem with solution, I'll apply to mine'",
+            "6. Solution check: 'Review my solution, explain errors'",
+            "7. Variations: 'Give me 3 variations of this problem for practice'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Explain-it-back technique: Best way to verify understanding. After AI explains concept: 'I'll explain this back to you in my own words. Tell me what I got right and what I'm missing.' This active recall solidifies learning."
+        },
+        {
+          "type": "list",
+          "title": "Professional Development Workflow",
+          "items": [
+            "1. Skill gap analysis: 'I want to reach [goal]. What skills do I need? Which gaps should I prioritize?'",
+            "2. Learning resources: 'Best resources for learning [skill]: courses, books, projects'",
+            "3. Practice scenarios: 'Create realistic scenarios for practicing [skill]'",
+            "4. Feedback: 'Review my [work sample], provide constructive feedback'",
+            "5. Improvement plan: 'Based on my current level, create 90-day improvement plan'",
+            "6. Accountability: 'What should I accomplish this week? How will I know I've succeeded?'"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Learning Workflow Best Practices",
+          "items": [
+            "Active engagement: Don't just read AI explanations, work problems yourself",
+            "Spaced repetition: Return to topics across multiple days",
+            "Test yourself: Frequent self-testing beats re-reading",
+            "Teach back: Explain concepts to AI in your own words",
+            "Apply immediately: Use new knowledge in real projects",
+            "Progressive difficulty: Start easy, gradually increase challenge",
+            "Multiple perspectives: Ask for same concept explained different ways"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What makes AI effective for learning?",
+          "options": [
+            "It gives all answers immediately",
+            "Patient, adaptive, unlimited practice, personalized explanations",
+            "Does homework for you",
+            "Memorizes facts"
+          ],
+          "correctIndex": 1,
+          "explanation": "AI excels at learning through patience, adaptability, unlimited practice, and personalized explanations matched to your level."
+        },
+        {
+          "question": "What's the Socratic learning method?",
+          "options": [
+            "Getting direct answers",
+            "AI asking questions that guide you to understanding",
+            "Reading philosophy",
+            "Memorizing facts"
+          ],
+          "correctIndex": 1,
+          "explanation": "Socratic method has AI ask guiding questions rather than giving answers, leading to deeper active learning and understanding."
+        }
+      ]
+    }
+  },
+  {
+    "id": "productivity-automation-workflow",
+    "title": "Productivity & Automation Workflow",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "AI transforms productivity through automation of routine cognitive work. Email responses, meeting summaries, task planning, document review—tasks consuming hours daily can be streamlined. The workflow approach systematizes AI use for repeatable productivity gains. These aren't occasional productivity hacks; they're permanent workflow improvements that compound daily."
+        },
+        {
+          "type": "list",
+          "title": "Email Management Workflow",
+          "items": [
+            "1. Triage: 'Review these 20 email subjects, categorize: urgent, respond today, FYI, archive'",
+            "2. Summarize: 'Summarize key points from each urgent email'",
+            "3. Draft responses: 'Draft professional response to [email], addressing [points]'",
+            "4. Batch similar: 'These 5 emails ask similar questions, draft template response'",
+            "5. Follow-ups: 'Create follow-up email for [situation], send in 3 days if no response'",
+            "6. Templates: 'Create email templates for common scenarios I handle'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Meeting productivity workflow: Before meetings, AI creates agenda and background research. During meetings, AI takes notes (Otter.ai, Fireflies). After meetings, AI creates: summary, action items with owners, follow-up emails. 30-minute meeting: 5 minutes AI-assisted prep, 30 minutes meeting, 2 minutes AI-assisted follow-up. Total: 37 minutes vs 60+ minutes manual process."
+        },
+        {
+          "type": "list",
+          "title": "Project Planning Workflow",
+          "items": [
+            "1. Define: 'Project: [description]. Goal: [outcome]. Constraints: [time/budget/resources]'",
+            "2. Break down: 'Create work breakdown structure: major phases, key tasks, dependencies'",
+            "3. Timeline: 'For each phase, estimate duration, identify critical path'",
+            "4. Resources: 'What resources needed? Skills, tools, budget?'",
+            "5. Risks: 'Identify potential risks, mitigation strategies'",
+            "6. Documentation: 'Create project charter and stakeholder brief'",
+            "7. Tracking: 'Create weekly check-in template: progress, blockers, next steps'"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Decision-Making Workflow",
+          "items": [
+            "1. Frame: 'Decision: [describe]. Context: [background]. Options: [list alternatives]'",
+            "2. Criteria: 'Help me define evaluation criteria, weighted by importance'",
+            "3. Analysis: 'Analyze each option against criteria, score 1-10'",
+            "4. Pros/cons: 'For top 2 options, detailed pros/cons analysis'",
+            "5. Scenarios: 'For each option, describe: best case, worst case, most likely outcomes'",
+            "6. Recommendation: 'Based on analysis, what's optimal choice? Explain reasoning.'",
+            "7. Implementation: 'For recommended option, create implementation plan'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Daily planning automation: Morning workflow (5 minutes): 'Review today's calendar [paste schedule]. My priorities: [list]. Create time-blocked schedule optimizing for: deep work on priorities, meeting prep, email processing, breaks. Flag potential conflicts.' This transforms reactive days into intentional days."
+        },
+        {
+          "type": "list",
+          "title": "Document Processing Workflow",
+          "items": [
+            "Contracts: 'Review contract, extract: key terms, obligations, deadlines, risks'",
+            "Reports: 'Summarize 50-page report in 1-page executive summary'",
+            "RFPs: 'Extract all requirements from RFP, create compliance matrix'",
+            "Comparison: 'Compare these 3 proposals on: price, features, timeline, risks'",
+            "Translation: 'Translate document, maintain formatting and technical accuracy'",
+            "Formatting: 'Convert to [format], maintain consistency throughout'"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Automation Implementation",
+          "items": [
+            "Identify repeatable tasks: What do you do the same way repeatedly?",
+            "Document workflow: Write out steps for successful completion",
+            "Create prompts: Develop prompt for each workflow step",
+            "Test and refine: Use on real work, adjust based on results",
+            "Measure impact: Track time saved, quality maintained",
+            "Systematize: Use text expander, templates, scripts for quick access",
+            "Share with team: Productivity compounds when team adopts workflows"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the key to productivity workflows?",
+          "options": [
+            "One-time productivity hacks",
+            "Systematizing AI use for repeatable tasks that compound daily",
+            "Working longer hours",
+            "Avoiding AI"
+          ],
+          "correctIndex": 1,
+          "explanation": "Productivity workflows systematize AI for repeatable tasks, creating permanent improvements that compound daily, not one-time hacks."
+        },
+        {
+          "question": "How much time can meeting workflows save?",
+          "options": [
+            "No time savings",
+            "30-50% through AI-assisted prep, notes, and follow-up",
+            "100% - no meetings needed",
+            "Only a few seconds"
+          ],
+          "correctIndex": 1,
+          "explanation": "AI meeting workflows (prep, notes, summaries, follow-ups) typically save 30-50% of meeting-related time while improving quality."
+        }
+      ]
+    }
+  },
+  {
+    "id": "ai-future-career",
+    "title": "AI, The Future, & Your Career",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "AI is transforming work faster than any technology in history. Within 5 years, AI literacy will be as essential as computer literacy. The career question isn't whether AI will affect your job—it's whether you'll be the person using AI to 10x productivity or the person replaced by someone who does. Understanding where AI is headed and how to position yourself is crucial for career resilience and growth."
+        },
+        {
+          "type": "list",
+          "title": "Near-Term AI Trajectory (2026-2028)",
+          "items": [
+            "Multimodal mastery: Seamless image, video, audio generation and understanding",
+            "Agent systems: AI that completes multi-step tasks autonomously",
+            "Personalization: AI that learns your preferences, style, needs over time",
+            "Tool integration: AI deeply embedded in all software you use",
+            "Real-time capability: AI with internet access, current information",
+            "Longer context: Process entire books, codebases, datasets in one conversation"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The AI divide: People proficient with AI are already 5-10x more productive than peers. This gap will widen. Within 3 years, most knowledge work will be AI-augmented or AI-replaced. The winners: those who learned to collaborate with AI. The losers: those who ignored it until too late. Which side of this divide will you be on?"
+        },
+        {
+          "type": "list",
+          "title": "Jobs Most/Least Impacted",
+          "items": [
+            "High impact (AI assistance): Writing, analysis, coding, research, design, marketing, customer service",
+            "Medium impact (partial automation): Management, sales, teaching, healthcare, law",
+            "Lower impact (for now): Skilled trades, hands-on services, human connection roles, creative direction",
+            "Reality: Every knowledge job impacted to some degree",
+            "Key insight: AI won't replace jobs—it will replace people who don't use AI"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Future-Proofing Your Career",
+          "items": [
+            "Master AI tools: Become power user, not just dabbler",
+            "Develop AI-augmented skills: Combine domain expertise with AI proficiency",
+            "Focus on uniquely human: Judgment, creativity, emotional intelligence, ethics",
+            "Embrace change: Continuous learning, adapting to new AI capabilities",
+            "Build workflows: Systematize AI use in your role",
+            "Stay current: AI evolves fast, what's impossible today is routine tomorrow",
+            "Teach others: Knowledge of AI becomes valuable leadership skill"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Career positioning strategy: Position yourself as 'AI-augmented professional' not 'AI-threatened professional.' Example: Not 'writer' but 'writer who produces 10x content with AI assistance.' Not 'analyst' but 'analyst who provides deeper insights faster through AI-powered research.' The combination of domain expertise + AI proficiency is scarce and valuable."
+        },
+        {
+          "type": "list",
+          "title": "Skills That Become More Valuable",
+          "items": [
+            "Prompting: Directing AI effectively becomes core competency",
+            "Synthesis: Combining AI outputs into coherent whole",
+            "Verification: Checking AI work for accuracy, bias, quality",
+            "Strategy: Determining what to do (AI handles how)",
+            "Human judgment: Decisions requiring ethics, empathy, nuance",
+            "Creative direction: Guiding AI's creative output",
+            "Systems thinking: Building workflows that leverage AI optimally"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Action Plan",
+          "items": [
+            "This month: Integrate AI into one daily task",
+            "This quarter: Build 3 AI workflows for your key responsibilities",
+            "This year: Become recognized AI power user in your organization",
+            "Measure impact: Track productivity gains, showcase results",
+            "Share knowledge: Train colleagues, establish yourself as AI resource",
+            "Portfolio: Document AI-augmented projects and results",
+            "Stay ahead: Dedicate 30 min weekly to learning new AI capabilities"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Final thought: AI is the biggest career opportunity and threat of our generation. The gap between AI proficient and AI ignorant will be larger than any skill gap in history. You've completed this course—you have knowledge. Now comes application. The next 90 days determine which side of the AI divide you'll be on. Make them count."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the main career insight about AI?",
+          "options": [
+            "AI will replace all jobs",
+            "AI won't affect careers",
+            "AI won't replace jobs, but people who use AI will replace those who don't",
+            "Only technical roles need AI"
+          ],
+          "correctIndex": 2,
+          "explanation": "AI won't replace jobs directly, but professionals using AI effectively will replace those who don't adapt. The threat isn't AI—it's AI-proficient competitors."
+        },
+        {
+          "question": "What should you do in the next 90 days?",
+          "options": [
+            "Wait and see how AI evolves",
+            "Integrate AI into workflows, build proficiency, measure impact",
+            "Ignore AI completely",
+            "Only learn theory"
+          ],
+          "correctIndex": 1,
+          "explanation": "Next 90 days are critical: integrate AI into daily workflows, build real proficiency, and measure impact. This determines which side of AI divide you're on."
+        }
+      ]
+    }
+  }
+]
