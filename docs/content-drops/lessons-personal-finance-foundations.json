@@ -1,0 +1,355 @@
+[
+  {
+    "id": "financial-literacy-basics",
+    "title": "Financial Literacy Basics",
+    "duration": "7 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Financial literacy is the foundation of wealth building. It's understanding how money works, how to earn it, manage it, and invest it wisely. Without this knowledge, even high earners struggle financially. Studies show that financially literate individuals are more likely to plan for retirement, have emergency funds, and avoid high-cost debt."
+        },
+        {
+          "type": "list",
+          "title": "Core Components of Financial Literacy",
+          "items": [
+            "Understanding income, expenses, and cash flow",
+            "Knowing how to budget and track spending",
+            "Comprehending interest rates, both earned and paid",
+            "Grasping basic investment principles and risk",
+            "Understanding credit scores and their impact"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The good news is that financial literacy is a learnable skill, not an innate talent. By dedicating time to understanding money fundamentals, you can transform your financial future regardless of your current situation. Small improvements in financial knowledge compound into significant wealth over time."
+        },
+        {
+          "type": "list",
+          "title": "Why Financial Literacy Matters",
+          "items": [
+            "Avoid costly financial mistakes and predatory products",
+            "Make informed decisions about major purchases",
+            "Build wealth systematically over your lifetime",
+            "Achieve financial independence and security",
+            "Reduce money-related stress and anxiety"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the primary benefit of financial literacy?",
+          "options": [
+            "It guarantees you'll become wealthy",
+            "It helps you make informed money decisions",
+            "It eliminates the need for budgeting",
+            "It allows you to avoid paying taxes"
+          ],
+          "correctIndex": 1,
+          "explanation": "Financial literacy empowers you to make informed decisions about earning, managing, and investing money, though it doesn't guarantee wealth or eliminate financial responsibilities."
+        },
+        {
+          "question": "Which of these is NOT a core component of financial literacy?",
+          "options": [
+            "Understanding cash flow",
+            "Knowing how to budget",
+            "Memorizing stock prices daily",
+            "Comprehending interest rates"
+          ],
+          "correctIndex": 2,
+          "explanation": "Financial literacy focuses on fundamental concepts and principles, not memorizing daily market fluctuations or specific prices."
+        }
+      ]
+    }
+  },
+  {
+    "id": "income-expenses-cash-flow",
+    "title": "Income, Expenses & Cash Flow",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Cash flow is the movement of money in and out of your life. Positive cash flow means you earn more than you spend, while negative cash flow means you're spending more than you earn. Understanding and managing cash flow is more important than your income level—many high earners have negative cash flow while modest earners build wealth through positive cash flow."
+        },
+        {
+          "type": "list",
+          "title": "Types of Income",
+          "items": [
+            "Active income: Money earned through work or services (salary, wages, freelance fees)",
+            "Passive income: Money earned with minimal ongoing effort (dividends, rental income, royalties)",
+            "Portfolio income: Gains from investments (capital gains, interest)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Expenses fall into two categories: fixed and variable. Fixed expenses remain constant each month (rent, insurance, loan payments), while variable expenses fluctuate (groceries, entertainment, utilities). Understanding this distinction helps you identify where you have control over spending."
+        },
+        {
+          "type": "list",
+          "title": "Essential vs. Discretionary Spending",
+          "items": [
+            "Essential: Housing, food, utilities, transportation, healthcare, minimum debt payments",
+            "Discretionary: Dining out, entertainment, hobbies, luxury purchases, upgrades",
+            "Gray area: Internet, phone plans, gym memberships (essential to some, discretionary to others)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The goal is to maximize the gap between income and expenses. You can achieve this by increasing income, decreasing expenses, or both. The money remaining after expenses is your surplus—the fuel for building wealth through saving and investing."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What does positive cash flow mean?",
+          "options": [
+            "You have a positive attitude about money",
+            "You earn more than you spend",
+            "Your income is increasing",
+            "You have money in savings"
+          ],
+          "correctIndex": 1,
+          "explanation": "Positive cash flow simply means your income exceeds your expenses, creating a surplus that can be saved or invested."
+        },
+        {
+          "question": "Which is an example of passive income?",
+          "options": [
+            "Your monthly salary",
+            "Freelance project payment",
+            "Rental property income",
+            "Overtime wages"
+          ],
+          "correctIndex": 2,
+          "explanation": "Rental property income is passive because it generates money without active, ongoing work for each dollar earned."
+        },
+        {
+          "question": "Fixed expenses are those that:",
+          "options": [
+            "Can never be changed",
+            "Remain constant each month",
+            "Are always essential",
+            "Come from your employer"
+          ],
+          "correctIndex": 1,
+          "explanation": "Fixed expenses stay the same amount each month, making them predictable. While they can be changed (like negotiating lower rent), they don't fluctuate month-to-month."
+        }
+      ]
+    }
+  },
+  {
+    "id": "net-worth-calculation",
+    "title": "Understanding Net Worth",
+    "duration": "6 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Net worth is the ultimate measure of financial health. It's calculated as your total assets minus total liabilities. Unlike income, which only shows earning power, net worth reveals your actual financial position. You can have a high income and low net worth, or modest income and high net worth—what matters is what you keep and grow."
+        },
+        {
+          "type": "list",
+          "title": "Assets (What You Own)",
+          "items": [
+            "Cash and checking/savings accounts",
+            "Investment accounts (401k, IRA, brokerage)",
+            "Real estate (primary home, rental properties)",
+            "Vehicles (current market value)",
+            "Valuable possessions (jewelry, art, collectibles)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Liabilities (What You Owe)",
+          "items": [
+            "Mortgage balance",
+            "Auto loans",
+            "Student loans",
+            "Credit card debt",
+            "Personal loans",
+            "Any other outstanding debts"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Calculate your net worth at least quarterly. The number itself matters less than the trend—you want to see it increasing over time. A negative net worth isn't uncommon early in life due to student loans or mortgages, but it should steadily move toward positive territory as you pay down debt and build assets."
+        },
+        {
+          "type": "list",
+          "title": "How to Increase Net Worth",
+          "items": [
+            "Increase assets: Save more, invest consistently, appreciate assets",
+            "Decrease liabilities: Pay down debt, avoid new bad debt",
+            "Avoid lifestyle inflation as income grows",
+            "Focus on acquiring appreciating assets over depreciating ones"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Net worth is calculated as:",
+          "options": [
+            "Annual income minus annual expenses",
+            "Total assets minus total liabilities",
+            "Monthly income minus monthly debt payments",
+            "Investment value minus initial investment"
+          ],
+          "correctIndex": 1,
+          "explanation": "Net worth = Total Assets - Total Liabilities. It's a snapshot of your overall financial position at a specific point in time."
+        },
+        {
+          "question": "Which would be considered an asset?",
+          "options": [
+            "Your credit card balance",
+            "Your car loan",
+            "Your retirement account",
+            "Your monthly rent payment"
+          ],
+          "correctIndex": 2,
+          "explanation": "Your retirement account is an asset—something you own with value. Credit cards and loans are liabilities, and rent is an expense."
+        }
+      ]
+    }
+  },
+  {
+    "id": "financial-goals-planning",
+    "title": "Setting Financial Goals",
+    "duration": "7 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Financial goals give your money purpose and direction. Without clear goals, it's easy to drift financially—earning and spending without intentional progress. Goals should be specific, measurable, and time-bound. Instead of 'save more money,' try 'save $10,000 for emergency fund by December 2027.'"
+        },
+        {
+          "type": "list",
+          "title": "Short-Term Goals (1-2 years)",
+          "items": [
+            "Build emergency fund ($1,000, then 3-6 months expenses)",
+            "Pay off high-interest credit card debt",
+            "Save for vacation or major purchase",
+            "Establish retirement account and start contributing",
+            "Improve credit score to specific target"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Medium-Term Goals (3-10 years)",
+          "items": [
+            "Save house down payment",
+            "Pay off student loans or car loans",
+            "Build substantial investment portfolio",
+            "Start business or side income stream",
+            "Save for children's education"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Long-Term Goals (10+ years)",
+          "items": [
+            "Achieve financial independence",
+            "Retire comfortably with adequate savings",
+            "Pay off mortgage completely",
+            "Leave inheritance or legacy",
+            "Fund major lifestyle dreams (travel, second home)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Write down your top 3 goals in each category and assign dollar amounts and deadlines. Review quarterly and adjust as life circumstances change. Break large goals into smaller milestones to maintain motivation. Celebrate progress—financial success is a marathon, not a sprint."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What makes a financial goal effective?",
+          "options": [
+            "It's impressive to others",
+            "It's specific, measurable, and time-bound",
+            "It's easy to achieve quickly",
+            "It requires no sacrifice"
+          ],
+          "correctIndex": 1,
+          "explanation": "Effective goals are specific (what and how much), measurable (trackable progress), and time-bound (deadline). This structure creates accountability and clarity."
+        },
+        {
+          "question": "Which is typically a short-term financial goal?",
+          "options": [
+            "Paying off a 30-year mortgage",
+            "Retiring at age 65",
+            "Building a $1,000 emergency fund",
+            "Saving for a child's college in 15 years"
+          ],
+          "correctIndex": 2,
+          "explanation": "A $1,000 emergency fund can typically be achieved within 1-2 years for most people, making it a short-term goal."
+        }
+      ]
+    }
+  },
+  {
+    "id": "money-mindset",
+    "title": "Developing a Healthy Money Mindset",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Your relationship with money is shaped by childhood experiences, cultural messages, and past financial wins or losses. Many people carry limiting beliefs like 'money is evil' or 'I'll never be wealthy' that sabotage their financial success. Developing a healthy money mindset is as important as learning financial tactics."
+        },
+        {
+          "type": "list",
+          "title": "Common Money Mindset Blocks",
+          "items": [
+            "Scarcity mindset: Believing there's never enough, hoarding, fear-based decisions",
+            "Avoidance: Ignoring finances, not opening bills, refusing to track spending",
+            "Shame: Feeling embarrassed about past mistakes, avoiding financial education",
+            "Entitlement: Overspending, believing you deserve luxuries before affording them",
+            "Comparison: Measuring worth by others' possessions, keeping up with peers"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "An abundance mindset doesn't mean ignoring financial reality—it means believing opportunities exist to improve your situation. It's viewing money as a tool for building the life you want, not as a source of identity or stress. This shift allows you to make rational, empowered financial decisions."
+        },
+        {
+          "type": "list",
+          "title": "Building a Positive Money Mindset",
+          "items": [
+            "Practice gratitude for what you have now",
+            "View mistakes as learning opportunities, not failures",
+            "Celebrate small wins and financial progress",
+            "Surround yourself with financially positive influences",
+            "Define what 'enough' means for you personally",
+            "Separate self-worth from net worth"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Your money mindset affects every financial decision you make. If you notice self-sabotaging patterns—overspending when stressed, avoiding financial planning, or feeling undeserving of wealth—address these psychological barriers alongside practical money skills. True financial transformation happens in both mindset and behavior."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is a scarcity mindset?",
+          "options": [
+            "Being frugal and saving money carefully",
+            "Believing there's never enough and making fear-based decisions",
+            "Having limited financial resources",
+            "Choosing to live minimally"
+          ],
+          "correctIndex": 1,
+          "explanation": "A scarcity mindset is a psychological pattern of believing resources are always insufficient, leading to fear, hoarding, and stress even when finances are stable."
+        },
+        {
+          "question": "An abundance mindset means:",
+          "options": [
+            "Spending freely without concern for consequences",
+            "Being wealthy and never worrying about money",
+            "Believing opportunities exist to improve your financial situation",
+            "Ignoring financial problems"
+          ],
+          "correctIndex": 2,
+          "explanation": "An abundance mindset is believing in possibilities and your ability to create financial opportunities, while still being responsible and realistic about money."
+        }
+      ]
+    }
+  }
+]
