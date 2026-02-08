@@ -1,1 +1,496 @@
-[Continuing with Content & SEO module...]
+[
+  {
+    "id": "content-marketing-strategy",
+    "title": "Content Marketing Strategy",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Content marketing builds audience by providing value before asking for anything. Instead of 'buy my product,' it's 'here's helpful information.' Done right, content attracts ideal customers, builds trust, establishes expertise, and generates leads organically. Content compounds: one great article can attract customers for years. This is the most cost-effective long-term marketing strategy."
+        },
+        {
+          "type": "list",
+          "title": "Content Marketing Benefits",
+          "items": [
+            "Attracts qualified traffic: People searching for solutions find you",
+            "Builds trust: Helpful content positions you as expert",
+            "Generates leads: Valuable content in exchange for email",
+            "SEO boost: Content helps you rank in search results",
+            "Compounds: Content works 24/7, value increases over time",
+            "Cost-effective: Time investment, not ad spend",
+            "Supports sales: Answers questions, overcomes objections"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Content types: Blog posts (written articles), videos (YouTube, social), podcasts (audio content), infographics (visual data), email newsletters, case studies, ebooks/guides, templates/tools, webinars. Choose format based on: your skills, audience preference, competition in that format."
+        },
+        {
+          "type": "list",
+          "title": "Content Strategy Framework",
+          "items": [
+            "1. Audience research: What questions do they have? What problems need solving?",
+            "2. Content pillars: 3-5 main topics you'll cover consistently",
+            "3. Content goals: Awareness, consideration, or conversion stage?",
+            "4. Format selection: Which formats for which topics?",
+            "5. Publishing schedule: Consistency over quantity (2 quality posts weekly beats 7 mediocre)",
+            "6. Distribution: How will people find your content?",
+            "7. Measurement: Traffic, engagement, conversions, shares"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Content Ideation",
+          "items": [
+            "Customer questions: What do customers ask repeatedly?",
+            "Keyword research: What are people searching for?",
+            "Competitor gaps: What haven't competitors covered well?",
+            "Reddit/Quora: Real questions people ask in your niche",
+            "Your expertise: Unique insights from your experience",
+            "Trend-jacking: Timely content on trending topics",
+            "Content calendar: Plan 90 days ahead, stay organized"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 10x content rule: Don't create content that's slightly better than what exists. Create content that's 10x better. More comprehensive, clearer, better designed, more actionable. This takes more time but generates dramatically better results. One 10x article beats ten mediocre ones."
+        },
+        {
+          "type": "list",
+          "title": "Content Distribution",
+          "items": [
+            "Owned channels: Your website/blog (primary home)",
+            "Email list: Share with subscribers (highest engagement)",
+            "Social media: Share on relevant platforms",
+            "Communities: Reddit, forums, Slack groups (add value, don't spam)",
+            "Guest posting: Publish on other sites to reach new audiences",
+            "Repurposing: Turn one piece into multiple formats",
+            "SEO: Optimize so people find it organically"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What makes content marketing effective long-term?",
+          "options": [
+            "It requires constant ad spend",
+            "Content compounds - one piece can attract customers for years",
+            "It's quick and easy",
+            "It replaces product quality"
+          ],
+          "correctIndex": 1,
+          "explanation": "Content compounds: one great piece can attract qualified traffic and customers for years. This makes it the most cost-effective long-term strategy."
+        },
+        {
+          "question": "What is the 10x content rule?",
+          "options": [
+            "Create 10 times more content",
+            "Create content 10x better than existing alternatives",
+            "Spend 10x on promotion",
+            "Get 10x traffic"
+          ],
+          "correctIndex": 1,
+          "explanation": "10x content rule: create content that's 10x better (more comprehensive, clearer, more actionable) than alternatives. Quality over quantity."
+        }
+      ]
+    }
+  },
+  {
+    "id": "seo-fundamentals",
+    "title": "SEO Fundamentals",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "SEO (Search Engine Optimization) makes your content visible in Google search results. When someone searches for topics you cover, you appear. Unlike paid ads, SEO traffic is free and persistent. Rank once, get traffic for months or years. SEO is complex but the fundamentals deliver 80% of results: quality content, keywords, technical basics, backlinks."
+        },
+        {
+          "type": "list",
+          "title": "How Search Engines Work",
+          "items": [
+            "Crawling: Bots discover pages by following links",
+            "Indexing: Pages analyzed and stored in search database",
+            "Ranking: Algorithm determines order based on 200+ factors",
+            "Key factors: Content quality, keywords, backlinks, user experience, site speed",
+            "Goal: Match user search intent with best answer",
+            "Updates: Algorithm constantly evolving, fundamentals remain"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Keyword research is foundation. Keywords are phrases people type into Google. You want to rank for keywords that: have sufficient search volume, match your business, you can realistically rank for. Tools: Google Keyword Planner (free), Ahrefs, SEMrush, Ubersuggest."
+        },
+        {
+          "type": "list",
+          "title": "Keyword Strategy",
+          "items": [
+            "Search volume: How many monthly searches? (aim for 100-10,000 to start)",
+            "Keyword difficulty: How hard to rank? (start with low difficulty)",
+            "Search intent: What does searcher want? (Information, product, comparison?)",
+            "Long-tail keywords: Longer, specific phrases ('best protein powder for weight loss' vs 'protein')",
+            "Advantages: Less competition, higher conversion, easier to rank",
+            "Strategy: Target 1 main keyword + 3-5 related keywords per page"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "On-Page SEO",
+          "items": [
+            "Title tag: Include main keyword, compelling (under 60 characters)",
+            "Meta description: Summarize page with keyword (under 160 characters)",
+            "Headings (H1, H2, H3): Structure content, include keywords naturally",
+            "Content: Comprehensive, answers search intent, naturally includes keywords",
+            "Images: Alt text with keywords, compressed for speed",
+            "URL: Short, descriptive, includes keyword ('example.com/seo-guide')",
+            "Internal links: Link to other relevant pages on your site"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Content quality matters most. Google wants to rank content that best answers user queries. Length isn't goal, but comprehensive coverage often requires 1500-2500+ words. Include: clear explanations, examples, visuals, actionable takeaways. Update regularly - fresh content ranks better."
+        },
+        {
+          "type": "list",
+          "title": "Technical SEO Basics",
+          "items": [
+            "Mobile-friendly: Site works well on mobile (Google mobile-first indexing)",
+            "Page speed: Fast loading (under 3 seconds) - use PageSpeed Insights",
+            "HTTPS: Secure site (SSL certificate) - ranking factor",
+            "XML sitemap: Help search engines find all pages",
+            "Robots.txt: Tell search engines what to crawl/not crawl",
+            "Fix broken links: 404 errors hurt user experience and SEO",
+            "Tools: Google Search Console (free, essential)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Off-Page SEO & Backlinks",
+          "items": [
+            "Backlinks: Links from other sites to yours (votes of confidence)",
+            "Quality over quantity: One link from authority site beats 100 from spam sites",
+            "How to get backlinks: Create linkable content, guest posting, digital PR, broken link building",
+            "Avoid: Buying links, link schemes (Google penalties)",
+            "Focus: Create great content people naturally want to link to",
+            "Check backlinks: Ahrefs, SEMrush show who links to you"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What matters most for SEO success?",
+          "options": [
+            "Keyword stuffing",
+            "Quality content that comprehensively answers search intent",
+            "Buying links",
+            "Tricking Google"
+          ],
+          "correctIndex": 1,
+          "explanation": "Content quality matters most. Google wants to rank content that best answers user queries comprehensively. Focus on quality over tricks."
+        },
+        {
+          "question": "What are long-tail keywords?",
+          "options": [
+            "Very short keywords",
+            "Longer, specific phrases with less competition and higher conversion",
+            "Keywords at the end of article",
+            "Irrelevant keywords"
+          ],
+          "correctIndex": 1,
+          "explanation": "Long-tail keywords are longer, specific phrases ('best vegan protein powder') with less competition, higher conversion, easier to rank for."
+        }
+      ]
+    }
+  },
+  {
+    "id": "writing-for-web",
+    "title": "Writing for the Web",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Web writing differs from traditional writing. People scan, not read. Attention spans are seconds, not minutes. Your job: make content scannable, engaging, and valuable quickly. Structure, formatting, and clarity matter as much as the words themselves. Master web writing and your content will outperform competitors even with similar information."
+        },
+        {
+          "type": "list",
+          "title": "Web Writing Principles",
+          "items": [
+            "Scannable: Headings, bullet points, short paragraphs",
+            "Front-load: Most important information first",
+            "Concise: Cut unnecessary words, be direct",
+            "Active voice: 'We optimize' not 'It is optimized by us'",
+            "Conversational: Write like you speak, avoid jargon",
+            "Visual: Break up text with images, examples, formatting",
+            "Actionable: Tell readers exactly what to do"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The inverted pyramid: Most important info first, supporting details next, background last. Many readers leave before finishing—ensure they get value even if they only read first paragraphs. News writing uses this; web writing should too."
+        },
+        {
+          "type": "list",
+          "title": "Formatting for Readability",
+          "items": [
+            "Short paragraphs: 2-4 sentences max, white space aids scanning",
+            "Subheadings: Every 300 words, descriptive (tell what section covers)",
+            "Bullet points: Lists easier to scan than paragraphs",
+            "Bold key points: Helps scanners find important information",
+            "Images: Break up text, illustrate concepts",
+            "Line length: 50-75 characters optimal for reading",
+            "Font size: 16px minimum for body text"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Writing Compelling Headlines",
+          "items": [
+            "Promise value: What will reader gain?",
+            "Be specific: Numbers, data, clear outcomes",
+            "Trigger curiosity: Make them want to learn more",
+            "Include keyword: For SEO and clarity",
+            "Formulas: 'How to X', 'X Ways to Y', 'Ultimate Guide to X'",
+            "Examples: '7 SEO Mistakes Killing Your Traffic', 'How I Grew Email List from 0 to 10,000'",
+            "Test variations: A/B test headlines when possible"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The hook: First 2-3 sentences must grab attention. Start with: surprising statistic, provocative question, relatable problem, bold promise, interesting story. Weak start loses readers immediately. Example: 'Most content gets zero traffic. You spend hours writing, hit publish, and... crickets. Here's why and how to fix it.'"
+        },
+        {
+          "type": "list",
+          "title": "Writing Tips",
+          "items": [
+            "One idea per paragraph: Don't mix multiple points",
+            "Transition words: Guide flow (however, therefore, additionally)",
+            "Examples: Abstract concepts need concrete examples",
+            "Data and stats: Support claims with evidence",
+            "Remove filler: 'Very', 'really', 'quite' usually unnecessary",
+            "Read aloud: If it sounds awkward, rewrite it",
+            "Edit ruthlessly: First draft is never final draft"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How should web content be structured?",
+          "options": [
+            "Long paragraphs with minimal formatting",
+            "Scannable with headings, bullets, short paragraphs",
+            "Academic style with citations",
+            "Stream of consciousness"
+          ],
+          "correctIndex": 1,
+          "explanation": "Web content must be scannable: headings, bullet points, short paragraphs, formatting. People scan, not read word-for-word."
+        },
+        {
+          "question": "What is the inverted pyramid?",
+          "options": [
+            "A design element",
+            "Most important information first, details after",
+            "Writing in triangle shape",
+            "Starting with background"
+          ],
+          "correctIndex": 1,
+          "explanation": "Inverted pyramid: most important info first, supporting details next, background last. Ensures value even if readers don't finish."
+        }
+      ]
+    }
+  },
+  {
+    "id": "content-promotion",
+    "title": "Content Promotion & Distribution",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Creating great content is half the battle. Promotion is the other half. 'If you build it, they will come' is a myth. Even amazing content gets zero traffic without promotion. Successful content marketing requires as much time on distribution as creation. Good content + poor promotion = failure. Average content + great promotion = success."
+        },
+        {
+          "type": "list",
+          "title": "Content Distribution Channels",
+          "items": [
+            "Email list: Highest engagement, own the audience (share every new piece)",
+            "Social media: Share on platforms where audience hangs out",
+            "Communities: Reddit, Facebook groups, Slack communities (add value, don't spam)",
+            "Guest posting: Publish on established sites, link back to your content",
+            "Influencer outreach: Share with influencers who might reshare",
+            "Paid promotion: Boost best-performing content with ads",
+            "SEO: Optimize for organic discovery over time"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 80/20 promotion rule: Spend 20% time creating content, 80% promoting it. Counterintuitive but effective. One well-promoted article reaches more people than five unpromoted ones. Focus promotion on your best content, not every piece."
+        },
+        {
+          "type": "list",
+          "title": "Social Media Promotion",
+          "items": [
+            "Multiple shares: Share same content multiple times with different angles",
+            "Optimal timing: Post when your audience is online (check analytics)",
+            "Customize per platform: Different caption/format for each platform",
+            "Engage: Respond to comments, join conversations",
+            "Use hashtags: Relevant hashtags expand reach",
+            "Tag relevant accounts: When appropriate, not spammy",
+            "Stories: Use Stories feature for additional visibility"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Outreach Strategy",
+          "items": [
+            "Find influencers: Identify people who share content in your niche",
+            "Build relationships first: Engage with their content before asking",
+            "Personalized outreach: Explain why your content is relevant to their audience",
+            "Make it easy: Provide ready-to-share snippets",
+            "Offer value: What's in it for them?",
+            "Follow up (once): Polite follow-up if no response",
+            "Say thanks: When someone shares, show appreciation"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Content repurposing: Turn one piece of content into many. Blog post becomes: social media posts, email newsletter, video script, podcast episode, infographic, SlideShare presentation. One hour creating, six hours repurposing = dramatically more reach from same core content."
+        },
+        {
+          "type": "list",
+          "title": "Promotion Timing",
+          "items": [
+            "Launch day: Email list, all social channels, communities",
+            "Week 1: Continue sharing with different angles",
+            "Month 1: Outreach to influencers and for backlinks",
+            "Ongoing: Evergreen content gets promoted quarterly",
+            "Updates: When updating content, re-promote as 'updated guide'",
+            "Top performers: Keep promoting your best content consistently"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the 80/20 promotion rule?",
+          "options": [
+            "80% creating, 20% promoting",
+            "20% creating, 80% promoting",
+            "Only promote 20% of content",
+            "Promote only on weekends"
+          ],
+          "correctIndex": 1,
+          "explanation": "Spend 20% time creating, 80% promoting. One well-promoted article reaches more people than five unpromoted pieces."
+        },
+        {
+          "question": "What's content repurposing?",
+          "options": [
+            "Deleting old content",
+            "Turning one piece into multiple formats for different channels",
+            "Copying competitor content",
+            "Rewriting the same thing"
+          ],
+          "correctIndex": 1,
+          "explanation": "Repurposing turns one piece (blog post) into multiple formats (social posts, video, email, infographic) for dramatically more reach."
+        }
+      ]
+    }
+  },
+  {
+    "id": "email-marketing",
+    "title": "Email Marketing Fundamentals",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Email marketing delivers highest ROI of any marketing channel: $42 return for every $1 spent (average). Unlike social media (you don't own followers), you own your email list. No algorithm changes or account shutdowns. Email is direct line to engaged audience. Every business needs email list. Priority one: build that list."
+        },
+        {
+          "type": "list",
+          "title": "Why Email Marketing Works",
+          "items": [
+            "Owned audience: You control it, no platform can take it away",
+            "Direct access: Land in inbox, no algorithm filtering",
+            "High engagement: Email readers are interested subscribers",
+            "Personalization: Segment and customize messages",
+            "Measurable: Track opens, clicks, conversions precisely",
+            "Permission-based: People opted in, want to hear from you",
+            "Cost-effective: Reach thousands for pennies per person"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Building your list: Offer lead magnet (valuable free content) in exchange for email. Examples: ebook, checklist, template, video course, discount code, free trial. Must solve specific problem for your audience. Promote lead magnet on website, social media, ads."
+        },
+        {
+          "type": "list",
+          "title": "Lead Magnet Ideas",
+          "items": [
+            "Educational: Ebook, guide, video course teaching valuable skill",
+            "Tools: Template, spreadsheet, calculator, swipe file",
+            "Resources: Curated list, toolkit, resource library",
+            "Exclusive: Early access, insider content, special discount",
+            "Requirements: Solves specific problem, quick win, easy to consume, high perceived value",
+            "Delivery: Instantly via email (automated welcome sequence)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Email Types",
+          "items": [
+            "Welcome series: Automated emails when someone subscribes (3-5 emails)",
+            "Newsletter: Regular updates (weekly/monthly), mix of value and promotion",
+            "Promotional: Announce launches, sales, special offers",
+            "Educational: Teach something valuable, build trust",
+            "Re-engagement: Win back inactive subscribers",
+            "Transactional: Order confirmations, receipts (highest open rates)",
+            "Mix: 80% value, 20% promotion maintains engagement"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Email copywriting: Subject line determines if email gets opened. Body determines if they click. Subject: Short (under 50 characters), specific, creates curiosity or promises value. Body: Start with hook, focus on one main point, clear call-to-action. Conversational tone. Test different approaches."
+        },
+        {
+          "type": "list",
+          "title": "Email Best Practices",
+          "items": [
+            "Mobile-optimized: 50%+ opens on mobile",
+            "Personalization: Use names, segment by interests",
+            "Send time: Test optimal times (often Tuesday-Thursday, 10am-2pm)",
+            "Frequency: Consistent schedule (weekly is common), don't overwhelm",
+            "Clean list: Remove inactive subscribers (improves deliverability)",
+            "Clear unsubscribe: Easy opt-out (required by law, maintains list quality)",
+            "A/B testing: Test subject lines, content, send times",
+            "Tools: Mailchimp, ConvertKit, SendGrid (start with free tier)"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the average ROI of email marketing?",
+          "options": [
+            "$5 for every $1 spent",
+            "$42 for every $1 spent",
+            "Break even",
+            "$2 for every $1 spent"
+          ],
+          "correctIndex": 1,
+          "explanation": "Email marketing averages $42 return for every $1 spent - highest ROI of any marketing channel. This is why building email list is priority."
+        },
+        {
+          "question": "What's a lead magnet?",
+          "options": [
+            "Email software",
+            "Valuable free content offered in exchange for email",
+            "Email template",
+            "Magnetic branding"
+          ],
+          "correctIndex": 1,
+          "explanation": "Lead magnet is valuable free content (ebook, template, course) offered in exchange for email address. Solves specific problem for audience."
+        }
+      ]
+    }
+  }
+]
