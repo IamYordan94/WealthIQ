@@ -1,1 +1,27 @@
-["Continuing in next commit due to length..."]
+[
+  {
+    "id": "video-basics",
+    "title": "Video Content Basics",
+    "duration": "10 min"
+  },
+  {
+    "id": "filming-techniques",
+    "title": "Filming & Production Techniques",
+    "duration": "10 min"
+  },
+  {
+    "id": "video-editing",
+    "title": "Video Editing Essentials",
+    "duration": "9 min"
+  },
+  {
+    "id": "podcast-production",
+    "title": "Podcast Production & Audio Content",
+    "duration": "10 min"
+  },
+  {
+    "id": "thumbnails-visuals",
+    "title": "Thumbnails & Visual Assets",
+    "duration": "9 min"
+  }
+]
