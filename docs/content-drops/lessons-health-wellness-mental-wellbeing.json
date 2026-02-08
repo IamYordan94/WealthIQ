@@ -1,1 +1,627 @@
-["Expanded lessons coming in next commit..."]
+[
+  {
+    "id": "mindfulness-meditation",
+    "title": "Mindfulness & Meditation",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Mindfulness is paying attention to present moment without judgment. Meditation is training attention. Both reduce stress, improve focus, enhance emotional regulation, and boost overall wellbeing. You don't need to sit for hours. Five minutes daily creates measurable benefits. Your mind is tool - this lesson teaches you how to use it better."
+        },
+        {
+          "type": "list",
+          "title": "Benefits of Mindfulness",
+          "items": [
+            "Stress reduction: Lowers cortisol, calms nervous system",
+            "Focus: Improves attention span and concentration",
+            "Emotional regulation: Better control over reactions",
+            "Anxiety reduction: Breaks worry loops",
+            "Sleep quality: Calms racing thoughts",
+            "Self-awareness: Understand patterns and triggers",
+            "Relationships: Better listening and presence",
+            "Physical health: Lowers blood pressure, boosts immunity"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Common Misconceptions",
+          "items": [
+            "'Must clear mind': Wrong, mind wanders - that's normal",
+            "'Need hours': Wrong, 5 minutes daily works",
+            "'Must sit cross-legged': Wrong, any comfortable position",
+            "'Religious practice': Wrong, secular and science-backed",
+            "'Stop all thoughts': Wrong, observe thoughts without attachment",
+            "'Only for calm people': Wrong, especially helpful for anxious people",
+            "'Immediate magic': Wrong, benefits build with consistent practice",
+            "'Need special place': Wrong, anywhere quiet works"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "How meditation works: Your brain has default mode (thinking, planning, worrying) and present mode (aware, observing). Most people stuck in default mode. Meditation trains switching to present mode. With practice, you can access calm awareness anytime, not just while meditating."
+        },
+        {
+          "type": "list",
+          "title": "Simple Meditation Practice",
+          "items": [
+            "1. Find quiet spot, sit comfortably",
+            "2. Close eyes or soft gaze downward",
+            "3. Focus on breath - in through nose, out through mouth",
+            "4. Mind will wander - that's normal",
+            "5. Notice when mind wanders (awareness)",
+            "6. Gently return attention to breath (no judgment)",
+            "7. Repeat for 5-20 minutes",
+            "Start small: 5 minutes daily, increase gradually"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Types of Meditation",
+          "items": [
+            "Breath focus: Attention on breathing (best for beginners)",
+            "Body scan: Progressive attention through body parts",
+            "Loving-kindness: Cultivate compassion for self and others",
+            "Walking meditation: Mindful movement",
+            "Guided: Follow audio instructions (Headspace, Calm, Insight Timer)",
+            "Mantra: Repeat word or phrase",
+            "Visualization: Imagine peaceful scenes",
+            "Start: Breath focus or guided meditation"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Mindfulness Throughout Day",
+          "items": [
+            "Morning: 5 min meditation before starting day",
+            "Eating: Taste each bite, no screens",
+            "Walking: Feel feet touching ground, notice surroundings",
+            "Waiting: Instead of phone, take three conscious breaths",
+            "Work: Single-task, full attention on one thing",
+            "Conversations: Really listen, not planning response",
+            "Evening: Reflect on three things you're grateful for",
+            "Bedtime: Body scan to relax for sleep"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Building the Habit",
+          "items": [
+            "Same time daily: Anchor to existing routine (after coffee, before bed)",
+            "Same place: Dedicated spot signals practice time",
+            "Start tiny: 2 minutes if 5 feels overwhelming",
+            "Track: Calendar X's or app streaks",
+            "Be patient: Benefits subtle at first, compound over time",
+            "Forgive misses: One skipped day doesn't erase progress",
+            "Apps help: Headspace, Calm, Insight Timer for guidance",
+            "Community: Meditation groups provide accountability"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the goal of meditation?",
+          "options": [
+            "Stop all thoughts completely",
+            "Train attention and observe thoughts without judgment",
+            "Achieve enlightenment",
+            "Clear your mind forever"
+          ],
+          "correctIndex": 1,
+          "explanation": "Meditation trains attention. Mind wanders naturally - that's normal. Goal is noticing when it wanders and gently returning focus, without judgment. Builds awareness and control over time."
+        },
+        {
+          "question": "How long should beginners meditate daily?",
+          "options": [
+            "2 hours minimum",
+            "5 minutes is enough - consistency beats duration",
+            "All day",
+            "Only when stressed"
+          ],
+          "correctIndex": 1,
+          "explanation": "Start with 5 minutes daily. Consistency matters more than duration. Benefits build with regular practice. Can increase to 10-20 min as habit establishes. Small daily practice beats occasional long sessions."
+        }
+      ]
+    }
+  },
+  {
+    "id": "mental-resilience",
+    "title": "Building Mental Resilience",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Resilience is ability to bounce back from adversity. It's not avoiding stress or hardship - it's adapting and growing through it. Resilient people face same challenges as everyone else but recover faster and emerge stronger. Good news: resilience is skill you can build, not fixed personality trait. This lesson shows you how."
+        },
+        {
+          "type": "list",
+          "title": "Components of Resilience",
+          "items": [
+            "Emotional regulation: Manage intense feelings without being overwhelmed",
+            "Optimism: Belief that things can improve (not toxic positivity)",
+            "Self-awareness: Understand your patterns and triggers",
+            "Problem-solving: Focus on solutions, not just problems",
+            "Social support: Strong connections to lean on",
+            "Purpose: Sense of meaning beyond immediate struggles",
+            "Flexibility: Adapt when circumstances change",
+            "Self-efficacy: Belief in your ability to handle challenges"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Growth Mindset",
+          "items": [
+            "Fixed mindset: 'I can't do this, I'm not good at it'",
+            "Growth mindset: 'I can't do this YET, I'll learn'",
+            "Challenges: Fixed sees threat, growth sees opportunity",
+            "Failure: Fixed proves limitation, growth provides feedback",
+            "Effort: Fixed is sign of inadequacy, growth is path to mastery",
+            "Feedback: Fixed feels threatened, growth welcomes it",
+            "Success of others: Fixed feels threatened, growth finds inspiration",
+            "Cultivate: Add 'yet' to limitations, reframe failures as lessons"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Cognitive reframing: Your thoughts about situation create your emotional response, not situation itself. Same event, different interpretation, different feeling. Example: Job rejection as 'I'm a failure' (depression) vs 'wrong fit, next opportunity' (motivation). You can't always control events, but you can influence interpretation."
+        },
+        {
+          "type": "list",
+          "title": "Reframing Techniques",
+          "items": [
+            "Identify thought: What am I telling myself about this?",
+            "Question it: Is this absolutely true? What's evidence?",
+            "Find alternative: What else could this mean?",
+            "Zoom out: Will this matter in 5 years?",
+            "Find learning: What can I learn from this?",
+            "Consider context: What factors beyond my control contributed?",
+            "Self-compassion: What would I tell a friend in this situation?",
+            "Practice: Gets easier with repetition"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Building Resilience Daily",
+          "items": [
+            "Physical health: Exercise, sleep, nutrition - foundation of mental health",
+            "Social connections: Regular contact with supportive people",
+            "Purpose: Engage in meaningful activities",
+            "Small wins: Accomplish something daily (builds self-efficacy)",
+            "Gratitude: Three things daily (retrains brain toward positive)",
+            "Face fears: Small steps outside comfort zone regularly",
+            "Help others: Volunteering builds perspective and connection",
+            "Limit news: Stay informed without constant negative input"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "When Facing Adversity",
+          "items": [
+            "Accept reality: Denial prolongs suffering",
+            "Focus on controllable: What CAN you influence?",
+            "Break it down: Overwhelming = too big, make smaller",
+            "Take action: Even small step beats paralysis",
+            "Reach out: Ask for help, don't isolate",
+            "Self-care: Especially important during hard times",
+            "Perspective: Recall past challenges you overcame",
+            "Meaning: What might this teach you? How might you grow?"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Professional Help",
+          "items": [
+            "Therapy: Not weakness, it's tool for building resilience",
+            "When: Persistent overwhelm, impaired function, thoughts of harm",
+            "Types: CBT for thought patterns, EMDR for trauma, others",
+            "Finding help: Psychology Today directory, insurance provider list",
+            "Crisis: National Suicide Prevention Lifeline 988",
+            "Medication: Can help alongside therapy for some conditions",
+            "Stigma: Outdated, mental health = health",
+            "Investment: Best investment you can make"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is cognitive reframing?",
+          "options": [
+            "Ignoring problems",
+            "Changing interpretation of events to influence emotional response",
+            "Toxic positivity",
+            "Denying reality"
+          ],
+          "correctIndex": 1,
+          "explanation": "Cognitive reframing: changing interpretation of events. Your thoughts create emotional response, not event itself. Not denial or toxic positivity - realistic interpretation that empowers rather than paralyzes."
+        },
+        {
+          "question": "What's the difference between fixed and growth mindset?",
+          "options": [
+            "No difference",
+            "Fixed sees abilities as unchangeable; growth sees abilities as developable",
+            "Fixed is better",
+            "Growth is unrealistic"
+          ],
+          "correctIndex": 1,
+          "explanation": "Fixed mindset: abilities are unchangeable ('I'm not good at this'). Growth mindset: abilities develop with effort ('I can't do this YET'). Growth mindset builds resilience by reframing challenges as opportunities."
+        }
+      ]
+    }
+  },
+  {
+    "id": "emotional-intelligence",
+    "title": "Emotional Intelligence",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Emotional intelligence (EQ) is ability to understand, use, and manage emotions effectively. High EQ improves relationships, leadership, mental health, and life satisfaction. Often more important than IQ for success. Components: self-awareness, self-regulation, motivation, empathy, social skills. This lesson helps you develop each."
+        },
+        {
+          "type": "list",
+          "title": "The Five Components",
+          "items": [
+            "Self-awareness: Recognize your emotions and their impact",
+            "Self-regulation: Manage emotions, don't let them control you",
+            "Internal motivation: Drive from within, not external rewards",
+            "Empathy: Understand and share feelings of others",
+            "Social skills: Build relationships, communicate effectively",
+            "Interconnected: Each component supports the others",
+            "Developable: Practice improves EQ over time",
+            "Impact: Higher EQ = better outcomes across life domains"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Developing Self-Awareness",
+          "items": [
+            "Name emotions: 'I feel angry' not 'I AM angry' (you're not the emotion)",
+            "Emotion vocabulary: Expand beyond mad, sad, happy, scared",
+            "Body signals: Notice where you feel emotions (tight chest, stomach knot)",
+            "Triggers: What situations consistently provoke strong reactions?",
+            "Journal: Write about emotional experiences",
+            "Feedback: Ask trusted people how you come across",
+            "Patterns: Notice emotional patterns over time",
+            "Pause: Before reacting, identify what you're feeling"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Self-regulation doesn't mean suppressing emotions. It means experiencing emotions without being controlled by them. Feel anger without yelling. Feel fear without avoiding. Feel sadness without spiraling. Emotions are information - you get to choose the response."
+        },
+        {
+          "type": "list",
+          "title": "Self-Regulation Techniques",
+          "items": [
+            "Pause: 10-second pause before responding to strong emotion",
+            "Deep breathing: 4-7-8 technique calms nervous system",
+            "Name it to tame it: Labeling emotion reduces its intensity",
+            "Reframe: Challenge automatic negative thoughts",
+            "Move: Physical activity processes emotional energy",
+            "Express appropriately: Talk to friend, journal, therapy",
+            "Delay: 'I'll think about this tomorrow' (sometimes works)",
+            "Choose response: React from values, not impulse"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Building Empathy",
+          "items": [
+            "Active listening: Full attention, not planning response",
+            "Perspective-taking: Imagine their situation and feelings",
+            "Suspend judgment: Understand before evaluating",
+            "Validate: Acknowledge their feelings (doesn't mean you agree)",
+            "Ask questions: Understand their experience",
+            "Notice non-verbal: Body language, tone, facial expressions",
+            "Diverse exposure: Interact with people different from you",
+            "Read fiction: Stories build empathy through perspective-taking"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Improving Social Skills",
+          "items": [
+            "Clear communication: Say what you mean, mean what you say",
+            "Conflict resolution: Address issues early and directly",
+            "Give feedback: Be specific, focus on behavior, be kind",
+            "Receive feedback: Listen without defensiveness",
+            "Build rapport: Find common ground, show genuine interest",
+            "Manage difficult people: Stay calm, set boundaries",
+            "Collaboration: Value others' contributions",
+            "Influence: Understand what matters to others, align interests"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "EQ in Relationships",
+          "items": [
+            "Self-awareness: Know your needs and communicate them",
+            "Regulate: Don't let emotions sabotage connection",
+            "Empathy: Understand partner's perspective",
+            "Communication: Express feelings without blame",
+            "Repair: Apologize sincerely when you mess up",
+            "Boundaries: Know and state your limits",
+            "Support: Be there emotionally for others",
+            "Growth: Relationships improve as EQ develops"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What are the five components of emotional intelligence?",
+          "options": [
+            "Only self-awareness",
+            "Self-awareness, self-regulation, motivation, empathy, social skills",
+            "IQ and grades",
+            "Age and experience"
+          ],
+          "correctIndex": 1,
+          "explanation": "Five EQ components: (1) Self-awareness - know your emotions, (2) Self-regulation - manage them, (3) Motivation - internal drive, (4) Empathy - understand others, (5) Social skills - build relationships. All developable with practice."
+        },
+        {
+          "question": "What does self-regulation mean?",
+          "options": [
+            "Suppressing all emotions",
+            "Experiencing emotions without being controlled by them - feel, then choose response",
+            "Never getting angry",
+            "Avoiding feelings"
+          ],
+          "correctIndex": 1,
+          "explanation": "Self-regulation: experiencing emotions without being controlled by them. Not suppression. Feel anger without yelling, fear without avoiding. Emotions are information - you choose the response."
+        }
+      ]
+    }
+  },
+  {
+    "id": "healthy-relationships",
+    "title": "Building Healthy Relationships",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Relationships are foundation of wellbeing. Strong social connections increase longevity more than quitting smoking or losing weight. Loneliness kills. Quality relationships buffer stress, provide meaning, boost happiness, and improve health. But not all relationships are created equal. This lesson covers building and maintaining healthy connections."
+        },
+        {
+          "type": "list",
+          "title": "Healthy vs Unhealthy Relationships",
+          "items": [
+            "Healthy: Mutual respect, trust, honesty, support, boundaries",
+            "Healthy: Feel energized after time together",
+            "Healthy: Can be yourself authentically",
+            "Healthy: Conflicts resolved constructively",
+            "Unhealthy: Controlling, manipulative, dishonest, draining",
+            "Unhealthy: Feel worse after interactions",
+            "Unhealthy: Walk on eggshells, can't be yourself",
+            "Unhealthy: Constant drama, unresolved conflicts"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Elements of Strong Relationships",
+          "items": [
+            "Trust: Reliability, honesty, vulnerability",
+            "Communication: Open, honest, respectful dialogue",
+            "Empathy: Understanding and validating feelings",
+            "Support: Being there in good times and bad",
+            "Boundaries: Knowing and respecting limits",
+            "Shared values: Core beliefs align",
+            "Quality time: Meaningful, engaged interaction",
+            "Growth: Encourage each other's development"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Communication is make-or-break skill. Most relationship problems stem from poor communication. Good communication: express needs clearly, listen actively, address issues early, avoid blame, take responsibility. Practice makes perfect. Every conversation is opportunity to build connection or create distance."
+        },
+        {
+          "type": "list",
+          "title": "Effective Communication",
+          "items": [
+            "'I' statements: 'I feel X when Y' not 'You always Z'",
+            "Active listening: Full attention, reflect back, validate",
+            "Timing matters: Don't bring up heavy topics when stressed/tired",
+            "Stay specific: Address behavior, not character attacks",
+            "Avoid 'always/never': Absolutes escalate conflict",
+            "Take breaks: If heated, pause and return when calm",
+            "Ask clarifying questions: Make sure you understand",
+            "Express appreciation: Don't take people for granted"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Setting Boundaries",
+          "items": [
+            "Know your limits: What's okay and not okay for you",
+            "Communicate clearly: State boundaries directly",
+            "Be consistent: Don't enforce sometimes, ignore other times",
+            "No guilt: You have right to boundaries",
+            "Respect others': Their boundaries are equally valid",
+            "Consequences: If boundary violated repeatedly, act",
+            "Examples: 'I don't discuss my salary,' 'I need alone time on Sundays'",
+            "Growth: Boundaries can change, update as needed"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Managing Conflict",
+          "items": [
+            "Address early: Small issues escalate if ignored",
+            "Stay present: Discuss current issue, don't bring up past",
+            "Focus on problem: Attack problem together, not each other",
+            "Take responsibility: Own your contribution",
+            "Compromise: Both adjust, not one always sacrificing",
+            "Repair: Apologize sincerely, make amends",
+            "Learn: What does this conflict teach about our needs?",
+            "Professional help: Therapy for persistent issues"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Building Your Support Network",
+          "items": [
+            "Quality over quantity: Few close friends beat many acquaintances",
+            "Diverse network: Different people meet different needs",
+            "Initiate: Reach out, don't wait for others",
+            "Be present: Put phone away during conversations",
+            "Show up: Be there for important moments",
+            "Reciprocate: Give support, not just take",
+            "Maintain: Regular contact, even when busy",
+            "Letting go: Some relationships run their course - okay to move on"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's a key difference between healthy and unhealthy relationships?",
+          "options": [
+            "Never any conflict",
+            "Healthy has mutual respect, trust, support; unhealthy is controlling and draining",
+            "Healthy requires no effort",
+            "Unhealthy is more exciting"
+          ],
+          "correctIndex": 1,
+          "explanation": "Healthy relationships: mutual respect, trust, support, healthy boundaries, constructive conflict resolution. Unhealthy: controlling, dishonest, draining, constant drama. Healthy relationships energize you, unhealthy deplete you."
+        },
+        {
+          "question": "How should you communicate needs in relationships?",
+          "options": [
+            "Hope they figure it out",
+            "Use 'I' statements - 'I feel X when Y' - clear and without blame",
+            "Make demands",
+            "Stay silent"
+          ],
+          "correctIndex": 1,
+          "explanation": "Use 'I' statements: 'I feel X when Y happens' instead of 'You always Z.' Expresses needs clearly without attacking. People can't read minds - direct, respectful communication essential."
+        }
+      ]
+    }
+  },
+  {
+    "id": "work-life-balance",
+    "title": "Work-Life Balance & Burnout Prevention",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Burnout is epidemic. Chronic stress from work without adequate recovery leads to physical and emotional exhaustion, cynicism, and reduced effectiveness. You can't pour from empty cup. Sustainable success requires balance - not perfect 50/50, but intentional energy management. This lesson helps you prevent burnout and create sustainable work-life integration."
+        },
+        {
+          "type": "list",
+          "title": "Signs of Burnout",
+          "items": [
+            "Physical: Chronic fatigue, headaches, sleep issues, weakened immunity",
+            "Emotional: Cynicism, detachment, loss of satisfaction",
+            "Mental: Reduced concentration, indecisiveness, forgetfulness",
+            "Behavioral: Withdrawing, procrastinating, increased substance use",
+            "Performance: Reduced productivity despite working more",
+            "Relationships: Irritability, withdrawing from social contact",
+            "Outlook: Feeling trapped, helpless, sense of failure",
+            "Action: If experiencing multiple signs, make changes now"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Causes of Burnout",
+          "items": [
+            "Workload: Too much to do, unrealistic expectations",
+            "Control: Lack of autonomy over work and schedule",
+            "Reward: Insufficient recognition, low pay for effort",
+            "Community: Toxic workplace, lack of support",
+            "Fairness: Perceived injustice, favoritism",
+            "Values: Work conflicts with personal values",
+            "Personal: Perfectionism, inability to say no, no boundaries",
+            "Recovery: Insufficient rest and regeneration"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Work-life balance is myth. Balance suggests perfect equilibrium - unrealistic. Better concept: work-life integration. Intentionally blending work and life in ways that serve your values and energy. Some days work dominates, some days life does. Weekly and monthly balance matters more than daily."
+        },
+        {
+          "type": "list",
+          "title": "Energy Management",
+          "items": [
+            "Track energy: Notice what drains vs energizes you",
+            "Peak hours: Schedule important work during high-energy times",
+            "Breaks: 5-minute break every hour restores focus",
+            "Ultradian rhythms: 90-minute work cycles, then rest",
+            "Physical: Exercise, sleep, nutrition fuel mental energy",
+            "Emotional: Positive relationships and purpose energize",
+            "Mental: Deep work in morning, shallow work when tired",
+            "Spiritual: Align work with values, find meaning"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Setting Boundaries",
+          "items": [
+            "Work hours: Define start and end time, communicate them",
+            "Email: Check at set times, not constantly",
+            "Availability: Not always on-call unless actually required",
+            "Weekends: Protect at least one full day off",
+            "Vacation: Actually take it, fully disconnect",
+            "Say no: Can't do everything, prioritize ruthlessly",
+            "Phone: Turn off work notifications evenings/weekends",
+            "Physical: Separate workspace from living space if possible"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Recovery Practices",
+          "items": [
+            "Daily: 10-minute walk, 5-minute meditation, hobby time",
+            "Weekly: One full day off, social connection, leisure activity",
+            "Monthly: Day trip, trying something new, reflection",
+            "Quarterly: Long weekend away, digital detox",
+            "Annually: 1-2 week vacation, totally unplugged",
+            "Micro-breaks: 5 minutes every hour at work",
+            "Active recovery: Light exercise, nature, creative pursuits",
+            "Passive recovery: Napping, massage, reading for pleasure"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Sustainable Success",
+          "items": [
+            "Clarify values: What matters most? (health, family, purpose?)",
+            "Align actions: Does schedule reflect stated values?",
+            "Quality over hours: Output matters more than time spent",
+            "Delegate: What can others do? Focus on your unique contribution",
+            "Automate: Technology for repetitive tasks",
+            "Eliminate: What can you simply stop doing?",
+            "Protect health: Non-negotiable foundation for everything else",
+            "Long game: Marathon, not sprint - sustainable pace wins"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What causes burnout?",
+          "options": [
+            "Just working hard",
+            "Chronic stress without adequate recovery - excessive workload, lack of control, insufficient reward",
+            "Having a job",
+            "Being weak"
+          ],
+          "correctIndex": 1,
+          "explanation": "Burnout: chronic stress without recovery. Causes include excessive workload, lack of control, insufficient recognition, toxic environment, values misalignment, and inadequate rest. Not weakness - system problem requiring system solutions."
+        },
+        {
+          "question": "What's better than work-life 'balance'?",
+          "options": [
+            "Work always comes first",
+            "Work-life integration - intentionally manage energy based on values",
+            "Perfect 50/50 split",
+            "Life always comes first"
+          ],
+          "correctIndex": 1,
+          "explanation": "Work-life integration > balance. Perfect equilibrium unrealistic. Intentionally manage energy based on values. Some days work-heavy, some life-heavy. Weekly/monthly balance matters more than daily. Sustainability is goal."
+        }
+      ]
+    }
+  }
+]
