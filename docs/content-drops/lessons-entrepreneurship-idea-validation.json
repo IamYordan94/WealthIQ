@@ -1,1 +1,486 @@
-[Continuing with Idea & Validation module...]
+[
+  {
+    "id": "finding-ideas",
+    "title": "Finding Profitable Ideas",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Good ideas are everywhere. They're hiding in your frustrations, your skills, your industry experience. The myth: you need lightning-bolt inspiration. The reality: best ideas come from solving problems you or others actually have. Don't search for ideas abstractly. Look at your daily life. What's frustrating? What do people complain about? What tasks are unnecessarily difficult? Solutions to real problems = good business ideas."
+        },
+        {
+          "type": "list",
+          "title": "Idea Generation Methods",
+          "items": [
+            "Problem-spotting: What frustrates you repeatedly?",
+            "Skill monetization: What can you do that others pay for?",
+            "Industry gaps: What's missing in your field?",
+            "Trend-jacking: Apply new trend to established market",
+            "Improvement: Make existing solution 10x better",
+            "Combination: Merge two successful concepts",
+            "Different market: Take success from one market to another"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The best starting point: your existing skills and network. Trying to build business in completely unfamiliar industry is hard mode. Leverage what you know. Developer? Build dev tools. Marketer? Marketing agency. Accountant? Bookkeeping service. You have 5-10 year head start in your domain."
+        },
+        {
+          "type": "list",
+          "title": "Evaluating Ideas",
+          "items": [
+            "Problem size: How many people have this problem?",
+            "Problem intensity: How painful is it? (Vitamin vs. painkiller)",
+            "Willingness to pay: Will they pay to solve it?",
+            "Ability to reach: Can you access these customers?",
+            "Competition: Who else is solving this?",
+            "Your advantage: Why can you win?",
+            "Resource fit: Can you build this with your resources?"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Red Flags to Avoid",
+          "items": [
+            "'Everyone is my customer': Targeting everyone = reaching no one",
+            "'No competition': Usually means no market",
+            "'I just need 1% of market': Doesn't work that way",
+            "'It's like Uber but for X': Usually means no unique insight",
+            "Complex requiring tech breakthrough: High failure rate",
+            "Needs massive capital: Resource constraint kills most",
+            "You wouldn't use it: If you won't buy it, why would others?"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Vitamin vs. painkiller: Vitamins are nice-to-have (hard sell). Painkillers solve urgent problem (easy sell). Example: Productivity app = vitamin. Payroll software = painkiller (must have). Start with painkillers—easier traction. Add vitamins later."
+        },
+        {
+          "type": "list",
+          "title": "Opportunity Scoring",
+          "items": [
+            "Score each factor 1-10: Market size, problem intensity, ability to pay, reach, your advantages",
+            "Multiply scores: Total opportunity score",
+            "Compare options: Highest score = best opportunity",
+            "Threshold: Only pursue if score >500",
+            "Reality check: High scores with fatal flaws still fail",
+            "Use: Framework for relative comparison, not absolute truth"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's better: vitamin or painkiller?",
+          "options": [
+            "Vitamin (nice-to-have)",
+            "Painkiller (solves urgent problem)",
+            "No difference",
+            "Both equally hard"
+          ],
+          "correctIndex": 1,
+          "explanation": "Painkillers solve urgent problems (easy sell, must-have). Vitamins are nice-to-have (hard sell). Start with painkillers for easier traction."
+        },
+        {
+          "question": "What's a red flag for business idea?",
+          "options": [
+            "Strong competition",
+            "'Everyone is my customer' and no clear target",
+            "Small niche",
+            "Similar to existing business"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Everyone is my customer' is red flag. Targeting everyone = reaching no one. Need specific, reachable target market."
+        }
+      ]
+    }
+  },
+  {
+    "id": "market-research",
+    "title": "Market Research & Customer Discovery",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Most businesses fail because they build what nobody wants. Market research prevents this. But don't spend months researching—spend weeks. Get minimum viable understanding, then test with real customers. Research goal: validate problem exists, understand customer deeply, identify how they currently solve it. You're not validating your solution yet—you're validating the problem."
+        },
+        {
+          "type": "list",
+          "title": "Market Research Basics",
+          "items": [
+            "Market size: How many potential customers?",
+            "Market segments: Different customer types with different needs",
+            "Customer demographics: Age, income, location, occupation",
+            "Customer psychographics: Values, interests, behaviors, pain points",
+            "Buying behavior: How do they make decisions?",
+            "Current solutions: How do they solve problem now?",
+            "Competition: Who else serves this market?"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The Mom Test: Don't ask 'Would you buy this?' People lie (unintentionally). Ask about their life and problems instead. Good: 'How do you currently handle X? What's frustrating about it? What have you tried?' Bad: 'Would you use my app that does Y? What features do you want?' Talk about their life, not your idea."
+        },
+        {
+          "type": "list",
+          "title": "Customer Interview Questions",
+          "items": [
+            "'Tell me about the last time you encountered [problem]'",
+            "'How do you currently deal with this?'",
+            "'What's most frustrating about current solution?'",
+            "'What have you tried in the past?'",
+            "'How much time/money does this cost you?'",
+            "'If you could wave magic wand, what would ideal solution be?'",
+            "Listen more, talk less: 80% listening, 20% asking"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Research Methods",
+          "items": [
+            "Customer interviews: One-on-one conversations (20-30 interviews)",
+            "Surveys: Broader data collection (100+ responses)",
+            "Observation: Watch how people actually behave",
+            "Online communities: Reddit, Facebook groups, forums",
+            "Competitor analysis: What are they doing? Customer reviews?",
+            "Industry reports: Market data and trends",
+            "Landing page test: Gauge interest before building"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Finding people to interview: Your network, LinkedIn, Facebook groups, Reddit, Twitter, industry events, coffee shops (if local business). Offer $25 Amazon gift card for 20 minutes. Most people willing to talk about their problems. Need 20-30 interviews to spot patterns."
+        },
+        {
+          "type": "list",
+          "title": "What You're Looking For",
+          "items": [
+            "Pattern recognition: Same problems mentioned repeatedly",
+            "Problem intensity: Do they actively seek solutions or just tolerate problem?",
+            "Current workarounds: How much effort goes into solving it now?",
+            "Willingness to pay: Do they currently pay for solutions?",
+            "Decision makers: Who decides to buy?",
+            "Objections: What prevents them from using existing solutions?",
+            "Red flag: If nobody has problem intensely, idea likely fails"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the Mom Test?",
+          "options": [
+            "Testing products on mothers",
+            "Ask about their life and problems, not your idea",
+            "Getting mother's approval",
+            "Marketing to moms"
+          ],
+          "correctIndex": 1,
+          "explanation": "Mom Test: Ask about their life and problems, not your idea. People lie about whether they'd buy. Truth is in how they currently behave."
+        },
+        {
+          "question": "How many customer interviews needed?",
+          "options": [
+            "1-2",
+            "20-30 to spot patterns",
+            "100+",
+            "None needed"
+          ],
+          "correctIndex": 1,
+          "explanation": "20-30 customer interviews needed to spot reliable patterns. Too few = unreliable data. More is better but diminishing returns after 30."
+        }
+      ]
+    }
+  },
+  {
+    "id": "mvp-development",
+    "title": "Building Your MVP",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "MVP (Minimum Viable Product) isn't crappy version of your vision—it's smallest thing that delivers value and tests core assumption. Most entrepreneurs build too much. They spend months perfecting features nobody wants. MVP goal: test hypothesis fast and cheap. Build enough to learn, not enough to impress. You'll feel embarrassed shipping it. Ship it anyway."
+        },
+        {
+          "type": "list",
+          "title": "MVP Principles",
+          "items": [
+            "One core feature: What's THE thing that solves problem?",
+            "Minimum, not minimal: Barely viable, not barely usable",
+            "Manual processes: Do things that don't scale initially",
+            "Speed: Ship in weeks, not months",
+            "Learning: Goal is validated learning, not perfect product",
+            "Iteration: Version 0.1, not version 1.0",
+            "Embarrassment: If you're not embarrassed, you waited too long"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The concierge MVP: Manually deliver service before automating. Building software? Manually do what software would do. This tests whether people want result before building expensive automation. Example: Food delivery app? Manually take orders and deliver before building platform. Validates demand."
+        },
+        {
+          "type": "list",
+          "title": "MVP Types",
+          "items": [
+            "Landing page: Website describing product, collect emails/preorders",
+            "Concierge: Manually deliver service to customers",
+            "Wizard of Oz: Appears automated but manually operated behind scenes",
+            "Prototype: Basic working version, limited features",
+            "Video: Explainer video showing how it would work",
+            "Paper prototype: Physical mockups for testing",
+            "Start: Choose based on what you're testing and resources"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "What to Include",
+          "items": [
+            "Core value proposition: The ONE thing that makes it valuable",
+            "Essential workflow: Minimum path from problem to solution",
+            "Payment: Can they pay you? (Validates willingness)",
+            "Feedback mechanism: How do they tell you what's missing?",
+            "Exclude: Polish, edge cases, nice-to-haves, auxiliary features",
+            "Test: Does this test my riskiest assumption?",
+            "Guideline: Cut scope in half, then half again"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The launch-learn-iterate cycle: Launch MVP quickly. Get real users. Learn what works and what doesn't. Iterate based on feedback. Repeat. Each cycle should be 1-2 weeks maximum initially. Ten iterations beats one perfect launch. Data from real users beats your assumptions."
+        },
+        {
+          "type": "list",
+          "title": "Common MVP Mistakes",
+          "items": [
+            "Building too much: Trying to impress instead of learn",
+            "Perfectionism: Polishing instead of shipping",
+            "No focus: Multiple features instead of one core value",
+            "No payment: 'Would you buy this?' proves nothing; charge money",
+            "Wrong metrics: Vanity metrics over learning metrics",
+            "No feedback loop: Can't learn without user feedback mechanism",
+            "Waiting: Perfect time never comes, ship now"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the goal of an MVP?",
+          "options": [
+            "Impress investors",
+            "Test hypothesis fast and cheap, validated learning",
+            "Perfect product launch",
+            "Beat competition"
+          ],
+          "correctIndex": 1,
+          "explanation": "MVP goal: test hypothesis fast and cheap for validated learning. Not to impress, not perfect product. Build enough to learn."
+        },
+        {
+          "question": "What's a concierge MVP?",
+          "options": [
+            "Luxury service",
+            "Manually deliver service before automating",
+            "High-end product",
+            "Customer service feature"
+          ],
+          "correctIndex": 1,
+          "explanation": "Concierge MVP: manually deliver service before automating. Tests if people want result before building expensive automation. Validates demand."
+        }
+      ]
+    }
+  },
+  {
+    "id": "validation-metrics",
+    "title": "Validation & Testing",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Validation answers: Is there real demand for this? Opinions don't validate. Interest doesn't validate. Only money validates. 'That's a great idea!' means nothing. 'Here's my credit card' means everything. Your job: prove people will pay before investing seriously. Save months or years by invalidating bad ideas quickly."
+        },
+        {
+          "type": "list",
+          "title": "Validation Hierarchy",
+          "items": [
+            "Lowest: Positive feedback ('Great idea!')—meaningless",
+            "Low: Email signups—slight interest signal",
+            "Medium: Waitlist with deposit—some commitment",
+            "High: Preorders with payment—real validation",
+            "Highest: Actual purchase and usage—true validation",
+            "Goal: Move up hierarchy as fast as possible",
+            "Only money validates: Everything else is just conversation"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The smoke test: Create landing page describing product like it exists. Drive traffic (ads, posts, network). Track conversion: how many people click 'buy' or 'sign up'? When they click, explain 'Coming soon—join waitlist.' If conversion rate <1%, idea problematic. If >5%, strong validation."
+        },
+        {
+          "type": "list",
+          "title": "Key Validation Metrics",
+          "items": [
+            "Conversion rate: % of visitors who buy/signup",
+            "Customer acquisition cost: Money spent to get customer",
+            "Willingness to pay: Price they'll actually pay",
+            "Retention: Do they come back?",
+            "Referrals: Do they tell others?",
+            "Time to value: How fast do they get benefit?",
+            "Benchmarks vary: Research your industry standards"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Running Tests",
+          "items": [
+            "Hypothesis: Clear statement of what you're testing",
+            "Success criteria: What results = validated?",
+            "Test design: How will you test it?",
+            "Sample size: Enough data to be meaningful (100+ minimum)",
+            "Duration: Long enough for valid data (1-2 weeks minimum)",
+            "Analysis: What did you learn? Pivot or persevere?",
+            "Iterate: Adjust and test again"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Pivot vs. persevere decision: Validated = keep going. Invalidated = change something major (pivot). Common pivots: different customer segment, different problem, different solution, different business model. Persevering with invalidated idea is expensive mistake. Pivoting on validated idea is also mistake. Data decides."
+        },
+        {
+          "type": "list",
+          "title": "Warning Signs",
+          "items": [
+            "Low conversion: <1% conversion rate from landing page",
+            "No willingness to pay: Free is popular, paid is not",
+            "High churn: Customers don't stick around",
+            "No referrals: Nobody recommends it",
+            "Long sales cycle: Takes forever to close deals",
+            "Tiny market: Fewer potential customers than you thought",
+            "Action: If seeing multiple warnings, pivot or quit"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What truly validates an idea?",
+          "options": [
+            "Positive feedback",
+            "Money—purchases and payment",
+            "Email signups",
+            "Social media likes"
+          ],
+          "correctIndex": 1,
+          "explanation": "Only money validates. Opinions, interest, signups don't prove demand. 'That's a great idea!' means nothing. 'Here's my credit card' means everything."
+        },
+        {
+          "question": "What's a smoke test?",
+          "options": [
+            "Testing product durability",
+            "Landing page describing product like it exists to test demand",
+            "Quality assurance",
+            "Fire safety test"
+          ],
+          "correctIndex": 1,
+          "explanation": "Smoke test: landing page describing product like it exists. Drive traffic, track conversions. Validates demand before building. Fast and cheap."
+        }
+      ]
+    }
+  },
+  {
+    "id": "pricing-strategy",
+    "title": "Pricing Strategy",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Pricing isn't cost plus margin—it's value capture. Price reflects value delivered, not cost incurred. Most entrepreneurs price too low from fear of rejection. Underpricing hurts: appears low-quality, attracts wrong customers, leaves money on table, creates unsustainable business. Better to price high and adjust down than start low. Can always discount. Can't easily raise prices."
+        },
+        {
+          "type": "list",
+          "title": "Pricing Strategies",
+          "items": [
+            "Cost-plus: Cost + desired margin (common but limiting)",
+            "Value-based: What's it worth to customer? (best for most)",
+            "Competitor-based: Match or beat competition (commodity trap)",
+            "Premium: Higher than alternatives (signals quality)",
+            "Penetration: Low initially to gain market share",
+            "Freemium: Free basic, paid premium features",
+            "Start: Value-based pricing with premium positioning"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Value-based pricing formula: What's their problem costing them now? Price is fraction of that value. Example: Problem costs $10K/year. Your solution saves that completely. Price = $2-3K/year. Customer saves $7-8K. Win-win. Nobody cares about your costs—they care about their value."
+        },
+        {
+          "type": "list",
+          "title": "Finding Your Price",
+          "items": [
+            "Research: What do competitors charge?",
+            "Ask: 'What would you pay for this?' (in customer interviews)",
+            "Van Westendorp: Ask 4 questions about too cheap, bargain, expensive, too expensive",
+            "A/B test: Try different prices, measure conversion",
+            "Start high: Easier to discount than raise",
+            "Experiment: Price isn't set in stone",
+            "Reality: You'll probably guess wrong initially—that's okay"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Pricing Psychology",
+          "items": [
+            "Anchoring: First price seen influences perception (show higher 'regular' price)",
+            "Charm pricing: $99 vs. $100 (works despite being obvious)",
+            "Price tiers: Good-Better-Best (most choose middle)",
+            "Decoy pricing: Expensive option makes others seem reasonable",
+            "Bundle: Package multiple items for perceived value",
+            "Annual discount: 15-20% off annual vs. monthly (better cash flow)",
+            "Context matters: Same product, different framing = different price"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The pricing conversation: If 100% of prospects say yes immediately, you're too cheap. If 100% say no, you're too expensive. Target: 70-80% say yes. 20-30% say no = correctly priced. 'Too expensive' often means 'not convinced of value'—address value, not price."
+        },
+        {
+          "type": "list",
+          "title": "Common Pricing Mistakes",
+          "items": [
+            "Pricing too low: Fear of rejection, leaves money on table",
+            "Competing on price: Race to bottom, unsustainable",
+            "Same price for everyone: Different segments have different willingness to pay",
+            "Never raising: Inflation and value increases justify raises",
+            "No tiers: Single option limits revenue per customer",
+            "Unclear value: If they don't understand value, won't pay",
+            "Free forever: Hard to monetize free users later"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What should pricing be based on?",
+          "options": [
+            "Your costs plus margin",
+            "Value delivered to customer",
+            "What you want to earn",
+            "Lowest competitor price"
+          ],
+          "correctIndex": 1,
+          "explanation": "Pricing should be based on value delivered to customer. What's problem worth solving? Price is fraction of that value. Costs are irrelevant to customer."
+        },
+        {
+          "question": "What's the ideal pricing conversion rate?",
+          "options": [
+            "100% say yes",
+            "70-80% say yes, 20-30% say no",
+            "50-50",
+            "Everyone says no"
+          ],
+          "correctIndex": 1,
+          "explanation": "Target 70-80% yes. 100% yes = too cheap. 100% no = too expensive. 20-30% rejection means correctly priced at maximum value capture."
+        }
+      ]
+    }
+  }
+]
