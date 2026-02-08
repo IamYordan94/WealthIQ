@@ -1,0 +1,476 @@
+[
+  {
+    "id": "marketing-fundamentals",
+    "title": "Digital Marketing Fundamentals",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Digital marketing is the most measurable, cost-effective way to grow a business. Unlike traditional marketing (billboards, TV ads), digital marketing tracks every click, view, and conversion. You know exactly what works and what doesn't. This data-driven approach enables small businesses to compete with large corporations and individuals to build audiences from zero."
+        },
+        {
+          "type": "list",
+          "title": "Core Digital Marketing Channels",
+          "items": [
+            "Content marketing: Blogs, videos, podcasts that attract and educate audience",
+            "SEO (Search): Optimize to appear in Google search results organically",
+            "Social media: Build audience on platforms where your customers spend time",
+            "Email marketing: Direct communication with interested subscribers",
+            "Paid advertising: Google Ads, Facebook Ads, targeted paid promotion",
+            "Influencer marketing: Partner with influencers to reach their audiences"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The marketing funnel: Awareness (people discover you) → Interest (they engage with content) → Consideration (they evaluate your offering) → Conversion (they buy/subscribe) → Loyalty (they return and refer). Different channels excel at different stages. Content and SEO drive awareness; email drives conversion and loyalty."
+        },
+        {
+          "type": "list",
+          "title": "Digital Marketing vs Traditional",
+          "items": [
+            "Cost: Digital is dramatically cheaper, accessible to any budget",
+            "Targeting: Reach specific demographics, interests, behaviors precisely",
+            "Measurement: Track every metric, ROI, conversion in real-time",
+            "Speed: Launch campaigns in hours, not months",
+            "Adjustment: Optimize campaigns instantly based on performance data",
+            "Scale: Reach global audience or hyper-local customers",
+            "Engagement: Two-way communication, build relationships"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "The Modern Marketing Strategy",
+          "items": [
+            "Owned media: Your website, blog, email list (you control)",
+            "Earned media: PR, word-of-mouth, organic social mentions (you earn)",
+            "Paid media: Advertising on platforms (you pay)",
+            "Best approach: Build owned media foundation, amplify with paid, enhance with earned",
+            "Long-term goal: Own your audience (email list, website traffic) not rent it (social followers)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Channel selection strategy: Don't try everything. Choose 2-3 channels based on: Where is your audience? What's your budget? What skills do you have? Master those channels before expanding. A business can thrive with just content + SEO, or just social + email, or just paid ads. Depth beats breadth."
+        },
+        {
+          "type": "list",
+          "title": "Key Marketing Metrics",
+          "items": [
+            "Traffic: Visitors to your website/content",
+            "Engagement: Likes, comments, shares, time spent",
+            "Conversion rate: % of visitors who take desired action",
+            "Customer acquisition cost (CAC): Cost to acquire one customer",
+            "Lifetime value (LTV): Total revenue from average customer",
+            "ROI: Return on investment (revenue ÷ marketing spend)",
+            "Email open/click rates: Email engagement metrics"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's a key advantage of digital marketing over traditional?",
+          "options": [
+            "More expensive",
+            "Measurable, trackable ROI and performance in real-time",
+            "Slower to launch",
+            "Less targeted"
+          ],
+          "correctIndex": 1,
+          "explanation": "Digital marketing's biggest advantage is measurability: track every click, conversion, and dollar spent in real-time. This enables optimization impossible with traditional marketing."
+        },
+        {
+          "question": "What should you focus on as a beginner?",
+          "options": [
+            "Master every channel simultaneously",
+            "Choose 2-3 channels and master them deeply",
+            "Only paid advertising",
+            "Random experimentation"
+          ],
+          "correctIndex": 1,
+          "explanation": "Master 2-3 channels deeply rather than spreading thin across all channels. Depth beats breadth in marketing effectiveness."
+        }
+      ]
+    }
+  },
+  {
+    "id": "target-audience",
+    "title": "Understanding Your Target Audience",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Marketing to everyone is marketing to no one. Successful marketing starts with deep audience understanding: Who are they? What problems do they face? Where do they spend time online? What language do they use? The more specifically you understand your audience, the more effective your marketing becomes. This isn't guessing—it's research and observation."
+        },
+        {
+          "type": "list",
+          "title": "Creating Customer Personas",
+          "items": [
+            "Demographics: Age, location, income, education, occupation",
+            "Psychographics: Values, interests, lifestyle, personality traits",
+            "Goals: What are they trying to achieve?",
+            "Challenges: What obstacles do they face?",
+            "Information sources: Where do they learn and get advice?",
+            "Buying behavior: How do they make purchase decisions?",
+            "Example: 'Sarah, 32, marketing manager, struggles with work-life balance, reads productivity blogs, active on LinkedIn'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Research methods: Survey existing customers (what brought them to you?), analyze social media followers, read reviews of competitors, join communities where your audience hangs out, use tools like Google Analytics for website visitor data. The best insights come from talking to real customers, not assumptions."
+        },
+        {
+          "type": "list",
+          "title": "The Jobs-to-be-Done Framework",
+          "items": [
+            "Concept: People 'hire' products to do a job in their life",
+            "Functional job: What task needs to be done? (lose weight, learn skill)",
+            "Emotional job: How do they want to feel? (confident, secure, successful)",
+            "Social job: How do they want to be perceived? (innovative, responsible)",
+            "Example: Gym membership isn't about exercise—it's about feeling confident, healthy, attractive",
+            "Marketing shift: Sell the transformation, not the features"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Audience Segmentation",
+          "items": [
+            "Why segment: Different segments have different needs, respond to different messages",
+            "Common segments: Beginners vs. advanced users, budget-conscious vs. premium buyers",
+            "By use case: Different problems your product solves",
+            "By channel: LinkedIn audience differs from Instagram audience",
+            "Custom messaging: Tailor content to each segment's needs and language",
+            "Start simple: Begin with 2-3 segments, add complexity as you grow"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Voice of customer research: Read Amazon reviews of competitor products, analyze YouTube comments on related videos, browse Reddit threads in relevant communities, study questions people ask on Quora. These reveal actual language people use, real pain points, and unmet needs. Mine this for content ideas and messaging."
+        },
+        {
+          "type": "list",
+          "title": "Empathy Mapping",
+          "items": [
+            "What do they see? Environment, media, influencers",
+            "What do they hear? What friends, colleagues, influencers say",
+            "What do they think and feel? Worries, aspirations, frustrations",
+            "What do they say and do? Public statements vs. actual behavior",
+            "Pain points: What frustrates or worries them?",
+            "Gains: What do they want to achieve or obtain?",
+            "Use this: Creates deeper understanding than demographics alone"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the best source for audience insights?",
+          "options": [
+            "Your assumptions",
+            "Talking to real customers and analyzing their behavior",
+            "Competitor websites",
+            "General statistics"
+          ],
+          "correctIndex": 1,
+          "explanation": "Best insights come from real customers: surveys, interviews, reviews, and behavioral data. Assumptions lead to ineffective marketing."
+        },
+        {
+          "question": "What is the Jobs-to-be-Done framework?",
+          "options": [
+            "A job board",
+            "Understanding what 'job' customers hire your product to do in their life",
+            "Employee management",
+            "Task lists"
+          ],
+          "correctIndex": 1,
+          "explanation": "Jobs-to-be-Done: people 'hire' products for functional, emotional, and social jobs. Understanding this transforms marketing messaging."
+        }
+      ]
+    }
+  },
+  {
+    "id": "brand-positioning",
+    "title": "Brand & Positioning",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Brand isn't your logo or color scheme—it's how people perceive you. Positioning is the specific place you occupy in people's minds relative to competitors. Strong positioning makes marketing easy; weak positioning makes it impossible. Example: Volvo = safety, Apple = innovation, Southwest = low-cost convenience. What one word defines your brand?"
+        },
+        {
+          "type": "list",
+          "title": "Elements of Strong Positioning",
+          "items": [
+            "Target audience: Who specifically is this for?",
+            "Category: What market/category do you compete in?",
+            "Benefit: What's the main advantage customers get?",
+            "Differentiation: Why choose you over alternatives?",
+            "Proof: Why should they believe your claim?",
+            "Example: 'For busy professionals [audience] who need quick meals [category], we deliver healthy [benefit] chef-prepared meals [differentiation] with 500+ 5-star reviews [proof]'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The positioning statement template: For [target audience] who [need/want], [brand] is a [category] that [key benefit]. Unlike [competitors], we [unique differentiation]. This forces clarity on the essentials. If you can't complete this clearly, your positioning needs work."
+        },
+        {
+          "type": "list",
+          "title": "Differentiation Strategies",
+          "items": [
+            "Product: Superior features, quality, or performance",
+            "Price: Lowest cost or best value",
+            "Service: Exceptional customer experience",
+            "Niche: Specialize in specific audience or use case",
+            "Convenience: Easier, faster, more accessible",
+            "Brand values: Align with customers' values (sustainability, ethics)",
+            "Pick one: Trying to differentiate on everything = differentiation on nothing"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Building Brand Identity",
+          "items": [
+            "Brand voice: How you communicate (professional, friendly, irreverent, educational)",
+            "Visual identity: Colors, fonts, imagery style (consistent across all touchpoints)",
+            "Brand personality: If brand were a person, how would they act?",
+            "Core values: What do you stand for? What won't you compromise?",
+            "Brand story: Why you exist, what problem you're solving, your journey",
+            "Consistency: Same voice, look, and message across all channels"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Perceptual positioning: Where you sit in customer's mind on key dimensions. Budget vs. premium. Traditional vs. innovative. Simple vs. feature-rich. Broad vs. specialized. You can't be everything. Choose your position strategically based on: competitive gaps, audience needs, your strengths. Own that position."
+        },
+        {
+          "type": "list",
+          "title": "Positioning Mistakes",
+          "items": [
+            "Too broad: Trying to appeal to everyone",
+            "No differentiation: 'We're high quality with good service' (everyone says this)",
+            "Feature-focused: Listing features instead of benefits",
+            "Copying competitors: Me-too positioning doesn't stand out",
+            "Inconsistency: Different message across different channels",
+            "No proof: Claims without evidence to back them up",
+            "Changing too often: Confuses audience, weakens brand"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is brand positioning?",
+          "options": [
+            "Your logo design",
+            "The specific place you occupy in customer's mind relative to competitors",
+            "Your pricing strategy",
+            "Your social media presence"
+          ],
+          "correctIndex": 1,
+          "explanation": "Positioning is the specific place you occupy in customer's mind relative to competitors. It's not visual—it's perceptual."
+        },
+        {
+          "question": "What's a key to strong differentiation?",
+          "options": [
+            "Be the best at everything",
+            "Pick one dimension and own it",
+            "Copy successful competitors",
+            "Focus only on price"
+          ],
+          "correctIndex": 1,
+          "explanation": "Pick one differentiation dimension and own it. Trying to differentiate on everything results in differentiation on nothing."
+        }
+      ]
+    }
+  },
+  {
+    "id": "value-proposition",
+    "title": "Crafting Your Value Proposition",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Your value proposition answers: Why should someone choose you? It's not a slogan or tagline—it's the core benefit you deliver to customers. A strong value proposition is clear, specific, and focused on customer outcomes, not your features. When someone lands on your website, they should understand your value in 5 seconds."
+        },
+        {
+          "type": "list",
+          "title": "Value Proposition Framework",
+          "items": [
+            "Headline: One clear sentence of benefit (what you deliver)",
+            "Sub-headline: Specific explanation of what you offer, who it's for",
+            "Three bullet points: Key benefits or features",
+            "Visual: Image or video reinforcing the value",
+            "Example headline: 'Ship software 10x faster with AI-powered development tools'",
+            "Example sub: 'For development teams tired of slow releases, we automate testing and deployment'"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The Before-After-Bridge framework: Before (life with the problem), After (life with solution), Bridge (how your product gets them there). Example: Before: 'Spending 3 hours daily on email.' After: 'Inbox zero in 30 minutes.' Bridge: 'Our AI assistant drafts responses, categorizes emails, and flags priorities.'"
+        },
+        {
+          "type": "list",
+          "title": "Benefits vs Features",
+          "items": [
+            "Features: What it is or has ('24/7 customer support', 'Cloud-based')",
+            "Benefits: What it does for customer ('Never wait for help', 'Access from anywhere')",
+            "Transformation: What customer becomes ('Confident', 'Productive', 'Successful')",
+            "Always lead with benefits, support with features",
+            "Bad: 'We use advanced algorithms' / Good: 'Get accurate results in seconds'",
+            "Ask: So what? Why does this matter to the customer?"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Testing Your Value Proposition",
+          "items": [
+            "Clarity test: Can someone explain what you do after 5 seconds?",
+            "Relevance test: Does it address real customer pain point?",
+            "Differentiation test: How is this different from competitors?",
+            "Credibility test: Do you have proof to back the claim?",
+            "Show to non-customers: Do they understand and find it compelling?",
+            "A/B testing: Test different versions to see what resonates"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Common mistake: Technical jargon that sounds impressive but communicates nothing. 'Leveraging synergistic paradigms' means nothing to customers. Clear beats clever. Simple beats sophisticated. If explaining to friend at dinner, you'd say: 'We help small businesses get more customers from Google.' Say that."
+        },
+        {
+          "type": "list",
+          "title": "Value Proposition Examples",
+          "items": [
+            "Slack: 'Where work happens' - clear, simple, aspirational",
+            "Uber: 'Get there. Your day belongs to you' - outcome-focused",
+            "Stripe: 'Payments infrastructure for the internet' - clear category and audience",
+            "Headspace: 'Meditation made simple' - addresses barrier to entry",
+            "Dollar Shave Club: 'Shave time. Shave money.' - dual benefit, memorable",
+            "Pattern: Clear, benefit-focused, jargon-free, customer-centric"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What should your value proposition focus on?",
+          "options": [
+            "Your company history",
+            "Customer benefits and outcomes",
+            "Technical specifications",
+            "Your team credentials"
+          ],
+          "correctIndex": 1,
+          "explanation": "Value proposition focuses on customer benefits and outcomes, not your features, history, or credentials. It answers: Why should I care?"
+        },
+        {
+          "question": "What's the difference between features and benefits?",
+          "options": [
+            "There is no difference",
+            "Features are what it has; benefits are what it does for customer",
+            "Benefits are technical specs",
+            "Features are more important"
+          ],
+          "correctIndex": 1,
+          "explanation": "Features describe what product has ('Cloud-based'); benefits describe what it does for customer ('Access from anywhere'). Lead with benefits."
+        }
+      ]
+    }
+  },
+  {
+    "id": "marketing-strategy",
+    "title": "Creating a Marketing Strategy",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Strategy is your roadmap: where you are, where you want to go, how you'll get there. Without strategy, marketing is random acts hoping something works. With strategy, every action connects to a goal. Good strategy isn't complex—it's clear priorities, focused resources, and consistent execution over time. Most businesses fail at marketing because they lack strategy, not tactics."
+        },
+        {
+          "type": "list",
+          "title": "Marketing Strategy Framework",
+          "items": [
+            "1. Goals: Specific, measurable objectives (1000 email subscribers in 6 months)",
+            "2. Audience: Who exactly are we targeting? (detailed persona)",
+            "3. Positioning: How do we want to be perceived?",
+            "4. Channels: Which 2-3 channels will we focus on?",
+            "5. Content: What content will we create to attract and convert?",
+            "6. Budget: What resources (time, money) do we have?",
+            "7. Metrics: How will we measure success?"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The 3 marketing strategies: 1) Own the niche (dominate a small segment), 2) Own the attribute (be known for one thing), 3) Own the trend (ride emerging wave). Small businesses should own a niche. Startups should own an attribute or trend. Large companies can pursue multiple strategies."
+        },
+        {
+          "type": "list",
+          "title": "Goal Setting",
+          "items": [
+            "SMART goals: Specific, Measurable, Achievable, Relevant, Time-bound",
+            "Bad goal: 'Increase traffic' / Good: 'Increase organic traffic 50% in 6 months'",
+            "Business goals: Revenue, customers, market share",
+            "Marketing goals: Traffic, leads, conversions, engagement",
+            "Leading metrics: Activity you can control (publish 2 posts weekly)",
+            "Lagging metrics: Results (traffic, conversions) that follow from leading metrics",
+            "Focus on both: Control leading, measure lagging"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Resource Allocation",
+          "items": [
+            "80/20 rule: 80% results from 20% activities - identify your 20%",
+            "Time vs money: More time (DIY content) or more money (paid ads)?",
+            "Quick wins: Activities with fast results (paid ads, email to existing list)",
+            "Long-term: Activities that compound (SEO, content, audience building)",
+            "Balance: Some quick wins for momentum, most resources on long-term",
+            "Double down: When something works, allocate more resources to it"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Competitive strategy: Direct competition (compete head-on), differentiation (be different), niche (dominate segment), blue ocean (create new category). For most businesses: differentiation or niche works better than direct competition. Find white space competitors ignore."
+        },
+        {
+          "type": "list",
+          "title": "Creating Your Marketing Plan",
+          "items": [
+            "Situation analysis: Where are you now? (SWOT: Strengths, Weaknesses, Opportunities, Threats)",
+            "Strategic objectives: What will you achieve this year?",
+            "Target audience: Detailed description of who you're targeting",
+            "Channel strategy: Which channels, why, how you'll use them",
+            "Content calendar: What content, when, on which channels",
+            "Budget breakdown: How money allocated across channels",
+            "Success metrics: What you'll track, targets for each",
+            "Review schedule: Monthly review and adjustment"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Why do most businesses fail at marketing?",
+          "options": [
+            "Not enough budget",
+            "Lack of strategy, not tactics - random acts vs. focused execution",
+            "Wrong tools",
+            "Bad products"
+          ],
+          "correctIndex": 1,
+          "explanation": "Most failures come from lack of strategy: random marketing acts hoping something works. Strategy provides focus and direction."
+        },
+        {
+          "question": "What should small businesses focus on?",
+          "options": [
+            "Competing directly with large companies",
+            "Owning a niche - dominating a small segment",
+            "Being everything to everyone",
+            "Lowest price strategy"
+          ],
+          "correctIndex": 1,
+          "explanation": "Small businesses should own a niche: dominate a small segment rather than competing broadly. This allows focused, effective marketing."
+        }
+      ]
+    }
+  }
+]
