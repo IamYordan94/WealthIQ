@@ -1,1 +1,525 @@
-[continuing in next message due to length...]
+[
+  {
+    "id": "property-management-basics",
+    "title": "Property Management Basics",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Property management makes or breaks real estate investing. Excellent management means reliable cash flow, happy tenants, and preserved property value. Poor management means constant headaches, vacancy, damages, and legal issues. You can self-manage or hire professionals—both have trade-offs. Understanding management fundamentals is essential regardless of which path you choose."
+        },
+        {
+          "type": "list",
+          "title": "Self-Management vs Property Manager",
+          "items": [
+            "Self-manage: No management fee (save 8-10%), direct control, learn business, requires time and availability",
+            "Property manager: Pay 8-10% of rent, professional handling, scalable, less control, quality varies widely",
+            "When to self-manage: 1-3 local properties, time available, want hands-on experience",
+            "When to hire: 4+ properties, out-of-state, busy career, value your time highly",
+            "Hybrid: Self-manage initially to learn, hire manager as you scale",
+            "Cost: $100/month management fee is worth it if saves 10+ hours monthly"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Tenant screening is your most important management task. Good tenants pay on time, maintain property, stay long-term, and cause few issues. Bad tenants cost thousands in lost rent, damages, evictions, and stress. Thorough screening takes 1-2 hours but prevents months of problems. Never skip screening to fill vacancy faster."
+        },
+        {
+          "type": "list",
+          "title": "Tenant Screening Process",
+          "items": [
+            "Minimum criteria: 3x rent income, 620+ credit score, no evictions, verify employment",
+            "Application: Complete application with rental history, employment, references",
+            "Credit check: Review score, payment history, accounts, debt levels",
+            "Background check: Criminal history, eviction records, sex offender registry",
+            "Income verification: Pay stubs, bank statements, tax returns for self-employed",
+            "Reference calls: Previous landlords (not current, they might lie to get rid of bad tenant)",
+            "Meeting: In-person or video meeting to assess responsibility and communication"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Lease Agreements",
+          "items": [
+            "Use attorney-reviewed lease: State-specific, covers legal requirements",
+            "Length: 12-month lease typical, month-to-month gives flexibility but less stability",
+            "Rent amount: Market rate, specify due date and late fees",
+            "Security deposit: Typically one month's rent, follow state laws on holding/returning",
+            "Maintenance responsibilities: Clearly define landlord vs tenant responsibilities",
+            "Rules: Pets, smoking, guests, parking, noise policies all in writing",
+            "Move-in inspection: Document condition with photos, signed checklist"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Maintenance response time affects tenant satisfaction and retention. Same-day response for emergencies (no heat, no water, flooding), 24-48 hours for urgent issues, 3-7 days for routine maintenance. Have reliable contractor relationships established before emergencies occur. Preventive maintenance saves money compared to emergency repairs."
+        },
+        {
+          "type": "list",
+          "title": "Key Management Tasks",
+          "items": [
+            "Rent collection: Online payment systems, enforce late fees consistently",
+            "Maintenance coordination: Respond promptly, use reliable contractors, document everything",
+            "Property inspections: Quarterly exterior, annual interior to catch issues early",
+            "Accounting: Track income/expenses meticulously, separate bank account for each property",
+            "Communication: Respond to tenant inquiries within 24 hours",
+            "Legal compliance: Follow Fair Housing, state/local landlord-tenant laws",
+            "Turnovers: Clean, repair, upgrade between tenants, minimize vacancy time"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Management Mistakes",
+          "items": [
+            "Poor screening: Desperate to fill vacancy leads to bad tenants",
+            "Verbal agreements: Everything must be in writing",
+            "Inconsistent enforcement: Enforcing rules selectively creates legal liability",
+            "Delayed maintenance: Small issues become expensive when ignored",
+            "No documentation: Not documenting communications, conditions, repairs",
+            "Over-involvement: Being available 24/7, train tenants to respect boundaries",
+            "Under-involvement: Not conducting inspections, discovering major issues too late"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the most important property management task?",
+          "options": [
+            "Collecting rent on time",
+            "Thorough tenant screening to select quality tenants",
+            "Handling maintenance quickly",
+            "Raising rents annually"
+          ],
+          "correctIndex": 1,
+          "explanation": "Thorough tenant screening is most important. Good tenants prevent most other problems (late rent, damages, evictions)."
+        },
+        {
+          "question": "When should you hire a property manager?",
+          "options": [
+            "Immediately for first property",
+            "When you have 4+ properties, out-of-state properties, or limited time",
+            "Never, always self-manage",
+            "Only for commercial properties"
+          ],
+          "correctIndex": 1,
+          "explanation": "Consider property managers when you have 4+ properties, invest out-of-state, or your time is worth more than the 8-10% management fee."
+        }
+      ]
+    }
+  },
+  {
+    "id": "tenant-relations",
+    "title": "Tenant Relations & Retention",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Good tenants are assets worth keeping. Tenant turnover costs 1-2 months rent in vacancy, cleaning, repairs, marketing, and screening. A tenant who stays 5 years instead of 1 year saves you thousands. Treating tenants professionally while maintaining boundaries creates stable, profitable rentals. The goal: professional landlord-tenant relationship, not friendship."
+        },
+        {
+          "type": "list",
+          "title": "Building Positive Relationships",
+          "items": [
+            "Responsive communication: Reply to inquiries within 24 hours",
+            "Quick maintenance: Fix issues promptly, especially those affecting habitability",
+            "Respect privacy: Give 24 hours notice before entry, don't drop by unannounced",
+            "Fair treatment: Enforce rules consistently, don't discriminate",
+            "Professionalism: Business relationship, not friendship, maintains appropriate boundaries",
+            "Small gestures: Holiday card, move-in gift basket builds goodwill affordably"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Retention starts at move-in. Good first impression, smooth process, and quick response to early issues set positive tone. Many landlords lose good tenants through neglect—slow responses, ignoring maintenance, treating tenants as adversaries. Professional, respectful treatment costs nothing and dramatically improves retention."
+        },
+        {
+          "type": "list",
+          "title": "Retention Strategies",
+          "items": [
+            "Competitive pricing: Market-rate renewals, not automatic 10% increases",
+            "Property condition: Keep property well-maintained, address issues proactively",
+            "Upgrade incentives: Offer minor upgrades for lease renewal (new appliance, paint)",
+            "Flexible lease terms: Consider tenant requests (early renewal, month-to-month extension)",
+            "Long-term discounts: Small discount for 24-month lease vs 12-month",
+            "Good tenant rewards: Waive rent increase for exceptional long-term tenants"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Handling Issues",
+          "items": [
+            "Late rent: Follow policy, charge late fees consistently, communicate consequences",
+            "Noise complaints: Warn first, document, escalate to lease violation if continues",
+            "Unauthorized occupants: Address immediately, violates lease, creates liability",
+            "Property damage: Document with photos, charge for repairs beyond normal wear",
+            "Lease violations: Written warnings, document, follow escalation procedure",
+            "Difficult personalities: Professional distance, document everything, don't engage emotionally"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Document everything. Email is your friend—creates paper trail of all communications, requests, and agreements. Photos document property condition at move-in, during tenancy, and at move-out. This documentation protects you legally and prevents disputes over deposits, damages, and agreements."
+        },
+        {
+          "type": "list",
+          "title": "When to Evict",
+          "items": [
+            "Non-payment: 2-3 months unpaid rent, payment plan failed, no communication",
+            "Lease violations: Repeated violations after warnings, serious single violation",
+            "Illegal activity: Drug dealing, violence, criminal activity",
+            "Property damage: Intentional destruction beyond normal wear",
+            "Legal process: Follow state laws exactly, hire attorney, don't self-help evict",
+            "Cost: $1,000-3,000 in legal fees, 2-6 months to complete"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How much does tenant turnover typically cost?",
+          "options": [
+            "Nothing, just clean and re-rent",
+            "A few hundred dollars",
+            "1-2 months rent in vacancy, cleaning, repairs, and marketing",
+            "Just the security deposit"
+          ],
+          "correctIndex": 2,
+          "explanation": "Tenant turnover costs 1-2 months rent when accounting for vacancy, cleaning, repairs, marketing, and screening time."
+        },
+        {
+          "question": "What's the best retention strategy?",
+          "options": [
+            "Becoming friends with tenants",
+            "Never raising rent",
+            "Professional service, responsive maintenance, competitive renewals",
+            "Ignoring small issues"
+          ],
+          "correctIndex": 2,
+          "explanation": "Professional service, responsive maintenance, and competitive renewal rates retain good tenants better than being friends or undercharging rent."
+        }
+      ]
+    }
+  },
+  {
+    "id": "real-estate-taxes",
+    "title": "Real Estate Tax Benefits",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Real estate offers extraordinary tax benefits that amplify returns. Depreciation creates paper losses that offset income. Expense deductions reduce taxable income. 1031 exchanges defer capital gains indefinitely. These tax advantages are why real estate is wealth-building vehicle of choice for high earners. Understanding and using these benefits legally is essential for maximizing returns."
+        },
+        {
+          "type": "list",
+          "title": "Depreciation",
+          "items": [
+            "What it is: IRS allows you to deduct property value over 27.5 years (residential)",
+            "How it works: $275k building value ÷ 27.5 years = $10k annual deduction",
+            "Paper loss: Creates tax deduction without actual cash expense",
+            "Land exception: Land doesn't depreciate, only building value",
+            "Example: $10k depreciation offsets $10k rental income, pay $0 tax on cash flow",
+            "Recapture: When you sell, depreciation is taxed at 25%, still better than deferring"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Cost segregation accelerates depreciation. Engineering study identifies components (carpets, appliances, landscaping) that depreciate faster than 27.5 years. This front-loads deductions, creating larger early tax benefits. Worth doing on properties $500k+ or portfolios. Costs $5k-15k but can create $50k-200k in early deductions."
+        },
+        {
+          "type": "list",
+          "title": "Deductible Expenses",
+          "items": [
+            "Operating expenses: Property management, repairs, maintenance, supplies",
+            "Property costs: Insurance, property taxes, HOA fees, utilities if you pay",
+            "Professional services: Accounting, legal, property management fees",
+            "Travel: Mileage/travel to check properties, meet contractors, show units",
+            "Home office: If you have dedicated space for managing properties",
+            "Education: Books, courses, conferences about real estate investing",
+            "Marketing: Advertising for tenants, website, signage"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "1031 Exchange",
+          "items": [
+            "Purpose: Defer capital gains tax by reinvesting proceeds into like-kind property",
+            "Requirements: Investment property to investment property, use qualified intermediary",
+            "Timeline: Identify replacement within 45 days, close within 180 days",
+            "Benefits: Defer taxes indefinitely by continuously exchanging properties",
+            "Rules: Same or greater value, equal or more debt, can't touch proceeds",
+            "Strategy: Upgrade portfolio over time while deferring taxes",
+            "Death step-up: Heirs receive stepped-up basis, avoiding all deferred gains"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Real estate professional status unlocks unlimited passive loss deductions. Requirements: spend 750+ hours in real estate AND more than any other work. Allows you to deduct real estate losses against W2 income. Powerful for high earners with spouses who can qualify. Requires documentation and careful planning."
+        },
+        {
+          "type": "list",
+          "title": "Other Tax Strategies",
+          "items": [
+            "Primary residence exclusion: $250k/$500k capital gains tax-free if lived 2 of last 5 years",
+            "House hack then sell: Live in multi-family 2 years, use primary residence exclusion",
+            "Opportunity zones: Invest in designated areas for capital gains deferral/reduction",
+            "LLC/entity structure: Liability protection, potential tax benefits with S-corp election",
+            "Self-directed IRA: Buy real estate in retirement account, all gains tax-deferred",
+            "Augusta rule: Rent primary home 14 days annually tax-free (great for short-term rentals)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Tax Mistakes",
+          "items": [
+            "Poor record keeping: Missing deductions due to lack of documentation",
+            "Not using depreciation: Leaving money on table by not claiming depreciation",
+            "DIY complex taxes: Real estate tax code is complex, use specialized CPA",
+            "Mixing personal and business: Commingled funds create audit issues",
+            "Selling without 1031: Paying unnecessary capital gains tax",
+            "Not tracking basis: Can't prove improvements, pay more tax at sale"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is depreciation in real estate?",
+          "options": [
+            "When property value decreases",
+            "Tax deduction for building value over 27.5 years",
+            "Interest you pay on mortgage",
+            "Property maintenance expenses"
+          ],
+          "correctIndex": 1,
+          "explanation": "Depreciation is a tax deduction allowing you to write off residential building value over 27.5 years, creating paper losses that offset income."
+        },
+        {
+          "question": "What is a 1031 exchange?",
+          "options": [
+            "Swapping properties with another investor",
+            "Strategy to defer capital gains by reinvesting in like-kind property",
+            "Refinancing your mortgage",
+            "Selling property to family member"
+          ],
+          "correctIndex": 1,
+          "explanation": "1031 exchange lets you defer capital gains taxes indefinitely by reinvesting sale proceeds into another investment property within specific timelines."
+        }
+      ]
+    }
+  },
+  {
+    "id": "insurance-protection",
+    "title": "Insurance & Risk Protection",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Insurance protects your investment from catastrophic losses. Proper coverage means a fire, lawsuit, or natural disaster doesn't wipe out your wealth. Under-insurance is common mistake—investors trying to save $200/year leave themselves exposed to $200k+ losses. Understanding what coverage you need and what's actually covered prevents financial disasters."
+        },
+        {
+          "type": "list",
+          "title": "Types of Property Insurance",
+          "items": [
+            "Dwelling coverage: Rebuilds structure if destroyed, insure for replacement cost not market value",
+            "Liability coverage: Protects against lawsuits (slip and fall, injury), minimum $1M recommended",
+            "Loss of rents: Pays lost rental income if property uninhabitable, typically 6-12 months",
+            "Personal property: Covers your equipment (appliances, maintenance tools)",
+            "Flood insurance: Separate policy if in flood zone, worth considering even if not required",
+            "Earthquake insurance: Separate in earthquake zones, expensive but necessary"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Landlord insurance costs 15-25% more than homeowner insurance. Why? Higher risks from tenant damage, vacancy, and liability exposure. Don't use homeowner policy on rental—it won't cover rental activities and claims could be denied. Always disclose property is rental to insurance company."
+        },
+        {
+          "type": "list",
+          "title": "Umbrella Liability Policy",
+          "items": [
+            "What it is: Additional liability coverage beyond property policy limits",
+            "Coverage: Typically $1M-5M additional protection",
+            "Cost: Remarkably cheap, $200-500 annually for $1M coverage",
+            "Protection: Covers across all properties and personal liability",
+            "Requirements: Usually need $300k/$500k auto and $300k property liability first",
+            "Essential: More properties = more liability exposure, umbrella policy is crucial"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Entity Structure Protection",
+          "items": [
+            "LLC benefits: Liability protection, separates personal and business assets",
+            "Series LLC: One parent LLC with multiple sub-LLCs, each property isolated",
+            "Cost: $100-500 annually per LLC depending on state",
+            "Maintenance: Must maintain separate accounts, proper records for protection",
+            "Financing challenge: Many lenders won't lend to LLCs, require personal guarantees",
+            "Strategy: Buy in personal name, transfer to LLC after closing (check with lender)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Insurance and entity structure work together. LLC protects you if tenant sues, but building burns down with inadequate insurance, LLC won't help—you still lose the asset. Conversely, great insurance but no entity means tenant slip-and-fall lawsuit can reach personal assets. Layer your protections."
+        },
+        {
+          "type": "list",
+          "title": "Risk Management Practices",
+          "items": [
+            "Regular inspections: Identify hazards before they cause injuries",
+            "Prompt repairs: Fix safety issues immediately",
+            "Quality tenants: Screen well, reducing likelihood of problems",
+            "Documentation: Photos, communications, maintenance records protect in disputes",
+            "Local code compliance: Follow housing codes, safety regulations",
+            "Professional help: Use licensed contractors for repairs, especially electrical/plumbing",
+            "Winterization: Prevent frozen pipes in vacant properties"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Insurance Mistakes",
+          "items": [
+            "Under-insuring: Saving on premium, exposed to massive loss",
+            "Wrong policy type: Using homeowner policy on rental property",
+            "No umbrella: Leaving personal assets exposed to lawsuits",
+            "Not updating coverage: Property improvements not reflected in coverage",
+            "No loss of rents: No income protection during repairs",
+            "Skipping flood insurance: 'Not in flood zone' but flash flooding still possible",
+            "Cheap coverage: Lowest price often means inadequate coverage or bad service"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Why does landlord insurance cost more than homeowner insurance?",
+          "options": [
+            "Insurance companies are greedy",
+            "Rental properties have higher risks: tenant damage, vacancy, liability",
+            "It doesn't, they're the same",
+            "Only if you have bad tenants"
+          ],
+          "correctIndex": 1,
+          "explanation": "Landlord insurance costs 15-25% more due to higher risks: tenant damage, vacancy periods, increased liability exposure from renters."
+        },
+        {
+          "question": "What is an umbrella liability policy?",
+          "options": [
+            "Property insurance",
+            "Additional liability coverage beyond property policy limits",
+            "Coverage for umbrellas left at property",
+            "Flood insurance"
+          ],
+          "correctIndex": 1,
+          "explanation": "Umbrella policies provide additional liability coverage (typically $1M-5M) beyond property policy limits, protecting personal assets from lawsuits."
+        }
+      ]
+    }
+  },
+  {
+    "id": "maintenance-capex",
+    "title": "Maintenance & Capital Expenditures",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Maintenance and capital expenditures (CapEx) are unavoidable costs of real estate ownership. Maintenance covers ongoing repairs; CapEx covers major component replacements (roof, HVAC, appliances). New investors often budget inadequately for these, leading to cash flow problems. Understanding the difference and budgeting properly prevents financial surprises."
+        },
+        {
+          "type": "list",
+          "title": "Maintenance vs CapEx",
+          "items": [
+            "Maintenance: Repairs that keep property in current condition (leaky faucet, broken outlet)",
+            "CapEx: Replacements that extend property life (new roof, HVAC, water heater)",
+            "Tax treatment: Maintenance is immediately deductible; CapEx is depreciated over time",
+            "Budgeting: Maintenance is 5-10% of rent; CapEx is 5-10% of rent, both reserves needed",
+            "Example: Fixing AC is maintenance; replacing entire AC system is CapEx"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Component lifecycles: Roof 20-30 years ($8k-25k), HVAC 15-20 years ($5k-15k), water heater 10-12 years ($800-2k), appliances 8-15 years ($500-2k each), flooring 5-10 years ($3k-10k), paint 3-5 years ($2k-5k). Know component ages when buying and budget for replacements."
+        },
+        {
+          "type": "list",
+          "title": "Building CapEx Reserves",
+          "items": [
+            "Monthly contributions: Set aside 5-10% of rent into separate savings account",
+            "Property-specific: Each property should have its own reserve account",
+            "Target amount: 6-12 months operating expenses plus upcoming CapEx",
+            "Prioritization: If limited funds, prioritize properties with older components",
+            "Don't raid reserves: Resist temptation to use for other purposes",
+            "Refinance strategy: When refinancing, pull cash for CapEx reserves"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Preventive Maintenance",
+          "items": [
+            "HVAC: Filter changes quarterly, professional service annually ($150-300)",
+            "Gutters: Clean twice yearly, prevents water damage ($100-200)",
+            "Plumbing: Check for leaks, water heater flush annually ($0-100)",
+            "Exterior: Inspect and repair caulking, paint as needed",
+            "Appliances: Professional cleaning (HVAC, dryer vents, dishwasher)",
+            "Landscaping: Regular maintenance prevents expensive replacements",
+            "Cost vs benefit: $500 annually in preventive maintenance saves $5,000 emergency repairs"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Emergency fund separate from CapEx reserves. CapEx is planned (you know roof will need replacing eventually). Emergency fund covers unexpected disasters: major leak, vandalism, sudden system failure, eviction costs. Aim for $5k-10k per property in true emergency funds."
+        },
+        {
+          "type": "list",
+          "title": "Contractor Relationships",
+          "items": [
+            "Build team before needed: Don't scramble during emergency",
+            "Key contractors: HVAC, plumber, electrician, general handyman, roofer",
+            "Vetting: License verification, insurance, references, test with small jobs",
+            "Multiple options: Have 2-3 contractors per category for comparison/backup",
+            "Negotiation: Volume discount if you have multiple properties",
+            "Payment: Never pay full amount upfront, tie payment to completion",
+            "DIY vs hire: Do what you're good at, hire experts for specialized work"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Maintenance Mistakes",
+          "items": [
+            "Deferred maintenance: Ignoring small issues until they become expensive",
+            "No reserves: Living cash-flow to cash-flow, unable to handle expenses",
+            "Wrong priorities: Upgrading cosmetics while ignoring failing HVAC",
+            "Cheap materials: Using lowest-quality materials requires more frequent replacement",
+            "No prevention: Skipping preventive maintenance, only doing reactive repairs",
+            "Wrong contractor: Using unlicensed handyman for major work",
+            "DIY everything: Wasting time on tasks contractor does better/faster"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the difference between maintenance and CapEx?",
+          "options": [
+            "There is no difference",
+            "Maintenance is repairs; CapEx is major replacements that extend life",
+            "CapEx is only for commercial properties",
+            "Maintenance is what tenants pay for"
+          ],
+          "correctIndex": 1,
+          "explanation": "Maintenance covers ongoing repairs to maintain current condition. CapEx covers major component replacements (roof, HVAC) that extend property life."
+        },
+        {
+          "question": "How much should you budget for maintenance and CapEx combined?",
+          "options": [
+            "Nothing, tenants pay for everything",
+            "1-2% of rent",
+            "10-20% of rent (5-10% each)",
+            "50% of rent"
+          ],
+          "correctIndex": 2,
+          "explanation": "Budget 5-10% of rent for ongoing maintenance and 5-10% for CapEx reserves—10-20% total. This prevents cash flow problems when expenses arise."
+        }
+      ]
+    }
+  }
+]

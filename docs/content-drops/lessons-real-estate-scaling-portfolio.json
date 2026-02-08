@@ -1,0 +1,557 @@
+[
+  {
+    "id": "scaling-strategies",
+    "title": "Portfolio Scaling Strategies",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Scaling from one property to a portfolio requires strategy, systems, and capital recycling. Most investors plateau at 2-3 properties because they don't understand growth strategies. Successful scaling means moving from doing everything yourself to building systems and teams. The goal: increase property count while decreasing personal time investment through systematization."
+        },
+        {
+          "type": "list",
+          "title": "Scaling Methods",
+          "items": [
+            "BRRRR: Buy, rehab, rent, refinance, repeat—recycle capital into multiple properties",
+            "Traditional buy and hold: Save for next down payment, slower but simpler",
+            "Seller financing: Owner-financed purchases require less capital",
+            "Partnerships: Partner on larger deals, split returns, scale faster",
+            "Syndication: Pool investor money to buy larger properties",
+            "Commercial transition: Move from residential to commercial (5+ units) for better financing"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "BRRRR in detail: Buy distressed property for $150k cash, invest $40k in rehab ($190k total). New ARV is $250k. Refinance at 75% LTV = $187.5k loan proceeds. You've recycled $187.5k of your $190k investment (only $2.5k left in deal). Repeat with same capital. This is how investors acquire 10-20 properties with limited capital."
+        },
+        {
+          "type": "list",
+          "title": "Capital Recycling Strategies",
+          "items": [
+            "Refinance: Pull equity out after appreciation or forced appreciation",
+            "HELOC: Use home equity line on primary residence for down payments",
+            "Cross-collateralization: Use equity in one property to buy next",
+            "Cash-out refinance: When property appreciates, pull cash out",
+            "Sell and redeploy: Sell underperforming asset, 1031 into better deal",
+            "Commercial loans: After 5+ units, use commercial loans with better terms"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Building Systems",
+          "items": [
+            "Property management: Hire manager or build systems to manage efficiently",
+            "Maintenance: Network of reliable contractors, preventive schedules",
+            "Accounting: Software (QuickBooks, Stessa), bookkeeper, CPA",
+            "Tenant screening: Standardized process, criteria, background check service",
+            "Documentation: Templates for leases, notices, checklists",
+            "Communication: Systems for responding to tenants, contractors, team members"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Scaling milestones: 1 property = learn the business; 3-5 properties = systemize operations; 10+ properties = hire team; 20+ properties = consider commercial or syndication. Don't rush—master each level before advancing. Scaling too fast without systems creates chaos and reduces returns."
+        },
+        {
+          "type": "list",
+          "title": "Team Building",
+          "items": [
+            "Property manager: First hire, frees your time (4-6 properties)",
+            "Real estate agent: Buy-side agent who understands investments",
+            "Contractors: General contractor, specialized trades (HVAC, plumbing, electrical)",
+            "CPA: Real estate specialized accountant for tax optimization",
+            "Attorney: Real estate attorney for complex transactions, entities",
+            "Lender: Relationship with portfolio lender who does multiple deals",
+            "Insurance agent: Someone who understands investment properties"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Scaling Mistakes",
+          "items": [
+            "Growing too fast: Acquiring properties without systems to manage them",
+            "Geographic sprawl: Buying properties across many markets, can't manage effectively",
+            "No team: Trying to self-manage 10+ properties while working full-time",
+            "Over-leveraging: Maximum debt on every property leaves no cushion",
+            "Ignoring cash flow: Chasing appreciation, ending up cash-flow negative on multiple properties",
+            "Same strategy: Repeating first deal without evolving strategy as you scale",
+            "No reserves: Growing without building adequate reserves for multiple properties"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is the BRRRR method?",
+          "options": [
+            "A cold weather property strategy",
+            "Buy, Rehab, Rent, Refinance, Repeat to recycle capital",
+            "A rental marketing strategy",
+            "A property management system"
+          ],
+          "correctIndex": 1,
+          "explanation": "BRRRR (Buy, Rehab, Rent, Refinance, Repeat) is a strategy to recycle capital by refinancing after forced appreciation, scaling with limited capital."
+        },
+        {
+          "question": "When should you hire a property manager?",
+          "options": [
+            "Immediately with first property",
+            "Around 4-6 properties or when managing takes too much time",
+            "Never, always self-manage",
+            "Only for commercial properties"
+          ],
+          "correctIndex": 1,
+          "explanation": "Most investors hire property managers around 4-6 properties when management becomes too time-consuming or when scaling to additional properties."
+        }
+      ]
+    }
+  },
+  {
+    "id": "multi-family-investing",
+    "title": "Multi-Family Investing",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Multi-family properties (5+ units) offer economies of scale, commercial financing, and forced appreciation opportunities. One building with 10 units beats 10 separate houses: one roof, one location, one insurance policy, lower per-unit costs. Commercial financing (based on property income, not personal) allows unlimited scaling. This is why serious investors transition to multi-family."
+        },
+        {
+          "type": "list",
+          "title": "Multi-Family Benefits",
+          "items": [
+            "Economies of scale: One roof, location, property manager for multiple units",
+            "Commercial financing: Based on property NOI, not personal income/DTI",
+            "Professional operation: Managed like business, not hobby",
+            "Vacancy cushion: One vacant unit in 10-unit building = 10% vacancy vs 100% in SFH",
+            "Forced appreciation: Increase NOI through management, directly increases value",
+            "Easier to scale: Add 20 units with one building vs buying 20 separate houses"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Commercial real estate is valued on cap rate, not comparable sales. Property value = NOI ÷ cap rate. If property generates $100k NOI and market cap rate is 7%, value = $100k ÷ 0.07 = $1.43M. Increase NOI to $120k (raise rents, reduce expenses), value becomes $120k ÷ 0.07 = $1.71M. You forced $280k appreciation through operations."
+        },
+        {
+          "type": "list",
+          "title": "Commercial Financing",
+          "items": [
+            "Loan type: Commercial loans, not residential mortgages",
+            "Down payment: Typically 25-30% (higher than residential)",
+            "Terms: 5-10 year terms with 20-25 year amortization (balloon payment at term)",
+            "Qualification: Based on property DSCR (debt service coverage ratio), usually 1.25+ required",
+            "Personal guarantee: Typically required, but less income/DTI scrutiny",
+            "No limit: No 10-property limit like residential financing"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Finding Multi-Family Deals",
+          "items": [
+            "Commercial brokers: Specialize in multi-family, different from residential agents",
+            "LoopNet: Commercial real estate listing site",
+            "CoStar: Professional commercial real estate database (expensive)",
+            "Direct marketing: Mail/call owners of properties you want to buy",
+            "Wholesalers: Buy off-market deals from wholesalers",
+            "Syndication: Join as limited partner to learn before doing own deals"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Start with 5-20 units before jumping to 50+ unit buildings. Learning curve is steep: commercial financing, professional management, maintenance staff, higher stakes. Many investors partner on first multi-family deal to learn process. Finding mentor who owns multi-family accelerates learning dramatically."
+        },
+        {
+          "type": "list",
+          "title": "Analyzing Multi-Family",
+          "items": [
+            "Review T12: Trailing 12 months actual income and expenses",
+            "Verify rents: Visit comparable properties, check actual rent rolls",
+            "Inspect property: Professional inspection plus your own walkthrough",
+            "Underwrite conservatively: Assume 5-10% vacancy, realistic expense ratio",
+            "Calculate returns: Pro forma vs actual, stabilized vs current",
+            "Due diligence: Tenant leases, rent rolls, expense invoices, deferred maintenance",
+            "Exit strategy: Clear plan for hold period and eventual sale"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Multi-Family Mistakes",
+          "items": [
+            "Jumping too big: First multi-family is 100+ units, overwhelming",
+            "Trusting seller numbers: Believing pro forma instead of verifying actual",
+            "Undercapitalized: Not having reserves for large property expenses",
+            "Poor management: Trying to self-manage commercial property",
+            "No experience: Not learning with smaller properties or partners first",
+            "Wrong market: Buying in declining area with decreasing demand",
+            "Balloon payment: Not planning for refinance or sale at loan maturity"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How is commercial multi-family property valued?",
+          "options": [
+            "Comparable sales",
+            "Original purchase price",
+            "NOI ÷ cap rate",
+            "Cost to build"
+          ],
+          "correctIndex": 2,
+          "explanation": "Commercial properties are valued on income: Value = NOI ÷ market cap rate. This allows forced appreciation by increasing NOI."
+        },
+        {
+          "question": "What's a key benefit of multi-family over single-family?",
+          "options": [
+            "Never have vacancies",
+            "Easier to manage",
+            "Economies of scale and one vacancy doesn't mean zero income",
+            "Cheaper to buy"
+          ],
+          "correctIndex": 2,
+          "explanation": "Multi-family offers economies of scale (one roof, location, manager) and vacancy cushion (one vacant unit doesn't mean 100% vacancy)."
+        }
+      ]
+    }
+  },
+  {
+    "id": "reits-passive-investing",
+    "title": "REITs & Passive Real Estate",
+    "duration": "8 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Real estate investing doesn't require buying physical properties. REITs (Real Estate Investment Trusts), real estate crowdfunding, and syndications offer exposure to real estate without management responsibilities. These options suit investors who want real estate exposure but lack time, capital, or desire to manage properties. Understanding passive options lets you allocate across active and passive strategies."
+        },
+        {
+          "type": "list",
+          "title": "REITs Explained",
+          "items": [
+            "What they are: Companies that own/operate income-producing real estate",
+            "How they work: Buy shares like stocks, REIT owns and manages properties",
+            "Income: Required to pay 90% of income as dividends, typical yields 3-5%",
+            "Liquidity: Publicly-traded REITs sell instantly like stocks",
+            "Diversification: Instant exposure to hundreds of properties across sectors",
+            "Types: Residential, commercial, retail, industrial, healthcare, data centers",
+            "No management: Zero landlord responsibilities"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "REIT returns: Historical average 9-10% annually (income + appreciation), similar to stock market. However, REITs offer diversification from stocks, inflation protection, and higher income. During 2008 financial crisis, REITs dropped 50%+ but recovered. REITs are liquid, making them volatile like stocks, not like physical real estate."
+        },
+        {
+          "type": "list",
+          "title": "Real Estate Crowdfunding",
+          "items": [
+            "Platforms: Fundrise, RealtyMogul, CrowdStreet pool investor money",
+            "Minimum: $500-25,000 depending on platform and deal",
+            "Returns: Target 8-12% annually, varies by deal and platform",
+            "Illiquidity: Money typically locked up 3-5+ years",
+            "Due diligence: Platform vets deals, but you still should research",
+            "Fees: Platform fees 1-2% reduce returns",
+            "Accredited: Some platforms require accredited investor status ($200k+ income or $1M+ net worth)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Private Syndications",
+          "items": [
+            "Structure: Operator (GP) finds deal, investors (LPs) provide capital",
+            "Minimum: Typically $25k-100k investment",
+            "Returns: Target 15-20% IRR, split between GP and LPs",
+            "Term: 3-7 years typically, exit via sale or refinance",
+            "Control: No control, completely passive",
+            "Risk: Depends heavily on operator competence",
+            "Accredited: Usually require accredited investor status"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Passive vs active trade-off: Active investing (owning rentals) offers higher returns potential, tax benefits, control, but requires time and expertise. Passive investing (REITs, crowdfunding) offers convenience, liquidity (for REITs), diversification, but lower returns and less tax benefits. Most wealthy people do both: active for core holdings, passive for diversification."
+        },
+        {
+          "type": "list",
+          "title": "Choosing Passive Investments",
+          "items": [
+            "REITs: Best for liquidity, diversification, smallest minimum ($500-5,000)",
+            "Crowdfunding: Middle ground, some deal selection, $5k-25k minimums",
+            "Syndications: Highest potential returns, need large capital, operator risk",
+            "Strategy: Start with REITs for liquidity, add crowdfunding/syndications as you scale",
+            "Allocation: Consider 60% active, 40% passive or adjust based on time/preference"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Passive Investing Mistakes",
+          "items": [
+            "No research: Assuming platform vetting means zero risk",
+            "Chasing returns: Highest projected returns often come with highest risk",
+            "Wrong liquidity: Locking up emergency fund in illiquid crowdfunding",
+            "Ignoring fees: 1-2% annual fees compound to significantly reduced returns",
+            "Not diversifying: All money in one platform or operator",
+            "Operator selection: Not vetting experience, track record of sponsors",
+            "Tax treatment: REITs don't offer same tax benefits as direct ownership"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is a REIT?",
+          "options": [
+            "Real Estate Investment Trust - company that owns income-producing real estate",
+            "Real Estate Inspection Team",
+            "A type of rental property",
+            "Real Estate Investment Tax"
+          ],
+          "correctIndex": 0,
+          "explanation": "REIT (Real Estate Investment Trust) is a company that owns/operates income-producing real estate. Investors buy shares for passive real estate exposure."
+        },
+        {
+          "question": "What's a key difference between REITs and direct ownership?",
+          "options": [
+            "REITs always have higher returns",
+            "REITs offer liquidity and no management but fewer tax benefits",
+            "Direct ownership is always better",
+            "There is no difference"
+          ],
+          "correctIndex": 1,
+          "explanation": "REITs offer liquidity and zero management but lack tax benefits (depreciation, 1031 exchanges) available with direct property ownership."
+        }
+      ]
+    }
+  },
+  {
+    "id": "market-cycles",
+    "title": "Understanding Market Cycles",
+    "duration": "9 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Real estate markets move in cycles: expansion, peak, contraction, trough. Understanding cycles helps you time purchases (buy in trough/early expansion), avoid overpaying (don't buy at peak), and make strategic decisions. While timing perfectly is impossible, recognizing cycle phases prevents catastrophic mistakes. Markets follow predictable patterns driven by supply, demand, and economic forces."
+        },
+        {
+          "type": "list",
+          "title": "Four Cycle Phases",
+          "items": [
+            "Expansion: Demand rising, vacancies falling, rents increasing, new construction starting",
+            "Peak: Maximum demand, minimum vacancies, aggressive buying, overbuilding begins",
+            "Contraction: Oversupply, vacancies rising, rents flat or falling, transactions slowing",
+            "Trough: High vacancies, distressed sales, pessimism, best buying opportunity",
+            "Duration: Cycles typically 7-12 years, varies by market",
+            "Not synchronized: Different markets in different cycle phases simultaneously"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Best buying: Trough and early expansion when prices are depressed and pessimism is high. This requires contrarian thinking—buying when everyone is scared. Worst buying: Peak when excitement is maximum, prices inflated, everyone rushing in. Most amateurs buy at peak (FOMO) and sell in trough (panic). Smart investors do the opposite."
+        },
+        {
+          "type": "list",
+          "title": "Cycle Indicators",
+          "items": [
+            "Vacancy rates: Rising vacancies suggest moving toward peak/contraction",
+            "Construction permits: Surge suggests oversupply coming",
+            "Days on market: Declining indicates strong demand, rising suggests weakness",
+            "Price appreciation: Rapid appreciation (>8% annually) suggests approaching peak",
+            "Investor activity: Flippers and speculators flooding market = caution",
+            "Lending standards: Easy credit and loose standards signal potential peak",
+            "Media coverage: When everyone talks about real estate boom, peak is near"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Strategies by Cycle Phase",
+          "items": [
+            "Expansion: Aggressive buying, values rising faster than rents, use leverage",
+            "Peak: Cautious buying, focus on cash flow not appreciation, prepare for contraction",
+            "Contraction: Selective buying, distressed opportunities, prioritize cash flow",
+            "Trough: Aggressive buying, maximum opportunity, requires capital prepared",
+            "All phases: Hold quality cash-flowing properties regardless of cycle"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "2008 Financial Crisis example: Peak 2006-2007 (loose lending, speculation, overbuilding), Contraction 2008-2010 (prices dropped 30-50%), Trough 2011-2012 (deep pessimism, best buying), Expansion 2013-2019 (strong recovery), Peak 2020-2022 (pandemic-driven boom). Investors who bought 2011-2013 made fortunes; those who bought 2006-2007 suffered."
+        },
+        {
+          "type": "list",
+          "title": "Protecting Against Downturns",
+          "items": [
+            "Cash flow focus: Properties that cash flow survive downturns",
+            "Conservative leverage: Not maxing out debt leaves cushion",
+            "Reserves: 6-12 months reserves per property",
+            "Fixed-rate debt: No adjustable rates that could spike",
+            "Quality locations: Good areas recover faster",
+            "Long-term hold: Don't need to sell during downturn",
+            "Quality tenants: Screen well, good tenants pay through downturns"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Cycle Mistakes",
+          "items": [
+            "Timing perfectly: Waiting for absolute bottom means missing opportunity",
+            "Peak buying: FOMO leads to overpaying at market peak",
+            "Panic selling: Selling quality assets at trough due to fear",
+            "No reserves: Being forced to sell during downturn",
+            "Appreciation speculation: Counting on appreciation to make deal work",
+            "Ignoring signals: Obvious peak indicators but buying anyway",
+            "Over-leveraging: Maximum debt works until it doesn't"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "When is the best time to buy real estate?",
+          "options": [
+            "At market peak when everyone is excited",
+            "In trough and early expansion when prices are depressed",
+            "Only in perfect timing",
+            "Never, real estate always crashes"
+          ],
+          "correctIndex": 1,
+          "explanation": "Best buying opportunities occur in trough and early expansion phases when prices are depressed and pessimism is high—requiring contrarian thinking."
+        },
+        {
+          "question": "What protects you during market downturns?",
+          "options": [
+            "Maximum leverage",
+            "Adjustable rate mortgages",
+            "Properties with positive cash flow, reserves, and conservative leverage",
+            "Selling everything immediately"
+          ],
+          "correctIndex": 2,
+          "explanation": "Cash-flowing properties, adequate reserves, conservative leverage, and long-term perspective protect investors during market downturns."
+        }
+      ]
+    }
+  },
+  {
+    "id": "advanced-strategies",
+    "title": "Advanced Real Estate Strategies",
+    "duration": "10 min",
+    "content": {
+      "sections": [
+        {
+          "type": "text",
+          "content": "Advanced strategies build on fundamentals to maximize returns, minimize taxes, and scale efficiently. These approaches—from seller financing to commercial conversion—require more sophistication but offer competitive advantages. Most investors never learn these strategies, creating opportunities for those who do. Master basics first, then selectively implement advanced strategies as appropriate."
+        },
+        {
+          "type": "list",
+          "title": "Seller Financing",
+          "items": [
+            "What it is: Owner finances purchase, you make payments directly to them",
+            "Benefits: Less capital needed, flexible terms, faster closing, bypass bank qualification",
+            "Typical terms: 10-20% down, 5-7% interest, 5-10 year balloon",
+            "Best targets: Owned free-and-clear, retiring owners, motivated sellers",
+            "Negotiation: Everything is negotiable—down payment, rate, term, balloon",
+            "Risk: Seller could still have mortgage (due-on-sale clause risk)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Subject-To Financing",
+          "items": [
+            "What it is: Take over existing mortgage, seller stays on loan",
+            "Benefits: Assume low interest rate, minimal capital needed",
+            "Process: Seller deeds property to you, you make their mortgage payments",
+            "Due-on-sale clause: Technically triggers acceleration, rarely enforced if payments continue",
+            "Best scenario: Underwater sellers, low-rate mortgages, motivated owners",
+            "Risk: Lender could call loan due, requires seller trust"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Master Lease Options",
+          "items": [
+            "Structure: Lease property with option to buy at fixed price",
+            "Benefits: Control property with minimal capital, test market before buying",
+            "How it works: Lease for 2-5 years with option to purchase at set price",
+            "Income: Sublease to tenant at higher rate, profit from spread",
+            "Exit: Exercise option if property appreciates, walk away if declines",
+            "Best use: Test markets, control appreciation, low capital deployment"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Commercial Conversion",
+          "items": [
+            "Strategy: Buy residential zoned property, convert to commercial use",
+            "Examples: SFH to office, duplex to retail + apartment, warehouse to live-work",
+            "Benefits: Commercial properties often have higher values and rents",
+            "Process: Verify zoning allows, get permits, renovate for commercial use",
+            "Challenges: Zoning restrictions, permitting, higher renovation costs",
+            "Best markets: Mixed-use neighborhoods, gentrifying areas"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Partnerships and syndication scale beyond personal capital limits. General Partner (GP) finds deals and manages, Limited Partners (LPs) provide capital. GP typically gets 20-30% of profits plus fees for work; LPs get 70-80% passive returns. This model lets GPs control millions in real estate with minimal personal capital."
+        },
+        {
+          "type": "list",
+          "title": "Vacation Rental Strategy",
+          "items": [
+            "Platform: Airbnb, VRBO for short-term rentals",
+            "Returns: Can earn 2-3x traditional rental income in right markets",
+            "Work: More management intensive, cleaning, guest communication",
+            "Regulations: Many cities restricting short-term rentals, research laws",
+            "Best markets: Tourist destinations, business travel hubs, event cities",
+            "Risks: Seasonality, regulation changes, platform dependency"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Tax Lien & Deed Investing",
+          "items": [
+            "Tax liens: Buy right to collect delinquent property taxes, earn interest 10-25%",
+            "Tax deeds: Buy property at tax auction, often below market value",
+            "Process: County auctions for unpaid property taxes",
+            "Returns: Tax liens earn fixed interest; tax deeds can buy properties cheap",
+            "Risks: Title issues, property condition unknown, redemption periods",
+            "Education required: Complex process, requires significant learning"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "When to Use Advanced Strategies",
+          "items": [
+            "Seller financing: Limited capital or poor credit",
+            "Subject-to: Low-rate mortgages, motivated sellers, want to preserve financing",
+            "Lease options: Test market with minimal risk and capital",
+            "Commercial conversion: Identify underutilized property in good location",
+            "Syndication: Scale beyond personal capital, want to go full-time",
+            "Vacation rentals: Tourist market, willing to do management",
+            "Tax liens/deeds: Want passive fixed returns or deep discount acquisitions"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is seller financing?",
+          "options": [
+            "Getting loan from bank to buy from seller",
+            "Owner finances purchase, you make payments directly to them",
+            "Seller pays your closing costs",
+            "Joint venture with seller"
+          ],
+          "correctIndex": 1,
+          "explanation": "Seller financing means the property owner acts as the lender, you make payments directly to them instead of getting a bank loan."
+        },
+        {
+          "question": "What's a key benefit of lease options?",
+          "options": [
+            "No risk at all",
+            "Control property with minimal capital, option to buy at fixed price",
+            "Guaranteed profits",
+            "Immediate ownership"
+          ],
+          "correctIndex": 1,
+          "explanation": "Lease options let you control property with minimal capital and option to buy at predetermined price, benefiting from appreciation while limiting downside."
+        }
+      ]
+    }
+  }
+]
