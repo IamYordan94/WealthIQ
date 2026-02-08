@@ -7,162 +7,113 @@
       "sections": [
         {
           "type": "text",
-          "content": "Understanding macronutrients—carbohydrates, proteins, and fats—is essential for optimizing your diet. Each plays distinct roles in energy production, tissue building, and overall health. The key is balance and choosing high-quality sources."
+          "content": "Macronutrients—carbs, proteins, and fats—are nutrients your body needs in large amounts for energy, growth, and function. Understanding each type helps you make better food choices, optimize energy levels, and reach health goals. Quality matters more than quantity. This lesson breaks down each macronutrient and how to use them."
         },
         {
           "type": "list",
-          "title": "Carbohydrates: fuel for performance",
+          "title": "Carbohydrates Explained",
           "items": [
-            "Complex carbs (whole grains, legumes, vegetables) provide sustained energy",
-            "Simple carbs (fruits, milk) offer quick energy with beneficial nutrients",
-            "Refined carbs (white bread, sugary snacks) cause blood sugar spikes",
-            "Aim for 45-65% of daily calories from quality carbohydrate sources"
+            "Function: Primary energy source, especially for brain and muscles",
+            "Simple carbs: Quick energy, spikes blood sugar (white bread, candy, soda)",
+            "Complex carbs: Sustained energy, stable blood sugar (whole grains, vegetables, legumes)",
+            "Fiber: Type of carb that aids digestion, keeps you full",
+            "Timing: Best before/after workouts for energy and recovery",
+            "Recommendation: 45-65% of daily calories from quality carbs",
+            "Choose: Whole grains, fruits, vegetables, legumes",
+            "Limit: Refined sugars, white bread, pastries"
           ]
         },
         {
           "type": "list",
-          "title": "Proteins: building blocks of life",
+          "title": "Protein Essentials",
           "items": [
-            "Essential for muscle growth, repair, and immune function",
-            "Complete proteins contain all 9 essential amino acids",
-            "Animal sources: meat, fish, eggs, dairy",
-            "Plant sources: legumes, quinoa, soy, nuts, seeds",
-            "Aim for 0.8-1.2g per kg of body weight daily"
+            "Function: Builds and repairs muscles, tissues, enzymes, hormones",
+            "Amino acids: Building blocks of protein (9 essential from food)",
+            "Complete proteins: Contain all 9 essential (meat, fish, eggs, dairy, quinoa)",
+            "Incomplete: Missing some essential (most plant proteins)",
+            "Combine plant proteins: Rice + beans = complete",
+            "Amount: 0.8-1g per kg body weight (more if active/building muscle)",
+            "Distribute: 20-30g per meal better than all at once",
+            "Sources: Lean meats, fish, eggs, dairy, legumes, nuts, tofu"
           ]
         },
         {
           "type": "list",
-          "title": "Fats: essential for health",
+          "title": "Healthy Fats Guide",
           "items": [
-            "Unsaturated fats (olive oil, avocados, nuts, fish) support heart health",
-            "Saturated fats (butter, red meat) should be consumed in moderation",
-            "Trans fats (fried foods, processed snacks) should be avoided",
-            "Fats should comprise 20-35% of daily calories"
+            "Function: Hormone production, brain health, nutrient absorption, satiety",
+            "Monounsaturated: Heart-healthy (olive oil, avocados, nuts)",
+            "Polyunsaturated: Omega-3 and omega-6 (fatty fish, flaxseeds, walnuts)",
+            "Saturated: Moderate amounts okay (coconut oil, butter, meat)",
+            "Trans fats: AVOID (partially hydrogenated oils, fried foods)",
+            "Omega-3s: Anti-inflammatory, brain health (salmon, sardines, chia)",
+            "Amount: 20-35% of daily calories from healthy fats",
+            "Quality matters: Choose whole food sources over processed oils"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "The macronutrient ratio depends on your goals: Weight loss (higher protein/moderate carbs), Muscle gain (higher protein/carbs), Endurance (higher carbs), General health (balanced). No single ratio works for everyone. Start balanced (40% carbs, 30% protein, 30% fat), adjust based on how you feel and your results."
+        },
+        {
+          "type": "list",
+          "title": "Balancing Your Plate",
+          "items": [
+            "½ plate: Vegetables (non-starchy like broccoli, leafy greens)",
+            "¼ plate: Protein (palm-sized portion of meat/fish/plant protein)",
+            "¼ plate: Complex carbs (fist-sized portion of grains/starchy vegetables)",
+            "Fat: Thumb-sized portion (avocado, nuts, cooking oil)",
+            "Fruit: 1-2 servings daily",
+            "Adjust portions: Based on activity level and goals",
+            "Visual cues: Hand portions make tracking simple",
+            "Flexibility: Perfect balance every meal not required"
           ]
         }
       ],
       "quiz": [
         {
-          "question": "What percentage of daily calories should come from carbohydrates?",
-          "options": ["10-20%", "45-65%", "80-90%"],
+          "question": "What are complete proteins?",
+          "options": [
+            "Proteins with added vitamins",
+            "Proteins containing all 9 essential amino acids",
+            "Proteins from animals only",
+            "Proteins with no fat"
+          ],
           "correctIndex": 1,
-          "explanation": "Health experts recommend that 45-65% of daily calories come from carbohydrates, primarily from whole food sources."
+          "explanation": "Complete proteins contain all 9 essential amino acids your body can't produce. Found in meat, fish, eggs, dairy, quinoa. Plant proteins can be combined to create complete proteins."
         },
         {
-          "question": "Which type of fat should be avoided?",
-          "options": ["Unsaturated fats", "Trans fats", "Omega-3 fatty acids"],
+          "question": "Which type of fat should you avoid?",
+          "options": [
+            "Monounsaturated fats",
+            "Trans fats from partially hydrogenated oils",
+            "Omega-3 fatty acids",
+            "All fats"
+          ],
           "correctIndex": 1,
-          "explanation": "Trans fats, found in many fried and processed foods, increase heart disease risk and should be avoided."
+          "explanation": "Trans fats (partially hydrogenated oils) increase bad cholesterol and should be avoided. Healthy fats like monounsaturated, polyunsaturated, and moderate saturated fats are essential for health."
         }
       ]
     }
   },
   {
-    "id": "meal-planning-basics",
-    "title": "Meal Planning Basics",
-    "duration": "9 min",
-    "content": {
-      "sections": [
-        {
-          "type": "text",
-          "content": "Effective meal planning saves time, reduces food waste, supports healthy eating goals, and decreases reliance on processed convenience foods. It's a skill that becomes easier with practice and proper systems."
-        },
-        {
-          "type": "list",
-          "title": "Benefits of meal planning",
-          "items": [
-            "Ensures balanced nutrition throughout the week",
-            "Reduces impulse eating and takeout expenses",
-            "Saves time during busy weekdays",
-            "Reduces food waste and grocery costs",
-            "Supports specific health or fitness goals"
-          ]
-        },
-        {
-          "type": "list",
-          "title": "Meal planning steps",
-          "items": [
-            "Set aside 30 minutes weekly for planning",
-            "Review your schedule to identify busy days",
-            "Choose 3-5 recipes for the week",
-            "Create a detailed shopping list organized by store section",
-            "Prep ingredients in batches when possible",
-            "Use containers to portion and store meals"
-          ]
-        },
-        {
-          "type": "list",
-          "title": "Pro tips",
-          "items": [
-            "Start simple with familiar recipes",
-            "Use a template to streamline planning",
-            "Build a rotation of go-to meals",
-            "Prep versatile ingredients (grilled chicken, roasted vegetables)",
-            "Leave one day for leftovers or flexibility"
-          ]
-        }
-      ],
-      "quiz": [
-        {
-          "question": "What is a key benefit of meal planning?",
-          "options": ["Increases reliance on takeout", "Ensures balanced nutrition", "Requires more time daily"],
-          "correctIndex": 1,
-          "explanation": "Meal planning helps ensure balanced nutrition throughout the week while saving time and money."
-        }
-      ]
-    }
+    "id": "micronutrients-vitamins",
+    "title": "Micronutrients & Vitamins",
+    "duration": "10 min"
+  },
+  {
+    "id": "meal-planning",
+    "title": "Practical Meal Planning",
+    "duration": "9 min"
   },
   {
     "id": "reading-nutrition-labels",
     "title": "Reading Nutrition Labels",
-    "duration": "7 min",
-    "content": {
-      "sections": [
-        {
-          "type": "text",
-          "content": "Nutrition labels provide critical information about the foods you eat. Learning to read them effectively empowers you to make informed choices that align with your health goals."
-        },
-        {
-          "type": "list",
-          "title": "Key label components",
-          "items": [
-            "Serving size: the amount all other numbers are based on",
-            "Calories: total energy provided per serving",
-            "Macronutrients: grams of fat, carbohydrates, and protein",
-            "% Daily Value: how much a nutrient contributes to a daily diet",
-            "Ingredient list: ingredients listed by weight, highest first"
-          ]
-        },
-        {
-          "type": "list",
-          "title": "What to watch for",
-          "items": [
-            "Added sugars: aim for less than 25-36g daily",
-            "Sodium: keep under 2,300mg daily",
-            "Trans fats: should be 0g",
-            "Fiber: aim for at least 3g per serving in grain products",
-            "Ingredient lists: fewer ingredients usually means less processing"
-          ]
-        },
-        {
-          "type": "text",
-          "content": "Pay special attention to serving sizes—many packages contain multiple servings, so you need to multiply the label values if you consume the entire package."
-        }
-      ],
-      "quiz": [
-        {
-          "question": "What should be your daily limit for added sugars?",
-          "options": ["10-15g", "25-36g", "50-60g"],
-          "correctIndex": 1,
-          "explanation": "Health organizations recommend limiting added sugars to 25-36g per day for optimal health."
-        },
-        {
-          "question": "On a nutrition label, what does % Daily Value represent?",
-          "options": ["The percentage of the product that is organic", "How much a nutrient contributes to a daily diet", "The product's expiration date"],
-          "correctIndex": 1,
-          "explanation": "% Daily Value shows how much of a specific nutrient one serving of the food contributes to a 2,000 calorie daily diet."
-        }
-      ]
-    }
+    "duration": "8 min"
+  },
+  {
+    "id": "nutrition-myths",
+    "title": "Nutrition Myths Debunked",
+    "duration": "9 min"
   }
 ]
